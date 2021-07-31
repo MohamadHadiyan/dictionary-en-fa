@@ -1,0 +1,29 @@
+$default-font-size: 16px;
+$base-unit: 6px;
+
+$base-spacing: $base-unit * 4;
+$md-spacing: $base-spacing *2;
+$lg-spacing: $md-spacing * 2;
+
+$base-section-spacing: $md-spacing $base-spacing;
+$base-section-spacing-mobile: ($base-unit * 2) $base-spacing;
+$content-block-margin: $base-spacing;
+
+$max-width-default:1400px;
+$max-width-sm-desktop:(1023px / $default-font-size) * 1em;
+
+$sm-mobile-ends: (479px / $default-font-size) * 1em;
+$mobile-ends: (767px / $default-font-size) * 1em;
+$mobile-starts: $sm-mobile-ends+0.001em;
+
+$tablet-starts: $mobile-ends+0.001em;
+$tablet-ends: (1023px / $default-font-size) * 1em;
+
+$sm-desktop-starts:$tablet-ends+0.001em;
+$sm-desktop-ends: (1199px / $default-font-size) * 1em;
+
+// Media query
+$mq-lg-desktop-to-up: "all and (min-width: #{$sm-desktop-ends})";
+$mq-sm-desktop-to-up: "all and (min-width: #{$sm-desktop-starts}";
+$mq-tablet-to-up: "all and (min-width: #{$tablet-starts})";
+$mq-mobile-to-up: "all and (min-width: #{$mobile-starts})";

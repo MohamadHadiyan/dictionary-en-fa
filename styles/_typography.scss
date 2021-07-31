@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'IRANSansWeb';
+    font-style: normal;
+    font-display: fallback;
+    src: url('../font/IRANSansWeb.woff') format('woff'),
+        url('../font/IRANSansWeb.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: "IRANSansWeb_Bold";
+    font-style: normal;
+    font-display: fallback;
+    src: url("../font/IRANSansWeb_Bold.woff") format('woff'), ;
+    src: url("../font/IRANSansWeb_Bold.woff2") format('woff2');
+}

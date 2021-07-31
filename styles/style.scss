@@ -1,0 +1,485 @@
+@import "./layout";
+@import "./typography";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  font-family: 'Lato', IRANSansWeb, sans-serif;
+}
+
+button {
+  -webkit-tap-highlight-color: transparent;
+}
+
+.app {
+  width: 98%;
+  max-width: 1000px;
+  margin: 0 auto;
+
+  @media #{$mq-mobile-to-up} {
+    width: 95%;
+  }
+
+  @media #{$mq-tablet-to-up} {
+    width: 80%;
+  }
+}
+
+.alert {
+  width: 80%;
+  max-width: 1000px;
+  padding: 10px;
+  border: 1px solid transparent;
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  text-align: center;
+  transform: translateX(-50%);
+}
+
+.success {
+  border-color: #1fa;
+  background-color: #6cffcc65;
+}
+
+.warning {
+  border-color: rgb(255, 188, 17);
+  background-color: #ffe96c65;
+}
+
+.formContainer,
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+
+  @media #{$mq-mobile-to-up} {
+    padding: 3px;
+  }
+
+  @media #{$mq-tablet-to-up} {
+    padding: 8px;
+  }
+}
+
+.dictionary {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: calc(100% - 155px);
+  border: 1px solid #ccc;
+  border-radius: 2px;
+
+  @media screen and (max-width: 620px) {
+    width: calc(100% - 100px);
+    border: none;
+  }
+
+  @media screen and (max-width: 400px) {
+    width: calc(100% - 70px);
+  }
+}
+
+.wordContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  padding: 3px;
+  border-radius: 2px;
+
+  h2 {
+    font-size: 17px;
+    display: inline-block;
+  }
+
+  span {
+    font-size: 12px;
+  }
+
+  .mainWord,
+  .phrases {
+    width: 100%;
+
+    .realWord {
+      border-right: 2px solid #deebf3;
+    }
+  }
+
+  .mainWord {
+    table {
+      width: 100%;
+
+      tbody {
+        display: inherit;
+        position: relative;
+        width: 100%;
+
+        &::after {
+          content: 'HOVER ME';
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+          height: 100%;
+          position: absolute;
+          top: 0;
+          left: 0;
+          background-color: #00a6e8;
+          transition: all .3s ease-in-out;
+        }
+
+        &:hover::after {
+          opacity: 0;
+          background-color: transparent;
+        }
+
+        td {
+          border-top: 1px solid #ccc;
+          padding: 4px 1px;
+        }
+
+        .subWordRow {
+          background-color: #ade7fd;
+
+          span {
+            color: #0300e0;
+            font-size: 18px;
+          }
+
+          td:last-child {
+            direction: rtl;
+          }
+        }
+      }
+    }
+  }
+
+  @media #{$mq-mobile-to-up} {
+    padding: 10px;
+
+    h2 {
+      font-size: 20px;
+    }
+
+    span {
+      font-size: 14px;
+    }
+  }
+
+  @media #{$mq-tablet-to-up} {
+    padding: 20px;
+
+    h2 {
+      font-size: 22px;
+    }
+
+    span {
+      font-size: 16px;
+    }
+  }
+}
+
+.next,
+.prev {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 55px;
+  height: 55px;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  background-color: transparent;
+
+  &::before {
+    content: '';
+    position: absolute;
+    display: inline-block;
+    width: 20px;
+    height: 3px;
+    background-color: #aaa;
+  }
+
+  &::after {
+    content: '';
+    display: block;
+    width: 15px;
+    height: 15px;
+    border-left: 3px solid #aaa;
+    border-bottom: 3px solid #aaa;
+    transform: rotate(45deg);
+  }
+
+  &:hover {
+    cursor: pointer;
+    background-color: #eee;
+  }
+
+  @media screen and (max-width: 620px) {
+    width: 40px;
+    height: 40px;
+
+    &::before {
+      width: 15px;
+    }
+
+    &::after {
+      width: 10px;
+      height: 10px;
+    }
+  }
+
+
+  @media screen and (max-width: 400px) {
+    width: 30px;
+    height: 30px;
+
+    &::before {
+      width: 10px;
+      height: 3px;
+    }
+
+    &::after {
+      width: 7px;
+      height: 7px;
+      border-width: 2px;
+    }
+  }
+
+}
+
+.next::after {
+  transform: rotate(-135deg);
+}
+
+.translateArea {
+  position: relative;
+  padding-right: 2px;
+  direction: rtl;
+
+  &::after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 1;
+    background-color: #efefef;
+    transition: opacity 0.2s ease-in;
+
+  }
+
+  &:hover::after {
+    opacity: 0;
+  }
+}
+
+.translates {
+  direction: rtl;
+}
+
+.button {
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  line-height: 1;
+  color: #008758;
+  background-color: #efefef;
+
+  &:hover {
+    background-color: #dfdfdf;
+  }
+}
+
+.formContainer {
+  flex-direction: column;
+  align-items: flex-start;
+
+  .formGroupContainer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+
+    .groupArea {
+      width: 100%;
+    }
+
+    .translateFieldset {
+      display: flex;
+      flex-direction: column;
+      min-width: 210px;
+      border: 1px solid #ccc;
+      background-color: #eee;
+
+      legend {
+        padding: 0 10px;
+      }
+
+      label {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 3px;
+        padding: 4px;
+        padding-left: 8px;
+
+        &:hover {
+          background-color: #dfdfdf;
+        }
+      }
+    }
+
+    span {
+      font-size: 12px;
+      padding: 3px;
+    }
+
+
+    &:last-child {
+      label {
+        margin-top: 0px;
+
+        &:last-child {
+          margin: 0;
+        }
+      }
+    }
+  }
+
+  .formGroup {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4px;
+    background-color: #eee;
+  }
+
+  .formControl {
+    padding: 5px;
+    border: none;
+    width: 75%;
+    background-color: #fafafa;
+    font-family: IRANSansWeb, Lato;
+  }
+
+  .subWordInputsArea {
+    width: 100%;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+
+    button {
+      width: 100%;
+      font-size: 18px;
+
+      @media #{$mq-tablet-to-up} {
+        width: auto;
+      }
+    }
+  }
+
+  .subWordInputs {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+
+    .packSubWord {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+
+      @media #{$mq-tablet-to-up} {
+        flex-direction: row;
+      }
+    }
+
+    button {
+      border: none;
+      color: red;
+      padding-left: 15px;
+      padding-right: 15px;
+      margin: 0;
+    }
+  }
+
+  .translateInput {
+    direction: rtl;
+  }
+
+  .formButtons {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+    button {
+      display: inline-block;
+      padding: 12px 10%;
+      margin-top: 5px;
+      border: 1px solid #e0e0e0;
+      background-color: #efefef;
+
+      &:hover {
+        background-color: #dfdfdf;
+      }
+    }
+  }
+
+  @media #{$mq-mobile-to-up} {
+    flex-direction: column;
+    align-items: flex-start;
+    border: 1px solid #ccc;
+
+    .formGroup {
+      span {
+        font-size: 14px;
+      }
+
+      label {
+        margin: 0;
+      }
+    }
+
+    input[type="submit"] {
+      max-width: 300px;
+    }
+  }
+
+  @media #{$mq-tablet-to-up} {
+    .formGroup {
+      span {
+        font-size: 16px;
+      }
+    }
+  }
+}
+
+.hide {
+  height: 0;
+  padding: 0;
+  border: none;
+  overflow-y: hidden;
+}

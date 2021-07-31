@@ -1,0 +1,816 @@
+[
+  {
+    "word": "C",
+    "pronunciation": "sii",
+    "translates": {
+      "noun": "سی (سومین حرف الفبای انگلیسی) ، [ عدد نویسی رومی ] صد"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cab",
+    "pronunciation": "kab",
+    "translates": {
+      "noun": "تاکسی ، اتاقک راننده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cabaret",
+    "pronunciation": "'kaberey",
+    "translates": {
+      "noun": "کاباره ، میکده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cabbage",
+    "pronunciation": "'kabij",
+    "translates": {
+      "noun": "کلم‌ ، کلم پیج"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cabin",
+    "pronunciation": "'kabin",
+    "translates": {
+      "noun": "کابین ، کلبه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cabinet",
+    "pronunciation": "'kabinet",
+    "translates": {
+      "noun": "قفسه ، کابینت ، کابینه ، هیئت دولت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cable",
+    "pronunciation": "'keybel",
+    "translates": {
+      "noun": "کابل ، سیم ، طناب کًلفت "
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cactus",
+    "pronunciation": "'kaktes",
+    "translates": {
+      "noun": "کاکتوس"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cadet",
+    "pronunciation": "ke'det",
+    "translates": {
+      "noun": "دانشجوی دانشکده افسری یا پلیس"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cafe'",
+    "pronunciation": "'kafey",
+    "translates": {
+      "noun": "کافه ، رستوران"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cafeteria",
+    "pronunciation": "kafi'tiriya^",
+    "translates": {
+      "noun": "کافه تریا ، سلف سرویس ، غذا خوری"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cage",
+    "pronunciation": "keyj",
+    "translates": {
+      "noun": "قفس ، محفظه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cake",
+    "pronunciation": "keyk",
+    "translates": {
+      "noun": "کیک ، قالب"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "calculate",
+    "pronunciation": "'kalkyuleyt",
+    "translates": {
+      "transitive-verb": "حساب کردن ، محاسبه کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "calculation",
+    "pronunciation": "kalkyu'leyshen",
+    "translates": {
+      "noun": "حساب ، محاسبه ، محاسبات ، تعمق ، تامل"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "calculator",
+    "pronunciation": "'kalkyuleyter",
+    "translates": {
+      "noun": "ماشین حساب ، حساب گر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "calendar",
+    "pronunciation": "'kalinder",
+    "translates": {
+      "noun": "تقویم ، سالنامه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "calf",
+    "pronunciation": "ka^f",
+    "translates": {
+      "noun": "گوساله ، عضله پشت ساق پا ، چرم"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "call",
+    "pronunciation": "ka^l",
+    "translates": {
+      "noun": "صدا ، داد ، فریاد ، دعوت ، احضار ، تلفن ، تماس ، مکالمه تلفنی ، ملاقات ، سر زدن",
+      "transitive-verb": "صدا زدن ، فریاد کشیدن ، خبر کردن ، تلفن کردن یا زدن به ، نامیدن ، به دیدن (کسی) رفتن یا آمدن ، بیدار کردن"
+    },
+    "subWords": {
+      "subWord0": "call at",
+      "subTranslate0": "[قطار و غیر] توقف کردن ، ایستادن ، (به کسی یا جایی) سر زدن",
+      "subWord1": "call back",
+      "subTranslate1": "دوباره تلفن کردن ، [در جواب تلفن کسی] تلفن کردن",
+      "subWord2": "call for someone",
+      "subTranslate2": "به دنبال کسی رفتن",
+      "subWord3": "call in",
+      "subTranslate3": "خبر کردن",
+      "subWord4": "call of",
+      "subTranslate4": "پایان دادن ، لغو کردن",
+      "subWord5": "call on",
+      "subTranslate5": "به کسی سر زدن ، به دیدن کسی رفتن",
+      "subWord6": "call out",
+      "subTranslate6": "فریاد کشیدن ، داد زدن ، خبر کردن ، کسی را خواستن",
+      "subWord7": "call over",
+      "subTranslate7": "صدا کردن ، صدا زدن ، [ فهرستی را ] خواندن",
+      "subWord8": "call up",
+      "subTranslate8": "به کسی تلفن کردن ، صدا کردن ، چیزی را به خاطر آوردن"
+    }
+  },
+  {
+    "word": "caller",
+    "pronunciation": "'koler",
+    "translates": {
+      "noun": "تماس گیرنده ، ملاقات کننده ، دیدار کننده ، تلفن کننده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "calling",
+    "pronunciation": "'koling",
+    "translates": {
+      "noun": "فراخوانی ، صدا ، پیشه ، کار ، شغل",
+      "adjective": "فراخواننده",
+      "transitive-verb": "صدا زدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "calm",
+    "pronunciation": "ka^m",
+    "translates": {
+      "noun": "آرامش ، سکوت",
+      "adjective": "آرام ، ساکت",
+      "transitive-verb": "آرام کردن",
+      "intransitive-verb": "آرام شدن"
+    },
+    "subWords": {
+      "subWord0": "calm down",
+      "subTranslate0": "آرام کردن ، ساکت کردن"
+    }
+  },
+  {
+    "word": "calmly",
+    "pronunciation": "'ka^mli",
+    "translates": {
+      "adverb": "با آرامش ، راحت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "calorie",
+    "pronunciation": "'kaleri",
+    "translates": {
+      "noun": "کالری (1. واحد سنجش گرما ، 2. واحد انرژی غذا)"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "came",
+    "pronunciation": "keym",
+    "translates": {
+      "past-tens": "گذشته فعل come ( آمد )"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "camel",
+    "pronunciation": "'kamel",
+    "translates": {
+      "noun": "شتر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "camera",
+    "pronunciation": "'kamera^",
+    "translates": {
+      "noun": "دوربین"
+    },
+    "subWords": {
+      "subWord0": "movie-camera, cine-camera",
+      "subTranslate0": "دوربین فیلم برداری"
+    }
+  },
+  {
+    "word": "camouflage",
+    "pronunciation": "'kamofla^zh",
+    "translates": {
+      "noun": "استتار ",
+      "transitive-verb": "استتار کردن ، پنهان کردن ، دگرگون جلوه دادن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "camp",
+    "pronunciation": "kamp",
+    "translates": {
+      "noun": "اردو ، اردوگاه ، چادر",
+      "transitive-verb": "اردو زدن ، چادر زدن"
+    },
+    "subWords": {
+      "subWord0": "camping-site",
+      "subTranslate0": "محل اردو"
+    }
+  },
+  {
+    "word": "campaign",
+    "pronunciation": "kam'peyn",
+    "translates": {
+      "noun": "عملیات (جنگی) ، نبرد ، مبارزه ، فعالیت ، پویش",
+      "intransitive-verb": "مبارزه کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "campus",
+    "pronunciation": "'kampes",
+    "translates": {
+      "noun": "محوطه دانشگاه ، پردیس"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "can",
+    "pronunciation": "kan",
+    "translates": {
+      "noun": "قوطی ( کنسرو ) ، حلب ، سطل",
+      "transitive-verb": "کنسرو کردن ، قوطی کردن",
+      "auxiliary-verb": "توانستن ، قادر بودن ، ممکن بودن ، بلد بودن ، مجاز بودن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Canada",
+    "pronunciation": "'kanada",
+    "translates": {
+      "noun": "کانادا"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Canadian",
+    "pronunciation": "ka'neyddiyen",
+    "translates": {
+      "noun": "اهل کانادا ، کانادایی",
+      "adjective": "کانادایی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "canal",
+    "pronunciation": "ka'nal",
+    "translates": {
+      "noun": "آبراه ، کانال ، نهر ، آبگذر ، مجرا"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "canary",
+    "pronunciation": "ke'neri",
+    "translates": {
+      "noun": "قناری ، (رنگ) زرد قناری ، زرد روشن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cancel",
+    "pronunciation": "'kansel",
+    "translates": {
+      "transitive-verb": "لغو کردن ، به هم زدن ، [ سفارش ] پس گرفتن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cancer",
+    "pronunciation": "'kanser",
+    "translates": {
+      "noun": "سرطان"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "candidate",
+    "pronunciation": "'kandi.deyt",
+    "translates": {
+      "noun": "نامزد ، کاندیدا ، داوطلب ، مورد مناسب"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "candle",
+    "pronunciation": "'kandel",
+    "translates": {
+      "noun": "شمع"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "candlestick",
+    "pronunciation": "'kandel.stik",
+    "translates": {
+      "noun": "شمعدان"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "candy",
+    "pronunciation": "'kandi",
+    "translates": {
+      "noun": "آب نبات ، شکلات"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cane",
+    "pronunciation": "keyn",
+    "translates": {
+      "noun": "نی ، نیشکر ، عصا ، حصیر ، چوب دستی ، ترکه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cannibal",
+    "pronunciation": "'kaniba^l",
+    "translates": {
+      "noun": "آدمخوار ، خونی ، [ حیوان ] هم نوع خوار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cannon",
+    "pronunciation": "'kanen",
+    "translates": {
+      "noun": "توپ"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "canoe",
+    "pronunciation": "ke'noo",
+    "translates": {
+      "noun": "بَلَم ، قایق ، قایق رانی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "can't",
+    "pronunciation": "kant",
+    "translates": {
+      "auxiliary-verb": "نتوانستن ، نمی تواند ، can not"
+    },
+    "subWords": {
+      "subWord0": "can't help",
+      "subTranslate0": "چاره ای نداشتن ، نتوانستن ( از کاری ) جلوگیری کردن",
+      "subWord1": "i couldn't help laughing",
+      "subTranslate1": "نتوانستم نخندم ، نتوانستم جلوی خنده ام را بگیرم",
+      "subWord2": "we can't help it if he disagrees",
+      "subTranslate2": "اگر او مخالف است، ما کاری نمی توانیم بکنیم"
+    }
+  },
+  {
+    "word": "canteen",
+    "pronunciation": "kan'tiin",
+    "translates": {
+      "noun": "نهار خوری ، غذا خوری ، سلف سرویس ، سالن غذا خوری"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "canter",
+    "pronunciation": "'kanter",
+    "translates": {
+      "noun": "[ اسب ] چهار نعل کوتاه ، تاخت",
+      "transitive-verb": "سلانه سلانه راه رفتن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "canvas",
+    "pronunciation": "'kanves",
+    "translates": {
+      "noun": "بوم ( نقاشی ) ، کرباس ، نقاشی رنگ و روغن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cap",
+    "pronunciation": "kap",
+    "translates": {
+      "noun": "کلاه ، تشتک ، کلاه لبه دار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "capable",
+    "pronunciation": "'keypebel",
+    "translates": {
+      "adjective": "توانا ، قادر ( به ) ، آماده ، مستعد ، لایق"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "capacity",
+    "pronunciation": "ke'pasiti",
+    "translates": {
+      "noun": "ظرفیت ، گنجایش ، جا ، لیاقت ، استعداد ، قابلیت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cape",
+    "pronunciation": "keyp",
+    "translates": {
+      "noun": "شنل ، دماغه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "capital",
+    "pronunciation": "'kapita^l",
+    "translates": {
+      "noun": "پایتخت ، سرمایه ، مرکز ، [ خط ] حرف بزرگ"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "capsize",
+    "pronunciation": "kap'sa^yz",
+    "translates": {
+      "noun": "کلاهبرداری",
+      "transitive-verb": "واژگون کردن",
+      "intransitive-verb": "وارونه شدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "capsule",
+    "pronunciation": "'kapsyul",
+    "translates": {
+      "noun": "کپسول"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "captain",
+    "pronunciation": "'kaptin",
+    "translates": {
+      "noun": "فرمانده ، ناخدا ، سروان ، سردسته ، [ تیم ورزشی ] کاپیتان",
+      "transitive-verb": "کاپیتان تیمی بودن ، فرماندهی کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "caption",
+    "pronunciation": "'kapshen",
+    "translates": {
+      "noun": "عنوان ، [ زیر عکس ، نمودار و غیره ] شرح"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "captivate",
+    "pronunciation": "'kaptiveyt",
+    "translates": {
+      "transitive-verb": "افسون کردن ، مجذوب کردن ، اسیر کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "captive",
+    "pronunciation": "'kaptive",
+    "translates": {
+      "noun": "اسیر ، محبوس ، زندانی",
+      "adjective": "دربند ، گرفتار ، دستگیر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "capture",
+    "pronunciation": "'kapcher",
+    "translates": {
+      "noun": "اسارت ، تسخیر ، دستگیری",
+      "transitive-verb": "گرفتن ، اسیر کردن ، تسخیر کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "car",
+    "pronunciation": "ka^r",
+    "translates": {
+      "noun": "اتومبیل ، ماشین ، واگن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "caravan",
+    "pronunciation": "'karevan",
+    "translates": {
+      "noun": "کاروان ، قافله ، واگن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "carbon",
+    "pronunciation": "'karben",
+    "translates": {
+      "noun": "کربن ، کاغذ کپی ، کاربُن ، نسخه"
+    },
+    "subWords": {
+      "subWord0": "carbon dioxide",
+      "subTranslate0": "گاز کربنیک"
+    }
+  },
+  {
+    "word": "carburettor",
+    "pronunciation": "ka^rbe'reter",
+    "translates": {
+      "noun": "کاربراتور"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "card",
+    "pronunciation": "ka^rd",
+    "translates": {
+      "noun": "کارت ، ورق ، برگه ، ورق ( بازی ) ، کارت ویزیت"
+    },
+    "subWords": {
+      "subWord0": "ID card",
+      "subTranslate0": "کارت شناسایی",
+      "subWord1": "play cards",
+      "subTranslate1": "ورق بازی کردن"
+    }
+  },
+  {
+    "word": "cardboard",
+    "pronunciation": "'ka^rdbord",
+    "translates": {
+      "noun": "مقوا ",
+      "adjective": "مقوایی ، مصنوعی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cardigan",
+    "pronunciation": "'ka^rdigen",
+    "translates": {
+      "noun": "ژاکت کش باف پشمی ، پارچه ژاکت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cardinal",
+    "pronunciation": "'ka^rdina^l",
+    "translates": {
+      "noun": "کاردینال ، اعداد اصلی",
+      "adjective": "اصلی ، مهم ، اساسی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "care",
+    "pronunciation": "ker",
+    "translates": {
+      "noun": "مراقب ، مواظب ، توجه ، دقت ، مسئولیت ، سرپرستی ، دغدغه خاطر",
+      "transitive-verb": "اهمیت دادن ، مراقبت کردن ، نگران شدن"
+    },
+    "subWords": {
+      "subWord0": "care for",
+      "subTranslate0": "مراقبت کردن ، در فکر ( کسی یا چیزی ) بودن ، علاقه داشتن به",
+      "subWord1": "not to care",
+      "subTranslate1": "اهمیت ندادن",
+      "subWord2": "I couldn't care less",
+      "subTranslate2": "به درک ! ، من سر سوزنی اهمیت نمی دهم",
+      "subWord3": "I don't care",
+      "subTranslate3": "برای من اهمیتی ندارد",
+      "subWord4": "care of ( c/o )",
+      "subTranslate4": "[ پست ] به وسیله ، توسطِ",
+      "subWord5": "take care",
+      "subTranslate5": "مواظب بودن",
+      "subWord6": "take care of",
+      "subTranslate6": "مواظبت کردن از ، توجه کردن به"
+    }
+  },
+  {
+    "word": "career",
+    "pronunciation": "ke'riyer",
+    "translates": {
+      "noun": "حرفه ، شغل"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "carefree",
+    "pronunciation": "'kerfrii",
+    "translates": {
+      "adjective": "بی خیال ، بی غم ، آسوده خاطر ، خوش "
+    },
+    "subWords": {}
+  },
+  {
+    "word": "careful",
+    "pronunciation": "'kerful",
+    "translates": {
+      "adjective": "مواظب ، مراقب ، دقیق ، با دقت ، سنجیده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "carefully",
+    "pronunciation": "'kerfuli",
+    "translates": {
+      "adverb": "با احتیاط ، با دقت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "careless",
+    "pronunciation": "'kerles",
+    "translates": {
+      "adjective": "بی احتیاط ، بی دقت ، بی توجه"
+    },
+    "subWords": {
+      "subWord0": "careless mistake",
+      "subTranslate0": "سهو ، خطای ناشی از بی دقتی ، اشتباه نسنجیده"
+    }
+  },
+  {
+    "word": "carelessly",
+    "pronunciation": "'kerlesli",
+    "translates": {
+      "adverb": "با بی دقتی ، با بی احتیاطی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "caretaker",
+    "pronunciation": "'kerteyker",
+    "translates": {
+      "noun": "سرایدار ، خانه پا ، سرپرست"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cargo",
+    "pronunciation": "'ka^rgo",
+    "translates": {
+      "noun": "بار ، محموله"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "carnival",
+    "pronunciation": "'ka^rniva^l",
+    "translates": {
+      "noun": "کارناوال ، جشن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "carnivorous",
+    "pronunciation": "ka^r'niveres",
+    "translates": {
+      "noun": "گوشت خوار ، حیوان گوشت خوار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "carol",
+    "pronunciation": "'karel",
+    "translates": {
+      "noun": "سرودِ کریسمس ، آواز ، سرود ، ترانه",
+      "transitive-verb": "نغمه سرایی کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "car park",
+    "pronunciation": "'ka^r pa^rk",
+    "translates": {
+      "noun": "پارکینگ"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "carpenter",
+    "pronunciation": "'ka^rpenter",
+    "translates": {
+      "noun": "نجار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "carpentry",
+    "pronunciation": "'ka^rpentri",
+    "translates": {
+      "noun": "نجاری"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crapet",
+    "pronunciation": "'ka^rpet",
+    "translates": {
+      "noun": "فرش ، قالی ، قالیچه ، موکت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "carriage",
+    "pronunciation": "'karij",
+    "translates": {
+      "noun": "کالسکه ، درشکه ، [ قطار ] واگن ، چرخ ، باربری ، حمل ، کرایه بار"
+    },
+    "subWords": {
+      "subWord0": "carriage free",
+      "subTranslate0": "معاف از هزینه حمل و نقل ، حمل و نقل رایگان",
+      "subWord1": "carriage paid",
+      "subTranslate1": "کرایه در مبدا پرداخت شده"
+    }
+  },
+  {
+    "word": "carrier",
+    "pronunciation": "'kariyer",
+    "translates": {
+      "noun": "شرکتِ حمل و نقل ، حامل ، شرکت مسافر بری ، [ دوچرخه ] ترک بند"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "carrot",
+    "pronunciation": "'karet",
+    "translates": {
+      "noun": "هویچ"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "carry",
+    "pronunciation": "'kari",
+    "translates": {
+      "noun": "حمل ، رقم نقلی",
+      "transitive-verb": "حمل کردن ، منتقل کردن ، نگه داشتن ، تحمل کردن ، با خود داشتن ، ظرفیت داشتن"
+    },
+    "subWords": {
+      "subWord0": "carry on",
+      "subTranslate0": "ادامه دادن ، پیش بردن ، رابطه عاشقانه داشتن",
+      "subWord1": "carry out",
+      "subTranslate1": "انجام دادن ، تحقق بخشیدن"
+    }
+  }
+]
