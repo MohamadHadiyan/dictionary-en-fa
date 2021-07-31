@@ -812,5 +812,164 @@
       "subWord1": "carry out",
       "subTranslate1": "انجام دادن ، تحقق بخشیدن"
     }
+  },
+  {
+    "word": "cart",
+    "pronunciation": "ka^rt",
+    "translates": {
+      "noun": "گاری ، گاری دستی ، چرخ دستی",
+      "transitive-verb": "با گاری حمل کردن یا بردن ، دست گرفتن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "carton",
+    "pronunciation": "ka^rten",
+    "translates": {
+      "noun": "جعبه مقوایی ، کارتن ، مقوا ، قوطی ، جعبه ، پاکت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cartoon",
+    "pronunciation": "ka^r'toon",
+    "translates": {
+      "noun": "کارتون ، کاریکاتور ، نقاشی متحرک"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cartridge",
+    "pronunciation": "'ka^rtrij",
+    "translates": {
+      "noun": "کارتریج ، گلوله ، فشنگ ، کاست ( بزرگ ) ، [ خودکار ] مغزی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "carve",
+    "pronunciation": "ka^rv",
+    "translates": {
+      "transitive-verb": "تراشیدن ، سنگ تراشی کردن ، حک کردن ، سنگ تراشیدن ، کنده کاری کردن ، کندن ، [ گوشت پخته ] بریدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "case",
+    "pronunciation": "keys",
+    "translates": {
+      "noun": "مورد ، نمونه ، پرونده ، مورد بیماری ، بیمار ، مسئله ، قضیه ، وضعیت ، جعبه ، صندوق ، کیف ، چمدان ، جلد ، غلاف"
+    },
+    "subWords": {
+      "subWord0": "in any case",
+      "subTranslate0": "به هر حال ، در هر صورت",
+      "subWord1": "in case",
+      "subTranslate1": "در صورتی که ، اگر",
+      "subWord2": "in no case",
+      "subTranslate2": "به هیچ وجه ، به هیچ صورت ، در هیچ موردی",
+      "subWord3": "in that case",
+      "subTranslate3": "در آن صورت"
+    }
+  },
+  {
+    "word": "cash",
+    "pronunciation": "kash",
+    "translates": {
+      "noun": "پول نقد ، نقدینگی",
+      "transitive-verb": "نقد کردن"
+    },
+    "subWords": {
+      "subWord0": "cash desk",
+      "subTranslate0": "[ فروشگاه ] صندوق",
+      "subWord1": "cash register",
+      "subTranslate1": "[ فروشگاه ] صندوق ، صندوق فروش",
+      "subWord2": "pay cash down",
+      "subTranslate2": "نقد پرداختن ، پرداخت نقدی"
+    }
+  },
+  {
+    "word": "cashier",
+    "pronunciation": "ka'shiyer",
+    "translates": {
+      "noun": "صندوقدار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cask",
+    "pronunciation": "ka^sk",
+    "translates": {
+      "noun": "بشکه ، چلیک"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "casket",
+    "pronunciation": "ka^sket",
+    "translates": {
+      "noun": "تابوت ، [ جواهرات و غیره ] جعبه ، صندوقچه ، جعبه کوچک"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cassette",
+    "pronunciation": "ka'set",
+    "translates": {
+      "noun": "کاسِت ، نوار ، ضبط صوت ، کاست فیلم ( عکاسی )"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cast",
+    "pronunciation": "ka^st",
+    "translates": {
+      "noun": "قالب ، گروه هنرپیشگان یا بازیگران ، انداختن ، پرتاب",
+      "adjective": "ریخته ، ریخته شده",
+      "transitive-verb": "انداختن ، نقشی را ( به کسی ) دادن یا واگذار کردن ، ریختن ، دور انداختن",
+      "past-tens": "گذشته فعل cast",
+      "past-participle": "اسم مفعول cast"
+    },
+    "subWords": {
+      "subWord0": "cast away",
+      "subTranslate0": "دور انداختن ، کنار گذاشتن",
+      "subWord1": "cast off",
+      "subTranslate1": "کنار گذاشتن ، جدا شدن"
+    }
+  },
+  {
+    "word": "castle",
+    "pronunciation": "'ka^sel",
+    "translates": {
+      "noun": "قلعه ، قصر ، کاخ ، [ شطرنج ] رخ",
+      "transitive-verb": "قلعه رفتن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "casual",
+    "pronunciation": "'kazhuwa^l",
+    "translates": {
+      "adjective": "اتفاقی ، غیر عمدی ، سرسری ، خودمانی"
+    },
+    "subWords": {
+      "subWord0": "casual clothes",
+      "subTranslate0": "لباس خانه ، لباس راحتی"
+    }
+  },
+  {
+    "word": "casually",
+    "pronunciation": "'kazhuwa^li",
+    "translates": {
+      "adverb": "بر حسب اتفاق ، با بی قیدی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "casualty",
+    "pronunciation": "'kazhuwa^lti",
+    "translates": {
+      "noun": "مجروح ، [ به صورت جمع ] تلفات ، قربانی ، سانحه ، حادثه ، تصادف"
+    },
+    "subWords": {}
   }
 ]
