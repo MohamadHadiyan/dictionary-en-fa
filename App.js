@@ -1,47 +1,49 @@
-import FarsiType from './FarsiType.js'
+import FarsiType from "./FarsiType.js";
 
 let id = 0;
 let words = [];
 let subWordInputCount = 0;
 let subTransInputCount = 0;
 
-document.addEventListener('DOMContentLoaded', () =>
+document.addEventListener("DOMContentLoaded", () =>
   loadData().then(() => {
-    id = words.length - 1
+    id = words.length - 1;
     showTranslate(id);
-  }));
+  })
+);
 
-el('#save').onclick = saveAllWords;
-el('#wordForm').onsubmit = addWords;
-el('.prev').onclick = () => showTranslate(--id);
-el('.next').onclick = () => showTranslate(++id);
-el('#toggle-form-btn').onclick = toggleForm;
-el('#addSubWord').addEventListener('click', addSubWord);
-Array.from(elms('.translateFieldset input[type="checkbox"]'))
-  .map(elm => elm.addEventListener('change', addTranslateInput));
+el("#save").onclick = saveAllWords;
+el("#wordForm").onsubmit = addWords;
+el(".prev").onclick = () => showTranslate(--id);
+el(".next").onclick = () => showTranslate(++id);
+el("#toggle-form-btn").onclick = toggleForm;
+el("#addSubWord").addEventListener("click", addSubWord);
+Array.from(elms('.translateFieldset input[type="checkbox"]')).map((elm) =>
+  elm.addEventListener("change", addTranslateInput)
+);
 
 function showTranslate(id) {
-
   let content = showWords(id);
 
   if (content) {
-    el('.mainWord').innerHTML = content;
+    el(".mainWord").innerHTML = content;
   }
 }
 
 function toggleForm(e) {
   let text = e.target.innerHTML;
-  text == 'Hide' ? e.target.innerHTML = 'Show' : e.target.innerHTML = 'Hide';
-  el('#wordForm').classList.toggle('hide');
+  text == "Hide"
+    ? (e.target.innerHTML = "Show")
+    : (e.target.innerHTML = "Hide");
+  el("#wordForm").classList.toggle("hide");
 }
 
 function saveAllWords() {
-  let blob = new Blob([JSON.stringify(words, null, 2)], { type: 'text/plain' });
-  let link = document.createElement('a');
+  let blob = new Blob([JSON.stringify(words, null, 2)], { type: "text/plain" });
+  let link = document.createElement("a");
 
   link.href = URL.createObjectURL(blob);
-  ;
-  link.download = 'words.json';
+  link.download = "words.json";
   link.click();
 
   URL.revokeObjectURL(link.href);
@@ -51,79 +53,105 @@ function addWords(e) {
   e.preventDefault();
 
   if (!this.word.value) {
-    showAlert('There is probably an empty field!!', 'warning');
+    showAlert("There is probably an empty field!!", "warning");
     return;
   }
 
-  const arrayToObject = (elmName) => Array.from(elms(elmName))
-    .reduce((obj, elm) => ((obj[elm.name] = elm.value), obj), {});
+  const arrayToObject = (elmName) =>
+    Array.from(elms(elmName)).reduce(
+      (obj, elm) => ((obj[elm.name] = elm.value), obj),
+      {}
+    );
 
-  let phrase = arrayToObject('#wordAndPronunArea input');
+  let phrase = arrayToObject("#wordAndPronunArea input");
   phrase.translates = arrayToObject('#translateFieldset input[type="text"]');
-  phrase.subWords = arrayToObject('#subWordInputs input');
+  phrase.subWords = arrayToObject("#subWordInputs input");
   words.push(phrase);
 
-  showAlert(`[${this.word.value}] was successfully Added to the dictionary`, 'success');
+  showAlert(
+    `[${this.word.value}] was successfully Added to the dictionary`,
+    "success"
+  );
 
-  this.word.value = this.pronunciation.value = '';
+  this.word.value = this.pronunciation.value = "";
   Array.from(elms('input[type="checkbox"]'))
-    .filter(elm => elm.checked)
-    .map(elm => elm.checked = false);
+    .filter((elm) => elm.checked)
+    .map((elm) => (elm.checked = false));
 
-  Array.from(elms('#translateFieldset input[type="text"]')).map(elm => elm.remove())
-  el('#subWordInputs').innerHTML = ''
+  Array.from(elms('#translateFieldset input[type="text"]')).map((elm) =>
+    elm.remove()
+  );
+  el("#subWordInputs").innerHTML = "";
 
-  el('#wordInput').focus();
+  el("#wordInput").focus();
   id++;
   subTransInputCount = 0;
-  subWordInputCount = 0
+  subWordInputCount = 0;
   showTranslate(words.length - 1);
 }
 
 function showWords(n) {
   if (n < 0) {
     ++id;
-    return
+    return;
   }
 
   if (n > words.length - 1) {
     --id;
-    return
+    return;
   }
 
   function show(index) {
     let [word, pronunciation] = Object.values(words[index]);
 
-    const row = (...content) => content.map(val => `
-            <tr><td colspan="2"><span>${val}</span></td></tr>`);
+    const row = (...content) =>
+      content.map(
+        (val) => `
+            <tr><td colspan="2"><span>${val}</span></td></tr>`
+      );
 
-    const transRows = (...entries) => entries.map(item => ` 
+    const transRows = (...entries) =>
+      entries.map(
+        (item) => ` 
             <tr>
                 <td><span>${item[0]}</span></td>
                 <td class="translates"><span>${item[1]}</span></td>
-            </tr>`);
+            </tr>`
+      );
 
     const subword = (arr, size) =>
       Array.from({ length: Math.ceil(arr.length / size) }, (val, i) =>
-        arr.slice(i * size, i * size + size));
+        arr.slice(i * size, i * size + size)
+      );
 
     return ` 
         <table>
             <thead>
-                ${row(word, pronunciation).join('')}
+                ${row(word, pronunciation).join("")}
             </thead>
             <tbody>
-                ${transRows(...Object.entries(words[index].translates)).join('')}
-                ${words[index].subWords ?
-        subword((Object.values(words[index].subWords)
-          .map(val => `<td><span>${val}</span></td>`)), 2)
-          .map(val => `<tr class="subWordRow">${val.join('')}</tr>`)
-          .join('') : ''}
+                ${transRows(...Object.entries(words[index].translates)).join(
+                  ""
+                )}
+                ${
+                  words[index].subWords
+                    ? subword(
+                        Object.values(words[index].subWords).map(
+                          (val) => `<td><span>${val}</span></td>`
+                        ),
+                        2
+                      )
+                        .map(
+                          (val) => `<tr class="subWordRow">${val.join("")}</tr>`
+                        )
+                        .join("")
+                    : ""
+                }
             </tbody>
         </table>`;
   }
 
-  return show(n)
+  return show(n);
 }
 
 function addSubWord() {
@@ -142,20 +170,23 @@ function addSubWord() {
         </label>
     </div>`;
 
-  let deleteInputBtn = newElm('button', {
-    innerHTML: 'X',
-    type: 'button',
-    className: `button`,
-  }, {
-
-    event: 'click',
-    func: function () {
-      this.parentNode.remove();
+  let deleteInputBtn = newElm(
+    "button",
+    {
+      innerHTML: "X",
+      type: "button",
+      className: `button`,
+    },
+    {
+      event: "click",
+      func: function () {
+        this.parentNode.remove();
+      },
     }
-  });
+  );
 
-  let subWordArea = el('.subWordInputs');
-  subWordArea.insertAdjacentHTML('beforeend', subWord);
+  let subWordArea = el(".subWordInputs");
+  subWordArea.insertAdjacentHTML("beforeend", subWord);
   subWordArea.lastElementChild.append(deleteInputBtn);
   subWordArea.lastElementChild.firstElementChild.lastElementChild.focus();
   FarsiType.init();
@@ -163,56 +194,55 @@ function addSubWord() {
 
 function addTranslateInput(e) {
   if (e.target.checked) {
-
-    let elm = newElm('input', {
-      type: 'text',
-      className: 'formControl translateInput',
+    let elm = newElm("input", {
+      type: "text",
+      className: "formControl translateInput",
       name: e.target.name,
-      lang: 'fa-ir'
+      lang: "fa-ir",
     });
 
     e.target.parentNode.parentNode.append(elm);
     elm.focus();
 
     FarsiType.init();
-
   } else {
     e.target.parentNode.parentNode.lastElementChild.remove();
   }
-
 }
 
 async function loadData() {
-  let res = await fetch('./words.json');
+  let res = await fetch("./words.json");
   words = await res.json();
 }
 
 function showAlert(msg, type) {
-  let alert = newElm('div', {
+  let alert = newElm("div", {
     innerHTML: msg,
     className: `alert ${type}`,
   });
 
-  el('body').prepend(alert);
-
+  el("body").prepend(alert);
   setTimeout(() => alert.remove(), 3000);
 }
 
 function el(name) {
-  if (typeof name === 'string') return document.querySelector(name);
+  if (typeof name === "string") {
+    return document.querySelector(name);
+  }
 }
 
 function elms(name) {
-  if (typeof name === 'string') return document.querySelectorAll(name);
+  if (typeof name === "string") {
+    return document.querySelectorAll(name);
+  }
 }
 
 function newElm(
   name,
   options = { innerHTML, className, type, id, name, lang },
-  listener = { event, func: '' }
+  listener = { event, func: "" }
 ) {
-
-  if (typeof name !== 'string') return;
+  if (typeof name !== "string") return;
 
   let elm = document.createElement(name);
 
