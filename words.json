@@ -971,5 +971,483 @@
       "noun": "مجروح ، [ به صورت جمع ] تلفات ، قربانی ، سانحه ، حادثه ، تصادف"
     },
     "subWords": {}
+  },
+  {
+    "word": "cat",
+    "pronunciation": "kat",
+    "translates": {
+      "noun": "گربه ، [ عامیانه ] یارو"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "catalogue",
+    "pronunciation": "'katala^g",
+    "translates": {
+      "noun": "کاتالوگ ، فهرست"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "catapult",
+    "pronunciation": "'katapa^lt",
+    "translates": {
+      "noun": "تیرکمان ، منجنیق ، سنگ انداز"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "catastrophe",
+    "pronunciation": "ke'tastrefi",
+    "translates": {
+      "noun": "فاجعه ، مصیبت ، بلا ، سانحه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "catch",
+    "pronunciation": "kach",
+    "translates": {
+      "noun": "گرفتن ، گیرش ، قلاب ، گیره ، چفت ، صید",
+      "transitive-verb": "گرفتن ، به چنگ آوردن ، شکار کردن ، دستگیر کردن ، مچ ( کسی را ) گرفتن ، رسیدن به ، دچار شدن ، مبتلا شدن"
+    },
+    "subWords": {
+      "subWord0": "catch a cold",
+      "subTranslate0": "سرما خوردن ",
+      "subWord1": "catch alight",
+      "subTranslate1": "آتش گرفتن ، به آتش کشیدن",
+      "subWord2": "catch fire",
+      "subTranslate2": "آتش گرفتن",
+      "subWord3": "catch on",
+      "subTranslate3": "باب شدن ، مُد شدن",
+      "subWord4": "catch somebody up",
+      "subTranslate4": "به کسی رسیدن",
+      "subWord5": "catch up with",
+      "subTranslate5": "به ( کسی ) رسیدن"
+    }
+  },
+  {
+    "word": "catching",
+    "pronunciation": "'kaching",
+    "translates": {
+      "adjective": "واگیردار ، فریبنده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cater",
+    "pronunciation": "'keyter",
+    "translates": {
+      "transitive-verb": "بر آوردن ، ارضا کردن ، غذا تهیه کردن برای"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "caterpillar",
+    "pronunciation": "'kater.piler",
+    "translates": {
+      "noun": "کرم پروانه ، کرم حشره ، کرم ابریشم ، خون آشام ، [ تراکتور ، تانک و غیره ] زنجیر ، شنی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cathedral",
+    "pronunciation": "ka'thiidra^l",
+    "translates": {
+      "noun": "کلیسای جامع"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Catholic",
+    "pronunciation": "k'athelik",
+    "translates": {
+      "noun": "کاتولیک",
+      "adjective": "کاتولیک"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "catholic",
+    "pronunciation": "'kathelik",
+    "translates": {
+      "adjective": "متنوع ، گوناگون ، گسترده ، وسیع ، جامع ، بلند نظر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cattle",
+    "pronunciation": "'katel",
+    "translates": {
+      "noun": "گله گاو ، گاو"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "caught",
+    "pronunciation": "kot",
+    "translates": {
+      "past-tens": "گذشته فعل catch",
+      "past-participle": "اسم مفعول فعل catch ( گرفتار )"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cauliflower",
+    "pronunciation": "'ka^li.flaower",
+    "translates": {
+      "noun": "گل کلم ، کلم گل"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cause",
+    "pronunciation": "koz",
+    "translates": {
+      "noun": "علت ، سبب ، موجب ، دلیل ، عذر موجه ، هدف ، آرمان ، انگیزه ، جنبش",
+      "transitive-verb": "علت ( چیزی ) بودن ، موجب شدن ، به وجود آوردن"
+    },
+    "subWords": {
+      "subWord0": "have cause",
+      "subTranslate0": "دلیل داشتن ، علت داشتن"
+    }
+  },
+  {
+    "word": "caution",
+    "pronunciation": "'koshen",
+    "translates": {
+      "noun": "اخطار ، تذکر ، احتیاط",
+      "transitive-verb": "اخطار دادن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cautious",
+    "pronunciation": "'koshes",
+    "translates": {
+      "adjective": "محتاط ، هوشیار ، با احتیاط ، مواظب"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cavalry",
+    "pronunciation": "'kavelri",
+    "translates": {
+      "noun": "سواره نظام"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cave",
+    "pronunciation": "keyv",
+    "translates": {
+      "noun": "غار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cavern",
+    "pronunciation": "'kavern",
+    "translates": {
+      "noun": "غار ، مَغار ، حفره"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "caviar",
+    "pronunciation": "'kaviya^r",
+    "translates": {
+      "noun": "خاویار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cease",
+    "pronunciation": "siis",
+    "translates": {
+      "noun": "توقف",
+      "transitive-verb": "متوقف کردن ، دست کشیدن از ، دست برداشتن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ceaseless",
+    "pronunciation": "'siisles",
+    "translates": {
+      "adjective": "دائمی ، بی وقفه ، پیوسته"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cedar",
+    "pronunciation": "'siider",
+    "translates": {
+      "noun": "درخت سدر ، سرو"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ceiling",
+    "pronunciation": "'siiling",
+    "translates": {
+      "noun": "سقف"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "celebrate",
+    "pronunciation": "'selibreyt",
+    "translates": {
+      "noun": "جشن گرفتن ، تجلیل کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "celebration",
+    "pronunciation": "'seli'breyshen",
+    "translates": {
+      "noun": "جشن ، بزرگداشت ، تجلیل"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "celebrity",
+    "pronunciation": "se'lebriti",
+    "translates": {
+      "noun": "آدم مشهور ، شهرت ، آوازه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "celery",
+    "pronunciation": "'seleri",
+    "translates": {
+      "noun": "کرفس"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cell",
+    "pronunciation": "sel",
+    "translates": {
+      "noun": "سلول ، پیل ، یاخته ، سلول ( زندان ) ، خانه ، حجره"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cellar",
+    "pronunciation": "'seler",
+    "translates": {
+      "noun": "زیرزمین ، انبار شراب ، سرداب ، [ عامیانه ] ته فهرست"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cello",
+    "pronunciation": "'chelo",
+    "translates": {
+      "noun": "ویولن سل"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cellophane",
+    "pronunciation": "'selofeyn",
+    "translates": {
+      "noun": "سلفون"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cement",
+    "pronunciation": "se'ment",
+    "translates": {
+      "noun": "سیمان",
+      "transitive-verb": "سیمان کردن ، سیمان کشیدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cemetery",
+    "pronunciation": "'seme.tri",
+    "translates": {
+      "noun": "گورستان ، قبرستان"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cent",
+    "pronunciation": "sent",
+    "translates": {
+      "noun": "سِنت ( یک صدم دلار ) ، درصد"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cent (i)-",
+    "pronunciation": "sent (i)",
+    "translates": {
+      "prefix": "صدـ ، یک صدمِ_ ، صدمِ_ ، سانتی_"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "centenary",
+    "pronunciation": "sen'tiineri",
+    "translates": {
+      "noun": "سده ، صدمین سال",
+      "adjective": "صد ساله"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "center",
+    "pronunciation": "senter",
+    "translates": {
+      "noun": "مرکز ، وسط ، میان ، کانون ، [ بازی تیمی ] بازیکن وسط",
+      "transitive-verb": "در مرکز قرار دادن ، در وسط قرار دادن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "centigrade",
+    "pronunciation": "'senti.greyd",
+    "translates": {
+      "adjective": "سانتیگراد ، صدبخشی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "centimeter",
+    "pronunciation": "'senti.miiter",
+    "translates": {
+      "noun": "سانتی متر ، سانت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "central",
+    "pronunciation": "'sentra^l",
+    "translates": {
+      "adjective": "مرکزی ، میانی ، وسطی ، اساسی ، اصلی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "century",
+    "pronunciation": "'senchri",
+    "translates": {
+      "noun": "قرن ، سده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cereal",
+    "pronunciation": "'siriyel",
+    "translates": {
+      "noun": "غله ، حبوبات"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ceremony",
+    "pronunciation": "'sere.moni",
+    "translates": {
+      "noun": "مراسم ، تشریفات ، جشن ، تعارف"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "certain",
+    "pronunciation": "'serten",
+    "translates": {
+      "adjective": "مسلم ، حتمی ، قطعی ، مطمئن ، معین",
+      "pronoun": "یک ... ی ، اندکی ، کمی ، بعضی"
+    },
+    "subWords": {
+      "subWord0": "be certain",
+      "subTranslate0": "مطمئن بودن ، اطمینان داشتن",
+      "subWord1": "make certain",
+      "subTranslate1": "اطمینان حاصل کردن ، مطمئن شدن",
+      "subWord2": "on a certain day",
+      "subTranslate2": "روزی ، یک روز ، روزی از روزها ، در یک روز معین"
+    }
+  },
+  {
+    "word": "certainly",
+    "pronunciation": "'sertenli",
+    "translates": {
+      "adverb": "مطمئناً ، یقیناً ، قطعاً ، بدون تردید ، به طور مسلم ، [ در پاسخ سوال ] البته!"
+    },
+    "subWords": {
+      "subWord0": "certainly not!",
+      "subTranslate0": "البته که نه! ، قطعا نه! ، مسلماً نه!"
+    }
+  },
+  {
+    "word": "certainty",
+    "pronunciation": "'sertenti",
+    "translates": {
+      "noun": "امر مسلم ، اطمینان ، یقین ، قطعیت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "certificate",
+    "pronunciation": "ser'tifikit",
+    "translates": {
+      "noun": "گواهی ، گواهی نامه ، تصدیق"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "certify",
+    "pronunciation": "'serte.fa^y",
+    "translates": {
+      "transitive-verb": "تصدیق کردن ، گواهی کردن ، تایید کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cession",
+    "pronunciation": "'seshen",
+    "translates": {
+      "noun": "واگذاری ، انتقال"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chain",
+    "pronunciation": "cheyn",
+    "translates": {
+      "noun": "زنجیر ، سلسله ، رشته",
+      "transitive-verb": "زنجیر کردن ، با زنجیر بستن ، اسیر کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chair",
+    "pronunciation": "cher",
+    "translates": {
+      "noun": "صندلی ، کرسی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chalet",
+    "pronunciation": "'shaley",
+    "translates": {
+      "noun": "کلبه کوهستانی ، کلبه ییلاقی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chalk",
+    "pronunciation": "chok",
+    "translates": {
+      "noun": "گچ تحریر ، گِل سفید",
+      "transitive-verb": "با گچ نوشتن یا خط کشیدن"
+    },
+    "subWords": {}
   }
 ]
