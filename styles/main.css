@@ -1,10 +1,9 @@
 @font-face {
-  font-family: 'IRANSansWeb';
+  font-family: "IRANSansWeb";
   font-style: normal;
   font-display: fallback;
   src: url("../font/IRANSansWeb.woff") format("woff"), url("../font/IRANSansWeb.woff2") format("woff2");
 }
-
 @font-face {
   font-family: "IRANSansWeb_Bold";
   font-style: normal;
@@ -12,7 +11,6 @@
   src: url("../font/IRANSansWeb_Bold.woff") format("woff");
   src: url("../font/IRANSansWeb_Bold.woff2") format("woff2");
 }
-
 * {
   margin: 0;
   padding: 0;
@@ -25,7 +23,7 @@ body {
   display: flex;
   flex-direction: column;
   position: relative;
-  font-family: 'Lato', IRANSansWeb, sans-serif;
+  font-family: "Lato", IRANSansWeb, sans-serif;
 }
 
 button {
@@ -37,13 +35,11 @@ button {
   max-width: 1000px;
   margin: 0 auto;
 }
-
 @media all and (min-width: 29.9385em) {
   .app {
     width: 95%;
   }
 }
-
 @media all and (min-width: 47.9385em) {
   .app {
     width: 80%;
@@ -83,17 +79,15 @@ button {
   border: 1px solid #ccc;
   border-radius: 2px;
 }
-
 @media all and (min-width: 29.9385em) {
   .formContainer,
-  .container {
+.container {
     padding: 3px;
   }
 }
-
 @media all and (min-width: 47.9385em) {
   .formContainer,
-  .container {
+.container {
     padding: 8px;
   }
 }
@@ -107,14 +101,12 @@ button {
   border: 1px solid #ccc;
   border-radius: 2px;
 }
-
 @media screen and (max-width: 620px) {
   .dictionary {
     width: calc(100% - 100px);
     border: none;
   }
 }
-
 @media screen and (max-width: 400px) {
   .dictionary {
     width: calc(100% - 70px);
@@ -130,38 +122,31 @@ button {
   padding: 3px;
   border-radius: 2px;
 }
-
 .wordContainer h2 {
   font-size: 17px;
   display: inline-block;
 }
-
 .wordContainer span {
   font-size: 12px;
 }
-
 .wordContainer .mainWord,
 .wordContainer .phrases {
   width: 100%;
 }
-
 .wordContainer .mainWord .realWord,
 .wordContainer .phrases .realWord {
   border-right: 2px solid #deebf3;
 }
-
 .wordContainer .mainWord table {
   width: 100%;
 }
-
 .wordContainer .mainWord table tbody {
   display: inherit;
   position: relative;
   width: 100%;
 }
-
 .wordContainer .mainWord table tbody::after {
-  content: 'HOVER ME';
+  content: "HOVER ME";
   display: flex;
   justify-content: center;
   align-items: center;
@@ -171,32 +156,26 @@ button {
   top: 0;
   left: 0;
   background-color: #00a6e8;
-  transition: all .3s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
-
 .wordContainer .mainWord table tbody:hover::after {
   opacity: 0;
   background-color: transparent;
 }
-
 .wordContainer .mainWord table tbody td {
   border-top: 1px solid #ccc;
   padding: 4px 1px;
 }
-
 .wordContainer .mainWord table tbody .subWordRow {
   background-color: #ade7fd;
 }
-
 .wordContainer .mainWord table tbody .subWordRow span {
   color: #0300e0;
   font-size: 18px;
 }
-
 .wordContainer .mainWord table tbody .subWordRow td:last-child {
   direction: rtl;
 }
-
 @media all and (min-width: 29.9385em) {
   .wordContainer {
     padding: 10px;
@@ -208,7 +187,6 @@ button {
     font-size: 14px;
   }
 }
-
 @media all and (min-width: 47.9385em) {
   .wordContainer {
     padding: 20px;
@@ -233,20 +211,18 @@ button {
   border-radius: 50%;
   background-color: transparent;
 }
-
 .next::before,
 .prev::before {
-  content: '';
+  content: "";
   position: absolute;
   display: inline-block;
   width: 20px;
   height: 3px;
   background-color: #aaa;
 }
-
 .next::after,
 .prev::after {
-  content: '';
+  content: "";
   display: block;
   width: 15px;
   height: 15px;
@@ -254,43 +230,40 @@ button {
   border-bottom: 3px solid #aaa;
   transform: rotate(45deg);
 }
-
 .next:hover,
 .prev:hover {
   cursor: pointer;
   background-color: #eee;
 }
-
 @media screen and (max-width: 620px) {
   .next,
-  .prev {
+.prev {
     width: 40px;
     height: 40px;
   }
   .next::before,
-  .prev::before {
+.prev::before {
     width: 15px;
   }
   .next::after,
-  .prev::after {
+.prev::after {
     width: 10px;
     height: 10px;
   }
 }
-
 @media screen and (max-width: 400px) {
   .next,
-  .prev {
+.prev {
     width: 30px;
     height: 30px;
   }
   .next::before,
-  .prev::before {
+.prev::before {
     width: 10px;
     height: 3px;
   }
   .next::after,
-  .prev::after {
+.prev::after {
     width: 7px;
     height: 7px;
     border-width: 2px;
@@ -306,9 +279,8 @@ button {
   padding-right: 2px;
   direction: rtl;
 }
-
 .translateArea::after {
-  content: '';
+  content: "";
   display: block;
   width: 100%;
   height: 100%;
@@ -319,7 +291,6 @@ button {
   background-color: #efefef;
   transition: opacity 0.2s ease-in;
 }
-
 .translateArea:hover::after {
   opacity: 0;
 }
@@ -336,7 +307,6 @@ button {
   color: #008758;
   background-color: #efefef;
 }
-
 .button:hover {
   background-color: #dfdfdf;
 }
@@ -345,7 +315,6 @@ button {
   flex-direction: column;
   align-items: flex-start;
 }
-
 .formContainer .formGroupContainer {
   width: 100%;
   display: flex;
@@ -353,11 +322,9 @@ button {
   flex-direction: column;
   align-items: flex-start;
 }
-
 .formContainer .formGroupContainer .groupArea {
   width: 100%;
 }
-
 .formContainer .formGroupContainer .translateFieldset {
   display: flex;
   flex-direction: column;
@@ -365,11 +332,9 @@ button {
   border: 1px solid #ccc;
   background-color: #eee;
 }
-
 .formContainer .formGroupContainer .translateFieldset legend {
   padding: 0 10px;
 }
-
 .formContainer .formGroupContainer .translateFieldset label {
   display: flex;
   justify-content: space-between;
@@ -378,24 +343,19 @@ button {
   padding: 4px;
   padding-left: 8px;
 }
-
 .formContainer .formGroupContainer .translateFieldset label:hover {
   background-color: #dfdfdf;
 }
-
 .formContainer .formGroupContainer span {
   font-size: 12px;
   padding: 3px;
 }
-
 .formContainer .formGroupContainer:last-child label {
   margin-top: 0px;
 }
-
 .formContainer .formGroupContainer:last-child label:last-child {
   margin: 0;
 }
-
 .formContainer .formGroup {
   width: 100%;
   display: flex;
@@ -405,32 +365,32 @@ button {
   padding: 4px;
   background-color: #eee;
 }
-
 .formContainer .formControl {
   padding: 5px;
   border: none;
   width: 75%;
+  border-radius: 3px;
+  outline: 0;
   background-color: #fafafa;
   font-family: IRANSansWeb, Lato;
 }
-
+.formContainer .formControl:focus {
+  box-shadow: 0 0 0 3px #0fa3ff6e;
+}
 .formContainer .subWordInputsArea {
   width: 100%;
   margin-top: 10px;
   border: 1px solid #ccc;
 }
-
 .formContainer .subWordInputsArea button {
   width: 100%;
   font-size: 18px;
 }
-
 @media all and (min-width: 47.9385em) {
   .formContainer .subWordInputsArea button {
     width: auto;
   }
 }
-
 .formContainer .subWordInputs {
   width: 100%;
   display: flex;
@@ -438,19 +398,16 @@ button {
   align-items: center;
   flex-wrap: wrap;
 }
-
 .formContainer .subWordInputs .packSubWord {
   width: 100%;
   display: flex;
   flex-direction: column;
 }
-
 @media all and (min-width: 47.9385em) {
   .formContainer .subWordInputs .packSubWord {
     flex-direction: row;
   }
 }
-
 .formContainer .subWordInputs button {
   border: none;
   color: red;
@@ -458,17 +415,14 @@ button {
   padding-right: 15px;
   margin: 0;
 }
-
 .formContainer .translateInput {
   direction: rtl;
 }
-
 .formContainer .formButtons {
   display: flex;
   justify-content: space-between;
   width: 100%;
 }
-
 .formContainer .formButtons button {
   display: inline-block;
   padding: 12px 10%;
@@ -476,11 +430,9 @@ button {
   border: 1px solid #e0e0e0;
   background-color: #efefef;
 }
-
 .formContainer .formButtons button:hover {
   background-color: #dfdfdf;
 }
-
 @media all and (min-width: 29.9385em) {
   .formContainer {
     flex-direction: column;
@@ -493,11 +445,10 @@ button {
   .formContainer .formGroup label {
     margin: 0;
   }
-  .formContainer input[type="submit"] {
+  .formContainer input[type=submit] {
     max-width: 300px;
   }
 }
-
 @media all and (min-width: 47.9385em) {
   .formContainer .formGroup span {
     font-size: 16px;
@@ -510,4 +461,5 @@ button {
   border: none;
   overflow-y: hidden;
 }
-/*# sourceMappingURL=style.css.map */
+
+/*# sourceMappingURL=main.css.map */

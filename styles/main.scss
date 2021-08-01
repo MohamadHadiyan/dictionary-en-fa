@@ -381,8 +381,14 @@ button {
     padding: 5px;
     border: none;
     width: 75%;
+    border-radius: 3px;
+    outline: 0;
     background-color: #fafafa;
     font-family: IRANSansWeb, Lato;
+
+    &:focus{
+      box-shadow: 0 0 0 3px #0fa3ff6e;
+    }
   }
 
   .subWordInputsArea {
