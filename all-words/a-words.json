@@ -3954,6 +3954,16 @@
     "subWords": {}
   },
   {
+    "word": "associate",
+    "pronunciation": "esosi'yet",
+    "translates": {
+      "noun": "شریک ، معاون ، عضو پیوسته",
+      "adjective":"وابسته ، هم پیوند ، همبسته",
+      "transitive-verb":"شریک کردن ، وابسته کردن"
+    },
+    "subWords": {}
+  },
+  {
     "word": "association",
     "pronunciation": "asosi'yeyshen",
     "translates": {
