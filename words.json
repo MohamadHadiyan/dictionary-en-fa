@@ -1449,5 +1449,348 @@
       "transitive-verb": "با گچ نوشتن یا خط کشیدن"
     },
     "subWords": {}
+  },
+  {
+    "word": "challenge",
+    "pronunciation": "'chalenj",
+    "translates": {
+      "transitive-verb": "به چالش کشیدن ، به مبارزه طلبیدن ، رقابت کردن ، مشخصات خواستن ، مورد سوال قرار دادن",
+      "noun": "مبارزه طلبی ، دعوت ( به مبارزه )"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "challenger",
+    "pronunciation": "'chalenjer",
+    "translates": {
+      "noun": "حریف ، رقیب"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chamber",
+    "pronunciation": "'cheymber",
+    "translates": {
+      "noun": "اتاق ، مجلس ، تالار ، محفظه ، حفره ، حجره"
+    },
+    "subWords": {
+      "subWord0": "chamber of commerce",
+      "subTranslate0": "اتاق بازرگانی ، اتاق تجارت"
+    }
+  },
+  {
+    "word": "chamber music",
+    "pronunciation": "'cheymber .myoozik",
+    "translates": {
+      "noun": "موسقی مجلسی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "champion",
+    "pronunciation": "'champiyen",
+    "translates": {
+      "noun": "قهرمان ، برنده ، طرفدار ، حامی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "championship",
+    "pronunciation": "'champiyenship",
+    "translates": {
+      "noun": "قهرمانی ، مسابقات قهرمانی ، مقام قهرمانی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chance",
+    "pronunciation": "cha^ns",
+    "translates": {
+      "noun": "شانس ، فرصت ، بخت ، مجال ، احتمال ، امکان ، اتفاق ، ریسک",
+      "adjective": "اتفاقی ، شانسی ، تصادفی",
+      "transitive-verb": "اتفاق افتادن ، پیش آمدن ، ریسک کردن"
+    },
+    "subWords": {
+      "subWord0": "by chance",
+      "subTranslate0": "اتفاقاً ، تصادفی",
+      "subWord1": "chance on",
+      "subTranslate1": "اتفاقاً برخوردن به",
+      "subWord2": "stand a good chance of",
+      "subTranslate2": "احتمال زیاد داشتن",
+      "subWord3": "take a chance",
+      "subTranslate3": "ریسک کردن"
+    }
+  },
+  {
+    "word": "change",
+    "pronunciation": "cheynj",
+    "translates": {
+      "noun": "تغییر ، تبدیل ، تعویض ، تحول ، دگرگونی ، پول خرد",
+      "transitive-verb": "تغییر کردن ، تعویض کردن ، [ وسیله نقلیه ] عوض کردن ، [ پول ] خرد کردن",
+      "intransitive-verb": "عوض شدن"
+    },
+    "subWords": {
+      "subWord0": "for a change",
+      "subTranslate0": "برای تنوع ، برای تغییر",
+      "subWord1": "make change",
+      "subTranslate1": "پول خرد کردن ، تغییر ایجاد کردن",
+      "subWord2": "change gear",
+      "subTranslate2": "دنده عوض کردن ، تغییر وضع دادن ، وضع را بهتر کردن"
+    }
+  },
+  {
+    "word": "changeable",
+    "pronunciation": "'cheynjebel",
+    "translates": {
+      "adjective": "متغیر ، تغییر پذیر ، دمدمی ، بی ثبات"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "channel",
+    "pronunciation": "'chanel",
+    "translates": {
+      "noun": "کانال ، تنگه ، آبراهه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chapel",
+    "pronunciation": "'chapel",
+    "translates": {
+      "noun": "کلیسای کوچک ، نمازخانه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chaplain",
+    "pronunciation": "'chaplin",
+    "translates": {
+      "noun": "روحانی ، کشیش ، قاضی عسگر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chapter",
+    "pronunciation": "'chapter",
+    "translates": {
+      "noun": "[ کتاب ] فصل ، باب ، قسمت ، دوره ، دوران"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "char",
+    "pronunciation": "cha^r",
+    "translates": {
+      "noun": "زغال ، کار روز مزد و اتفاقی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "character",
+    "pronunciation": "'karakter",
+    "translates": {
+      "noun": "شخصیت ، [ الفبا ] حرف ، خلق ، خوی ، منش ، خصلت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "characteristic",
+    "pronunciation": "karakte'ristik",
+    "translates": {
+      "adjective": "مشخصه ، خاص",
+      "noun": "مشخصات ، ویژگی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "charcoal",
+    "pronunciation": "'cha^rkol",
+    "translates": {
+      "noun": "زغال ، زغال چوب"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "charge",
+    "pronunciation": "cha^rj",
+    "translates": {
+      "noun": "[ الکتریسیته ] بار - شارژ ، اتهام ، قیمت ، هزینه ، خرج ، عهده ، سرپرستی ، مسئولیت ، حمله ، یورش",
+      "transitive-verb": "متهم کردن ، [ قیمت یا دستمزد یا هزینه ] مطالبه کردن ، گرفتن ، حساب کردن ، حمله کردن ، یورش بردن ، [ باتری ] شارژ کردن - پر کردن"
+    },
+    "subWords": {
+      "subWord0": "be in charge of",
+      "subTranslate0": "مسئولیت ( چیزی ) را به عهده گرفتن ، مسئول بودن",
+      "subWord1": "bank charges",
+      "subTranslate1": "کارمزد بانک",
+      "subWord2": "bring a charge against someone",
+      "subTranslate2": "کسی را متهم کردن",
+      "subWord3": "free of charge",
+      "subTranslate3": "( به طور ) رایگان ، مجانی",
+      "subWord4": "in charge of",
+      "subTranslate4": "مسئولِ ، متصدیِ",
+      "subWord5": "put somebody in charge of",
+      "subTranslate5": "( کاری را ) به کسی محول کردن ، به عهده کسی گذاردن",
+      "subWord6": "take charge of",
+      "subTranslate6": "مسئولیت ( چیزی ) را به عهده گرفتن"
+    }
+  },
+  {
+    "word": "charity",
+    "pronunciation": "'chariti",
+    "translates": {
+      "noun": "نیکوکاری ، محبت ، احسان ، خیرات ، صدقه ، موسسه خیریه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "charm",
+    "pronunciation": "ch^rm",
+    "translates": {
+      "noun": "زیبایی ، گیرایی ، جذابیت ، افسون ، طلسم ، فریبندگی ، دلربایی",
+      "transitive-verb": "شیفته کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "charming",
+    "pronunciation": "cha^rming",
+    "translates": {
+      "adjective": "جذاب ، زیبا ، قشنگ ، دلربا ، ملیح"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chart",
+    "pronunciation": "cha^rt",
+    "translates": {
+      "noun": "نمودار ، جدول ، چارت سازمانی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "charter",
+    "pronunciation": "'cha^rter",
+    "translates": {
+      "noun": "منشور ، اساس نامه ، فرمان ، امتیاز ، دربستی",
+      "transitive-verb": "دربست اجاره کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "charwoman",
+    "pronunciation": "'cha^rwumen",
+    "translates": {
+      "noun": "مستخدم زن ، نظافت چی ، زن کارگر ، مستخدمه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chase",
+    "pronunciation": "cheys",
+    "translates": {
+      "noun": "تعقیب ، تعقیب شکار ، جستجو",
+      "transitive-verb": "دنبال ( کسی ) گذاشتن یا کردن ، دنبال (‌ کسی ) دویدن ، تعقیب کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chaste",
+    "pronunciation": "cheyst",
+    "translates": {
+      "adjective": "پاک ، پاک دامن ، عفیف ، پرهیزکار ، ساده ، بی پیرایه ، طاهر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chastity",
+    "pronunciation": "'chastiti",
+    "translates": {
+      "noun": "عفت ، پاکدامنی ، پاکی ، نجابت ، سادگی ، بی پیرایگی "
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chat",
+    "pronunciation": "chat",
+    "translates": {
+      "noun": "گپ ، صحبت ، حرف",
+      "transitive-verb": "گپ زدن ، صحبت کردن"
+    },
+    "subWords": {
+      "subWord0": "chat up",
+      "subTranslate0": "گرم گرفتن با"
+    }
+  },
+  {
+    "word": "chatter",
+    "pronunciation": "'chater",
+    "translates": {
+      "transitive-verb": "ورّاجی کردن ، پچ پچ کردن ، پرچگونگی کردن",
+      "noun": "ورّاجی ، پچ پچ ، پرچگونگی ، جیغ و ویغ "
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chatterbox",
+    "pronunciation": "'chaterba^ks",
+    "translates": {
+      "noun": "( آدم ) ورّاج ، ( آدم ) روده دراز ، بچه پرحرف ، بچه پرچونه "
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chauffeur",
+    "pronunciation": "'shofer",
+    "translates": {
+      "noun": "کمک راننده ، راننده ( شخصی ) ، شوفر",
+      "transitive-verb": "رانندگی کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cheap",
+    "pronunciation": "chiip",
+    "translates": {
+      "adjective": "ارزان ، ارزان قیمت ، [ مجازی ]‌ مفت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cheaply",
+    "pronunciation": "'chiipli",
+    "translates": {
+      "adverb": "ارزان ، به قیمت ارزان"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cheat",
+    "pronunciation": "chiit",
+    "translates": {
+      "transitive-verb": "تقلب کردن ، فریب دادن ، کلاه سر ( کسی ) گذاشتن ، ( چیزی را ) از دست کسی در آوردن ، ( به همسر خود ) خیانت کردن",
+      "noun": "( آدم ) متقلب ، تقلب ، فریب ، حقه ، کلک ، گول"
+    },
+    "subWords": {
+      "subWord0": "cheat on",
+      "subTranslate0": "فریب دادن"
+    }
+  },
+  {
+    "word": "check",
+    "pronunciation": "chek",
+    "translates": {
+      "noun": "بررسی ، بازبینی ، وارسی ، بازدید ، کنترل ، مهار ، ژتون ، نمره ، [ شطرنج ] کیش ، صورت حساب ، چِک ، تیک ، علامت ( ✓ ) ، طرح پیچازی",
+      "transitive-verb": "وارسی کردن ، بررسی کردن ، امتحان کردن ، بازبینی کردن ، مهار کردن ، [ شطرنج ] کیش دادن ، [ تئاتر ، رستوران و غیره ] لباس سپردن",
+      "adjective": "چهارخانه"
+    },
+    "subWords": {
+      "subWord0": "check in",
+      "subTranslate0": "[ هتل ] اتاق گرفتن ، [ فرودگاه ] اثاثیه تحویل دادن ، [ تئاتر ، رستوران و غیره ] لباس سپردن ",
+      "subWord1": "check out",
+      "subTranslate1": "تخلیه کردن ، [ هتل ] تصفیه حساب کردن ، وارسی",
+      "subWord2": "check up on",
+      "subTranslate2": "کسب اطلاع کردن درباره ، جاسوسی ( کسی را ) کردن"
+    }
   }
 ]

@@ -4,6 +4,7 @@ let id = 0;
 let words = [];
 let subWordInputCount = 0;
 let subTransInputCount = 0;
+const translateInputs = [];
 
 document.addEventListener("DOMContentLoaded", () =>
   loadData().then(() => {
@@ -64,12 +65,16 @@ function addWords(e) {
     );
 
   let phrase = arrayToObject("#wordAndPronunArea input");
-  phrase.translates = arrayToObject('#translateFieldset input[type="text"]');
+  phrase.translates = translateInputs.reduce(
+    (acc, elm) => ((acc[elm.name] = elm.value), acc),
+    {}
+  );
   phrase.subWords = arrayToObject("#subWordInputs input");
   words.push(phrase);
+  translateInputs.splice(0);
 
   showAlert(
-    `[${this.word.value}] was successfully Added to the dictionary`,
+    `<strong>${this.word.value}</strong> was successfully Added to the dictionary`,
     "success"
   );
 
@@ -203,10 +208,16 @@ function addTranslateInput(e) {
 
     e.target.parentNode.parentNode.append(elm);
     elm.focus();
-
+    translateInputs.push(elm);
     FarsiType.init();
   } else {
     e.target.parentNode.parentNode.lastElementChild.remove();
+    const prevInputs = Object.assign(
+      [],
+      translateInputs.filter((elm) => elm.name !== e.target.name)
+    );
+    translateInputs.splice(0);
+    translateInputs.push(...prevInputs);
   }
 }
 
