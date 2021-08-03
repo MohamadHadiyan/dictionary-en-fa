@@ -13,6 +13,12 @@ document.addEventListener("DOMContentLoaded", () =>
   })
 );
 
+document.addEventListener("keydown", (e) => {
+  if (e.code === "KeyM" && (e.ctrlKey || e.metaKey)) {
+    addSubWord();
+  }
+});
+
 el("#save").onclick = saveAllWords;
 el("#wordForm").onsubmit = addWords;
 el(".prev").onclick = () => showTranslate(--id);

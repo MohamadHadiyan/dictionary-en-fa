@@ -1,148 +1,220 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dictionary</title>
 
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dictionary</title>
+    <link rel="stylesheet" href="./styles/main.css" />
+  </head>
 
-  <link rel="stylesheet" href="./styles/main.css">
-</head>
-
-<body>
-  <div class="app">
-    <form id="wordForm">
-      <div class="formContainer">
-        <div class="formGroupContainer">
-          <div class="groupArea" id="wordAndPronunArea">
-            <label for="wordInput" class="formGroup">
-              <span>Word:</span>
-              <input autofocus type="text" name="word" class="formControl" id="wordInput">
-            </label>
-            <label for="pronunciation" class="formGroup">
-              <span>Pronunciation</span>
-              <input type="text" name="pronunciation" class="formControl" id="pronunciation">
-            </label>
-          </div>
-          <div class="groupArea">
-            <fieldset class="translateFieldset " id="translateFieldset">
-              <legend>Grammerical</legend>
-              <label for="noun">
-                <div>
-                  <input type="checkbox" id="noun" name="noun">
-                  <span>(n) noun -- اسم</span>
-                </div>
+  <body>
+    <div class="app">
+      <form id="wordForm">
+        <div class="formContainer">
+          <div class="formGroupContainer">
+            <div class="groupArea" id="wordAndPronunArea">
+              <label for="wordInput" class="formGroup">
+                <span>Word:</span>
+                <input
+                  autofocus
+                  type="text"
+                  name="word"
+                  class="formControl"
+                  id="wordInput"
+                />
               </label>
-              <label for="adjective">
-                <div> <input type="checkbox" id="adjective" name="adjective">
-                  <span>(adj) adjective -- صفت</span>
-                </div>
+              <label for="pronunciation" class="formGroup">
+                <span>Pronunciation</span>
+                <input
+                  type="text"
+                  name="pronunciation"
+                  class="formControl"
+                  id="pronunciation"
+                />
               </label>
-              <label for="adverb">
-                <div>
-                  <input type="checkbox" id="adverb" name="adverb">
-                  <span>(adv) adveb -- قید</span>
-                </div>
-              </label>
-              <label for="transitive-verb">
-                <div>
-                  <input type="checkbox" id="transitive-verb" name="transitive-verb">
-                  <span>(vt) transitive verb -- فعل متعدی</span>
-                </div>
-              </label>
-              <label for="intransitive-verb">
-                <div>
-                  <input type="checkbox" id="intransitive-verb" name="intransitive-verb">
-                  <span>(vi) intransitive verb -- فعل لازم</span>
-                </div>
-              </label>
-              <label for="preposition">
-                <div>
-                  <input type="checkbox" id="preposition" name="preposition">
-                  <span>(prep) preposition -- حرف اضافه</span>
-                </div>
-              </label>
-              <label for="conjunction">
-                <div>
-                  <input type="checkbox" id="conjunction" name="conjunction">
-                  <span>(conj) conjunction -- حرف ربط</span>
-                </div>
-              </label>
-              <label for="pronoun">
-                <div>
-                  <input type="checkbox" id="pronoun" name="pronoun">
-                  <span>(pron) pronoun -- ضمیر</span>
-                </div>
-              </label>
-              <label for="past-tens">
-                <div>
-                  <input type="checkbox" id="past-tens" name="past-tens">
-                  <span>(p) past tens -- (زمان) گذشته</span>
-                </div>
-              </label>
-              <label for="auxiliary-verb">
-                <div>
-                  <input type="checkbox" id="auxiliary-verb" name="auxiliary-verb">
-                  <span>(aux v) auxiliary verb -- فعل کمکی (معین)</span>
-                </div>
-              </label>
-              <label for="past-participle">
-                <div>
-                  <input type="checkbox" id="past-participle" name="past-participle">
-                  <span>(pp) past participle -- اسم مفعول</span>
-                </div>
-              </label>
-              <label for="prefix">
-                <div>
-                  <input type="checkbox" id="prefix" name="prefix">
-                  <span>prefix -- پیشوند</span>
-                </div>
-              </label>
-              <label for="suffix">
-                <div>
-                  <input type="checkbox" id="suffix" name="suffix">
-                  <span>suffix -- پسوند</span>
-                </div>
-              </label>
-              <label for="interjection">
-                <div>
-                  <input type="checkbox" id="interjection" name="interjection">
-                  <span>interjection -- صوت یا عبارت تعجبی</span>
-                </div>
-              </label>
-              <label for="indefinite-article">
-                <div>
-                  <input type="checkbox" id="indefinite-article" name="indefinite-article">
-                  <span>indefinite article -- حرف تعریف</span>
-                </div>
-              </label>
-            </fieldset>
-          </div>
-          <div class="groupArea">
-            <div class="subWordInputsArea">
-              <div class="subWordInputs" id="subWordInputs"></div>
-              <button type="button" id="addSubWord" class="button">+</button>
+            </div>
+            <div class="groupArea">
+              <fieldset class="translateFieldset" id="translateFieldset">
+                <legend>Grammerical</legend>
+                <label for="noun">
+                  <div class="fieldset-option">
+                    <input type="checkbox" id="noun" name="noun" />
+                    <div class="sign"></div>
+                    <span>(n) noun -- اسم</span>
+                  </div>
+                </label>
+                <label for="adjective">
+                  <div class="fieldset-option">
+                    <input type="checkbox" id="adjective" name="adjective" />
+                    <div class="sign"></div>
+                    <span>(adj) adjective -- صفت</span>
+                  </div>
+                </label>
+                <label for="adverb">
+                  <div class="fieldset-option">
+                    <input type="checkbox" id="adverb" name="adverb" />
+                    <div class="sign"></div>
+                    <span>(adv) adveb -- قید</span>
+                  </div>
+                </label>
+                <label for="transitive-verb">
+                  <div class="fieldset-option">
+                    <input
+                      type="checkbox"
+                      id="transitive-verb"
+                      name="transitive-verb"
+                    />
+                    <div class="sign"></div>
+                    <span>(vt) transitive verb -- فعل متعدی</span>
+                  </div>
+                </label>
+                <label for="intransitive-verb">
+                  <div class="fieldset-option">
+                    <input
+                      type="checkbox"
+                      id="intransitive-verb"
+                      name="intransitive-verb"
+                    />
+                    <div class="sign"></div>
+                    <span>(vi) intransitive verb -- فعل لازم</span>
+                  </div>
+                </label>
+                <label for="preposition">
+                  <div class="fieldset-option">
+                    <input
+                      type="checkbox"
+                      id="preposition"
+                      name="preposition"
+                    />
+                    <div class="sign"></div>
+                    <span>(prep) preposition -- حرف اضافه</span>
+                  </div>
+                </label>
+                <label for="conjunction">
+                  <div class="fieldset-option">
+                    <input
+                      type="checkbox"
+                      id="conjunction"
+                      name="conjunction"
+                    />
+                    <div class="sign"></div>
+                    <span>(conj) conjunction -- حرف ربط</span>
+                  </div>
+                </label>
+                <label for="pronoun">
+                  <div class="fieldset-option">
+                    <input type="checkbox" id="pronoun" name="pronoun" />
+                    <div class="sign"></div>
+                    <span>(pron) pronoun -- ضمیر</span>
+                  </div>
+                </label>
+                <label for="past-tens">
+                  <div class="fieldset-option">
+                    <input type="checkbox" id="past-tens" name="past-tens" />
+                    <div class="sign"></div>
+                    <span>(p) past tens -- (زمان) گذشته</span>
+                  </div>
+                </label>
+                <label for="auxiliary-verb">
+                  <div class="fieldset-option">
+                    <input
+                      type="checkbox"
+                      id="auxiliary-verb"
+                      name="auxiliary-verb"
+                    />
+                    <div class="sign"></div>
+                    <span>(aux v) auxiliary verb -- فعل کمکی (معین)</span>
+                  </div>
+                </label>
+                <label for="past-participle">
+                  <div class="fieldset-option">
+                    <input
+                      type="checkbox"
+                      id="past-participle"
+                      name="past-participle"
+                    />
+                    <div class="sign"></div>
+                    <span>(pp) past participle -- اسم مفعول</span>
+                  </div>
+                </label>
+                <label for="prefix">
+                  <div class="fieldset-option">
+                    <input type="checkbox" id="prefix" name="prefix" />
+                    <div class="sign"></div>
+                    <span>prefix -- پیشوند</span>
+                  </div>
+                </label>
+                <label for="suffix">
+                  <div class="fieldset-option">
+                    <input type="checkbox" id="suffix" name="suffix" />
+                    <div class="sign"></div>
+                    <span>suffix -- پسوند</span>
+                  </div>
+                </label>
+                <label for="interjection">
+                  <div class="fieldset-option">
+                    <input
+                      type="checkbox"
+                      id="interjection"
+                      name="interjection"
+                    />
+                    <div class="sign"></div>
+                    <span>interjection -- صوت یا عبارت تعجبی</span>
+                  </div>
+                </label>
+                <label for="indefinite-article">
+                  <div class="fieldset-option">
+                    <input
+                      type="checkbox"
+                      id="indefinite-article"
+                      name="indefinite-article"
+                    />
+                    <div class="sign"></div>
+                    <span>indefinite article -- حرف تعریف</span>
+                  </div>
+                </label>
+              </fieldset>
+            </div>
+            <div class="groupArea">
+              <div class="subWordInputsArea">
+                <div class="subWordInputs" id="subWordInputs"></div>
+                <button type="button" id="addSubWord" class="button">+</button>
+              </div>
             </div>
           </div>
+          <div class="formButtons">
+            <button type="submit">Add word</button>
+            <button type="button" id="save">Save all</button>
+          </div>
         </div>
-        <div class="formButtons">
-          <button type="submit">Add word</button>
-          <button type="button" id="save">Save all </button>
+      </form>
+      <button class="button" type="button" id="toggle-form-btn">Hide</button>
+      <div class="viewContainer">
+        <div class="options-menu">
+          <label for="en-option" class="option">
+            <input type="radio" name="lang-radio" id="en-option" checked />
+            <div class="sign"></div>
+            <span>English</span>
+          </label>
+          <label for="fa-option" class="option">
+            <input type="radio" name="lang-radio" id="fa-option" />
+            <div class="sign"></div>
+            <span>Persian</span>
+          </label>
+        </div>
+        <div class="container">
+          <button class="prev"></button>
+          <div class="dictionary">
+            <div class="wordContainer">
+              <div class="mainWord"></div>
+            </div>
+          </div>
+          <button class="next"></button>
         </div>
       </div>
-    </form>
-    <button class="button" type="button" id="toggle-form-btn">Hide</button>
-    <div class="container">
-      <button class="prev"></button>
-      <div class="dictionary">
-        <div class="wordContainer">
-          <div class="mainWord"></div>
-        </div>
-      </div>
-      <button class="next"></button>
     </div>
-  </div>
-  <script type="module" src="App.js"></script>
-</body>
+    <script type="module" src="App.js"></script>
+  </body>
 </html>
