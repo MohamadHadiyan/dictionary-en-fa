@@ -1,3 +1,4 @@
+@charset "UTF-8";
 @font-face {
   font-family: "IRANSansWeb";
   font-style: normal;
@@ -73,23 +74,119 @@ button {
   width: 100%;
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
   justify-content: space-between;
-  margin-top: 10px;
-  border: 1px solid #ccc;
-  border-radius: 2px;
+  border-radius: 3px;
+}
+
+.formContainer {
+  padding: 3px;
+  margin-top: 20px;
+  margin-bottom: 3px;
 }
 @media all and (min-width: 29.9385em) {
-  .formContainer,
-.container {
-    padding: 3px;
-  }
-}
-@media all and (min-width: 47.9385em) {
-  .formContainer,
-.container {
+  .formContainer {
     padding: 8px;
   }
+}
+
+.viewContainer {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin: 10px auto;
+}
+
+.container {
+  padding: 8px;
+}
+
+.options-menu {
+  display: flex;
+  width: 100%;
+  padding: 5px;
+  border-bottom: 1px solid #ccc;
+}
+
+.option,
+.fieldset-option {
+  display: flex;
+  position: relative;
+  padding: 5px 8px;
+  margin-right: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.option input,
+.fieldset-option input {
+  padding: 0;
+  margin: 0;
+  outline: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  appearance: none;
+}
+.option input:focus ~ .sign,
+.fieldset-option input:focus ~ .sign {
+  box-shadow: 0 0 0 3px #00a6e8;
+}
+.option input:checked ~ .sign,
+.fieldset-option input:checked ~ .sign {
+  background-color: #00a6e8;
+}
+.option input:checked ~ .sign::after,
+.fieldset-option input:checked ~ .sign::after {
+  opacity: 1;
+}
+.option .sign,
+.fieldset-option .sign {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  border-radius: 3px;
+  background-color: #fff;
+  box-shadow: inset 0 0 0 2px #00a6e8;
+  transition: all 0.3s;
+}
+.option .sign::after,
+.fieldset-option .sign::after {
+  content: "✓";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 0 3px;
+  line-height: 1.2;
+  font-weight: 600;
+  color: #fff;
+  opacity: 0;
+}
+.option span,
+.fieldset-option span {
+  user-select: none;
+  color: #555;
+  font-weight: 600;
+}
+.option:hover .sign,
+.fieldset-option:hover .sign {
+  box-shadow: inset 0 0 0 3px #00a6e8;
+}
+.option:hover,
+.fieldset-option:hover {
+  box-shadow: 0 0 8px #0002;
+}
+
+.fieldset-option {
+  padding: 0;
+  border: 0;
+}
+.fieldset-option:hover {
+  box-shadow: none;
 }
 
 .dictionary {
@@ -104,7 +201,6 @@ button {
 @media screen and (max-width: 620px) {
   .dictionary {
     width: calc(100% - 100px);
-    border: none;
   }
 }
 @media screen and (max-width: 400px) {
@@ -210,6 +306,7 @@ button {
   border: 1px solid #ccc;
   border-radius: 50%;
   background-color: transparent;
+  outline: 0;
 }
 .next::before,
 .prev::before {
@@ -234,6 +331,20 @@ button {
 .prev:hover {
   cursor: pointer;
   background-color: #eee;
+}
+.next:focus,
+.prev:focus {
+  box-shadow: 0 0 0 3px #00a6e8b6;
+  border: 0;
+}
+.next:focus::before,
+.prev:focus::before {
+  background-color: #00a6e8b6;
+}
+.next:focus::before, .next:focus::after,
+.prev:focus::before,
+.prev:focus::after {
+  border-color: #00a6e8b6;
 }
 @media screen and (max-width: 620px) {
   .next,
@@ -306,6 +417,11 @@ button {
   line-height: 1;
   color: #008758;
   background-color: #efefef;
+  border-radius: 2px;
+  outline: 0;
+}
+.button:focus {
+  box-shadow: 0 0 0 3px #00a6e8b6;
 }
 .button:hover {
   background-color: #dfdfdf;
@@ -313,14 +429,13 @@ button {
 
 .formContainer {
   flex-direction: column;
-  align-items: flex-start;
+  border: 1px solid #ccc;
 }
 .formContainer .formGroupContainer {
   width: 100%;
   display: flex;
   justify-content: center;
   flex-direction: column;
-  align-items: flex-start;
 }
 .formContainer .formGroupContainer .groupArea {
   width: 100%;
@@ -385,6 +500,11 @@ button {
 .formContainer .subWordInputsArea button {
   width: 100%;
   font-size: 18px;
+  margin: 3px;
+  outline: 0;
+}
+.formContainer .subWordInputsArea button:focus {
+  box-shadow: 0 0 0 3px #00e8a2b2;
 }
 @media all and (min-width: 47.9385em) {
   .formContainer .subWordInputsArea button {
@@ -414,6 +534,10 @@ button {
   padding-left: 15px;
   padding-right: 15px;
   margin: 0;
+  outline: 0;
+}
+.formContainer .subWordInputs button:focus {
+  box-shadow: 0 0 0 3px #e8000083;
 }
 .formContainer .translateInput {
   direction: rtl;
@@ -427,17 +551,21 @@ button {
   display: inline-block;
   padding: 12px 10%;
   margin-top: 5px;
-  border: 1px solid #e0e0e0;
+  border: 1px solid #ccc;
   background-color: #efefef;
+  border-radius: 2px;
+  outline: 0;
 }
 .formContainer .formButtons button:hover {
   background-color: #dfdfdf;
+}
+.formContainer .formButtons button:focus {
+  box-shadow: 0 0 0 3px #00a6e89a;
 }
 @media all and (min-width: 29.9385em) {
   .formContainer {
     flex-direction: column;
     align-items: flex-start;
-    border: 1px solid #ccc;
   }
   .formContainer .formGroup span {
     font-size: 14px;

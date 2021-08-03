@@ -1792,5 +1792,404 @@
       "subWord2": "check up on",
       "subTranslate2": "کسب اطلاع کردن درباره ، جاسوسی ( کسی را ) کردن"
     }
+  },
+  {
+    "word": "checkmate",
+    "pronunciation": "'chekmeyt",
+    "translates": {
+      "transitive-verb": "[ شطرنج ] مات کردن",
+      "noun": "مات"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cheek",
+    "pronunciation": "chiik",
+    "translates": {
+      "noun": "گونه ، لُپ ، بی ادبی ، پررویی ، وقاحت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cheeky",
+    "pronunciation": "'chiiki",
+    "translates": {
+      "noun": "پررو ، وقیح ، بی تربیت ، بی ادبانه ، دارای گونه های برآمده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cheer",
+    "pronunciation": "'chiyer",
+    "translates": {
+      "transitive-verb": "ابراز احساسات کردن ، هورا کشیدن برای ، خوشحال کردن ، تشویق کردن ، دلداری دادن ، دلگرم کردن",
+      "noun": "ابراز احساسات ، هورا ،‌ فریاد شادی ، ترغیب"
+    },
+    "subWords": {
+      "subWord0": "cheer up",
+      "subTranslate0": "خوشحال شدن ، خوشحال کردن"
+    }
+  },
+  {
+    "word": "cheerful",
+    "pronunciation": "'chiyerful",
+    "translates": {
+      "adjective": "خوش ، شاد ، بشاش ، سرحال ، خوشحال ، شادی آفرین"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cheerfully",
+    "pronunciation": "'chiyerfuli",
+    "translates": {
+      "adverb": "با نشاط ، شادمانه ، از روی شادی ، خوش"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cheerfulness",
+    "pronunciation": "'chiyerfulnes",
+    "translates": {
+      "noun": "شادی ، نشاط ، سرخوشی ، شور ، سرور ، طرب ، اشتیاق"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cheers",
+    "pronunciation": "'chiyerz",
+    "translates": {
+      "interjection": "[ مشروب خوری ] به سلامتی ! ، مرسی ، دست شما درد نکند ! ، خداحافظ"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cheese",
+    "pronunciation": "chiiz",
+    "translates": {
+      "noun": "پنیر ، قالب پنیر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chef",
+    "pronunciation": "shef",
+    "translates": {
+      "noun": "سرآشپز ، آشپز"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chemical",
+    "pronunciation": "'kemeka^l",
+    "translates": {
+      "adjective": "شیمیایی",
+      "noun": "ترکیب شیمیایی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chemist",
+    "pronunciation": "'kemest",
+    "translates": {
+      "noun": "شیمی دان ، دارو ساز ، متصدی داروخانه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chemistry",
+    "pronunciation": "'kemestri",
+    "translates": {
+      "noun": "شیمی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cheque",
+    "pronunciation": "chek",
+    "translates": {
+      "noun": "چِک ، بررسی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cherry",
+    "pronunciation": "'cheri",
+    "translates": {
+      "noun": "گیلاس"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chess",
+    "pronunciation": "ches",
+    "translates": {
+      "noun": "شطرنج"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chest",
+    "pronunciation": "chest",
+    "translates": {
+      "noun": "قفسه سینه ، سینه ، صندوق ، جعبه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chestnut",
+    "pronunciation": "'chesna^t",
+    "translates": {
+      "noun": "فندق ، شاه بلوط ، بلوط",
+      "adjective": "خرمایی ، ( رنگ ) بلوطی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chew",
+    "pronunciation": "choo",
+    "translates": {
+      "transitive-verb": "جویدن",
+      "intransitive-verb": "جویدن",
+      "noun": "نشخوار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chewing gum",
+    "pronunciation": "'chooying ga^m",
+    "translates": {
+      "noun": "آدامس ، سقز"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chick",
+    "pronunciation": "chik",
+    "translates": {
+      "noun": "جوجه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chicken",
+    "pronunciation": "'chiken",
+    "translates": {
+      "noun": "جوجه ، [ گوشت ] جوجه یا مرغ"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chickenpox",
+    "pronunciation": "'chikenpa^ks",
+    "translates": {
+      "noun": "آبله مرغان"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chief",
+    "pronunciation": "chiif",
+    "translates": {
+      "noun": "رئیس ، فرمانده",
+      "adjective": "مهم ، اصلی ، عمده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chiefly",
+    "pronunciation": "'chiifli",
+    "translates": {
+      "adjective": "عمدتاً ، در درجه اول ، مخصوصاً ، بیشتر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chieftain",
+    "pronunciation": "'chiiftin",
+    "translates": {
+      "noun": "سردار ، سالار ، رئیس قبیله ، سردسته"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "child",
+    "pronunciation": "cha^yld",
+    "translates": {
+      "noun": "بچه ، کودک ، فرزند ، طفل ، نوچه ، مرید"
+    },
+    "subWords": {
+      "subWord0": "with child",
+      "subTranslate0": "حامله ، با بچه"
+    }
+  },
+  {
+    "word": "childhood",
+    "pronunciation": "'cha^hld.hud",
+    "translates": {
+      "noun": "بچگی ، دوران بچگی ، دوران کودکی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "childish",
+    "pronunciation": "'cha^yldish",
+    "translates": {
+      "adjective": "کودکانه ، بچگانه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "children",
+    "pronunciation": "'children",
+    "translates": {
+      "noun": "فرزندان"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chill",
+    "pronunciation": "chil",
+    "translates": {
+      "noun": "سرما ، سوز ، سردی ، خنکی ، سرماخوردگی ، چایمان",
+      "transitive-verb": "سرد کردن ، خنک کردن ، ترساندن",
+      "intransitive-verb": "سرد شدن ، ترسیدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chilly",
+    "pronunciation": "'chili",
+    "translates": {
+      "adjective": "سرد ، خنک ، غیر دوستانه ، نامهربان"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chime",
+    "pronunciation": "cha^ym",
+    "translates": {
+      "transitive-verb": "[ زنگ ] به صدا در آوردن ، زنگ زدن ",
+      "noun": "زنگ ، ناقوس ، صدای ناقوس"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chimney",
+    "pronunciation": "'chimni",
+    "translates": {
+      "noun": "دودکش"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chimney-sweep",
+    "pronunciation": "'chimni swiip",
+    "translates": {
+      "noun": "بخاری پاک کن ، [ شخص ] دودکش پاک کن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chimpanzee",
+    "pronunciation": "chim.pan'zii",
+    "translates": {
+      "noun": "شامپانزه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chin",
+    "pronunciation": "chin",
+    "translates": {
+      "noun": "چانه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "china",
+    "pronunciation": "'cha^yna^",
+    "translates": {
+      "noun": "چینی ، ظروف چینی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Chinese",
+    "pronunciation": "cha^y'niiz",
+    "translates": {
+      "adjective": "چینی ، چینی ها",
+      "noun": "اهل چین ، چینی ، زبان چینی ، غذای چینی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chip",
+    "pronunciation": "chip",
+    "translates": {
+      "noun": "تراشه ، تکه ، خرده ، قاچ ، برش خلال ، لب پر شدگی ، [ بازی ] ژتون",
+      "transitive-verb": "کندن ، ور آوردن ، لب پر شدن ، لب پر کردن ، خرد کردن ، قاچ کردن ، رنده کردن "
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chips",
+    "pronunciation": "chips",
+    "translates": {
+      "noun": "چیپس ، سیب زمینی سرخ کرده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chirp",
+    "pronunciation": "cherp",
+    "translates": {
+      "noun": "جیک جیک ، جیر جیر",
+      "transitive-verb": "جیک جیک کردن ، جیر جیر کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chocolate",
+    "pronunciation": "'cha^klet",
+    "translates": {
+      "noun": "شکلات ، کاکائو",
+      "adjective": "[ رنگ ] شکلاتی ، شکلاتی ، کاکائویی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "choice",
+    "pronunciation": "choys",
+    "translates": {
+      "noun": "انتخاب ، گزینش ، اختیار ، حقِ انتخاب ، چاره",
+      "adjective": "برگزیده ، مورد پسند ، دستچین"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "choir",
+    "pronunciation": "'kwa^yer",
+    "translates": {
+      "noun": "گروه کُر ، هم سرایان"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "choke",
+    "pronunciation": "chok",
+    "translates": {
+      "transitive-verb": "خفه کردن ، به حال خفگی انداختن ، بند آوردن ، مسدود کردن",
+      "intransitive-verb": "خفه شدن ، به حال خفگی افتادن ، بند آمدن ، مسدود شدن",
+      "noun": "خفگی ، انسداد ، ساسات ، عملِ خفه کردن ، دریچه ، اختناق"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "choose",
+    "pronunciation": "chooz",
+    "translates": {
+      "transitive-verb": "انتخاب کردن ، برگزیدن ، پسندیدن"
+    },
+    "subWords": {}
   }
 ]
