@@ -29,6 +29,8 @@ Array.from(elms('.translateFieldset input[type="checkbox"]')).map((elm) =>
   elm.addEventListener("change", addTranslateInput)
 );
 
+handleChangeLangOptions();
+
 function showTranslate(id) {
   let content = showWords(id);
 
@@ -118,7 +120,7 @@ function showWords(n) {
     const row = (...content) =>
       content.map(
         (val) => `
-            <tr><td colspan="2"><span>${val}</span></td></tr>`
+            <tr><th><span>${val}</span></th></tr>`
       );
 
     const transRows = (...entries) =>
@@ -135,9 +137,12 @@ function showWords(n) {
         arr.slice(i * size, i * size + size)
       );
 
+    el("#word-index").innerHTML= id;
+
     return ` 
         <table>
             <thead>
+              <tr class="head-overlay"></tr>
                 ${row(word, pronunciation).join("")}
             </thead>
             <tbody>
@@ -158,11 +163,32 @@ function showWords(n) {
                         .join("")
                     : ""
                 }
+                <tr class="body-overlay"></tr>
             </tbody>
         </table>`;
   }
 
   return show(n);
+}
+
+function handleChangeLangOptions() {
+  el("#en-option").onchange = (e) => {
+    if (e.target.checked) {
+      const headOverlay = el(".head-overlay");
+      const bodyOverlay = el(".body-overlay");
+      headOverlay.style.opacity = 0;
+      bodyOverlay.style.opacity = 1;
+    }
+  };
+
+  el("#fa-option").onchange = (e) => {
+    if (e.target.checked) {
+      const headOverlay = el(".head-overlay");
+      const bodyOverlay = el(".body-overlay");
+      headOverlay.style.opacity = 1;
+      bodyOverlay.style.opacity = 0;
+    }
+  };
 }
 
 function addSubWord() {

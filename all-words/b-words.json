@@ -1858,6 +1858,14 @@
     }
   },
   {
+    "word": "benefactor",
+    "pronunciation": "'bene.fakter",
+    "translates": {
+      "noun": "خیر ، بانی خیر ، نیکوکار ، ولینعمت ، واقف ، صاحب خیر"
+    },
+    "subWords": {}
+  },
+  {
     "word": "benefit",
     "pronunciation": "'benefit",
     "translates": {
@@ -2832,7 +2840,7 @@
     }
   },
   {
-    "word": "bown",
+    "word": "blown",
     "pronunciation": "blon",
     "translates": {
       "adjective": "دمیده شده ، ورم کرده",
@@ -3393,6 +3401,14 @@
     "pronunciation": "'baondles",
     "translates": {
       "adjective": "بی کران ، بی پایان ، خارج از حدود"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "bounty",
+    "pronunciation": "'baonti",
+    "translates": {
+      "noun":"جایزه ، بخشش ، سخاوت ، وفور ، بخشندگی ، انعام ، شهامت"
     },
     "subWords": {}
   },

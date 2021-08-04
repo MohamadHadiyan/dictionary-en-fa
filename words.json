@@ -2191,5 +2191,436 @@
       "transitive-verb": "انتخاب کردن ، برگزیدن ، پسندیدن"
     },
     "subWords": {}
+  },
+  {
+    "word": "chop",
+    "pronunciation": "cha^p",
+    "translates": {
+      "transitive-verb": "بریدن ، تکه کردن ، قطع کردن ، ریز ریز کردن ، خرد کردن ‌، زدن ، غذا خوردن",
+      "noun": "گوشت دنده ، گوشت با استخوان ، ضربت ، غذا"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "choral",
+    "pronunciation": "'kora^l",
+    "translates": {
+      "noun": "کرال ، مجموعه خوانندگان",
+      "adjective": "همراه با کُر ، دسته سرایندگان ، [ مربوط به ] کُر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chore",
+    "pronunciation": "chor",
+    "translates": {
+      "noun": "کارهای عادی و روزمره ، خرده کاری ، کار ، کارِ خونه ، کار شاق ، کار زورکی ، کار مشکل"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chorus",
+    "pronunciation": "'kores",
+    "translates": {
+      "noun": "گروه کُر ، همخوانی ، برگردانِ جمعی ، هم سرایان ، موسقی کر ، هم سرایی",
+      "transitive-verb": "هم سرایی کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chose",
+    "pronunciation": "choz",
+    "translates": {
+      "past-tens": "گذشته فعل choose ( انتخاب کرد )"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chosen",
+    "pronunciation": "'chozen",
+    "translates": {
+      "past-participle": "اسم مفعول فعل choose ( انتخاب شده )"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "christ",
+    "pronunciation": "kra^yst",
+    "translates": {
+      "noun": "مسیح ، عیسی مسیح ، تمثال مسیح"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "christen",
+    "pronunciation": "'krisen",
+    "translates": {
+      "transitive-verb": "غسل تمعید دادن ، نام گذاری کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Christian",
+    "pronunciation": "'krischen",
+    "translates": {
+      "adjective": "مسیحی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Christianity",
+    "pronunciation": "kristi'yaniti",
+    "translates": {
+      "noun": "مسیحیت ، دین مسیح"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Christmas",
+    "pronunciation": "'krismas",
+    "translates": {
+      "noun": "کریسمس ، عید میلاد مسیح"
+    },
+    "subWords": {
+      "subWord0":"Christmas Day",
+      "subTranslate0":"روز کریسمس"
+    }
+  },
+  {
+    "word": "chronic",
+    "pronunciation": "'kra^nik",
+    "translates": {
+      "adjective": "مزمن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chuckle",
+    "pronunciation": "'cha^kel",
+    "translates": {
+      "intransitive-verb": "خندیدن ، ( با دهن بسته ) خندیدن ، پیش خود خندیدن",
+      "noun": "خنده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chum",
+    "pronunciation": "cha^m",
+    "translates": {
+      "transitive-verb": "رفیق بودن ، با هم زندگی کردن ، خوش آمد گویی کردن",
+      "noun": "دوست ، رفیق ، هم اطاق"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "chunk",
+    "pronunciation": "cha^nk",
+    "translates": {
+      "noun": "تکه ، قطعه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "church",
+    "pronunciation": "cherch",
+    "translates": {
+      "noun": "کلیسا",
+      "adjective": "کلیسایی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "churchyard",
+    "pronunciation": "'cherchya^rd",
+    "translates": {
+      "noun": "حیاط کلیسا ، قبرستان کلیسا ، حصار کلیسا"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cider",
+    "pronunciation": "'sa^yder",
+    "translates": {
+      "noun": "شراب سیب"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cigar",
+    "pronunciation": "si'ga^r",
+    "translates": {
+      "noun": "سیگار ، سیگار برگ"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cigarette",
+    "pronunciation": "sig'ret",
+    "translates": {
+      "noun": "سیگار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cinder",
+    "pronunciation": "'sinder",
+    "translates": {
+      "noun": "چوب نیمسوز ، زغال نیمسوز ، خاکستر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cine camera",
+    "pronunciation": "'sini kamera^",
+    "translates": {
+      "noun": "دوربین فیلم برداری"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cinema",
+    "pronunciation": "'sinima^",
+    "translates": {
+      "noun": "سینما"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "circle",
+    "pronunciation": "'serkel",
+    "translates": {
+      "noun": "دایره ، دور ، محیط ، محفل ، گروه ، جمع",
+      "transitive-verb": "حلقه زدن ، دایره کشیدن دورِ"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "circuit",
+    "pronunciation": "'serkit",
+    "translates": {
+      "noun": "مدار ، جریان ، محیط ، گشت ، گردش"
+    },
+    "subWords": {
+      "subWord0": "closed circuit",
+      "subTranslate0": "مدار بسته"
+    }
+  },
+  {
+    "word": "circular",
+    "pronunciation": "'serkyuler",
+    "translates": {
+      "adjective": "گرد ، مدور ، حلقوی ، دوری ، چرخشی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "circulate",
+    "pronunciation": "'serkyuleyt",
+    "translates": {
+      "intransitive-verb": "پخش شدن ، جریان داشتن ، جریان یافتن ، جریان پیدا کردن",
+      "transitive-verb": "پخش کردن ، به جریان انداختن ، به گردش در آوردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "circumference",
+    "pronunciation": "ser'ka^mferenc",
+    "translates": {
+      "noun": "دور ، محیط دایره ، محیط ، پیرامون"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "circumstances",
+    "pronunciation": "'serkemstansiz",
+    "translates": {
+      "noun": "موقعیت ، اوضاع ، شرایط ، وضع ، چگونگی ، واقعیت ، علل ، موجبات"
+    },
+    "subWords": {
+      "subWord0": "in ( or under ) no circumstances ",
+      "subTranslate0": "به هیچ وجه ، هرگز ، تحت هیچ شرایطی",
+      "subWord1": "in ( or under ) the circumstances",
+      "subTranslate1": "در این وضع ، تحت این شرایط"
+    }
+  },
+  {
+    "word": "circus",
+    "pronunciation": "'serkes",
+    "translates": {
+      "noun": "سیرک ، میدان"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cistern",
+    "pronunciation": "'sistern",
+    "translates": {
+      "noun": "منبع آب ، مخزن آب ، آب انبار ، [ توالت ] سیفون"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "citizen",
+    "pronunciation": "'sitizen",
+    "translates": {
+      "noun": "شهروند ، اهلِ ، تبعه ، غیر نظامی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "city",
+    "pronunciation": "'siti",
+    "translates": {
+      "noun": "شهر ، مردم شهر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "civic",
+    "pronunciation": "'sivik",
+    "translates": {
+      "adjective": "شهری ، [ مربوط به ] شهر ، شهروندی ، اجتماعی ، محلی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "civil",
+    "pronunciation": "'sivil",
+    "translates": {
+      "adjective": "مدنی ، کشوری ، غیر نظامی ، حقوقی ، مؤدب ، با نزاکت ، مؤدبانه"
+    },
+    "subWords": {
+      "subWord0": "civil defense",
+      "subTranslate0": "دفاع غیر نظامی",
+      "subWord1": "civil servant",
+      "subTranslate1": "کارمند دولت",
+      "subWord2": "civil service",
+      "subTranslate2": "ادارات دولتی ، سازمان های دولتی"
+    }
+  },
+  {
+    "word": "civilian",
+    "pronunciation": "si'viliyen",
+    "translates": {
+      "adjective": "غیر نظامی ، شخصی",
+      "noun": "[ شخص ] غیر نظامی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "civilization",
+    "pronunciation": "sivila^y'zeyshen",
+    "translates": {
+      "noun": "تمدن ، فرهنگ ، مدنیت ، ادب ، دنیای متمدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "civilize",
+    "pronunciation": "'sivila^yz",
+    "translates": {
+      "transitive-verb": "متمدن کردن ، تربیت کردن",
+      "intransitive-verb": "متمدن شدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clad",
+    "pronunciation": "klad",
+    "translates": {
+      "adjective": "ملبس ( به ) ، پوشیده ، مزین ( به )"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "claim",
+    "pronunciation": "kleym",
+    "translates": {
+      "noun": "ادعا ، مطالبه ، درخواست ، تقاظا ، دعوی ، مدعی ، خسارت",
+      "transitive-verb": "ادعا کردن ، درخواست کردن ، مطالبه کردن ، نیاز داشتن ، به عهده گردفتن"
+    },
+    "subWords": {
+      "subWord0": "put in ( or make ) a claim",
+      "subTranslate0": "ادعای خسارت کردن"
+    }
+  },
+  {
+    "word": "clam",
+    "pronunciation": "klam",
+    "translates": {
+      "noun": "صدف خوراکی ، گوشت صدف ، خسیس",
+      "transitive-verb": "به چنگال گرفتن ، محکم گرفتن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clamber",
+    "pronunciation": "'klamber",
+    "translates": {
+      "intransitive-verb": "خود را بالا کشیدن ، بالا رفتن ، به سختی بالا رفتن ، با دست و پا بالا رفتن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clammy",
+    "pronunciation": "'klami",
+    "translates": {
+      "adjective": "عرق کرده ، مرطوب ، نمناک ، چسبناک ، لزج ، آهسته رو"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clan",
+    "pronunciation": "klan",
+    "translates": {
+      "noun": "طایفه ، ایل ، جماعت ، قبیله ، خاندان"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clang",
+    "pronunciation": "klang",
+    "translates": {
+      "noun": "( صدای ) دنگ ، ( صدای ) دنگ دنگ ، ( صدای ) شیپور",
+      "intransitive-verb": "دنگ دنگ صدا کردن",
+      "transitive-verb": "دنگی به صدا در آوردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clap",
+    "pronunciation": "klap",
+    "translates": {
+      "transitive-verb": "کف زدن ، دست زدن ( برای ) ، به هم زدن ، زدن",
+      "noun": "کف زدن ، کف ، ترق ترق ، صدای ناگهانی ، [ عامیانه ] سوزاک"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clarinet",
+    "pronunciation": "klari'net",
+    "translates": {
+      "noun": "کلارینت ، قره نی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clash",
+    "pronunciation": "klash",
+    "translates": {
+      "intransitive-verb": "رو در رو شدن ، برخورد کردن ، ( با هم ) درگیر شدن ، نزاع کردن ، مشاجره کردن ، جور نبودن ، مصادف شدن ، به هم خوردن",
+      "transitive-verb": "به هم زدن",
+      "noun": "برخورد ، درگیری ، مشاجره ، تصادم ، نزاع ، اختلاف ، ناجوری ، ( صدای ) دنگ دنگ"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clasp",
+    "pronunciation": "kla^sp",
+    "translates": {
+      "transitive-verb": "گرفتن ، محکم گرفتن ، در دست گرفتن ، بغل کردن ، در آغوش گرفتن ، بستن",
+      "noun": "قلاب ، قزن ( قفلی ) ، گیره قزن قفلی ، بغل"
+    },
+    "subWords": {}
   }
 ]
