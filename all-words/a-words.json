@@ -2093,6 +2093,14 @@
     "subWords": {}
   },
   {
+    "word": "altruist",
+    "pronunciation": "altro'ist",
+    "translates": {
+      "noun": "نوع دوست"
+    },
+    "subWords": {}
+  },
+  {
     "word": "aluminium",
     "pronunciation": "alyu'miniyem",
     "translates": {
@@ -4398,6 +4406,23 @@
     "subWords": {}
   },
   {
+    "word": "audio",
+    "pronunciation": "'a^dio",
+    "translates": {
+      "adjective": "سمعی ، شنودی",
+      "noun": "شنیداری"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "audio bubble",
+    "pronunciation": "'a^dio ba^bl",
+    "translates": {
+      "noun": "حباب صدا"
+    },
+    "subWords": {}
+  },
+  {
     "word": "audit",
     "pronunciation": "'a^det",
     "translates": {
@@ -4509,7 +4534,15 @@
     "word": "autobiography",
     "pronunciation": "otoba^y'a^grafi",
     "translates": {
-      "noun": "زندگی نامه شخصی"
+      "noun": "زندگینامه شخصی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "autobiographer",
+    "pronunciation": "otoba^y'a^grafer",
+    "translates": {
+      "noun": "زندگینامه نویس ، نویسنده شرح حال خود ، خود زیستنامه نویس "
     },
     "subWords": {}
   },

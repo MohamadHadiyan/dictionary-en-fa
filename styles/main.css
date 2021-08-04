@@ -92,7 +92,7 @@ button {
 .viewContainer {
   border: 1px solid #ccc;
   border-radius: 3px;
-  margin: 10px auto;
+  margin: 10px auto 3em;
 }
 
 .container {
@@ -236,27 +236,43 @@ button {
 .wordContainer .mainWord table {
   width: 100%;
 }
+.wordContainer .mainWord table thead {
+  position: relative;
+}
+.wordContainer .mainWord table thead th {
+  font-weight: 600;
+  text-align: left;
+}
+.wordContainer .mainWord table thead .head-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0;
+  background: #0091ca;
+  transition: opacity 0.3s;
+}
+.wordContainer .mainWord table thead .head-overlay:hover {
+  opacity: 0 !important;
+}
 .wordContainer .mainWord table tbody {
   display: inherit;
   position: relative;
   width: 100%;
 }
-.wordContainer .mainWord table tbody::after {
-  content: "HOVER ME";
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  height: 100%;
+.wordContainer .mainWord table tbody .body-overlay {
   position: absolute;
   top: 0;
   left: 0;
-  background-color: #00a6e8;
-  transition: all 0.3s ease-in-out;
+  right: 0;
+  bottom: 0;
+  opacity: 1;
+  background: #0091ca;
+  transition: opacity 0.3s;
 }
-.wordContainer .mainWord table tbody:hover::after {
-  opacity: 0;
-  background-color: transparent;
+.wordContainer .mainWord table tbody .body-overlay:hover {
+  opacity: 0 !important;
 }
 .wordContainer .mainWord table tbody td {
   border-top: 1px solid #ccc;

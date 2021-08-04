@@ -65,23 +65,23 @@ button {
   border-radius: 3px;
 }
 
-.formContainer{
+.formContainer {
   padding: 3px;
   margin-top: 20px;
   margin-bottom: 3px;
-  
+
   @media #{$mq-mobile-to-up} {
     padding: 8px;
   }
 }
 
-.viewContainer{
+.viewContainer {
   border: 1px solid #ccc;
   border-radius: 3px;
-  margin: 10px auto;
+  margin: 10px auto 3em;
 }
 
-.container{
+.container {
   padding: 8px;
 }
 
@@ -90,7 +90,6 @@ button {
   width: 100%;
   padding: 5px;
   border-bottom: 1px solid #ccc;
-
 }
 
 .option,
@@ -115,7 +114,7 @@ button {
     bottom: 0;
     appearance: none;
 
-    &:focus ~ .sign{
+    &:focus ~ .sign {
       box-shadow: 0 0 0 3px #00a6e8;
     }
 
@@ -169,11 +168,11 @@ button {
   }
 }
 
-.fieldset-option{
+.fieldset-option {
   padding: 0;
   border: 0;
 
-  &:hover{
+  &:hover {
     box-shadow: none;
   }
 }
@@ -227,28 +226,45 @@ button {
     table {
       width: 100%;
 
+      thead {
+        position: relative;
+        th {
+          font-weight: 600;
+          text-align: left;
+        }
+
+        .head-overlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          opacity: 0;
+          background: #0091ca;
+          transition: opacity 0.3s;
+          &:hover {
+            opacity: 0 !important;
+          }
+        }
+      }
+
       tbody {
         display: inherit;
         position: relative;
         width: 100%;
 
-        &::after {
-          content: "HOVER ME";
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          width: 100%;
-          height: 100%;
+        .body-overlay {
           position: absolute;
           top: 0;
           left: 0;
-          background-color: #00a6e8;
-          transition: all 0.3s ease-in-out;
-        }
-
-        &:hover::after {
-          opacity: 0;
-          background-color: transparent;
+          right: 0;
+          bottom: 0;
+          opacity: 1;
+          background: #0091ca;
+          transition: opacity 0.3s;
+          &:hover {
+            opacity: 0 !important;
+          }
         }
 
         td {
@@ -334,16 +350,16 @@ button {
     background-color: #eee;
   }
 
-  &:focus{
+  &:focus {
     box-shadow: 0 0 0 3px #00a6e8b6;
     border: 0;
 
-    &::before{
+    &::before {
       background-color: #00a6e8b6;
     }
 
     &::before,
-    &::after{
+    &::after {
       border-color: #00a6e8b6;
     }
   }
@@ -420,7 +436,7 @@ button {
   border-radius: 2px;
   outline: 0;
 
-  &:focus{
+  &:focus {
     box-shadow: 0 0 0 3px #00a6e8b6;
   }
 
@@ -519,7 +535,7 @@ button {
       margin: 3px;
       outline: 0;
 
-      &:focus{
+      &:focus {
         box-shadow: 0 0 0 3px #00e8a2b2;
       }
 
@@ -554,7 +570,7 @@ button {
       margin: 0;
       outline: 0;
 
-      &:focus{
+      &:focus {
         box-shadow: 0 0 0 3px #e8000083;
       }
     }
@@ -582,7 +598,7 @@ button {
         background-color: #dfdfdf;
       }
 
-      &:focus{
+      &:focus {
         box-shadow: 0 0 0 3px #00a6e89a;
       }
     }
