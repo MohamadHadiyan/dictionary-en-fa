@@ -38,28 +38,28 @@
             <div class="groupArea">
               <fieldset class="translateFieldset" id="translateFieldset">
                 <legend>Grammerical</legend>
-                <label for="noun">
+                <label for="noun" title="Ctrl + Alt + J">
                   <div class="fieldset-option">
                     <input type="checkbox" id="noun" name="noun" />
                     <div class="sign"></div>
                     <span>(n) noun -- اسم</span>
                   </div>
                 </label>
-                <label for="adjective">
+                <label for="adjective" title="Ctrl + Alt + K">
                   <div class="fieldset-option">
                     <input type="checkbox" id="adjective" name="adjective" />
                     <div class="sign"></div>
                     <span>(adj) adjective -- صفت</span>
                   </div>
                 </label>
-                <label for="adverb">
+                <label for="adverb" title="Ctrl + Alt + L">
                   <div class="fieldset-option">
                     <input type="checkbox" id="adverb" name="adverb" />
                     <div class="sign"></div>
                     <span>(adv) adveb -- قید</span>
                   </div>
                 </label>
-                <label for="transitive-verb">
+                <label for="transitive-verb" title="Ctrl + Alt + O">
                   <div class="fieldset-option">
                     <input
                       type="checkbox"
@@ -70,7 +70,7 @@
                     <span>(vt) transitive verb -- فعل متعدی</span>
                   </div>
                 </label>
-                <label for="intransitive-verb">
+                <label for="intransitive-verb" title="Ctrl + Alt + I">
                   <div class="fieldset-option">
                     <input
                       type="checkbox"
@@ -180,7 +180,14 @@
             <div class="groupArea">
               <div class="subWordInputsArea">
                 <div class="subWordInputs" id="subWordInputs"></div>
-                <button type="button" id="addSubWord" class="button" title="Add subword (Ctrl+M)">+</button>
+                <button
+                  type="button"
+                  id="addSubWord"
+                  class="button"
+                  title="Add subword (Ctrl+M)"
+                >
+                  +
+                </button>
               </div>
             </div>
           </div>
@@ -203,7 +210,18 @@
             <div class="sign"></div>
             <span>Persian</span>
           </label>
-          <span class="option" id="word-index"></span>
+          <label for="rand-option" class="option">
+            <input type="checkbox" name="rand-radio" id="rand-option" />
+            <div class="sign"></div>
+            <span>Random</span>
+          </label>
+          <button class="option btn-option" id="first-word" title="First word">
+            First
+          </button>
+          <input type="text" class="option text-option" size="2" id="word-index" />
+          <button class="option btn-option" id="last-word" title="Last word">
+            Last
+          </button>
         </div>
         <div class="container">
           <button class="prev"></button>

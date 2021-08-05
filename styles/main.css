@@ -114,11 +114,15 @@ button {
   margin-right: 8px;
   border: 1px solid #ccc;
   border-radius: 4px;
+  font-weight: 600;
   cursor: pointer;
   transition: all 0.3s;
+  outline: 0;
 }
-.option input,
-.fieldset-option input {
+.option input[type=checkbox],
+.option input[type=radio],
+.fieldset-option input[type=checkbox],
+.fieldset-option input[type=radio] {
   padding: 0;
   margin: 0;
   outline: 0;
@@ -129,16 +133,22 @@ button {
   bottom: 0;
   appearance: none;
 }
-.option input:focus ~ .sign,
-.fieldset-option input:focus ~ .sign {
+.option input[type=checkbox]:focus ~ .sign,
+.option input[type=radio]:focus ~ .sign,
+.fieldset-option input[type=checkbox]:focus ~ .sign,
+.fieldset-option input[type=radio]:focus ~ .sign {
   box-shadow: 0 0 0 3px #00a6e8;
 }
-.option input:checked ~ .sign,
-.fieldset-option input:checked ~ .sign {
+.option input[type=checkbox]:checked ~ .sign,
+.option input[type=radio]:checked ~ .sign,
+.fieldset-option input[type=checkbox]:checked ~ .sign,
+.fieldset-option input[type=radio]:checked ~ .sign {
   background-color: #00a6e8;
 }
-.option input:checked ~ .sign::after,
-.fieldset-option input:checked ~ .sign::after {
+.option input[type=checkbox]:checked ~ .sign::after,
+.option input[type=radio]:checked ~ .sign::after,
+.fieldset-option input[type=checkbox]:checked ~ .sign::after,
+.fieldset-option input[type=radio]:checked ~ .sign::after {
   opacity: 1;
 }
 .option .sign,
@@ -170,7 +180,6 @@ button {
 .fieldset-option span {
   user-select: none;
   color: #555;
-  font-weight: 600;
 }
 .option:hover .sign,
 .fieldset-option:hover .sign {
@@ -179,6 +188,17 @@ button {
 .option:hover,
 .fieldset-option:hover {
   box-shadow: 0 0 8px #0002;
+}
+
+.btn-option,
+.text-option {
+  align-items: center;
+  background-color: #fff;
+}
+.btn-option:focus,
+.text-option:focus {
+  border-color: transparent;
+  box-shadow: 0 0 0 3px #00a6e89a;
 }
 
 .fieldset-option {

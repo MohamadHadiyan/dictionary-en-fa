@@ -2622,5 +2622,388 @@
       "noun": "قلاب ، قزن ( قفلی ) ، گیره قزن قفلی ، بغل"
     },
     "subWords": {}
+  },
+  {
+    "word": "class",
+    "pronunciation": "klas",
+    "translates": {
+      "noun": "[ آموزش ] کلاس ، طبقه ، درجه ، رده ، نوع",
+      "transitive-verb": "طبقه بندی کردن ، نامیدن ، شناختن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "classic",
+    "pronunciation": "'klasik",
+    "translates": {
+      "adjective": "کلاسیک",
+      "noun": "اثر کلاسیک"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "classical",
+    "pronunciation": "'klasikal",
+    "translates": {
+      "adjective": "کلاسیک ، باستانی ، اصیل ، تاریخی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "classification",
+    "pronunciation": "klasifi'keyshen",
+    "translates": {
+      "noun": "طبقه بندی ، رده بدنی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "classify",
+    "pronunciation": "klasifa^y",
+    "translates": {
+      "transitive-verb": "طبقه بندی کردن ، رده بندی کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "classroom",
+    "pronunciation": "'klas.rum",
+    "translates": {
+      "noun": "کلاس ، کلاس درس"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clatter",
+    "pronunciation": "'klater",
+    "translates": {
+      "noun": "( صدای ) تلق تولوق ، ( صدای ) گُرپ گُرپ",
+      "intransitive-verb": "تلق تولوق کردن ، گُرپ گُرپ کردن ، شلوغ کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "claws",
+    "pronunciation": "kloz",
+    "translates": {
+      "noun": "پنجه ، چنگ ، چنگال ، قلاب چنگک"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clay",
+    "pronunciation": "kley",
+    "translates": {
+      "noun": "خاک رُس ، گِل رُس"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clean",
+    "pronunciation": "kliin",
+    "translates": {
+      "adjective": "تمیز ، پاک ، پاکیزه ، نو ، تازه ",
+      "transitive-verb": "تمیز کردن ، پاک کردن ، شستن",
+      "noun": "تمیز"
+    },
+    "subWords": {
+      "subWord0": "clean up",
+      "subTranslate0": "تر و تمیز کردن ، مرتب کردن"
+    }
+  },
+  {
+    "word": "cleaner",
+    "pronunciation": "'kliiner",
+    "translates": {
+      "noun": "تمیز کننده ، خشک شویی ، جارو برقی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cleanliness",
+    "pronunciation": "'klenlinis",
+    "translates": {
+      "noun": "تمیزی ، پاکیزگی ،‌ طهارت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cleanly",
+    "pronunciation": "'klenli",
+    "translates": {
+      "adjective": "تمیز",
+      "adverb": "به آسانی ، به راحتی ، صاف ، خوب ، درست"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clear",
+    "pronunciation": "'kliyer",
+    "translates": {
+      "adjective": "واضح ، شفاف ، صاف ، آفتابی ، روشن ، معلوم ، فصیح ، خلوت ، کامل ، تمام",
+      "transitive-verb": "پاک کردن ، روشن کردن ، واضح کردن ، تبرئه کردن ، از کنار ( چیزی ) گذشتن ، از بالای ( چیزی ) پریدن ، تشریفات گمرکی ( چیزی را )‌ انجام دادن ، (از گمرک ) گذشتن ، تمیز کردن ، [ میز ] جمع کردن ، [ هوا ، آسمان ] باز شدن ، آفتابی شدن ، [ ابر و مه ] پراکنده شدن ، [ چک ] پایاپای کردن ، واریز کردن",
+      "adverb": "روشن ، واضح ، به وضوح ، کاملاً ، دور از"
+    },
+    "subWords": {
+      "subWord0": "for two clear days",
+      "subTranslate0": "دو روز تمام",
+      "subWord1": "keep clear of",
+      "subTranslate1": "فاصله گرفتن از ، دوری یا پرهیز کردن از",
+      "subWord2": "clear off",
+      "subTranslate2": "بزن به چاک",
+      "subWord3": "clear out",
+      "subTranslate3": "در رفتن ، به چاک زدن",
+      "subWord4": "clear the table",
+      "subTranslate4": "میز ( غذا ) را جمع کردن",
+      "subWord5": "clear up",
+      "subTranslate5": "باز شدن ، روشن شدن"
+    }
+  },
+  {
+    "word": "clearance",
+    "pronunciation": "'kliyerens",
+    "translates": {
+      "noun": "ترخیص ، ترخیص کالا از گمرک ، اجازه ، [ محیط ] پاکسازی ، [ چک ] تهاتر"
+    },
+    "subWords": {
+      "subWord0": "clearance sale",
+      "subTranslate0": "حراج"
+    }
+  },
+  {
+    "word": "clearing",
+    "pronunciation": "'kliyering",
+    "translates": {
+      "noun": "تمیز کردن ، پاکسازی ، خانه تکانی ، تهاتر ، نقل و انتقال بانکی ، تسویه ، تسطیح"
+    },
+    "subWords": {
+      "subWord0": "clearinghouse",
+      "subTranslate0": "[ بازرگانی ] اتاق پایاپای ، اتاق تهاتر"
+    }
+  },
+  {
+    "word": "clearly",
+    "pronunciation": "'kliyerli",
+    "translates": {
+      "adverb": "روشن ، به وضوح ، واضح ، مسلماً ، آشکارا"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clench",
+    "pronunciation": "klench",
+    "translates": {
+      "transitive-verb": "محکم گرفتن ، گره زدن ، چنگ زدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clergy",
+    "pronunciation": "'klerji",
+    "translates": {
+      "noun": "روحانیون ، روحانیت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clergyman",
+    "pronunciation": "'klerjimen",
+    "translates": {
+      "noun": "روحانی ، کشیش"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clerk",
+    "pronunciation": "klerk",
+    "translates": {
+      "noun": "منشی ، کارمند"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clever",
+    "pronunciation": "'klever",
+    "translates": {
+      "adjective": "باهوش ، زرنگ ، بااستعداد ، زیرک ، فرز ، چالاک"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cleverly",
+    "pronunciation": "'kleverli",
+    "translates": {
+      "adverb": "ماهرانه ، هوشمندانه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "click",
+    "pronunciation": "klik",
+    "translates": {
+      "noun": "( صدای ) تیلیک",
+      "intransitive-verb": "تیلیکی کردن ، تقی صدا کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "client",
+    "pronunciation": "'kla^yen",
+    "translates": {
+      "noun": "مشتری ، موکل ، مراجع"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cliff",
+    "pronunciation": "klif",
+    "translates": {
+      "noun": "صخره ، پرتگاه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "climate",
+    "pronunciation": "'kla^ymit",
+    "translates": {
+      "noun": "اقلیم ، آب و هوا ، شرایط اقلیمی ، اوضاع"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "climb",
+    "pronunciation": "kla^ym",
+    "translates": {
+      "transitive-verb": "بالا رفتن ، بالا آمدن ، رفتن ، آمدن ، کوه نوردی کردن ، از کوه بالا رفتن ، سربالا رفتن ، ترقی کردن ، افزایش یافتن ، ارتقا یافتن ",
+      "noun": "صعود ، ارتقا"
+    },
+    "subWords": {
+      "subWord0": "climb down",
+      "subTranslate0": "پایین آمدن از ، کوتاه آمدن ، جا زدن"
+    }
+  },
+  {
+    "word": "climber",
+    "pronunciation": "kla^ymer",
+    "translates": {
+      "noun": "بالا رونده ، کوهنورد ، گیاه بالا رونده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cling",
+    "pronunciation": "kling",
+    "translates": {
+      "intransitive-verb": "چسبیدن به ، محکم گرفتن ، وفادار بودن ، پیوستن ، دست برنداشتن از"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clinic",
+    "pronunciation": "'klinik",
+    "translates": {
+      "noun": "درمانگاه ، کلینیک ، مطب ، بیمارستان"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clip",
+    "pronunciation": "klip",
+    "translates": {
+      "noun": "کلیپ ، گیره",
+      "transitive-verb": "گیره زدن ، چیدن ، کوتاه کردن",
+      "intransitive-verb": "با گیره چسبیدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cloak",
+    "pronunciation": "klok",
+    "translates": {
+      "noun": "شنل ، عبا ، پوشش ، پرده ، لفافه ، حجاب"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cloakroom",
+    "pronunciation": "'klokr.rum",
+    "translates": {
+      "noun": "رختکن ، دستشویی ، توالت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clock",
+    "pronunciation": "kla^k",
+    "translates": {
+      "noun": "ساعت ( به جز ساعت مچی ) ، سرعت سنج",
+      "transitive-verb": "وقت گرفتن"
+    },
+    "subWords": {
+      "subWord0": "clock in ( or on )",
+      "subTranslate0": "[ محل کار ] کارت ( ورود ) زدن ، وارد شدن",
+      "subWord1": "clock off ( or out )",
+      "subTranslate1": "کارت ( خروج ) زدن ، خارج شدن"
+    }
+  },
+  {
+    "word": "clockwise",
+    "pronunciation": "'kla^kwa^yz",
+    "translates": {
+      "adverb": "در جهت حرکت عقربه های ساعت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clockwork",
+    "pronunciation": "'kla^kwerk",
+    "translates": {
+      "noun": "چرخ های ساعت ، ساعت گردان ، کوکی ، ساعت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clod",
+    "pronunciation": "kla^d",
+    "translates": {
+      "noun": "کلوخ ، لخته ، خاک ، ( آدم ) هالو"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clog",
+    "pronunciation": "kla^g",
+    "translates": {
+      "transitive-verb": "پر کردن ، مسدود کردن ، بستن ، از حرکت باز _ داشتن ، متوقف کردن",
+      "intransitive-verb": "بند آمدن ، لخته شدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clogs",
+    "pronunciation": "kla^gs",
+    "translates": {
+      "noun": "کفش چوبی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "close",
+    "pronunciation": "klos",
+    "translates": {
+      "transitive-verb": "بستن ، بسته شدن ، پایان دادن ، به پایان بردن ، ختم کردن ",
+      "intransitive-verb": "نزدیک شدن",
+      "adjective": "نزدیک ، صمیمی ، نزدیکِ هم ، تنگِ هم ، خودمانی ، [ هوا ] خفه ، دم کرده ، گرفته ، سنگین ، تنگاتنگ ، نزدیک به هم",
+      "adverb": "نزدیک",
+      "noun": "محوطه ، پایان ، خاتمه ، آخر"
+    },
+    "subWords": {
+      "subWord1": "close down",
+      "subTranslate1": "[ برنامه های رادیو و تلویزیون ] به پایان رسیدن",
+      "subWord2": "close in ( or on )",
+      "subTranslate2": "[ روز ] کوتاه شدن",
+      "subWord3": "close to",
+      "subTranslate3": "نزدیک به ، نزدیکِ"
+    }
   }
 ]
