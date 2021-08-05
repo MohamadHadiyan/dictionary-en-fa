@@ -5,6 +5,7 @@ let words = [];
 let subWordInputCount = 0;
 let subTransInputCount = 0;
 const translateInputs = [];
+const randomOption = el("#rand-option");
 
 document.addEventListener("DOMContentLoaded", () =>
   loadData().then(() => {
@@ -13,26 +14,71 @@ document.addEventListener("DOMContentLoaded", () =>
   })
 );
 
-document.addEventListener("keydown", (e) => {
-  if (e.code === "KeyM" && (e.ctrlKey || e.metaKey)) {
-    addSubWord();
-  }
-});
+document.addEventListener("keydown", handleKeyDown);
 
 el("#save").onclick = saveAllWords;
 el("#wordForm").onsubmit = addWords;
-el(".prev").onclick = () => showTranslate(--id);
-el(".next").onclick = () => showTranslate(++id);
+el(".prev").onclick = showPrevWord;
+el(".next").onclick = showNextWord;
 el("#toggle-form-btn").onclick = toggleForm;
 el("#addSubWord").addEventListener("click", addSubWord);
+el("#first-word").onclick = () => goTo(0);
+el("#last-word").onclick = () => goTo(words.length - 1);
+el("#word-index").onchange = (e) => goTo(Number(e.target.value));
+
 Array.from(elms('.translateFieldset input[type="checkbox"]')).map((elm) =>
   elm.addEventListener("change", addTranslateInput)
 );
 
 handleChangeLangOptions();
+function handleKeyDown(e) {
+  if (e.code === "KeyM" && (e.ctrlKey || e.metaKey)) {
+    addSubWord();
+  } else if (e.code === "KeyJ" && (e.ctrlKey || e.metaKey) && e.altKey) {
+    el("#noun").focus();
+  } else if (e.code === "KeyK" && (e.ctrlKey || e.metaKey) && e.altKey) {
+    el("#adjective").focus();
+  } else if (e.code === "KeyL" && (e.ctrlKey || e.metaKey) && e.altKey) {
+    el("#adverb").focus();
+  } else if (e.code === "KeyO" && (e.ctrlKey || e.metaKey) && e.altKey) {
+    el("#transitive-verb").focus();
+  } else if (e.code === "KeyI" && (e.ctrlKey || e.metaKey) && e.altKey) {
+    el("#intransitive-verb").focus();
+  }
+}
+function showNextWord() {
+  if (randomOption.checked) {
+    id = Math.floor(Math.random() * words.length);
+    showTranslate();
+  }
 
-function showTranslate(id) {
-  let content = showWords(id);
+  if (id > words.length - 2) return;
+
+  id++;
+  showTranslate();
+}
+
+function showPrevWord() {
+  if (randomOption.checked) {
+    id = Math.floor(Math.random() * words.length);
+    showTranslate();
+  }
+
+  if (id < 1) return;
+
+  id--;
+  showTranslate();
+}
+
+function goTo(index) {
+  if (isNaN(index)) return;
+
+  id = index < 0 ? 0 : index > words.length - 1 ? words.length - 1 : index;
+  showTranslate();
+}
+
+function showTranslate() {
+  let content = showWords();
 
   if (content) {
     el(".mainWord").innerHTML = content;
@@ -86,7 +132,6 @@ function addWords(e) {
     "success"
   );
 
-  this.word.value = this.pronunciation.value = "";
   Array.from(elms('input[type="checkbox"]'))
     .filter((elm) => elm.checked)
     .map((elm) => (elm.checked = false));
@@ -94,8 +139,9 @@ function addWords(e) {
   Array.from(elms('#translateFieldset input[type="text"]')).map((elm) =>
     elm.remove()
   );
-  el("#subWordInputs").innerHTML = "";
 
+  this.word.value = this.pronunciation.value = "";
+  el("#subWordInputs").innerHTML = "";
   el("#wordInput").focus();
   id++;
   subTransInputCount = 0;
@@ -103,72 +149,53 @@ function addWords(e) {
   showTranslate(words.length - 1);
 }
 
-function showWords(n) {
-  if (n < 0) {
-    ++id;
-    return;
-  }
-
-  if (n > words.length - 1) {
-    --id;
-    return;
-  }
-
-  function show(index) {
-    let [word, pronunciation] = Object.values(words[index]);
-
-    const row = (...content) =>
-      content.map(
-        (val) => `
+function showWords() {
+  el("#word-index").value = id;
+  const [word, pronunciation] = Object.values(words[id]);
+  const row = (...content) =>
+    content.map(
+      (val) => `
             <tr><th><span>${val}</span></th></tr>`
-      );
+    );
 
-    const transRows = (...entries) =>
-      entries.map(
-        (item) => ` 
+  const transRows = [...Object.entries(words[id].translates)]
+    .map(
+      (item) => ` 
             <tr>
                 <td><span>${item[0]}</span></td>
                 <td class="translates"><span>${item[1]}</span></td>
             </tr>`
-      );
+    )
+    .join("");
 
-    const subword = (arr, size) =>
-      Array.from({ length: Math.ceil(arr.length / size) }, (val, i) =>
-        arr.slice(i * size, i * size + size)
-      );
+  const subWord = (arr, size) =>
+    Array.from({ length: Math.ceil(arr.length / size) }, (val, i) =>
+      arr.slice(i * size, i * size + size)
+    );
 
-    el("#word-index").innerHTML= id;
+  const subRows = words[id].subWords
+    ? subWord(
+        Object.values(words[id].subWords).map(
+          (val) => `<td><span>${val}</span></td>`
+        ),
+        2
+      )
+        .map((val) => `<tr class="subWordRow">${val.join("")}</tr>`)
+        .join("")
+    : "";
 
-    return ` 
-        <table>
-            <thead>
-              <tr class="head-overlay"></tr>
-                ${row(word, pronunciation).join("")}
-            </thead>
-            <tbody>
-                ${transRows(...Object.entries(words[index].translates)).join(
-                  ""
-                )}
-                ${
-                  words[index].subWords
-                    ? subword(
-                        Object.values(words[index].subWords).map(
-                          (val) => `<td><span>${val}</span></td>`
-                        ),
-                        2
-                      )
-                        .map(
-                          (val) => `<tr class="subWordRow">${val.join("")}</tr>`
-                        )
-                        .join("")
-                    : ""
-                }
-                <tr class="body-overlay"></tr>
-            </tbody>
-        </table>`;
-  }
-
-  return show(n);
+  return ` 
+    <table>
+        <thead>
+          <tr class="head-overlay"></tr>
+            ${row(word, pronunciation).join("")}
+        </thead>
+        <tbody>
+            <tr class="body-overlay"></tr>
+            ${transRows}
+            ${subRows}
+        </tbody>
+    </table>`;
 }
 
 function handleChangeLangOptions() {
