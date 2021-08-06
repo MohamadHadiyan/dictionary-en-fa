@@ -36,145 +36,8 @@
               </label>
             </div>
             <div class="groupArea">
-              <fieldset class="translateFieldset" id="translateFieldset">
+              <fieldset class="translateFieldset" id="wordFiledset">
                 <legend>Grammerical</legend>
-                <label for="noun" title="Ctrl + Alt + J">
-                  <div class="fieldset-option">
-                    <input type="checkbox" id="noun" name="noun" />
-                    <div class="sign"></div>
-                    <span>(n) noun -- اسم</span>
-                  </div>
-                </label>
-                <label for="adjective" title="Ctrl + Alt + K">
-                  <div class="fieldset-option">
-                    <input type="checkbox" id="adjective" name="adjective" />
-                    <div class="sign"></div>
-                    <span>(adj) adjective -- صفت</span>
-                  </div>
-                </label>
-                <label for="adverb" title="Ctrl + Alt + L">
-                  <div class="fieldset-option">
-                    <input type="checkbox" id="adverb" name="adverb" />
-                    <div class="sign"></div>
-                    <span>(adv) adveb -- قید</span>
-                  </div>
-                </label>
-                <label for="transitive-verb" title="Ctrl + Alt + O">
-                  <div class="fieldset-option">
-                    <input
-                      type="checkbox"
-                      id="transitive-verb"
-                      name="transitive-verb"
-                    />
-                    <div class="sign"></div>
-                    <span>(vt) transitive verb -- فعل متعدی</span>
-                  </div>
-                </label>
-                <label for="intransitive-verb" title="Ctrl + Alt + I">
-                  <div class="fieldset-option">
-                    <input
-                      type="checkbox"
-                      id="intransitive-verb"
-                      name="intransitive-verb"
-                    />
-                    <div class="sign"></div>
-                    <span>(vi) intransitive verb -- فعل لازم</span>
-                  </div>
-                </label>
-                <label for="preposition">
-                  <div class="fieldset-option">
-                    <input
-                      type="checkbox"
-                      id="preposition"
-                      name="preposition"
-                    />
-                    <div class="sign"></div>
-                    <span>(prep) preposition -- حرف اضافه</span>
-                  </div>
-                </label>
-                <label for="conjunction">
-                  <div class="fieldset-option">
-                    <input
-                      type="checkbox"
-                      id="conjunction"
-                      name="conjunction"
-                    />
-                    <div class="sign"></div>
-                    <span>(conj) conjunction -- حرف ربط</span>
-                  </div>
-                </label>
-                <label for="pronoun">
-                  <div class="fieldset-option">
-                    <input type="checkbox" id="pronoun" name="pronoun" />
-                    <div class="sign"></div>
-                    <span>(pron) pronoun -- ضمیر</span>
-                  </div>
-                </label>
-                <label for="past-tens">
-                  <div class="fieldset-option">
-                    <input type="checkbox" id="past-tens" name="past-tens" />
-                    <div class="sign"></div>
-                    <span>(p) past tens -- (زمان) گذشته</span>
-                  </div>
-                </label>
-                <label for="auxiliary-verb">
-                  <div class="fieldset-option">
-                    <input
-                      type="checkbox"
-                      id="auxiliary-verb"
-                      name="auxiliary-verb"
-                    />
-                    <div class="sign"></div>
-                    <span>(aux v) auxiliary verb -- فعل کمکی (معین)</span>
-                  </div>
-                </label>
-                <label for="past-participle">
-                  <div class="fieldset-option">
-                    <input
-                      type="checkbox"
-                      id="past-participle"
-                      name="past-participle"
-                    />
-                    <div class="sign"></div>
-                    <span>(pp) past participle -- اسم مفعول</span>
-                  </div>
-                </label>
-                <label for="prefix">
-                  <div class="fieldset-option">
-                    <input type="checkbox" id="prefix" name="prefix" />
-                    <div class="sign"></div>
-                    <span>prefix -- پیشوند</span>
-                  </div>
-                </label>
-                <label for="suffix">
-                  <div class="fieldset-option">
-                    <input type="checkbox" id="suffix" name="suffix" />
-                    <div class="sign"></div>
-                    <span>suffix -- پسوند</span>
-                  </div>
-                </label>
-                <label for="interjection">
-                  <div class="fieldset-option">
-                    <input
-                      type="checkbox"
-                      id="interjection"
-                      name="interjection"
-                    />
-                    <div class="sign"></div>
-                    <span>interjection -- صوت یا عبارت تعجبی</span>
-                  </div>
-                </label>
-                <label for="indefinite-article">
-                  <div class="fieldset-option">
-                    <input
-                      type="checkbox"
-                      id="indefinite-article"
-                      name="indefinite-article"
-                    />
-                    <div class="sign"></div>
-                    <span>indefinite article -- حرف تعریف</span>
-                  </div>
-                </label>
               </fieldset>
             </div>
             <div class="groupArea">
@@ -218,7 +81,12 @@
           <button class="option btn-option" id="first-word" title="First word">
             First
           </button>
-          <input type="text" class="option text-option" size="2" id="word-index" />
+          <input
+            type="text"
+            class="option text-option"
+            size="2"
+            id="word-index"
+          />
           <button class="option btn-option" id="last-word" title="Last word">
             Last
           </button>
@@ -234,6 +102,6 @@
         </div>
       </div>
     </div>
-    <script type="module" src="App.js"></script>
+    <script type="module" src="./js/App.js"></script>
   </body>
 </html>

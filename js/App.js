@@ -1,18 +1,29 @@
 import FarsiType from "./FarsiType.js";
+import {
+  arrayToObject,
+  el,
+  elms,
+  loadData,
+  newElm,
+  showAlert,
+} from "./utils.js";
+import {
+  addFieldsetOptions,
+  getTranslatesWord,
+  translateInputs,
+} from "./FieldsetOptions.js";
 
 let id = 0;
 let words = [];
 let subWordInputCount = 0;
 let subTransInputCount = 0;
-const translateInputs = [];
 const randomOption = el("#rand-option");
 
-document.addEventListener("DOMContentLoaded", () =>
-  loadData().then(() => {
-    id = words.length - 1;
-    showTranslate(id);
-  })
-);
+document.addEventListener("DOMContentLoaded", async () => {
+  words = await loadData();
+  id = words.length - 1;
+  showTranslate(id);
+});
 
 document.addEventListener("keydown", handleKeyDown);
 
@@ -26,11 +37,9 @@ el("#first-word").onclick = () => goTo(0);
 el("#last-word").onclick = () => goTo(words.length - 1);
 el("#word-index").onchange = (e) => goTo(Number(e.target.value));
 
-Array.from(elms('.translateFieldset input[type="checkbox"]')).map((elm) =>
-  elm.addEventListener("change", addTranslateInput)
-);
-
+addFieldsetOptions();
 handleChangeLangOptions();
+
 function handleKeyDown(e) {
   if (e.code === "KeyM" && (e.ctrlKey || e.metaKey)) {
     addSubWord();
@@ -112,20 +121,13 @@ function addWords(e) {
     return;
   }
 
-  const arrayToObject = (elmName) =>
-    Array.from(elms(elmName)).reduce(
-      (obj, elm) => ((obj[elm.name] = elm.value), obj),
-      {}
-    );
+  const inputs = [...elms("#wordAndPronunArea input")];
+  const subInputs = [...elms("#subWordInputs input")];
+  const phrase = arrayToObject(inputs);
 
-  let phrase = arrayToObject("#wordAndPronunArea input");
-  phrase.translates = translateInputs.reduce(
-    (acc, elm) => ((acc[elm.name] = elm.value), acc),
-    {}
-  );
-  phrase.subWords = arrayToObject("#subWordInputs input");
+  phrase.translates = getTranslatesWord();
+  phrase.subWords = arrayToObject(subInputs);
   words.push(phrase);
-  translateInputs.splice(0);
 
   showAlert(
     `<strong>${this.word.value}</strong> was successfully Added to the dictionary`,
@@ -136,7 +138,7 @@ function addWords(e) {
     .filter((elm) => elm.checked)
     .map((elm) => (elm.checked = false));
 
-  Array.from(elms('#translateFieldset input[type="text"]')).map((elm) =>
+  Array.from(elms('#wordFiledset input[type="text"]')).map((elm) =>
     elm.remove()
   );
 
@@ -254,73 +256,4 @@ function addSubWord() {
   subWordArea.lastElementChild.append(deleteInputBtn);
   subWordArea.lastElementChild.firstElementChild.lastElementChild.focus();
   FarsiType.init();
-}
-
-function addTranslateInput(e) {
-  if (e.target.checked) {
-    let elm = newElm("input", {
-      type: "text",
-      className: "formControl translateInput",
-      name: e.target.name,
-      lang: "fa-ir",
-    });
-
-    e.target.parentNode.parentNode.append(elm);
-    elm.focus();
-    translateInputs.push(elm);
-    FarsiType.init();
-  } else {
-    e.target.parentNode.parentNode.lastElementChild.remove();
-    const prevInputs = Object.assign(
-      [],
-      translateInputs.filter((elm) => elm.name !== e.target.name)
-    );
-    translateInputs.splice(0);
-    translateInputs.push(...prevInputs);
-  }
-}
-
-async function loadData() {
-  let res = await fetch("./words.json");
-  words = await res.json();
-}
-
-function showAlert(msg, type) {
-  let alert = newElm("div", {
-    innerHTML: msg,
-    className: `alert ${type}`,
-  });
-
-  el("body").prepend(alert);
-  setTimeout(() => alert.remove(), 3000);
-}
-
-function el(name) {
-  if (typeof name === "string") {
-    return document.querySelector(name);
-  }
-}
-
-function elms(name) {
-  if (typeof name === "string") {
-    return document.querySelectorAll(name);
-  }
-}
-
-function newElm(
-  name,
-  options = { innerHTML, className, type, id, name, lang },
-  listener = { event, func: "" }
-) {
-  if (typeof name !== "string") return;
-
-  let elm = document.createElement(name);
-
-  for (let [key, value] of Object.entries(arguments[1])) {
-    elm[key] = value;
-  }
-
-  listener.func && elm.addEventListener(listener.event, listener.func);
-
-  return elm;
 }

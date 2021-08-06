@@ -3005,5 +3005,422 @@
       "subWord3": "close to",
       "subTranslate3": "نزدیک به ، نزدیکِ"
     }
+  },
+  {
+    "word": "closet",
+    "pronunciation": "'kla^zit",
+    "translates": {
+      "noun": "کمد لباس ، کمد ( دیواری )‌ ، گنجه ، اتاق"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "closeup",
+    "pronunciation": "'klos a^p",
+    "translates": {
+      "noun": "نمای نزدیک ، نمای درشت ، نزدیک",
+      "adjective": "از جلو ، از نزدیک"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cloth",
+    "pronunciation": "kla^th",
+    "translates": {
+      "noun": "پارچه ، کهنه ، قماش ، دستمال ، جامه روحانیت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clothe",
+    "pronunciation": "klodh",
+    "translates": {
+      "transitive-verb": "لباس پوشیدن ، پوشاندن ، آراستن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clothes",
+    "pronunciation": "klodhz",
+    "translates": {
+      "noun": "رخت ، لباس"
+    },
+    "subWords": {
+      "subWord0": "work clothes",
+      "subTranslate0": "لباس کار"
+    }
+  },
+  {
+    "word": "clothing",
+    "pronunciation": "'klodhing",
+    "translates": {
+      "noun": "پوشاک ، لباس ، تن پوش"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cloud",
+    "pronunciation": "klaod",
+    "translates": {
+      "noun": "ابر ، خیل ، لکه ، سیاهی ، توده انبوه",
+      "intransitive-verb": "ابر شدن ، ابری شدن ، تیره شدن",
+      "transitive-verb": "تیر کردن"
+    },
+    "subWords": {
+      "subWord0": "cloud over",
+      "subTranslate0": "[ آسمان ] ابری شدن"
+    }
+  },
+  {
+    "word": "cloudy",
+    "pronunciation": "'klaodi",
+    "translates": {
+      "adjective": "ابری ، پوشیده از ابر ، کدر ، تیره ، نامشخص ، نامعلوم"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clover",
+    "pronunciation": "'klover",
+    "translates": {
+      "noun": "شبدر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clown",
+    "pronunciation": "klaon",
+    "translates": {
+      "noun": "دلقک ، مسخره"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "club",
+    "pronunciation": "kla^b",
+    "translates": {
+      "noun": "باشگاه ، کانون ، انجمن ، کلوب ، چماق ، گرز ، [ ورق بازی ] گشنیز",
+      "intransitive-verb": "پول روی هم گذاشتن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cluck",
+    "pronunciation": "kla^k",
+    "translates": {
+      "noun": "قُد قُد ، ( آدم ) احمق و رذل",
+      "intransitive-verb": "قُد قُد کردن ، غر غر کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clue",
+    "pronunciation": "kloo",
+    "translates": {
+      "noun": "سرنخ ، سر رشته ، گوی ، گلوله نخ ، کلید ، مدرک"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clump",
+    "pronunciation": "kla^mp",
+    "translates": {
+      "noun": "[ گیاه ] دسته ، کُپه ، توده ، انبوه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clumsy",
+    "pronunciation": "'kla^mzi",
+    "translates": {
+      "adjective": "دست و پا چلفتی ، ناشی ، ناشیانه ، بد ترکیب ، زمخت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clung",
+    "pronunciation": "kla^ng",
+    "translates": {
+      "adjective": "چسبیده ، متصل شده",
+      "past-tens": "گذشته فعل cling ( چسبیده )",
+      "past-participle": "اسم مفعول فعل cling"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cluster",
+    "pronunciation": "'kla^ster",
+    "translates": {
+      "noun": "خوشه ، دسته ، کپه ، گروه ، [ مجازی ] مشت",
+      "transitive-verb": "دسته کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "clutch",
+    "pronunciation": "kla^ch",
+    "translates": {
+      "noun": "[ اتومبیل ] کلاچ ، کلاج ، چنگال ، چنگ",
+      "transitive-verb": "گرفتن ، محکم گرفتن ، چنگ زدن به ، در چنگ گرفتن"
+    },
+    "subWords": {
+      "subWord0": "let in the clutch",
+      "subTranslate0": "کلاج گرفتن",
+      "subWord1": "let out the clutch",
+      "subTranslate1": "کلاج را رها کردن ، کلاج را وِل کردن"
+    }
+  },
+  {
+    "word": "coach",
+    "pronunciation": "koch",
+    "translates": {
+      "noun": "معلم خصوصی ، مربی ( ورزش ) ، اتوبوس ، [ قطار ] واگن ، دلیجان",
+      "transitive-verb": "تربیت کردن ، تعلیم دادن ، معلمی کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "coal",
+    "pronunciation": "kol",
+    "translates": {
+      "noun": "زغال سنگ ، زغال ، تکه زغال سنگ",
+      "transitive-verb": "زغال کردن ، زغال بار کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "coarse",
+    "pronunciation": "kors",
+    "translates": {
+      "adjective": "زمخت ، درشت ، زبر ، کلفت ، خشن ، بی ادبانه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "coast",
+    "pronunciation": "kost",
+    "translates": {
+      "noun": "ساحل ، کنار دریا",
+      "transitive-verb": "[ کشتی ] در امتداد ساحل راندن ، با دنده خلاص پایین آمدن",
+      "intransitive-verb": "مفت به چنگ آوردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "coat",
+    "pronunciation": "kot",
+    "translates": {
+      "noun": "پالتو ، کت ، لایه",
+      "transitive-verb": "پوشاندن ، روکش کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "coax",
+    "pronunciation": "koks",
+    "translates": {
+      "transitive-verb": "با چرب زبانی وادار ( به کاری ) کردن ، با نوازش وادار ( به کاری ) کردن ، با زبان خوش گفتن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cobbler",
+    "pronunciation": "'ka^bler",
+    "translates": {
+      "noun": "پینه دوز ، کیک کابلر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cobweb",
+    "pronunciation": "'ka^b.web",
+    "translates": {
+      "noun": "تار عنکبوت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cock",
+    "pronunciation": "ka^k",
+    "translates": {
+      "noun": "خروس ، [ در ترکیب ]‌ نر ، شیر ( آب و غیره )",
+      "transitive-verb": "کج کردن ، تیز کردن ، [ تفنگ ]‌ مسلح کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cocktail",
+    "pronunciation": "'ka^kteyl",
+    "translates": {
+      "noun": "کوکتل ، مخلوط ، مهمانی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cocoa",
+    "pronunciation": "'koko",
+    "translates": {
+      "noun": "کاکائو  ، پودر کاکائو ، شیر کاکائو"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "coconut",
+    "pronunciation": "'kokona^t",
+    "translates": {
+      "noun": "نارگیل"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cod",
+    "pronunciation": "ka^d",
+    "translates": {
+      "noun": "ماهیِ روغن ، ماهیِ کاد ، کیسه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "code",
+    "pronunciation": "kod",
+    "translates": {
+      "noun": "کد ، رمز ، قانون"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "coeducational",
+    "pronunciation": "ko-eju'keyshena^l",
+    "translates": {
+      "adjective": "[ مدرسه ، آموزش ] مختلط ، پسرانه ، دخترانه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "coffee",
+    "pronunciation": "'ka^fi",
+    "translates": {
+      "noun": "قهوه ، دانه قهوه"
+    },
+    "subWords": {
+      "subWord0": "black coffee",
+      "subTranslate0": "قهوه تلخ ، قهوه بی شیر",
+      "subWord1": "white coffe",
+      "subTranslate1": "شیر قهوه"
+    }
+  },
+  {
+    "word": "coffin",
+    "pronunciation": "'ka^fin",
+    "translates": {
+      "noun": "تابوت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "coil",
+    "pronunciation": "koyl",
+    "translates": {
+      "noun": "سیم پیچ ، حلقه ، کلاف ، فنر",
+      "transitive-verb": "حلقه کردن ، کلاف کردن ، حلقه زدن ، پیچیدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "coin",
+    "pronunciation": "koyn",
+    "translates": {
+      "noun": "سکه ، پول خرد"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "coincide",
+    "pronunciation": "koen'sa^yd",
+    "translates": {
+      "intransitive-verb": "برهم زدن ، مصادف شدن با ، منطبق شدن ، منطبق بودن بر ، با هم همزمان بودن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "coincidence",
+    "pronunciation": "ko'ensidens",
+    "translates": {
+      "noun": "اتفاق ، تصادف ، انطباق ، تطابق"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "coke",
+    "pronunciation": "kok",
+    "translates": {
+      "noun": "کُک ، زغال سنگ سوخته"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Coke",
+    "pronunciation": "kok",
+    "translates": {
+      "noun": "کوکا ، کوکا کولا"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "col",
+    "pronunciation": "ka^l",
+    "translates": {
+      "noun": "گردنه ، گدار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cold",
+    "pronunciation": "kold",
+    "translates": {
+      "adjective": "سرد ، خنک ، خشک ، بی احساس ، بی روح ، [ غذا ،‌ رنگ ] سرد",
+      "noun": "سرما ، هوای سرد ، سرماخوردگی"
+    },
+    "subWords": {
+      "subWord0": "get cold",
+      "subTranslate0": "سرد شدن",
+      "subWord1": "have a cold",
+      "subTranslate1": "سرما خوردن",
+      "subWord2": "I've got a bad cold",
+      "subTranslate2": "سرمای بدی خورده ام"
+    }
+  },
+  {
+    "word": "coldly",
+    "pronunciation": "'koldli",
+    "translates": {
+      "adverb": "با سردی ، به طور سرد"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "coldness",
+    "pronunciation": "'koldnes",
+    "translates": {
+      "noun": "سردی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "collaborate",
+    "pronunciation": "ke'labe.reyt",
+    "translates": {
+      "transitive-verb": "همکاری کردن ، همدستی کردن ، خبرچینی کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "collapse",
+    "pronunciation": "ke'laps",
+    "translates": {
+      "noun": "ریزش ، سقوط ، فروپاشی ، فروریختگی",
+      "intransitive-verb": "خراب شدن ، فرو ریختن ، ریختن ، [ قیمت ] سقوط کردن ، از هم پاشیدن"
+    },
+    "subWords": {}
   }
 ]
