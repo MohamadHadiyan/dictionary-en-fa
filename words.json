@@ -3422,5 +3422,361 @@
       "intransitive-verb": "خراب شدن ، فرو ریختن ، ریختن ، [ قیمت ] سقوط کردن ، از هم پاشیدن"
     },
     "subWords": {}
+  },
+  {
+    "word": "collapsible",
+    "pronunciation": "ko'lapsibel",
+    "translates": {
+      "adjective": "تاشو"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "collar",
+    "pronunciation": "'ka^ler",
+    "translates": {
+      "noun": "یقه ، یخه ، قلاده ، گردن بند ، طوق ، بند ، بست"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "collect",
+    "pronunciation": "ka^'lekt",
+    "translates": {
+      "transitive-verb": "جمع کردن ، جمع آوری کردن ، وصول کردن ، متمرکز کردن ، جمع و جور کردن",
+      "intransitive-verb": "جمع شدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "collection",
+    "pronunciation": "ka^'lekshen",
+    "translates": {
+      "noun": "مجموعه ، جمع آوری ، کلکسیون ، جمع آوری اعانه ، اعانه ( جمع شده )"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "collector",
+    "pronunciation": "ka^'lekter",
+    "translates": {
+      "noun": "جمع کننده ، مامور وصول ، مامور کنترل ( بلیط ) ، کلکسیونر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "college",
+    "pronunciation": "'ka^lej",
+    "translates": {
+      "noun": "دانشکده ، مدرسه عالی ، مدرسه ، دانشگاه ، کالج ، انجمن ، کانون"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "collide",
+    "pronunciation": "ko'la^yd",
+    "translates": {
+      "intransitive-verb": "( با هم ) تصادف کردن ، به هم خوردن ، اختلاف پیدا کردن ، درگیر شدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "collision",
+    "pronunciation": "ko'lizhen",
+    "translates": {
+      "noun": "برخورد ، تصادف ، تصادم"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "colon",
+    "pronunciation": "'kolen",
+    "translates": {
+      "noun": "دو نقطه ( \":\" در نقطه گذاری ) ، روده بزرگ"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "colonel",
+    "pronunciation": "'kernl",
+    "translates": {
+      "noun": "سرهنگ"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "colonial",
+    "pronunciation": "ko'loniya^l",
+    "translates": {
+      "adjective": "استعماری ، مستعمراتی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "colony",
+    "pronunciation": "'ka^leni",
+    "translates": {
+      "noun": "مستعمره ، مهاجر نشین ، مهاجران ، گروه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "color",
+    "pronunciation": "'ka^ler",
+    "translates": {
+      "noun": "رنگ ، رنگ و رو ، رنگ پوست",
+      "transitive-verb": "رنگ کردن"
+    },
+    "subWords": {
+      "subWord0": "lose color",
+      "subTranslate0": "رنگ ( کسی یا چیزی ) پریدن"
+    }
+  },
+  {
+    "word": "color-blind",
+    "pronunciation": "'ka^ler bla^ynd",
+    "translates": {
+      "noun": "رنگ کوره ، کوره رنگ"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "colored",
+    "pronunciation": "'ka^lerd",
+    "translates": {
+      "adjective": "رنگی ، رنگین ، رنگین پوست ، غیر سفید پوست"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "colorful",
+    "pronunciation": "'ka^lerful",
+    "translates": {
+      "adjective": "رنگارنگ ، شاد ، پر هیجان ، پرشور ، درخشان ، روشن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "colorless",
+    "pronunciation": "'ka^lerles",
+    "translates": {
+      "adjective": "بی رنگ ، رنگ پریده ، بی شور و حال ، بی هیجان ، بی رنگ و بو"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "colossal",
+    "pronunciation": "ko'la^sa^l",
+    "translates": {
+      "adjective": "عظیم ، عظیم الجثه ، غول آسا"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "colt",
+    "pronunciation": "kolt",
+    "translates": {
+      "noun": "کُره اسب ، جوان بی تجربه ، نوعی طپانچه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "column",
+    "pronunciation": "'ka^lem",
+    "translates": {
+      "noun": "ستون ، صف ، پایه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "coma",
+    "pronunciation": "'koma^",
+    "translates": {
+      "noun": "کما ، اغما ، بیهوشی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "comb",
+    "pronunciation": "kom",
+    "translates": {
+      "noun": "شانه ، تاج ( خروس )",
+      "transitive-verb": "شانه کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "combat",
+    "pronunciation": "'ka^mbat",
+    "translates": {
+      "noun": "مبارزه ، نبرد ، جنگ ، درگیری",
+      "transitive-verb": "جنگ کردن با ، مبارزه کردن با",
+      "intransitive-verb": "جنگیدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "combination",
+    "pronunciation": "ka^mbe'neyshen",
+    "translates": {
+      "noun": "ترکیب ، اتحاد ، گروه ، آمیزش"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "combine",
+    "pronunciation": "ka^m'ba^yn",
+    "translates": {
+      "transitive-verb": "ترکیب کردن",
+      "intransitive-verb": "ترکیب شدن ، ( با هم ) متحد شدن ، به هم پیوستن",
+      "noun": "کمباین ، ماشین درو و خرمن کوبی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "come",
+    "pronunciation": "ka^m",
+    "translates": {
+      "intransitive-verb": "آمدن ، رسیدن ، وارد شدن ، شدن ، بودن ، رفتن ، اتفاق افتادن",
+      "past-participle": "اسم مفعول فعل come"
+    },
+    "subWords": {
+      "subWord0": "come about",
+      "subTranslate0": "اتفاق افتادن ، پیش آمدن",
+      "subWord1": "come across",
+      "subTranslate1": "تصادفاً برخوردن با ، [ فکر و غیره ] منتقل شدن ، به نظر آمدن",
+      "subWord2": "come along!",
+      "subTranslate2": "یالا! بجنب! بجنبید!",
+      "subWord3": "come apart",
+      "subTranslate3": "شکستن ، از هم جدا شدن ، اوراق شدن",
+      "subWord4": "come at",
+      "subTranslate4": "حمله کردن به ، سرازیر شدن به طرفِ",
+      "subWord5": "come away",
+      "subTranslate5": "کنده شدن ، جدا شدن",
+      "subWord6": "come back",
+      "subTranslate6": "برگشتن",
+      "subWord7": "come by",
+      "subTranslate7": "به دست آوردن ، گیر آوردن",
+      "subWord8": "come down",
+      "subTranslate8": "پایین آمدن",
+      "subWord9": "come down to",
+      "subTranslate9": "خلاص شدن در",
+      "subWord10": "come from",
+      "subTranslate10": "اهل جایی بودن ، از جایی ( به دست ) آمدن",
+      "subWord11": "come in",
+      "subTranslate11": "رسیدن ، فرا رسیدن ، وارد شدن",
+      "subWord12": "come in useful ( or handy )",
+      "subTranslate12": "به درد خوردن ، به کار آمدن",
+      "subWord13": "come off",
+      "subTranslate13": "کنده شدن ، جدا شدن ، به نتیجه رسیدن",
+      "subWord14": "come on",
+      "subTranslate14": "پیشرفت کردن ، رو آمدن",
+      "subWord15": "come on!",
+      "subTranslate15": "یالا! بجنب! دست وردار!",
+      "subWord16": "come out",
+      "subTranslate16": "درآمدن ، بیرون آمدن ، اعتصاب کردن",
+      "subWord17": "come to nothing",
+      "subTranslate17": "بی نتیجه ماندن ، انجام نشدن ، عملی نشدن ، تحقق نیافتن",
+      "subWord18": "come true",
+      "subTranslate18": "جامه عمل پوشیدن ، به واقعیت پیوستن",
+      "subWord19": "come up",
+      "subTranslate19": "جوانه زدن ، سبز شدن",
+      "subWord20": "come up against",
+      "subTranslate20": "روبرو شدن با",
+      "subWord21": "in years to come",
+      "subTranslate21": "در سال های آینده",
+      "subWord22": "to come",
+      "subTranslate22": "در آینده"
+    }
+  },
+  {
+    "word": "comedian",
+    "pronunciation": "ka^'miidiyen",
+    "translates": {
+      "noun": "کمدین ، هنرپیشه کمدی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "comedy",
+    "pronunciation": "'ka^medi",
+    "translates": {
+      "noun": "کمدی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "comet",
+    "pronunciation": "'ka^mit",
+    "translates": {
+      "noun": "ستاره دنباله دار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "comfort",
+    "pronunciation": "'ka^mfort",
+    "translates": {
+      "noun": "آسایش ، راحتی ، رفاه ، دلداری ، تسلی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "comfortable",
+    "pronunciation": "'ka^mftebel",
+    "translates": {
+      "adjective": "راحت ، آسوده ، آرام ، مرفه ، دارای وضع مالی خوب ، زیاد ، ساده ، [ شغل ] پر درآمد ، [ درآمد ] کافی ، مکفی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "comfortably",
+    "pronunciation": "'ka^mftebli",
+    "translates": {
+      "adverb": "به راحتی ، راحت ، بی دردسر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "comic",
+    "pronunciation": "'ka^mik",
+    "translates": {
+      "adjective": "خنده دار ، فکاهی ، مضحک ، کمیک",
+      "noun": "هنرپیشه کمدی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "comical",
+    "pronunciation": "'ka^mika^l",
+    "translates": {
+      "adjective": "خنده دار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "comma",
+    "pronunciation": "'ka^ma^",
+    "translates": {
+      "noun": "ویرگول ، کاما"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "command",
+    "pronunciation": "ka^'mand",
+    "translates": {
+      "noun": "دستور ، فرمان ، امر ، فرماندهی",
+      "transitive-verb": "دستور دادن ، فرمان دادن ، امر کردن ، فرماندهی کردن ، مسلط بودن بر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "commander",
+    "pronunciation": "ka^'ma^nder",
+    "translates": {
+      "noun": "فرمانده ، ناخدا سوم"
+    },
+    "subWords": {}
   }
 ]
