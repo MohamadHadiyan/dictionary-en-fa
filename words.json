@@ -3778,5 +3778,363 @@
       "noun": "فرمانده ، ناخدا سوم"
     },
     "subWords": {}
+  },
+  {
+    "word": "commence",
+    "pronunciation": "ka^'mens",
+    "translates": {
+      "transitive-verb": "شروع کردن ، آغاز کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "comment",
+    "pronunciation": "'ka^ment",
+    "translates": {
+      "noun": "نظر ، اظهار نظر",
+      "intransitive-verb": "اظهار نظر کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "commentary",
+    "pronunciation": "'ka^mentri",
+    "translates": {
+      "noun": "تفسیر ، گزارش"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "commentator",
+    "pronunciation": "'ka^menteyter",
+    "translates": {
+      "noun": "مفسر ، گزارشگر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "commerce",
+    "pronunciation": "'ka^mers",
+    "translates": {
+      "noun": "بازرگانی ، تجارت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "commerical",
+    "pronunciation": "ka^'mersha^l",
+    "translates": {
+      "adjective": "بازرگانی ، تجاری ، تجارتی ، [ مربوط به ] تجارت ، پولساز ، [ رادیو و تلویزیون ] خصوصی",
+      "noun": "آگهی تجارتی ، تجاری"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "commit",
+    "pronunciation": "ka^'mit",
+    "translates": {
+      "transitive-verb": "مرتکب شدن ، سپردن به"
+    },
+    "subWords": {
+      "subWord0": "commit to memory",
+      "subTranslate0": "حفظ کردن ، از بر کردن"
+    }
+  },
+  {
+    "word": "commitment",
+    "pronunciation": "ka^'mitment",
+    "translates": {
+      "noun": "تعهد ، قول ، عهد ، پیمان ، الزام"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "committee",
+    "pronunciation": "ka^'miti",
+    "translates": {
+      "noun": "کمیته ، کمیسیون ، هیئت بررسی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "common",
+    "pronunciation": "'ka^ma^n",
+    "translates": {
+      "adjective": "مشترک ، متداول ، عموم ، عامه ، عمومی ، همگانی ، همه ، همگان ، اشتراکی ، عادی ، معمولی ، متداول ، رایج ، مرسوم ، ساده ، عامی ، عامیانه"
+    },
+    "subWords": {
+      "subWord0": "common sense",
+      "subTranslate0": "شعور ، عقل سلیم ، حس مشترک",
+      "subWord1": "have nothing in common",
+      "subTranslate1": "هیچ وجه مشترکی نداشتن",
+      "subWord2":"have something in common",
+      "subTranslate2":"وجه مشترک داشتن"
+    }
+  },
+  {
+    "word": "commonly",
+    "pronunciation": "'ka^ma^nli",
+    "translates": {
+      "adverb": "معمولاً ، عموماً ، به طور عادی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Commonwealth",
+    "pronunciation": "'ka^ma^n.welth",
+    "translates": {
+      "noun": "کشور ها مشترک المنافع ، رفاه عمومی ، اجتماع"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "commune",
+    "pronunciation": "'ka^myoon",
+    "translates": {
+      "noun": "کمون ، بخش ، خانه اشتراکی ، مزرعه اشتراکی ، جمعیت اشتراکی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "communicate",
+    "pronunciation": "ke'myooni.keyt",
+    "translates": {
+      "transitive-verb": "منتقل کردن ، انتقال دادن ، ( باهم ) تماس گرفتن ، بیان کردن ، گفتگو کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "communication",
+    "pronunciation": "ke.myooni'keysen",
+    "translates": {
+      "noun": "ارتباط ، اطلاعات ، مخابرات"
+    },
+    "subWords": {
+      "subWord0": "be in communication with",
+      "subTranslate0": "در تماس بودن با ، در ارتباط بودن با"
+    }
+  },
+  {
+    "word": "communion",
+    "pronunciation": "ke'myooniyen",
+    "translates": {
+      "noun": "ارتباط ، پیوند ، مشارکت ، صمیمیت ، همدلی ، فرقه ، عشاء ربانی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "communism",
+    "pronunciation": "'ka^myu.nizem",
+    "translates": {
+      "noun": "کمونیسم ، نظام اشتراکی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "communist",
+    "pronunciation": "'ka^myunest",
+    "translates": {
+      "noun": "کمونیست",
+      "adjective": "کمونیستی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "community",
+    "pronunciation": "ke'myoonedi",
+    "translates": {
+      "noun": "اجتماع ، انجمن ، جامعه ، جمعیت ، گروه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "commuter",
+    "pronunciation": "ke'myooder",
+    "translates": {
+      "noun": "[ میان خانه و محل کار ] مسافر هر روزه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "compact",
+    "pronunciation": "ka^m'pakt",
+    "translates": {
+      "adjective": "متراکم ، ( به هم ) فشرده ، جمع و جور ، موجز",
+      "noun": "قراردارد ،  پیمان ، موافقت ، اتومبیل نقلی ، جاپودری",
+      "transitive-verb": "فشرده کردن ، به هم فشردن ، متراکم کردن ، سفت کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "companion",
+    "pronunciation": "kem'panyen",
+    "translates": {
+      "noun": "همراه ، دوست ، همدم ، لنگه ، قرینه ، مصاحب"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "company",
+    "pronunciation": "'ka^mpeni",
+    "translates": {
+      "noun": "شرکت ، مصاحبت ، همراه بودن"
+    },
+    "subWords": {
+      "subWord0": "be good company",
+      "subTranslate0": "دوستِ صمیمی بودن ، هم صحبت خوبی بودن",
+      "subWord1": "keep someone company",
+      "subTranslate1": "با کسی بودن ، پیش کسی بودن",
+      "subWord2": "part company with",
+      "subTranslate2": "جدا شدن از"
+    }
+  },
+  {
+    "word": "comparable",
+    "pronunciation": "'ka^mperebel",
+    "translates": {
+      "adjective": "قابل مقایسه ، قابل قیاس ، مشابه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "comparative",
+    "pronunciation": "ka^m'paretiv",
+    "translates": {
+      "adverb": "تطبیقی ، [ دستور زبان ] تفضیلی ، مقایسه ای ، نسبی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "compare",
+    "pronunciation": "ka^m'per",
+    "translates": {
+      "transitive-verb": "مقایسه کردن",
+      "intransitive-verb": "قابل مقایسه بودن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "comparison",
+    "pronunciation": "ka^m'parisen",
+    "translates": {
+      "noun": "مقایسه ، تشبیه ، شباهت"
+    },
+    "subWords": {
+      "subWord0": "in (or by ) comparison to ( or with )",
+      "subTranslate0": "نسبت به ، در مقایسه با"
+    }
+  },
+  {
+    "word": "compartment",
+    "pronunciation": "ka^m'pa^rtment",
+    "translates": {
+      "noun": "قسمت ، محفظه ، بخش ، [ قطار ] کوپه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "compass",
+    "pronunciation": "'ka^mpes",
+    "translates": {
+      "noun": "قطب نما ، جهت یاب ، پرگار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "compel",
+    "pronunciation": "ka^m'pel",
+    "translates": {
+      "transitive-verb": "مجبور کردن ، وادار کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "compensate",
+    "pronunciation": "'ka^mpen.seyt",
+    "translates": {
+      "transitive-verb": "جبران کردن ، خسارت دادن ، غرامت دادن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "compensation",
+    "pronunciation": "ka^mpen'seyshen",
+    "translates": {
+      "noun": "جبران ، خسارت ، ترمیم ، غرامت ، تاوان ، حقوق ، دستمزد ، پاداش"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "compete",
+    "pronunciation": "ka^m'piit",
+    "translates": {
+      "transitive-verb": "رقابت کردن ، مسابقه دادن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "competent",
+    "pronunciation": "'ka^mpitent",
+    "translates": {
+      "adjective": "شایسته ، با کفایت ، قابل ، لایق ، دارای صلاحیت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "competition",
+    "pronunciation": "ka^mpe'tishen",
+    "translates": {
+      "noun": "رقابت ، مسابقه ، مبارزه ، تفاضل ، رُقبا"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "competitive",
+    "pronunciation": "ka^m'petitiv",
+    "translates": {
+      "adjective": "رقابتی ، مسابقه ای ،‌ قابل رقابت ، رقابت طلب ، رقابت جو ، اهل رقابت ، رقابت طلبانه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "competitor",
+    "pronunciation": "ka^m'petiter",
+    "translates": {
+      "noun": "رقیب ، حریف"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "complain",
+    "pronunciation": "ka^m'pleyn",
+    "translates": {
+      "transitive-verb": "شکایت کردن ، گِله کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "complaint",
+    "pronunciation": "ka^m'pleynt",
+    "translates": {
+      "noun": "شکایت ، گِله ، اعتراض ، انتقاد"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "complete",
+    "pronunciation": "ka^m'pliit",
+    "translates": {
+      "adjective": "کامل ، تمام ، پایان یافته ، واقعی ، حسابی",
+      "transitive-verb": "کامل کردن ، تمام کردن ، تکمیل کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "completely",
+    "pronunciation": "ka^m'pliitli",
+    "translates": {
+      "adverb": "کاملاً ، به طور کامل ، به کلی"
+    },
+    "subWords": {}
   }
 ]
