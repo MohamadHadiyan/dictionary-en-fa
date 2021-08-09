@@ -4136,5 +4136,345 @@
       "adverb": "کاملاً ، به طور کامل ، به کلی"
     },
     "subWords": {}
+  },
+  {
+    "word": "completion",
+    "pronunciation": "ka^m'pliishen",
+    "translates": {
+      "noun": "تکمیل ، اتمام"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "complex",
+    "pronunciation": "'ka^mpleks",
+    "translates": {
+      "adjective": "پیچیده ، دشوار",
+      "noun": "مجتمع ، مجموعه ، عقده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "complexion",
+    "pronunciation": "ka^m'plekshen",
+    "translates": {
+      "noun": "رنگ و رو ، پوست ، قیافه ، چهره"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "complicated",
+    "pronunciation": "'ka^mpli.keyted",
+    "translates": {
+      "adjective": "پیچیده ، بغرنج ، تو در تو ، مشکل"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "complication",
+    "pronunciation": "ka^mpli'keyshen",
+    "translates": {
+      "noun": "پیچیدگی ، مسئله ، دشواری"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "compliment",
+    "pronunciation": "'ka^mpliment",
+    "translates": {
+      "noun": "تعریف ، تحسین ، تمجید ، ستایش ، احترام",
+      "intransitive-verb": "تعریف کردن ، تبریک گفتن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "complimentary",
+    "pronunciation": "ka^mpli'mentri",
+    "translates": {
+      "adjective": "تحسین آمیز ، با تعریف ، رایگان"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "component",
+    "pronunciation": "ka^m'ponent",
+    "translates": {
+      "noun": "جزء ، مولفه ، قطعه ، بخش",
+      "adjective": "سازنده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "compose",
+    "pronunciation": "ka^m'poz",
+    "translates": {
+      "transitive-verb": "تشکیل دادن ، آهنگ ساختن ، سرودن ، نوشتن ، ترکیب کردن ، آرام کردن ، حروف چینی کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "composer",
+    "pronunciation": "ka^m'pozer",
+    "translates": {
+      "noun": "آهنگساز ، سازنده ، سراینده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "composition",
+    "pronunciation": "ka^mpo'zishen",
+    "translates": {
+      "noun": "ترکیب ، [ آهنگ ، شعر ، کتاب ، نقاشی و غیره ] اثر ، آهنگسازی ، تدوین ، نگارش"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "compound",
+    "pronunciation": "'ka^mpaond",
+    "translates": {
+      "noun": "ترکیب ، مخلوط",
+      "adjective": "مرکب",
+      "transitive-verb": "ترکیب کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "comprehension",
+    "pronunciation": "ka^mpre'henshen",
+    "translates": {
+      "noun": "فهم ، درک ، شمول ، جامعیت ، تمرین ، درک مطلب"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "comprehensive",
+    "pronunciation": "ka^mpre'hensive",
+    "translates": {
+      "adjective": "همه جانبه ، جامع ، وسیع ، گسترده ، مفصل"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "compress",
+    "pronunciation": "ka^m'pres",
+    "translates": {
+      "transitive-verb": "فشرده کردن ، به هم فشردن ، فشرده کردن ، متراکم کردن ، خلاصه کردن ، مختصر کردن",
+      "intransitive-verb": "فشرده شدن",
+      "noun": "[ پزشکی ] کُمپرس"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "compromise",
+    "pronunciation": "'ka^mpre.ma^yz",
+    "translates": {
+      "noun": "سازش ، مصالحه ، توافق ، حد واسط",
+      "intransitive-verb": "مصالحه کردن ، سازش کردن ، کنار آمدن ، به توافق رسیدن ، حد واسط را گرفتن ، به خطر انداختن ، پا پس کشیدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "compulsory",
+    "pronunciation": "ka^m'pa^lseri",
+    "translates": {
+      "adjective": "اجباری ، ناخواسته"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "compute",
+    "pronunciation": "ka^m'pyoot",
+    "translates": {
+      "transitive-verb": "محاسبه کردن ، حساب کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "computer",
+    "pronunciation": "ka^m'pyooter",
+    "translates": {
+      "noun": "کامپیوتر ، رایانه",
+      "adjective": "کامپیوتری ، رایانه ای"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "computerize",
+    "pronunciation": "ka^m'pyootera^yz",
+    "translates": {
+      "transitive-verb": "کامپیوتری کردن ، رایانه ای کردن ، به کامپیوتر دادن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "comrade",
+    "pronunciation": "'ka^m.reyd",
+    "translates": {
+      "noun": "رفیق ، همراه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conceal",
+    "pronunciation": "ka^n'siil",
+    "translates": {
+      "transitive-verb": "پنهان کردن ، پوشاندن ، مخفی کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conceited",
+    "pronunciation": "ka^n'siited",
+    "translates": {
+      "adjective": "مغرور ، متکبر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conceive",
+    "pronunciation": "k^an'siiv",
+    "translates": {
+      "transitive-verb": "تصور کردن ، باور کردن ، به فکر ( چیزی ) افتادن",
+      "intransitive-verb": "باردار شدن ، آبستن شدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "concentrate",
+    "pronunciation": "'ka^nsen.treyt",
+    "translates": {
+      "noun": "تمرکز ، عصاره",
+      "transitive-verb": "متمرکز کردن ، جمع کردن",
+      "intransitive-verb": "متمرکز شدن ، جمع شدن ، حواس خود را جمع کردن ، تمرکز حواس داشتن ، دقت کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "concentration",
+    "pronunciation": "ka^nsen'treyshen",
+    "translates": {
+      "noun": "تمرکز ، حواس ، دقت ، تجمع ، تراکم ، غلظت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "concern",
+    "pronunciation": "ka^n'sern",
+    "translates": {
+      "noun": "نگرانی ، دلواپسی ، مسئله نگران کننده ، علاقه ، توجه ، مراقبت ، ربط ، ارتباط ، کسب و کار ، شرکت",
+      "transitive-verb": "نگران کردن ، دلواپس کردن ، درباره ( چیزی ) بودن ، مربوط شدن به ، ارتباط داشتن با ، پرداختن به ، خود را مشغول کردن با"
+    },
+    "subWords": {
+      "subWord0": "concern oneself with",
+      "subTranslate0": "علاقه مند بودن به ، علاقه نشان دادن به"
+    }
+  },
+  {
+    "word": "concerning",
+    "pronunciation": "ka^n'serning",
+    "translates": {
+      "preposition": "مربوط به ، درباره ، با توجه به"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "consert",
+    "pronunciation": "'ka^nsert",
+    "translates": {
+      "noun": "کنسرت ، هماهنگی ، توافق"
+    },
+    "subWords": {
+      "subWord0": "concert hall",
+      "subTranslate0": "سالن کنسرت"
+    }
+  },
+  {
+    "word": "concession",
+    "pronunciation": "ka^n'seshen",
+    "translates": {
+      "noun": "امتیاز ، اعطا ، حق بهره برداری"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conclude",
+    "pronunciation": "ka^n'klood",
+    "translates": {
+      "transitive-verb": "نتیجه گرفتن ، پایان دادن ، خاتمه یافتن ، [ عهد نامه و غیره ] منعقد کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conclusion",
+    "pronunciation": "ka^n'kloozhen",
+    "translates": {
+      "noun": "نتیجه ، استنتاج ، نتیجه گیری ، پایان ، آخر ، خاتمه ، انعقاد"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "concrete",
+    "pronunciation": "'ka^n.kriit",
+    "translates": {
+      "noun": "بتن ، بتون ، شفته",
+      "adjective": "واقعی ، عینی ، ملموس ، [ دستور زبان ] ذات ، بهم چسبیده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "concussion",
+    "pronunciation": "ka^n'ka^shen",
+    "translates": {
+      "noun": "ضربه مغزی ، آسیب مغزی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "condemn",
+    "pronunciation": "ka^n'dem",
+    "translates": {
+      "transitive-verb": "محکوم کردن ، سرزنش کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "condemnation",
+    "pronunciation": "ka^ndem'neyshen",
+    "translates": {
+      "noun": "محکومیت ، سرزنش ، نکوهش ، ابراز انزجار ، خبط ، اشتباه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "condense",
+    "pronunciation": "ka^n'dens",
+    "translates": {
+      "transitive-verb": "فشرده کردن ، منقبض کردن ، متراکم کردن ، غلیظ کردن ، ( به مایع ) تبدیل کردن ، تلخیص کردن ، خلاصه کردن",
+      "intransitive-verb": "غلیظ شدن ، ( به مایع ) تبدیل شدن "
+    },
+    "subWords": {}
+  },
+  {
+    "word": "condition",
+    "pronunciation": "ka^n'dishen",
+    "translates": {
+      "noun": "شرط ، شرایط ، وضع ، وضعیت ، حالت ",
+      "transitive-verb": "تعیین کردن ، مشخص کردن ، مشروط کردن ، عمل آوردن ، مقید کردن"
+    },
+    "subWords": {
+      "subWord0": "on condition that",
+      "subTranslate0": "به شرط اینکه",
+      "subWord1": "out of condition",
+      "subTranslate1": "ناخوش ، ضعیف"
+    }
+  },
+  {
+    "word": "conduct",
+    "pronunciation": "'ka^nda^kt",
+    "translates": {
+      "noun": "اخلاق ، رفتار ، اخلاق و رفتار ، سلوک ، اداره ، اجرا ، هدایت",
+      "transitive-verb": "اداره کردن ، اجرا کردن ، رفتار کردن ، [ ارکستر ] رهبری کردن ، راهنمایی کردن ، بردن ، [ برق ، حرارت ] هدایت کردن"
+    },
+    "subWords": {}
   }
 ]
