@@ -1,28 +1,27 @@
 import FarsiType from "./FarsiType.js";
+import { arrayToObject, el, elms, newElm, showAlert } from "./utils.js";
+import { addFieldsetOptions, getTranslatesWord } from "./FieldsetOptions.js";
+import { SearchBox } from "./Search.js";
 import {
-  arrayToObject,
-  el,
-  elms,
-  loadData,
-  newElm,
-  showAlert,
-} from "./utils.js";
-import {
-  addFieldsetOptions,
-  getTranslatesWord,
-  translateInputs,
-} from "./FieldsetOptions.js";
+  getCurrentWord,
+  getWords,
+  setCurrentWord,
+  setWordStore,
+} from "./WordStore.js";
+import showTranslate from "./ShowWords.js";
 
-let id = 0;
-let words = [];
+const words = [];
 let subWordInputCount = 0;
 let subTransInputCount = 0;
 const randomOption = el("#rand-option");
 
 document.addEventListener("DOMContentLoaded", async () => {
-  words = await loadData();
-  id = words.length - 1;
-  showTranslate(id);
+  await setWordStore();
+  const data = getWords();
+
+  words.push(...data);
+  setCurrentWord(words.length - 1);
+  showTranslate();
 });
 
 document.addEventListener("keydown", handleKeyDown);
@@ -39,6 +38,12 @@ el("#word-index").onchange = (e) => goTo(Number(e.target.value));
 
 addFieldsetOptions();
 handleChangeLangOptions();
+addOptionsMenu();
+
+function addOptionsMenu() {
+  const optionsMenu = el(".options-menu");
+  optionsMenu.append(SearchBox());
+}
 
 function handleKeyDown(e) {
   if (e.code === "KeyM" && (e.ctrlKey || e.metaKey)) {
@@ -57,41 +62,40 @@ function handleKeyDown(e) {
 }
 function showNextWord() {
   if (randomOption.checked) {
-    id = Math.floor(Math.random() * words.length);
+    const nextId = Math.floor(Math.random() * words.length);
+    setCurrentWord(nextId);
     showTranslate();
   }
 
-  if (id > words.length - 2) return;
+  const currentIndex = getCurrentWord();
+  if (currentIndex > words.length - 2) return;
 
-  id++;
+  setCurrentWord(currentIndex + 1);
   showTranslate();
 }
 
 function showPrevWord() {
   if (randomOption.checked) {
-    id = Math.floor(Math.random() * words.length);
+    const nextId = Math.floor(Math.random() * words.length);
+    setCurrentWord(nextId);
     showTranslate();
   }
 
-  if (id < 1) return;
+  const currentIndex = getCurrentWord();
+  if (currentIndex < 1) return;
 
-  id--;
+  setCurrentWord(currentIndex - 1);
   showTranslate();
 }
 
 function goTo(index) {
   if (isNaN(index)) return;
 
-  id = index < 0 ? 0 : index > words.length - 1 ? words.length - 1 : index;
+  const nextId =
+    index < 0 ? 0 : index > words.length - 1 ? words.length - 1 : index;
+
+  setCurrentWord(nextId);
   showTranslate();
-}
-
-function showTranslate() {
-  let content = showWords();
-
-  if (content) {
-    el(".mainWord").innerHTML = content;
-  }
 }
 
 function toggleForm(e) {
@@ -148,56 +152,7 @@ function addWords(e) {
   id++;
   subTransInputCount = 0;
   subWordInputCount = 0;
-  showTranslate(words.length - 1);
-}
-
-function showWords() {
-  el("#word-index").value = id;
-  const [word, pronunciation] = Object.values(words[id]);
-  const row = (...content) =>
-    content.map(
-      (val) => `
-            <tr><th><span>${val}</span></th></tr>`
-    );
-
-  const transRows = [...Object.entries(words[id].translates)]
-    .map(
-      (item) => ` 
-            <tr>
-                <td><span>${item[0]}</span></td>
-                <td class="translates"><span>${item[1]}</span></td>
-            </tr>`
-    )
-    .join("");
-
-  const subWord = (arr, size) =>
-    Array.from({ length: Math.ceil(arr.length / size) }, (val, i) =>
-      arr.slice(i * size, i * size + size)
-    );
-
-  const subRows = words[id].subWords
-    ? subWord(
-        Object.values(words[id].subWords).map(
-          (val) => `<td><span>${val}</span></td>`
-        ),
-        2
-      )
-        .map((val) => `<tr class="subWordRow">${val.join("")}</tr>`)
-        .join("")
-    : "";
-
-  return ` 
-    <table>
-        <thead>
-          <tr class="head-overlay"></tr>
-            ${row(word, pronunciation).join("")}
-        </thead>
-        <tbody>
-            <tr class="body-overlay"></tr>
-            ${transRows}
-            ${subRows}
-        </tbody>
-    </table>`;
+  showTranslate();
 }
 
 function handleChangeLangOptions() {
