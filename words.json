@@ -4476,5 +4476,392 @@
       "transitive-verb": "اداره کردن ، اجرا کردن ، رفتار کردن ، [ ارکستر ] رهبری کردن ، راهنمایی کردن ، بردن ، [ برق ، حرارت ] هدایت کردن"
     },
     "subWords": {}
+  },
+  {
+    "word": "conductor",
+    "pronunciation": "ka^n'da^kter",
+    "translates": {
+      "noun": "رهبر ( ارکستر ) ، رسانا ، هادی ، کمک راننده ، مامور مخفی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cone",
+    "pronunciation": "kon",
+    "translates": {
+      "noun": "مخروط ، قیف ( بستنی ) ، جوز کلاغ ، میوه کاج"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "confection",
+    "pronunciation": "ka^n'fekshen",
+    "translates": {
+      "noun": "شیرینی ، معجون ، ترکیب ، آمیزه "
+    },
+    "subWords": {}
+  },
+  {
+    "word": "confederate",
+    "pronunciation": "ka^n'federet",
+    "translates": {
+      "adjective": "متحد ، هم پیمان ، هم دست ، متفق ، موتلف",
+      "noun": "هم دست ، متفق",
+      "transitive-verb": "متفق کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conference",
+    "pronunciation": "'ka^nfrens",
+    "translates": {
+      "noun": "جلسه ، کنفرانس ، گردهمایی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "confess",
+    "pronunciation": "ka^n'fes",
+    "translates": {
+      "transitive-verb": "اعتراف کردن ، اقرار کردن",
+      "intransitive-verb": "گفتن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "confession",
+    "pronunciation": "ka^n'feshen",
+    "translates": {
+      "noun": "اعتراف ، اقرار ، اقرار نامه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "confide",
+    "pronunciation": "ka^n'fa^yd",
+    "translates": {
+      "transitive-verb": "محرمانه گفتن ، اعتماد کردن ، اطمینان کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "confidence",
+    "pronunciation": "ka^nfidens",
+    "translates": {
+      "noun": "اعتماد ، اطمینان ، راز ، سِر ، اعتماد به نفس"
+    },
+    "subWords": {
+      "subWord0": "have confidence in someone",
+      "subTranslate0": "به کسی اعتماد داشتن"
+    }
+  },
+  {
+    "word": "confident",
+    "pronunciation": "'ka^nfident",
+    "translates": {
+      "adjective": "مطمئن ، خاطر جمع ، اطمینان بخش"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "confidential",
+    "pronunciation": "ka^nfi'densha^l",
+    "translates": {
+      "adjective": "محرمانه ، سری ، محرم ، رازدار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "confine",
+    "pronunciation": "ka^n'fa^yn",
+    "translates": {
+      "noun": "محدوده",
+      "transitive-verb": "محدود کردن ، زندانی کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "confinement",
+    "pronunciation": "ka^n'fa^ynment",
+    "translates": {
+      "noun": "حبس ، زندانی کردن ، زایمان"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "confirm",
+    "pronunciation": "ka^n'ferm",
+    "translates": {
+      "transitive-verb": "تایید کردن ، تصویب کردن ، تصدیق کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "confirmation",
+    "pronunciation": "ka^nfer'meyshen",
+    "translates": {
+      "noun": "تایید ، تصدیق ، اثبات ، دلیل"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "confiscate",
+    "pronunciation": "'ka^nfiskeyt",
+    "translates": {
+      "transitive-verb": "مصادر کردن ، گرفتن ، غصب کردن ، ضبط کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conflict",
+    "pronunciation": "'ka^nflikt",
+    "translates": {
+      "noun": "تضاد ، مناقشه ، تعارض ، کشمکش ، برخورد ، مغایرت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conform",
+    "pronunciation": "ka^n'form",
+    "translates": {
+      "intransitive-verb": "منطبق بودن ، سازگار بودن",
+      "transitive-verb": "تطبیق دادن ، سازگار کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "confound",
+    "pronunciation": "ka^n'faond",
+    "translates": {
+      "transitive-verb": "خلط کردن ، ( با هم ) اشتباه کردن ، پریشان کردن ، گیج کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "confuse",
+    "pronunciation": "ka^n'fiyooz",
+    "translates": {
+      "transitive-verb": "گیج کردن ، سردرگم کردن ، به هم ریختن ، مغشوش کردن ، با هم اشتباه کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "confusion",
+    "pronunciation": "ka^n'fyoozhen",
+    "translates": {
+      "noun": "گیجی ، سردرگمی ، اغتشاش ، پریشانی ، دستپاچگی ، به هم ریختگی ، اشتباه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "congeal",
+    "pronunciation": "ka^n'jiil",
+    "translates": {
+      "intransitive-verb": "سفت شدن ، بستن ، ماسیدن ، یخ بستن",
+      "transitive-verb": "منجمد کردن ، سفت کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "congested",
+    "pronunciation": "ka^n'jested",
+    "translates": {
+      "adjective": "شلوغ ، پُر ازدحام ، انباشته ، مملو ، گرفته"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "congestion",
+    "pronunciation": "ka^n'jeschen",
+    "translates": {
+      "noun": "تراکم ، ازدحام ، شلوغی ، راه بندان ، ترافیک ، گرفتگی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "congratulate",
+    "pronunciation": "ka^n'grachuleyt",
+    "translates": {
+      "transitive-verb": "تبریک گفتن ، شادباش گفتن ، خوشحال بودن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "congratulation",
+    "pronunciation": "ka^n.grachu'leyshen",
+    "translates": {
+      "noun": "تبریک"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conjunction",
+    "pronunciation": "ka^n'ja^nkshen",
+    "translates": {
+      "noun": "[ دستور زبان ] حرف ربط ، پیوستگی ، عطف ، اتصال ، ترکیب عطفی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conjure",
+    "pronunciation": "'ka^njer",
+    "translates": {
+      "intransitive-verb": "جادو کردن ، شعبده بازی کردن ، تردستی کردن ، سحر کردن",
+      "transitive-verb": "با شعبده بازی ( کاری را ) کردن ، از غیب حاضر کردن ، مجسم کردن"
+    },
+    "subWords": {
+      "subWord2": "conjure away",
+      "subTranslate2": "از یاد بردن",
+      "subWord3": "conjure up",
+      "subTranslate3": "به یاد آوردن"
+    }
+  },
+  {
+    "word": "conjurer",
+    "pronunciation": "'ka^njerer",
+    "translates": {
+      "noun": "شعبده باز ، جادوگر ، ساحر ، حقه باز"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "connect",
+    "pronunciation": "ka^'nekt",
+    "translates": {
+      "transitive-verb": "متصل کردن ، به هم وصل کردن",
+      "intransitive-verb": "وصل شدن ، ارتباط داشتن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "connection",
+    "pronunciation": "ka^'nekshen",
+    "translates": {
+      "noun": "اتصال ، ارتباط ، وصل ، رابطه ، پیوند ، [ قطار ، هواپیما ] تعویض ، خویشاوند "
+    },
+    "subWords": {
+      "subWord4": "in connection with",
+      "subTranslate4": "در موردِ ، درباره ، راجع به"
+    }
+  },
+  {
+    "word": "conquer",
+    "pronunciation": "'ka^nker",
+    "translates": {
+      "transitive-verb": "شکست دادن ، پیروز شدن بر ، غلبه کردن بر ، تسخیر کردن ، مغلوب کردن ، فتح کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conqueror",
+    "pronunciation": "'ka^nkerer",
+    "translates": {
+      "noun": "فاتح ، پیروز ، غالب"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conquest",
+    "pronunciation": "'ka^n.kwest",
+    "translates": {
+      "noun": "فتح ، تسخیر ، تصرف ، پیروزی ، غلبه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conscientious",
+    "pronunciation": "ka^nshi'yenshes",
+    "translates": {
+      "adjective": "باوجدان ، وظیفه شناس"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conscious",
+    "pronunciation": "'ka^nshes",
+    "translates": {
+      "adjective": "هوشیار ، بهوش ، آگاه ، آگاهانه",
+      "noun": "( ضمیر ) خود آگاه ، خود آگاهی ، هوشیاری"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "consciousness",
+    "pronunciation": "'ka^nshesnes",
+    "translates": {
+      "noun": "هوشیاری ، آگاهی ، شعور ، فهم"
+    },
+    "subWords": {
+      "subWord5": "lose consciousness",
+      "subTranslate5": "از هوش رفتن ، از حال رفتن",
+      "subWord6": "regain consciousness",
+      "subTranslate6": "به هوش آمدن"
+    }
+  },
+  {
+    "word": "consent",
+    "pronunciation": "ka^n'sent",
+    "translates": {
+      "noun": "رضایت ، موافقت ، توافق",
+      "intransitive-verb": "موافقت کردن ، راضی شدن ، اجازه دادن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "consequence",
+    "pronunciation": "ka^nsikwens",
+    "translates": {
+      "noun": "نتیجه ، پیامد ، اثر ، عاقبت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "consequently",
+    "pronunciation": "'ka^nsikwentli",
+    "translates": {
+      "adverb": "در نتیجه ، از این رو ، بنابراین"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conservation",
+    "pronunciation": "ka^nser'veyshen",
+    "translates": {
+      "noun": "حفاظت محیط زیست ، حفاظت منابع طبیعی ، حفاظت ، محافظت ، نگهداری"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conservative",
+    "pronunciation": "ka^n'servetiv",
+    "translates": {
+      "adjective": "محافظه کار ، قدیمی ، امل ، سنتی",
+      "noun": "آدم امل ، محافظه کار ، [ انگلستان ] عضو حزب محافظه کار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conservatory",
+    "pronunciation": "ka^n'servetri",
+    "translates": {
+      "noun": "گلخانه ، هنرستان موسقی ، هنرستان هنری"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "consider",
+    "pronunciation": "ka^n'sider",
+    "translates": {
+      "transitive-verb": "درنظر گرفتن ، به حساب آوردن ، بررسی کردن ، مطرح کردن ، رسیدگی کردن ، مورد توجه قرار دادن ، در فکر ( چیزی ) بودن ، درباره چیزی فکر کردن ، توجه کردن به"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "considerable",
+    "pronunciation": "ka^n'siderebel",
+    "translates": {
+      "adjective": "قابل ملاحظه ، قابل توجه ، مهم ، شایان ، بسیار زیاد"
+    },
+    "subWords": {}
   }
 ]

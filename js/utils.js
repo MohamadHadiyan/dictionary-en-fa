@@ -1,8 +1,8 @@
 export const arrayToObject = (arr) =>
   arr.reduce((obj, elm) => ((obj[elm.name] = elm.value), obj), {});
 
-export async function loadData() {
-  let res = await fetch("./words.json");
+export async function loadData(url) {
+  let res = await fetch(url);
   return await res.json();
 }
 
@@ -13,7 +13,8 @@ export function showAlert(msg, type) {
   });
 
   el("body").prepend(alert);
-  setTimeout(() => alert.remove(), 3000);
+  const dur = type === "warning" ? 3000 : 1000;
+  setTimeout(() => alert.remove(), dur);
 }
 
 export function el(name) {
@@ -44,4 +45,8 @@ export function newElm(
   listener.func && elm.addEventListener(listener.event, listener.func);
 
   return elm;
+}
+
+export const isEmptyObject = (obj) =>{
+  return Object.keys(obj).length === 0 && obj.constructor === Object;
 }

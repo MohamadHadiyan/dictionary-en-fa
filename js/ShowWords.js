@@ -13,7 +13,7 @@ function showWords() {
   const words = getWords();
   const index = getCurrentWord();
   el("#word-index").value = index;
-
+  
   const [word, pronunciation] = Object.values(words[index]);
   const row = (...content) =>
     content.map(
