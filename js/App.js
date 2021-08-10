@@ -1,8 +1,9 @@
 import FarsiType from "./FarsiType.js";
-import { arrayToObject, el, elms, newElm, showAlert } from "./utils.js";
+import { arrayToObject, el, elms, isEmptyObject, newElm, showAlert } from "./utils.js";
 import { addFieldsetOptions, getTranslatesWord } from "./FieldsetOptions.js";
 import { SearchBox } from "./Search.js";
 import {
+  addWordToStore,
   getCurrentWord,
   getWords,
   setCurrentWord,
@@ -127,14 +128,22 @@ function addWords(e) {
 
   const inputs = [...elms("#wordAndPronunArea input")];
   const subInputs = [...elms("#subWordInputs input")];
-  const phrase = arrayToObject(inputs);
+  const word = arrayToObject(inputs);
 
-  phrase.translates = getTranslatesWord();
-  phrase.subWords = arrayToObject(subInputs);
-  words.push(phrase);
+  word.translates = getTranslatesWord();
+  word.subWords = arrayToObject(subInputs);
+  const isEmpty = isEmptyObject(word.translates);
+  
+  if(isEmpty) {
+    showAlert("There is probably an empty translate fields!!", "warning")
+    return;
+  } 
+
+  words.push(word);
+  addWordToStore(word);
 
   showAlert(
-    `<strong>${this.word.value}</strong> was successfully Added to the dictionary`,
+    `<strong>${this.word.value + " "}</strong> Added successfully`,
     "success"
   );
 
@@ -149,7 +158,8 @@ function addWords(e) {
   this.word.value = this.pronunciation.value = "";
   el("#subWordInputs").innerHTML = "";
   el("#wordInput").focus();
-  id++;
+
+  setCurrentWord(getCurrentWord() + 1);
   subTransInputCount = 0;
   subWordInputCount = 0;
   showTranslate();
@@ -157,20 +167,32 @@ function addWords(e) {
 
 function handleChangeLangOptions() {
   el("#en-option").onchange = (e) => {
+    const faOption = el("#fa-option");
+    const headOverlay = el(".head-overlay");
+    const bodyOverlay = el(".body-overlay");
+
     if (e.target.checked) {
-      const headOverlay = el(".head-overlay");
-      const bodyOverlay = el(".body-overlay");
       headOverlay.style.opacity = 0;
       bodyOverlay.style.opacity = 1;
+
+      faOption.checked = false;
+    } else {
+      bodyOverlay.style.opacity = 0;
     }
   };
 
   el("#fa-option").onchange = (e) => {
+    const enOption = el("#en-option");
+    const headOverlay = el(".head-overlay");
+    const bodyOverlay = el(".body-overlay");
+
     if (e.target.checked) {
-      const headOverlay = el(".head-overlay");
-      const bodyOverlay = el(".body-overlay");
       headOverlay.style.opacity = 1;
       bodyOverlay.style.opacity = 0;
+
+      enOption.checked = false;
+    } else {
+      headOverlay.style.opacity = 0;
     }
   };
 }

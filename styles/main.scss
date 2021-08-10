@@ -35,25 +35,32 @@ button {
 }
 
 .alert {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 80%;
+  height: 85px;
   max-width: 1000px;
-  padding: 10px;
   border: 1px solid transparent;
   position: absolute;
-  top: 5%;
+  top: 2%;
   left: 50%;
   text-align: center;
   transform: translateX(-50%);
+
+  strong{
+    margin-right: 5px;
+  }
 }
 
 .success {
   border-color: #1fa;
-  background-color: #6cffcc65;
+  background-color: #64ffc933;
 }
 
 .warning {
   border-color: rgb(255, 188, 17);
-  background-color: #ffe96c65;
+  background-color: #ffef97dc;
 }
 
 .formContainer,
@@ -271,7 +278,7 @@ button {
           left: 0;
           right: 0;
           bottom: 0;
-          opacity: 1;
+          opacity: 0;
           background: #0091ca;
           transition: opacity 0.3s;
           &:hover {

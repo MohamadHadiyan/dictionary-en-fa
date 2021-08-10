@@ -340,12 +340,12 @@
       "adjective": "قابل قبول ، قابل پذیرش ، پذیرفتنی ، مقبول ، مجاز"
     },
     "subWords": {}
-  },  
+  },
   {
     "word": "accessory",
     "pronunciation": "eksasori",
     "translates": {
-      "noun":"لوازم جانبی ، منضمات ، لوازم فرعی ، همدست ، شریک ، لوازم",
+      "noun": "لوازم جانبی ، منضمات ، لوازم فرعی ، همدست ، شریک ، لوازم",
       "adjective": "فرعی"
     },
     "subWords": {}
@@ -2943,7 +2943,7 @@
     "pronunciation": "apera^l",
     "translates": {
       "noun": "پوشاک ، جامه ، رخت ، اسباب",
-      "intransitive-verb":"آراستن ، پوشاندن"
+      "intransitive-verb": "آراستن ، پوشاندن"
     },
     "subWords": {}
   },
@@ -3966,8 +3966,8 @@
     "pronunciation": "esosi'yet",
     "translates": {
       "noun": "شریک ، معاون ، عضو پیوسته",
-      "adjective":"وابسته ، هم پیوند ، همبسته",
-      "transitive-verb":"شریک کردن ، وابسته کردن"
+      "adjective": "وابسته ، هم پیوند ، همبسته",
+      "transitive-verb": "شریک کردن ، وابسته کردن"
     },
     "subWords": {}
   },
@@ -4678,7 +4678,7 @@
     "translates": {
       "adjective": "بیدار ، هشیار ، آگاه ،‌ متوجه",
       "transitive-verb": "بیدار کردن ، آگاه کردن ، متوجه کردن",
-      "intransitive-verb": "بیدار شدن آگاه شدن"
+      "intransitive-verb": "بیدار شدن ، آگاه شدن"
     },
     "subWords": {
       "subWord0": "keep awake",

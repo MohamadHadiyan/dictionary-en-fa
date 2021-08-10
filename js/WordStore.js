@@ -6,12 +6,17 @@ const wordStore={
 };
 
 export const setWordStore = async () =>{
-    const data = await loadData();
+    const data = await loadData("./words.json");
     wordStore.words.push(...data);
 }
 
 export const getWords = () => {
   return wordStore.words;
+}
+
+export const addWordToStore = (word) =>{
+  if(typeof word !== "object") return;
+  wordStore.words.push(word);
 }
 
 export const setCurrentWord = (index) =>{
