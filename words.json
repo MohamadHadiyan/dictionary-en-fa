@@ -4863,5 +4863,393 @@
       "adjective": "قابل ملاحظه ، قابل توجه ، مهم ، شایان ، بسیار زیاد"
     },
     "subWords": {}
+  },
+  {
+    "word": "considerate",
+    "pronunciation": "ka^n'sideret",
+    "translates": {
+      "adjective": "با ملاحظه ، با فکر ، از رویِ لطف ، نشان توجه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "consideration",
+    "pronunciation": "ka^nside'reyshen",
+    "translates": {
+      "noun": "توجه ، ملاحظه ، رسیدگی ، مراعات ، بررسی"
+    },
+    "subWords": {
+      "subWord0": "take something into consideration",
+      "subTranslate0": "چیزی را ملحوظ داشتن ، چیزی را به حساب آوردن"
+    }
+  },
+  {
+    "word": "consignment",
+    "pronunciation": "ka^n'sa^ynment",
+    "translates": {
+      "noun": "محموله ، ارسال ، حمل"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "consist in",
+    "pronunciation": "ka^n'sist in",
+    "translates": {
+      "intransitive-verb": "بستگی داشتن به ، عبارت بودن از"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "consist of",
+    "pronunciation": "ka^n'sist a^v",
+    "translates": {
+      "intransitive-verb": "تشکیل شدن از ، شامل ( چیزی ) بودن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "consolation",
+    "pronunciation": "ka^nso'leyshen",
+    "translates": {
+      "noun": "تسلی ، دلداری ، دلگرمی ، دلخوشی ، مایه تسلی"
+    },
+    "subWords": {
+      "subWord0": "consolation prize",
+      "subTranslate0": "جایزه دلداری"
+    }
+  },
+  {
+    "word": "console",
+    "pronunciation": "ka^n'sol",
+    "translates": {
+      "transitive-verb": "تسلی دادن ، دلداری دادن",
+      "noun": "کنسول ، پیشانه ، میز فرمان ، طاقچه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "consonant",
+    "pronunciation": "'ka^nsonent",
+    "translates": {
+      "adjective": "همخوان",
+      "noun": "صامت ، همخوان ، حرف بی صدا"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conspicuous",
+    "pronunciation": "ka^ns'pikyuwes",
+    "translates": {
+      "adjective": "برجسته ، آشکار ، انگشت نما ، چشمگیر ، متمایز ، قابل رویت ، معلوم"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conspicuously",
+    "pronunciation": "ka^ns'pikyuwesli",
+    "translates": {
+      "adverb": "به طور مشخص ، به وضوح ، آشکارا"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conspiracy",
+    "pronunciation": "ka^ns'piresi",
+    "translates": {
+      "noun": "توطئه ، دسیسه ، تبانی ، همدستی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conspirator",
+    "pronunciation": "ka^ns'pireter",
+    "translates": {
+      "noun": "توطئه گر ، خیانت کار ، توطئه کار ، توطئه چین ، دسیسه کار ، شریک فتنه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conspire",
+    "pronunciation": "ka^ns'pa^yer",
+    "translates": {
+      "intransitive-verb": "توطئه کردن ، تبانی کردن ، هم پیمان شدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "constable",
+    "pronunciation": "'ka^nstebel",
+    "translates": {
+      "noun": "پاسبان ، افسر ارتش ، پاسبان محلی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "constant",
+    "pronunciation": "'ka^nstent",
+    "translates": {
+      "noun": "ثابت ، بدون تغییر ، پایدار ، دائمی ، دائم"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "constantly",
+    "pronunciation": "'ka^nstentli",
+    "translates": {
+      "adverb": "دائما ، مرتب ، به طور مداوم ، همیشه ، همواره ، پیوسته"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "consternation",
+    "pronunciation": "ka^nster'neyshen",
+    "translates": {
+      "noun": "حیرت ، بهت ، اضطراب ، آشفتگی ، بهت و حیرت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "constitute",
+    "pronunciation": "'ka^nstityoot",
+    "translates": {
+      "transitive-verb": "تشکیل دادن ، به وجود آوردن ، ساختن ، تاسیس کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "constitution",
+    "pronunciation": "ka^nsti'tyooshen",
+    "translates": {
+      "noun": "قانون اساسی ، تشکیل ، ساخت ، ترکیب ، مشروطیت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "construct",
+    "pronunciation": "ka^n'stra^kt",
+    "translates": {
+      "transitive-verb": "ساختن ، بنا نهادن ، احداث کردن ، [ نظریه ] پرداختن ، تالیف کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "construction",
+    "pronunciation": "ka^ns'tra^kshen",
+    "translates": {
+      "noun": "ساخت ، ساخت و ساز ، ساختن ، بنا ، ساختمان ، عمارت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "consul",
+    "pronunciation": "'ka^nsel",
+    "translates": {
+      "noun": "کنسول ، قنسول"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "consult",
+    "pronunciation": "ka^n'sa^lt",
+    "translates": {
+      "transitive-verb": "مشورت کردن ، مشاوره کردن ، نظر ( کسی را ) خواستن ، همفکری کردن ، مراجعه کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "consultation",
+    "pronunciation": "ka^nsa^l'teyshen",
+    "translates": {
+      "noun": "مشورت ، مشاوره ، تبادل نظر ، رایزنی ،‌ همفکری ، جلسه مشاوره ، جلسه ، مراجعه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "consume",
+    "pronunciation": "ka^n'syoom",
+    "translates": {
+      "transitive-verb": "مصرف کردن ، [مجازی ] تحلیل بردن ، خوردن ، از بین بردن ، سوزاندن",
+      "intransitive-verb": "نابود شدن ، تحلیل رفتن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "consumer",
+    "pronunciation": "ka^n'syoomer",
+    "translates": {
+      "noun": "مصرف کننده"
+    },
+    "subWords": {
+      "subWord0": "consumer society",
+      "subTranslate0": "جامعه مصرفی"
+    }
+  },
+  {
+    "word": "consumption",
+    "pronunciation": "ka^n'sa^mpshen",
+    "translates": {
+      "noun": "مصرف ، مقدار مصرف ، میزان مصرف ، زوال ، خوردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contact",
+    "pronunciation": "ka^ntakt",
+    "translates": {
+      "noun": "تماس ، ارتباط ، اتصال ، برخورد ، ملاقات ، رابط",
+      "transitive-verb": "تماس گرفتن با",
+      "adjective": "تماسی"
+    },
+    "subWords": {
+      "subWord0": "come into contact with",
+      "subTranslate0": "سر و کار پیدا کردن یا داشتن با",
+      "subWord1": "make contact with",
+      "subTranslate1": "تماس گرفتن با ، تماس برقرار کردن با"
+    }
+  },
+  {
+    "word": "contagious",
+    "pronunciation": "ka^n'teyjes",
+    "translates": {
+      "adjective": "واگیر دار ، مسری ، ناقل بیماری ، واگیر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contain",
+    "pronunciation": "ka^n'teyn",
+    "translates": {
+      "transitive-verb": "شامل ( چیزی ) بودن ، داشتن ، حاوی ( چیزی ) بودن ، دارای ( چیزی ) بودن ، مهار کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "container",
+    "pronunciation": "ka^n'teyner",
+    "translates": {
+      "noun": "ظرف ، کانتینر ، صندوق ، جعبه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contemporary",
+    "pronunciation": "ka^n'tempreri",
+    "translates": {
+      "adjective": "معاصر ، هم عصر ، امروزی",
+      "noun": "معاصر ، هم عصر ، هم دوره"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contempt",
+    "pronunciation": "ka^n'tempt",
+    "translates": {
+      "noun": "تحقیر ، بی احترامی ، اهانت ، تنفر ، نفرت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contemptible",
+    "pronunciation": "ka^n'temptibel",
+    "translates": {
+      "adjective": "تحقیر آمیز ، نفرت انگیز ، خوار ، محقر ، قابل تحقیر ، پست"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contemptuous",
+    "pronunciation": "ka^n'tempchuwes",
+    "translates": {
+      "adjective": "تحقیر کننده ، متنفر ، اهانت آمیز"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contend",
+    "pronunciation": "ka^n'tend",
+    "translates": {
+      "intransitive-verb": "رقابت کردن ، مبارزه کردن ، ادعا کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "content",
+    "pronunciation": "ka^n'tent",
+    "translates": {
+      "noun": "محتوا ، مضمون ، مقدار ، اندازه ، میزان ،‌ مفاد ، حجم",
+      "adjective": "راضی ، قانع ، خرسند ، خوشنود",
+      "transitive-verb": "راضی کردن ، رضایت دادن به ، قانع کردن"
+    },
+    "subWords": {
+      "subWord0": "table of contents",
+      "subTranslate0": "[ کتاب ] فهرست ، فهرست مطالب",
+      "subWord1": "content oneself with",
+      "subTranslate1": "ساختن با ، رضایت دادن به ، قناعت کردن به"
+    }
+  },
+  {
+    "word": "contented",
+    "pronunciation": "ka^n'tentid",
+    "translates": {
+      "adjective": "راضی ، قانع ، خوشنود ، خرسند"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contentment",
+    "pronunciation": "ka^n'tentment",
+    "translates": {
+      "noun": "رضایت ، قناعت ، رضایت خاطر ، خرسندی ، خوشنودی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contents",
+    "pronunciation": "'ka^ntents",
+    "translates": {
+      "noun": "محتوا ، محتویات ، مندرجات ، مضمون ، فهرست ، مفاد"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contest",
+    "pronunciation": "ka^n'test",
+    "translates": {
+      "noun": "مسابقه ، رقابت ، مبارزه ، دعوا ، اختلاف ، مشاجره",
+      "transitive-verb": "[ در مبارزه یا مسابقه ] شرکت کردن ، رقابت کردن ، مبارزه کردن ، بر سر ( چیزی ) جر و بحث کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contestant",
+    "pronunciation": "ka^n'testent",
+    "translates": {
+      "noun": "[ مسابقه ] شرکت کننده ، مسابقه دهنده ، رقیب"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "continent",
+    "pronunciation": "'ka^ntinent",
+    "translates": {
+      "noun": "قاره ، اروپا ( به جز بریتانیا )"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "continual",
+    "pronunciation": "ka^n'tinyuwa^l",
+    "translates": {
+      "adjective": "پیوسته ، مدام ، همیشگی ، دائمی ، مکرر ، پی در پی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "continually",
+    "pronunciation": "ka^n'tinyuwa^li",
+    "translates": {
+      "adverb": "به طور پیوسته ، مکرر ، همواره ، دائم"
+    },
+    "subWords": {}
   }
 ]
