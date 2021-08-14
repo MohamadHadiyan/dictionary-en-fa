@@ -5251,5 +5251,322 @@
       "adverb": "به طور پیوسته ، مکرر ، همواره ، دائم"
     },
     "subWords": {}
+  },
+  {
+    "word": "continuation",
+    "pronunciation": "ka^ntinyu'weyshen",
+    "translates": {
+      "noun": "ادامه ، از سرگیری ، دنباله ، تعقیب"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "continue",
+    "pronunciation": "ka^n'tinyoo",
+    "translates": {
+      "transitive-verb": "ادامه دادن ، ادامه داشتن ، ادامه یافتن ، دنبال کردن ، از سرگرفتن ، ماندن ، باقی ماندن"
+    },
+    "subWords": {
+      "subWord0": "to be continued",
+      "subTranslate0": "[ داستان و غیره ] ادامه داشتن"
+    }
+  },
+  {
+    "word": "continuous",
+    "pronunciation": "ka^n'tinyuwes",
+    "translates": {
+      "adjective": "پیوسته ، بی وقفه ، دائم ، مداوم ، یکسره ، متصل ، متوالی ، [ دستور زبان ] استمراری"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "continuously",
+    "pronunciation": "ka^n'tinyuwesli",
+    "translates": {
+      "adverb": "به طور پیوسته ، به طور مداوم ، بی وقفه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contraception",
+    "pronunciation": "ka^ntra^'sepshen",
+    "translates": {
+      "noun": "پیشگیری ( از بارداری ) ، جلوگیری ( از آبستنی )"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contraceptive",
+    "pronunciation": "ka^ntra^'septiv",
+    "translates": {
+      "adjective": "[ مربوط به ] جلوگیری ، ضد آبستنی",
+      "noun": "وسیله جلوگیری از آبستنی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contract",
+    "pronunciation": "'ka^ntrakt",
+    "translates": {
+      "noun": "قرارداد ، پیمان ، عقد ، سند قرارداد",
+      "transitive-verb": "قراردار بستن ، پیمان بستن ، عقد ( ازدواج ) بستن ، منقبض کردن ، کوچک کردن ، کوتاه کردن ، مختصر کردن ، مخفف کردن",
+      "intransitive-verb": "منقبض شدن ، دچار شدن ، [ بیماری ] گرفتن ، کوچک شدن ، مخفف شدن ، مختصر شدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contraction",
+    "pronunciation": "ka^n'trakshen",
+    "translates": {
+      "noun": "انقباض ، [ دستور زبان ] اختصار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contradict",
+    "pronunciation": "ka^ntra'dikt",
+    "translates": {
+      "transitive-verb": "نقض کردن ، نفی کردن ، رد کردن ، مخالفت کردن",
+      "intransitive-verb": "مخالف بودن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contradiction",
+    "pronunciation": "ka^ntra'dikshen",
+    "translates": {
+      "noun": "تناقض ، تضاد ، مغایرت ، مخالفت ، اختلاف ، انکار ،‌ تکذیب ، رد"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contrary",
+    "pronunciation": "'ka^ntreri",
+    "translates": {
+      "adjective": "خلافِ ، مخالفِ ، مقابلِ ، عکسِ ، ضدِ ، مغایر ، متضاد",
+      "noun": "ضد ، عکس ، مخالف ، متضاد"
+    },
+    "subWords": {
+      "subWord0": "contrary to",
+      "subTranslate0": "بر خلافِ ، بر عکسِ",
+      "subWord1": "on the contrary",
+      "subTranslate1": "بر عکس"
+    }
+  },
+  {
+    "word": "contrast",
+    "pronunciation": "ka^n'tra^st",
+    "translates": {
+      "noun": "تقابل ،‌ کنتراست ، مقایسه ، تضاد ، مغایرت ، تبادین ، مقابله ، مخالفت ، اختلاف ، تمایز",
+      "transitive-verb": "مقایسه کردن ، برابر هم گذاشتن ، کنار هم قرار دادن ",
+      "intransitive-verb": "تضاد داشتن ، اختلاف داشتن ، مغایر بودن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contribute",
+    "pronunciation": "ka^n'tribyoot",
+    "translates": {
+      "transitive-verb": "کمک کردن ، اعانه دادن ، اهدا کردن ، مشارکت کردن ، شرکت کردن در",
+      "intransitive-verb": "موثر بودن ، مقاله نوشتن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contribution",
+    "pronunciation": "ka^ntri'byooshen",
+    "translates": {
+      "noun": "کمک ، مشارکت ، اعانه ، سهم ،‌ اهدا"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contributor",
+    "pronunciation": "ka^n'tribyooter",
+    "translates": {
+      "noun": "کمک کننده ، مشارکت کننده ، اعانه دهنده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contrivance",
+    "pronunciation": "ka^n'tra^yvens",
+    "translates": {
+      "noun": "ابداع ، اختراع ، تمهید ، دستگاه ، اسباب ، وسیله"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "contrive",
+    "pronunciation": "ka^n'tra^yv",
+    "translates": {
+      "transitive-verb": "اختراع کردن ، ابداع کردن ، تدارک دیدن ، تدبیر دیدن ، تعبیه کردن ، چاره ای پیدا کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "control",
+    "pronunciation": "ka^n'trol",
+    "translates": {
+      "noun": "کنترل ، تسلط ، سلطه ، بازرسی ، بازبینی ، قدرت ، اختیار",
+      "transitive-verb": "کنترل کردن ، فرمان راندن بر ، مسلط بودن ، بازبینی کردن ، نظارت کردن"
+    },
+    "subWords": {
+      "subWord0": "out of control",
+      "subTranslate0": "خارجِ از کنترل ، عنان گسیخته",
+      "subWord1": "under control",
+      "subTranslate1": "تحت کنترل ، زیر نظر"
+    }
+  },
+  {
+    "word": "convalescence",
+    "pronunciation": "ka^nva'lesens",
+    "translates": {
+      "noun": "دوره نقاهت ، نقاهت ، بهگرایی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "convenience",
+    "pronunciation": "ka^n'viiniyens",
+    "translates": {
+      "noun": "راحتی ، آسایش ، رفاه ، سهولت ، آسانی ، وقت مناسب"
+    },
+    "subWords": {
+      "subWord0": "public convenience",
+      "subTranslate0": "توالت عمومی",
+      "subWord1": "modern convenience",
+      "subTranslate1": "وسایل آسایش جدید"
+    }
+  },
+  {
+    "word": "convenient",
+    "pronunciation": "ka^n'viiniyent",
+    "translates": {
+      "adjective": "مناسب ، راحت ، نزدیک ، مفید"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "convent",
+    "pronunciation": "'ka^nvent",
+    "translates": {
+      "noun": "صومعه ، خانقاه ، دیر ، راهبه های صومعه ، خانقاه راهبان"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "convention",
+    "pronunciation": "ka^n'venshen",
+    "translates": {
+      "noun": "مجمع ، کنگره ، قرارداد ، پیمان"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conventional",
+    "pronunciation": "ka^n'venshena^l",
+    "translates": {
+      "adjective": "مرسوم ، معمول ، معمولی ، قراردادی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "converge",
+    "pronunciation": "ka^n'verj",
+    "translates": {
+      "intransitive-verb": "به هم رسیدن ، به هم نزدیک شدن ، جمع شدن ، متمرکز شدن ، گرد آمدن ، همگرا بودن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conversation",
+    "pronunciation": "ka^nver'seyshen",
+    "translates": {
+      "noun": "گفتگو ، صحبت ، مکالمه ، مذاکره ، محاوره"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "convert",
+    "pronunciation": "ka^n'vert",
+    "translates": {
+      "transitive-verb": "تبدیل کردن ، وارونه کردن ، تغییر دادن ، پیرو ( دین دیگری ) کردن ، عقیده ( کسی را ) عوض کردن",
+      "intransitive-verb": "تبدیل شدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "convertible",
+    "pronunciation": "ka^n'vertibel",
+    "translates": {
+      "adjective": "قابل تبدیل ، تغییر پذیر",
+      "noun": "اتومبیل کروکی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "convex",
+    "pronunciation": "'ka^nveks",
+    "translates": {
+      "adjective": "محدب ، کوژ ، برجسته"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "convey",
+    "pronunciation": "ka^n'vey",
+    "translates": {
+      "transitive-verb": "منتقل کردن ، رساندن ، انتقال دادن ، بردن ، حمل کردن ، بیان کردن ، حالی کردن ، فهماندن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "convict",
+    "pronunciation": "ka^n'vikt",
+    "translates": {
+      "noun": "محکوم ، مجرم ، جانی ، محبوس",
+      "transitive-verb": "محکوم کردن ، مجرم شناختن ، متهم کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "conviction",
+    "pronunciation": "ka^n'vikshen",
+    "translates": {
+      "noun": "ایمان ، عقیده ، اطمینان ، محکومیت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "convince",
+    "pronunciation": "ka^n'vins",
+    "translates": {
+      "transitive-verb": "متقاعد کردن ، قانع کردن ، قبولاندن ، اطمینان دادن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "coo",
+    "pronunciation": "koo",
+    "translates": {
+      "transitive-verb": "[ کبوتر ] بغ بغو کردن ، زمزمه کردن ، آهسته به زمزمه ادا کردن",
+      "intransitive-verb": "زیر لب گفتن",
+      "noun": "صدای کبوتر و قمری"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cook",
+    "pronunciation": "kuk",
+    "translates": {
+      "transitive-verb": "آشپزی کردن ، پخت و پز کردن ، ( در دفاتر ) دست بردن ، دستکاری کردن",
+      "intransitive-verb": "غذا پختن ، پختن",
+      "noun": "آشپز"
+    },
+    "subWords": {
+      "subWord0": "cook up",
+      "subTranslate0": "[ دستان ] سرهم کردن"
+    }
   }
 ]
