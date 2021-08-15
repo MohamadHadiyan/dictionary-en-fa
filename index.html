@@ -14,7 +14,7 @@
       <form id="wordForm">
         <div class="formContainer">
           <div class="formGroupContainer">
-            <div class="groupArea" id="wordAndPronunArea">
+            <div id="wordAndPronunArea">
               <label for="wordInput" class="formGroup">
                 <span>Word:</span>
                 <input
@@ -35,12 +35,12 @@
                 />
               </label>
             </div>
-            <div class="groupArea">
+            <div>
               <fieldset class="translateFieldset" id="wordFiledset">
                 <legend>Grammerical</legend>
               </fieldset>
             </div>
-            <div class="groupArea">
+            <div>
               <div class="subWordInputsArea">
                 <div class="subWordInputs" id="subWordInputs"></div>
                 <button
@@ -92,13 +92,15 @@
           </button>
         </div>
         <div class="container">
-          <button class="prev"></button>
+          <div class="button-group-box">
+            <button class="prev"></button>
+            <button class="next"></button>
+          </div>
           <div class="dictionary">
             <div class="wordContainer">
               <div class="mainWord"></div>
             </div>
           </div>
-          <button class="next"></button>
         </div>
       </div>
     </div>

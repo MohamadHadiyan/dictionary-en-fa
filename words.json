@@ -5566,7 +5566,359 @@
     },
     "subWords": {
       "subWord0": "cook up",
-      "subTranslate0": "[ دستان ] سرهم کردن"
+      "subTranslate0": "[ داستان ] سرهم کردن"
     }
+  },
+  {
+    "word": "cooker",
+    "pronunciation": "'kuker",
+    "translates": {
+      "noun": "اجاق ، گاز ، میوه خورشتی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cookery",
+    "pronunciation": "'kukeri",
+    "translates": {
+      "noun": "آشپزی ، هنر آشپزی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cookie",
+    "pronunciation": "'kuki",
+    "translates": {
+      "noun": "شیرینی ، بیسکویت ، کلوچه ، کوکی ، [ عامیانه ] آدم"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cool",
+    "pronunciation": "kool",
+    "translates": {
+      "adjective": "سرد ، خنک ، خونسرد ، آرام ، خشک ، بی تفاوت ، بی اعتنا",
+      "transitive-verb": "خنک کردن ، سرد کردن ، فروکش کردن",
+      "intransitive-verb": "خنک شدن ، سرد شدن ، آرام شدن",
+      "noun": "هوای خنک ، خونسردی ، آرامش"
+    },
+    "subWords": {
+      "subWord0": "get cooler",
+      "subTranslate0": "[ هوا ] خنک تر شدن",
+      "subWord1": "cool down (or off )",
+      "subTranslate1": "آرام شدن"
+    }
+  },
+  {
+    "word": "coolness",
+    "pronunciation": "'koolnis",
+    "translates": {
+      "noun": "خنکی ، خونسردی ، سردی ، بی تفاوتی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cooperate",
+    "pronunciation": "ko'a^pereyt",
+    "translates": {
+      "intransitive-verb": "همکاری کردن ، شریک مساعی کردن ، همیاری کردن ، کمک کردن ، یاری کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cooperation",
+    "pronunciation": "ko.a^pe'reyshen",
+    "translates": {
+      "noun": "همکاری ، همیاری ، تعاون ، مشارکت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cooperative",
+    "pronunciation": "ko'a^pretiv",
+    "translates": {
+      "adjective": "تعاونی ، مشترک ، جمعی",
+      "noun": "شرکت تعاونی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cop",
+    "pronunciation": "ka^p",
+    "translates": {
+      "noun": "پلیس ، پاسبان ، [ عامیانه ] آجان"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cope",
+    "pronunciation": "kop",
+    "translates": {
+      "intransitive-verb": "از عهده بر آمدن ، فائق آمدن ، حریف شدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "copper",
+    "pronunciation": "'ka^per",
+    "translates": {
+      "noun": "مِس ، فلز مِس ، پول خرد ، مسی ، از جنس مِس ، پاسبان ، آجان"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "copy",
+    "pronunciation": "'ka^pi",
+    "translates": {
+      "noun": "نسخه ، رونوشت ، فتوکپی ، کپی ، بدل ، [ کتاب ] نسخه ، جلد ، [ روزنامه ، مجله ] نسخه ، شماره ، ورق ، ورقه",
+      "transitive-verb": "رونویسی کردن ، کپی کردن ، رونوشت کردن ، فتوکپی گرفتن ، تقلید کردن ، [ امتحان ] تقلب کردن"
+    },
+    "subWords": {
+      "subWord0": "copy out",
+      "subTranslate0": "بازنویسی کردن ، نسخه برداری کردن"
+    }
+  },
+  {
+    "word": "cord",
+    "pronunciation": "kord",
+    "translates": {
+      "noun": "طناب ، بند ، سیم (برق ) ، ریسمان ، نخ ، قیطان ، [ حنجره ] تار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "corduroy",
+    "pronunciation": "'korderoy",
+    "translates": {
+      "noun": "مخمل کبریتی ، مخمل نخی راه راه ، [ به صورت جمع ] شلوار مخمل کبریتی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "core",
+    "pronunciation": "kor",
+    "translates": {
+      "noun": "هسته ، مغز ، مرکز ، اصل ، [ میوه ] هسته ، تخم"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cork",
+    "pronunciation": "kork",
+    "translates": {
+      "noun": "چوب پنبه ، در بطری ( پلاستیکی ، لاستیکی و غیره )",
+      "transitive-verb": "چوب پنبه گذاشتن ، بستن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "corkscrew",
+    "pronunciation": "'korkskroo",
+    "translates": {
+      "noun": "در باز کن ، چوب بنبه کش"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "corn",
+    "pronunciation": "korn",
+    "translates": {
+      "noun": "غله ، غلات ، [ در آمریکا ] ذرت ، میخچه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "corner",
+    "pronunciation": "'korner",
+    "translates": {
+      "noun": "گوشه ، کنج ، زاویه ، نبش ، سر پیچ",
+      "transitive-verb": "گیر انداختن ، در تنگنا قرار دادن ، گوشه دار کردن",
+      "intransitive-verb": "گردش کردن ، پیچیدن"
+    },
+    "subWords": {
+      "subWord0": "in a tight corner",
+      "subTranslate0": "در تنگنا ، گرفتار",
+      "subWord1": "take a corner",
+      "subTranslate1": "[ ماشین ] پیچیدن ، گردش کردن"
+    }
+  },
+  {
+    "word": "cornet",
+    "pronunciation": "'kornit",
+    "translates": {
+      "noun": "کُرنت ( نوعی ساز بادی شبیه به ترومپت ) ، بستنی قیفی ، [ بستنی ] نان قیفی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "coronation",
+    "pronunciation": "ka^ro'nashen",
+    "translates": {
+      "noun": "تاجگذاری"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "corporation",
+    "pronunciation": "korpo'reyshen",
+    "translates": {
+      "noun": "شرکت ، بنگاه ، شرکت تجاری ، انجمن شهر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "corps",
+    "pronunciation": "kor",
+    "translates": {
+      "noun": "یگان ، واحد ، سپاه ، گروه ، لشکر ، هیئت ، دسته"
+    },
+    "subWords": {
+      "subWord0": "corps de ballet",
+      "subTranslate0": "گروه باله"
+    }
+  },
+  {
+    "word": "corpse",
+    "pronunciation": "korps",
+    "translates": {
+      "noun": "جسد ، جنازه ، لاشه ، نعش ، مردار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "corral",
+    "pronunciation": "ka^'ra^l",
+    "translates": {
+      "noun": "اصطبل ( رو باز ) ، جای اسب و گله ، غول",
+      "transitive-verb": "احاطه کردن ، حصار درست کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "correct",
+    "pronunciation": "ka^'rekt",
+    "translates": {
+      "adjective": "درست ، صحیح ، دقیق ، مودبانه ، معقول",
+      "transitive-verb": "تصحیح کردن ، درست کردن ، میزان کردن ، [ ورقه امتحان ] تصحیح کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "correction",
+    "pronunciation": "ka^'rekshen",
+    "translates": {
+      "noun": "تصحیح ، اصلاح ، غلط گیری ، درمان ، علاج ، چاره ، تنبیه ، تادیب ، مجازات"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "correctly",
+    "pronunciation": "ka^'rektli",
+    "translates": {
+      "adverb": "به درستی ، درست ، خوب"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "correspond",
+    "pronunciation": "ka^ris'pa^nd",
+    "translates": {
+      "intransitive-verb": "تطبیق کردن ، مطابق بودن ، همخوانی داشتن ، برابر بودن ، مکاتبه داشتن ، نامه نگاری کردن ، رابطه داشتن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "correspondence",
+    "pronunciation": "ka^ris'pa^ndnes",
+    "translates": {
+      "noun": "مطابقت ، مکاتبه ، مکاتبات ، تناظر ، ارتباط ، مراسلات"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "correspondent",
+    "pronunciation": "ka^ris'pa^ndent",
+    "translates": {
+      "noun": "خبرنگار ، مخبر ، گزارشگر ، طرف مکاتبه ، نامه نگار",
+      "adjective": " مطابق ، منطبق ، موافق"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "corridor",
+    "pronunciation": "'ka^ridor",
+    "translates": {
+      "noun": "راهرو ، دالان ، دهلیز ، راه سرپوشیده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "corrugate",
+    "pronunciation": "'ka^rugeyt",
+    "translates": {
+      "intransitive-verb": "چین خوردن",
+      "transitive-verb": "چین دادن ، راه راه کردن ، موج دار کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "corrupt",
+    "pronunciation": "ko'ra^pt",
+    "translates": {
+      "adjective": "فاسد ، رشوه خوار ، هرزه ، مخدوش",
+      "transitive-verb": "فاسد کردن ، تباه کردن ، تحریف کردن ، خراب کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "corruption",
+    "pronunciation": "ko'ra^pshen",
+    "translates": {
+      "noun": "فاسد ، فروپاشی ، تحریف ، انحراف"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cosmetics",
+    "pronunciation": "ka^s'metiks",
+    "translates": {
+      "noun": "لوازم آرایش"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cosmonaut",
+    "pronunciation": "'ka^zmenot",
+    "translates": {
+      "noun": "فضانورد ، کیهان نورد"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cost",
+    "pronunciation": "ka^st",
+    "translates": {
+      "noun": "هزینه ، خرج ، مخارج ، قیمت ، ارزش ، بها",
+      "intransitive-verb": "قیمت داشتن ، ارزش داشتن ، خرج برداشتن ، تمام شدن ، نیاز داشتن",
+      "transitive-verb": "قیمت گذاری کردن",
+      "past-tens": "گذشته فعل ( cost )",
+      "past-participle": "اسم مفعول فعل ( cost )"
+    },
+    "subWords": {
+      "subWord0": "at all costs",
+      "subTranslate0": "به هر قیمتی که شده ، هرطور که شده ، به هر ترتیبی",
+      "subWord1": "cost of living",
+      "subTranslate1": "هزینه زندگی",
+      "subWord2": "cost price",
+      "subTranslate2": "قیمتِ تمام شده"
+    }
+  },
+  {
+    "word": "costly",
+    "pronunciation": "'ka^stli",
+    "translates": {
+      "adjective": "گران ، گزاف ، گرانبها ، فاخر"
+    },
+    "subWords": {}
   }
 ]
