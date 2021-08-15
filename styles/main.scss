@@ -48,7 +48,7 @@ button {
   text-align: center;
   transform: translateX(-50%);
 
-  strong{
+  strong {
     margin-right: 5px;
   }
 }
@@ -63,22 +63,28 @@ button {
   background-color: #ffef97dc;
 }
 
+.error-shadow{
+  box-shadow: 0 0 0 3px #e800009a !important;
+}
+
 .formContainer,
 .container {
   width: 100%;
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
   border-radius: 3px;
+  padding: 8px;
 }
 
 .formContainer {
   padding: 3px;
   margin-top: 20px;
   margin-bottom: 3px;
+  overflow-x: scroll;
 
   @media #{$mq-mobile-to-up} {
     padding: 8px;
+    overflow-x: auto;
   }
 }
 
@@ -86,34 +92,50 @@ button {
   border: 1px solid #ccc;
   border-radius: 3px;
   margin: 10px auto 3em;
+  overflow: hidden;
+
+  .container {
+    flex-direction: column;
+    align-items: center;
+  }
 }
 
-.container {
-  padding: 8px;
+.button-group-box {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
 }
 
 .options-menu {
   display: flex;
+  flex-wrap: wrap;
   width: 100%;
   padding: 5px;
   border-bottom: 1px solid #ccc;
+
+  input[type="search"] {
+    flex-grow: 1;
+  }
 }
 
 .option,
 .fieldset-option {
   display: flex;
+  align-items: flex-end;
   position: relative;
   padding: 5px 8px;
-  margin-right: 8px;
+  margin: 2px 4px;
   border: 1px solid #ccc;
   border-radius: 4px;
   font-weight: 600;
+  font-size: 12px;
+  color: #555;
   cursor: pointer;
   transition: all 0.3s;
   outline: 0;
 
-  input[type=checkbox],
-  input[type=radio]{
+  input[type="checkbox"],
+  input[type="radio"] {
     padding: 0;
     margin: 0;
     outline: 0;
@@ -125,7 +147,7 @@ button {
     appearance: none;
 
     &:focus ~ .sign {
-      box-shadow: 0 0 0 3px #00a6e8;
+      box-shadow: inset 0 0 0 3px #00a6e8dc;
     }
 
     &:checked ~ .sign {
@@ -139,10 +161,10 @@ button {
 
   .sign {
     position: relative;
-    width: 20px;
-    height: 20px;
+    min-width: 16px;
+    height: 16px;
     margin-right: 10px;
-    border-radius: 3px;
+    border-radius: 2px;
     background-color: #fff;
     box-shadow: inset 0 0 0 2px #00a6e8;
     transition: all 0.3s;
@@ -150,12 +172,9 @@ button {
     &::after {
       content: "\2713";
       position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      padding: 0 3px;
-      line-height: 1.2;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
       font-weight: 600;
       color: #fff;
       opacity: 0;
@@ -164,7 +183,7 @@ button {
 
   span {
     user-select: none;
-    color: #555;
+    line-height: 1;
   }
 
   &:hover .sign {
@@ -174,6 +193,15 @@ button {
   &:hover {
     box-shadow: 0 0 8px #0002;
   }
+
+  @media #{$mq-mobile-to-up} {
+    font-size: 15px;
+    .sign {
+      min-width: 20px;
+      height: 20px;
+      border-radius: 3px;
+    }
+  }
 }
 
 .btn-option,
@@ -181,7 +209,7 @@ button {
   align-items: center;
   background-color: #fff;
 
-  &:focus{
+  &:focus {
     border-color: transparent;
     box-shadow: 0 0 0 3px #00a6e89a;
   }
@@ -201,16 +229,13 @@ button {
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  width: calc(100% - 155px);
+  width: 100%;
+  margin-top: 8px;
   border: 1px solid #ccc;
   border-radius: 2px;
-
-  @media screen and (max-width: 620px) {
-    width: calc(100% - 100px);
-  }
-
-  @media screen and (max-width: 400px) {
-    width: calc(100% - 70px);
+  overflow-x: scroll;
+  @media #{$mq-tablet-to-up} {
+    overflow-x: auto;
   }
 }
 
@@ -296,7 +321,11 @@ button {
 
           span {
             color: #0300e0;
-            font-size: 18px;
+            font-size: 12px;
+
+            @media #{$mq-tablet-to-up} {
+              font-size: 16px;
+            }
           }
 
           td:last-child {
@@ -474,10 +503,6 @@ button {
     justify-content: center;
     flex-direction: column;
 
-    .groupArea {
-      width: 100%;
-    }
-
     .translateFieldset {
       display: flex;
       flex-direction: column;
@@ -491,6 +516,7 @@ button {
 
       label {
         display: flex;
+        flex-wrap: wrap;
         justify-content: space-between;
         align-items: center;
         margin-top: 3px;
@@ -505,7 +531,6 @@ button {
 
     span {
       font-size: 12px;
-      padding: 3px;
     }
 
     &:last-child {
@@ -522,19 +547,24 @@ button {
   .formGroup {
     width: 100%;
     display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
     padding: 4px;
     background-color: #eee;
+
+    span {
+      min-width: 105px;
+    }
   }
 
   .formControl {
     padding: 5px;
     border: none;
-    width: 75%;
     border-radius: 3px;
     outline: 0;
+    flex-grow: 1;
     background-color: #fafafa;
     font-family: IRANSansWeb, Lato;
 
@@ -549,7 +579,7 @@ button {
     border: 1px solid #ccc;
 
     button {
-      width: 100%;
+      width: calc(100% - 6px);
       font-size: 18px;
       margin: 3px;
       outline: 0;
@@ -575,6 +605,7 @@ button {
       width: 100%;
       display: flex;
       flex-direction: column;
+      background-color: #eee;
 
       @media #{$mq-tablet-to-up} {
         flex-direction: row;
@@ -582,11 +613,13 @@ button {
     }
 
     button {
+      width: calc(100% - 6px);
       border: none;
       color: red;
       padding-left: 15px;
       padding-right: 15px;
-      margin: 0;
+      border-radius: 3px;
+      border: 1px solid #ccc;
       outline: 0;
 
       &:focus {
@@ -647,6 +680,13 @@ button {
       span {
         font-size: 16px;
       }
+    }
+
+    .subWordInputs button{
+      width: auto;
+      margin: 0;
+      border: 0;
+      border-radius: 0;
     }
   }
 }
