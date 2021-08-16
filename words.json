@@ -5920,5 +5920,392 @@
       "adjective": "گران ، گزاف ، گرانبها ، فاخر"
     },
     "subWords": {}
+  },
+  {
+    "word": "costume",
+    "pronunciation": "'ka^styum",
+    "translates": {
+      "noun": "لباس ، کت ، دامن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cot",
+    "pronunciation": "ka^t",
+    "translates": {
+      "noun": "تخت خواب بچه ، تخت خواب سفری"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cottage",
+    "pronunciation": "'ka^tij",
+    "translates": {
+      "noun": "کلبه ، خانه روستایی ، ویلا"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cotton",
+    "pronunciation": "'ka^ten",
+    "translates": {
+      "noun": "پنبه ، نخ ، پارچه نخی ، لباس نخی ، نخی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "couch",
+    "pronunciation": "kaoch",
+    "translates": {
+      "noun": "کاناپه ، نیمکت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cough",
+    "pronunciation": "ka^f",
+    "translates": {
+      "noun": "سرفه ، سینه درد",
+      "transitive-verb": "سرفه کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "could",
+    "pronunciation": "kud",
+    "translates": {
+      "past-tens": "گذشته فعل can ( میتوانست )"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "could'nt",
+    "pronunciation": "'kudent",
+    "translates": {
+      "auxiliary-verb": "نتوانست ( could not )"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "council",
+    "pronunciation": "'kaonsil",
+    "translates": {
+      "noun": "شورا ، انجمن ، هیئت ، جلسه ، مجلس"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "councilor",
+    "pronunciation": "'kaonsler",
+    "translates": {
+      "noun": "عضو شورا ، عضو انجمن ، مشاور ، رایزن ، مستشار ، کنکاشگر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "counsel",
+    "pronunciation": "'kaonsel",
+    "translates": {
+      "noun": "پند ، نصیحت ، توصیه ، مشورت ، [ حقوقی ] وکیل ، رایزنی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "count",
+    "pronunciation": "kaont",
+    "translates": {
+      "noun": "شمارش ، شماره ، حساب ، مورد ، فقره ، کُنت (= لقبی در بعضی کشور های اروپایی )",
+      "transitive-verb": "شمردن ، حساب کردن ، به حساب آوردن ، به حساب آمدن ، مهم بودن"
+    },
+    "subWords": {
+      "subWord0": "count down",
+      "subTranslate0": "برعکس شمردن",
+      "subWord1": "count in",
+      "subTranslate1": "به حساب آوردن ، گنجاندن",
+      "subWord2": "count on ( somebody or something )",
+      "subTranslate2": "روی ( کسی یا چیزی ) حساب کردن ",
+      "subWord3": "count out",
+      "subTranslate3": "یکی یکی شمردن"
+    }
+  },
+  {
+    "word": "counter",
+    "pronunciation": "'kaonter",
+    "translates": {
+      "noun": "پیشخوان ، باجه ، شمارنده ، گیشه ، بار ، [ بازی ] ژتون ، [ در ترکیب ] _سنج",
+      "adverb": "بلعکس ، ضد ، در جهت مخالف ، در روبرو"
+    },
+    "subWords": {
+      "subWord0": "counter to",
+      "subTranslate0": "( بر ) ضدِ ، ( بر ) خلافِ"
+    }
+  },
+  {
+    "word": "counterfeit",
+    "pronunciation": "'kaonterfit",
+    "translates": {
+      "adjective": "جعلی ، تقلبی ، ساختگی ، بدلی ",
+      "transitive-verb": "جعل کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "countess",
+    "pronunciation": "'kaontis",
+    "translates": {
+      "noun": "کُنتس"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "country",
+    "pronunciation": "'ka^ntri",
+    "translates": {
+      "noun": "کشور ، ملت ، مملکت ، مردم ، میهن ، وطن ، زادگاه ، روستا ، بیرون شهر ، دشت و صحرا ، زمین ، سرزمین"
+    },
+    "subWords": {
+      "subWord0": "countrywide",
+      "subTranslate0": "سرتاسری ، ملی"
+    }
+  },
+  {
+    "word": "countryman",
+    "pronunciation": "'ka^ntriman",
+    "translates": {
+      "noun": "هم وطن ، هم میهن ، روستایی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "countryside",
+    "pronunciation": "'ka^ntrisa^yd",
+    "translates": {
+      "noun": "حومه شهر ، نواحی روستایی ، فضای سبز بیرون شهر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "county",
+    "pronunciation": "'kaonti",
+    "translates": {
+      "noun": "[ در بریتانیا ] استان ، مردم استان ، شهرستان ، بخش"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "couple",
+    "pronunciation": "'ka^pel",
+    "translates": {
+      "noun": "زن و شوهر ، زوج ، جفت ، کوپل ، دو ، دو تا",
+      "intransitive-verb": "جفت شدن",
+      "transitive-verb": "جفت کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "coupon",
+    "pronunciation": "'koopa^n",
+    "translates": {
+      "noun": "کوپن ، بُن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "courage",
+    "pronunciation": "'ka^rij",
+    "translates": {
+      "noun": "جرات ، شهامت ، شجاعت ، رشادت ، دلاوری ، دلیری"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "courageous",
+    "pronunciation": "ka^'reyjes",
+    "translates": {
+      "adjective": "شجاع ، با شهامت ، دلیر ، شجاعانه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "courier",
+    "pronunciation": "'kuriyer",
+    "translates": {
+      "noun": "پیک ، نامه رسان ، قاصد ، راهنمای تور"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "course",
+    "pronunciation": "kors",
+    "translates": {
+      "noun": "دوره ، مسیر ،جریان ، روند ، طولِ ، درس ، زمین (‌ بازی ) ، میدان ، [ غذا ] بخش"
+    },
+    "subWords": {
+      "subWord0": "change course",
+      "subTranslate0": "تغییر مسیر دادن",
+      "subWord1": "in due course",
+      "subTranslate1": "به موقع خود ، در وقت مناسب",
+      "subWord2": "in the course of time",
+      "subTranslate2": "به گذشت زمان ، در طول زمان ، در درازمدت",
+      "subWord3": "of course",
+      "subTranslate3": "البته ، حتماً"
+    }
+  },
+  {
+    "word": "court",
+    "pronunciation": "kort",
+    "translates": {
+      "noun": "دادگاه ، دیوان ، دربار ، زمین ( بازی ) ، حیاط"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "courteous",
+    "pronunciation": "'kertiyes",
+    "translates": {
+      "adjective": "مودب ، با نزاکت ، با ادب ، با تربیت ، مودبانه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "courtesy",
+    "pronunciation": "'kertisi",
+    "translates": {
+      "noun": "ادب ، نزاکت ، احترام ، تواضع ، ملاحضه ، حُسن نیت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "courtyard",
+    "pronunciation": "'kort.ya^rd",
+    "translates": {
+      "noun": "حیاط"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cousin",
+    "pronunciation": "'ka^zin",
+    "translates": {
+      "noun": "عمو زاده ، دختر عمو ، پسر عمو ، عمه زاده ، دختر عمه ، پسر عمه ، دایی زاده ، دختر دایی ، پسر دایی ، خاله زاده ، دختر خاله ، پسر خاله ، خویشاوند ( دور ) ، منسوب"
+    },
+    "subWords": {
+      "subWord0": "first cousin",
+      "subTranslate0": "cousin"
+    }
+  },
+  {
+    "word": "cove",
+    "pronunciation": "kov",
+    "translates": {
+      "noun": "یاور ، خور ، خلیج کوچک ، پناهگاه ساحلی دامنه کوه ، آدم ، شخص"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cover",
+    "pronunciation": "'ka^ver",
+    "translates": {
+      "noun": "پوشش ، روکش ، [ کتاب ، مجله و غیره ] جلد ، پاکت ، لفاف ، کاغذ ، در ، پناه ، حفاظ ، جای سرپوشیده ، حفاظت ، محافظت ، [ مجازی ] لفافه",
+      "transitive-verb": "پوشاندن ، پنهان کردن ، مخفی کردن ، محافظت کردن ، حفظ کردن ، پیمودن ، رفتن ، گزارش کردن"
+    },
+    "subWords": {
+      "subWord0": "take cover",
+      "subTranslate0": "پناه گرفتن",
+      "subWord1": "be covered with",
+      "subTranslate1": "پر بودن از ، پوشیده بودن از",
+      "subWord2": "cover up",
+      "subTranslate2": "مخفی کردن"
+    }
+  },
+  {
+    "word": "coverage",
+    "pronunciation": "'ka^verij",
+    "translates": {
+      "noun": "گزارش ، پوشش ، شمول ، مورد بیمه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "covering",
+    "pronunciation": "'ka^vering",
+    "translates": {
+      "noun": "پوشش"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cow",
+    "pronunciation": "kao",
+    "translates": {
+      "noun": "گاو ( ماده ) ، ماده گاو ، ماده ، مادینه ، [ عامیانه ] زنیکه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "coward",
+    "pronunciation": "'kao.erd",
+    "translates": {
+      "noun": "( آدم ) ترسو ، بزدل ، نامرد",
+      "adjective": "نامرد"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cowardly",
+    "pronunciation": "'kao.erdli",
+    "translates": {
+      "adjective": "ترسو ، بزدل ، جبون ، بزدلانه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cowboy",
+    "pronunciation": "'kaoboy",
+    "translates": {
+      "noun": "گاو چران"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cox",
+    "pronunciation": "ka^ks",
+    "translates": {
+      "noun": "[ قایق پارویی ] سُکاندار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "coxswain",
+    "pronunciation": "'ka^ksen",
+    "translates": {
+      "noun": "سُکاندار ، مباشر کشتی ، سُکان گیر ، پیشکار کارکنان کشتی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cozy",
+    "pronunciation": "'kozi",
+    "translates": {
+      "noun": "دنج ، راحت ، گرم و نرم ، دوستانه ، صمیمانه ، گرم"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crab",
+    "pronunciation": "krab",
+    "translates": {
+      "noun": "خرچنگ"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crack",
+    "pronunciation": "krak",
+    "translates": {
+      "noun": "ترک ، شکاف ، درز ، روزنه ، رخنه ، صدای بلند ، غرش ، ضربه ( صدادار ) ، شوخی ، جوک",
+      "intransitive-verb": "ترک برداشتن ، ترک خوردن ، شکستن ، بریدن ، از پا در آمدن ، [ صدا ] کلف شدن ، دو رگه شدن"
+    },
+    "subWords": {}
   }
 ]
