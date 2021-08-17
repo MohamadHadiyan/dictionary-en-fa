@@ -6307,5 +6307,405 @@
       "intransitive-verb": "ترک برداشتن ، ترک خوردن ، شکستن ، بریدن ، از پا در آمدن ، [ صدا ] کلف شدن ، دو رگه شدن"
     },
     "subWords": {}
+  },
+  {
+    "word": "cracker",
+    "pronunciation": "'kraker",
+    "translates": {
+      "noun": "ترقه ، کراکر ، بیسکویت شور"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crackle",
+    "pronunciation": "'krakel",
+    "translates": {
+      "noun": "( صدای ) ترق تروق ، خش خش ، ترقه",
+      "intransitive-verb": "ترق تروق کردن ، خش خش کردن ، شکستن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cradle",
+    "pronunciation": "'kreydel",
+    "translates": {
+      "noun": "گهواره ، مهد ، خاستگاه ، گاهواره ، پایه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "craft",
+    "pronunciation": "kra^ft",
+    "translates": {
+      "noun": "صنعت ، حرفه ، مهارت ، فن ، پیشه ، صنایع دستی ، کارهای دستی ، قایق ، کشتی ، زیردریایی ، هواپیما"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "craftily",
+    "pronunciation": "'kra^ftili",
+    "translates": {
+      "adverb": "موذیانه ، با حیله گری ، مکارانه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "craftsman",
+    "pronunciation": "'kra^ftsmen",
+    "translates": {
+      "noun": "صنعتگر ، استادکار ، هنرمند ، پیشه ور ، استاد"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crafty",
+    "pronunciation": "'kra^fti",
+    "translates": {
+      "adjective": "حیله گر ، مکار ، فریبنده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crag",
+    "pronunciation": "krag",
+    "translates": {
+      "noun": "[ کوه ] کمر ، پرتگاه ، تخته سنگ"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cram",
+    "pronunciation": "kram",
+    "translates": {
+      "transitive-verb": "چپاندن ، پُر کردن",
+      "intransitive-verb": "[ برای امتحان ] حفظ کردن ، با شتاب یاد گرفتن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cramp",
+    "pronunciation": "kramp",
+    "translates": {
+      "noun": "گرفتگی عضلات ، چنگه ، درد شکم ، قلاب ، گیره ، چنگوک ، حصار ، محدود کننده ",
+      "transitive-verb": "محدود کردن ، در قید گذاشتن ، جا تنگ کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crane",
+    "pronunciation": "kreyn",
+    "translates": {
+      "noun": "جرثقیل ، دُرنا (= نوعی پرنده ماهی خوار )"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crank",
+    "pronunciation": "krank",
+    "translates": {
+      "noun": "هندل ، میل لنگ ، خم ، آدم عجیب و غریب ، غیر عادی ، آدم بد عُنق",
+      "transitive-verb": "خم کردن ، کوک کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cranky",
+    "pronunciation": "'kranki",
+    "translates": {
+      "adjective": "عجیب و غریب ، عوضی ، بد عُنق ، بد خو"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crash",
+    "pronunciation": "krash",
+    "translates": {
+      "noun": "سقوط ، ( صدای )  تَق ، گرومب (= صدای افتادن ، شکستن ، ضربه و غیره ) ، تصادف ، سانحه",
+      "transitive-verb": "سقوط کردن ، افتادن ، خوردن به ، زدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crash helmet",
+    "pronunciation": "'krash helmit",
+    "translates": {
+      "noun": "کلاه ایمنی ، کاسکت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crash-landing",
+    "pronunciation": "'krash landing",
+    "translates": {
+      "noun": "سقوط کنترل شده ، سقوط هدایت شده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crate",
+    "pronunciation": "kreyt",
+    "translates": {
+      "noun": "صندوق ، جعبه ، محفظه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crater",
+    "pronunciation": "'kreyter",
+    "translates": {
+      "noun": "دهانه آتشفشان ، قیف انفجار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crawl",
+    "pronunciation": "krol",
+    "translates": {
+      "intransitive-verb": "خزیدن ، سینه خیز رفتن ، آهسته رفتن",
+      "noun": "خزیدن ، سینه خیز ، ( شنای ) کرال"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crayon",
+    "pronunciation": "'kreyen",
+    "translates": {
+      "noun": "مداد شعمی ، مداد رنگی ، گچ رنگی ، مداد ابرو"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "craze",
+    "pronunciation": "kreyz",
+    "translates": {
+      "noun": "شوق ، تب ، موج ، شکاف ، شور ، دیوانگی ، مد ، ترک",
+      "transitive-verb": "دیوانه کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crazily",
+    "pronunciation": "'kreyzili",
+    "translates": {
+      "adverb": "دیوانه وار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crazy",
+    "pronunciation": "'kreyzi",
+    "translates": {
+      "adjective": "دیوانه ، احمق ، احمقانه ، شوریده ، کشته و مرده ، هلاک"
+    },
+    "subWords": {
+      "subWord0": "crazy about ( somebody or something)",
+      "subTranslate0": "دیوانه ( کسی یا چیزی ) بودن"
+    }
+  },
+  {
+    "word": "creak",
+    "pronunciation": "kriik",
+    "translates": {
+      "intransitive-verb": "غژغژ کردن ، صدا دادن ، شکوه و شکایت کردن ، صدای غوک در آوردن",
+      "noun": "( صدای ) غژ غژ ، جیر جیر ، صدای لولای روغن نخورده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "creaky",
+    "pronunciation": "'kriiki",
+    "translates": {
+      "adjective": "پر سر و صدا ، غژغژی ، متزلزل"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cream",
+    "pronunciation": "kriim",
+    "translates": {
+      "noun": "کِرِم ( صورت ) ، خامه ، ( رنگ ) کرم ",
+      "adjective": "خامه ای"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "creamy",
+    "pronunciation": "'kriimi",
+    "translates": {
+      "adjective": "خامه ای ، خامه دار ، نرم ، چرب"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crease",
+    "pronunciation": "kriis",
+    "translates": {
+      "noun": "چین ، چروک",
+      "intransitive-verb": "چن دار شدن ، چروک خوردن ، چروک شدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "create",
+    "pronunciation": "kri'yeyt",
+    "translates": {
+      "transitive-verb": "ایجاد کردن ، به وجود آوردن ، ساختن ، آفریدن ، خلق کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "creation",
+    "pronunciation": "kri'yeyshen",
+    "translates": {
+      "noun": "ایجاد ، آفرینش ، خلقت ، خلق"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "creative",
+    "pronunciation": "kri'yeytiv",
+    "translates": {
+      "noun": "خلاق ، سازنده ، بدیع ، خالق"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "creator",
+    "pronunciation": "kri'yeyter",
+    "translates": {
+      "noun": "آفریننده ، خالق"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "creature",
+    "pronunciation": "'kriicher",
+    "translates": {
+      "noun": "موجود ، مخلوق ، جانور ، آدم"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "credible",
+    "pronunciation": "'kredibel",
+    "translates": {
+      "adjective": "معتبر ، موثق ، صدیق ، باورنکردنی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "credit",
+    "pronunciation": "'kredit",
+    "translates": {
+      "noun": "اعتبار ، نسیه ، وعده ، مدت ، موجودی ، وام ، بستانکار ، ستون بستانکار ، اعتماد ، وجه ، اعتقاد ، آبرو",
+      "transitive-verb": "به حساب ( کسی ) واریز کردن ، نسبت دادن ، دادن ، باور کردن"
+    },
+    "subWords": {
+      "subWord0": "be a credit to",
+      "subTranslate0": "باعث افتخار ( کسی ) بودن",
+      "subWord1": "do somebody credit",
+      "subTranslate1": "مایه افتخار کسی بودن",
+      "subWord2": "on credit",
+      "subTranslate2": "به طور نسیه ، نسیه"
+    }
+  },
+  {
+    "word": "credit card",
+    "pronunciation": "'kredit ka^rd",
+    "translates": {
+      "noun": "کارت اعتباری"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "credit-titles",
+    "pronunciation": "'kredit ta^ytelz",
+    "translates": {
+      "noun": "[ فیلم و سینما ] تیتراژ ، اسامی ، عناوین"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "creep",
+    "pronunciation": "kriip",
+    "translates": {
+      "intransitive-verb": "خزیدن ، سینه خیز رفتن ، پاورچین پاورچین رفتن ، دزدانه رفتن ، آهسته آهسته پیش رفتن ،‌ مور مور شدن ، وارد شدن ، رخنه کردن "
+    },
+    "subWords": {}
+  },
+  {
+    "word": "creeper",
+    "pronunciation": "'kriiper",
+    "translates": {
+      "noun": "گیاه رونده ، خزنده ، ( آدم ) متملق و مرموز"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crept",
+    "pronunciation": "krept",
+    "translates": {
+      "past-tens": "گذشته فعل creep ( خزید )",
+      "past-participle": "اسم مفعول فعل creep"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crescent",
+    "pronunciation": "'kresent",
+    "translates": {
+      "noun": "هلال",
+      "adjective": "هلالی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cress",
+    "pronunciation": "kres",
+    "translates": {
+      "noun": "شاهی ، تره تیزک ، رشاد ، رازیانه آبی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crest",
+    "pronunciation": "krest",
+    "translates": {
+      "noun": "تاج ، کاکل ، جغه ، قله ، ستیغ ، طره ، یال"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crevasse",
+    "pronunciation": "kri'vas",
+    "translates": {
+      "noun": "[ زمین شناسی ] شکاف ، شکاف یخی ،  یخ شکاف"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crew",
+    "pronunciation": "kroo",
+    "translates": {
+      "noun": "[ کشتی ، هواپیما و غیره ] خدمه ،‌ کارکنان ، تیم ، گروه ، باند ، دار و دسته"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crib",
+    "pronunciation": "krib",
+    "translates": {
+      "noun": "تخت نوزاد ، آخور ، تقلب ، سرقت ادبی",
+      "transitive-verb": "تقلب کردن ، از روی دست ( کسی ) نوشتن ، کش رفتن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cricket",
+    "pronunciation": "'krikit",
+    "translates": {
+      "noun": "جیرجیرک ، ( بازی ) کریکت"
+    },
+    "subWords": {}
   }
 ]
