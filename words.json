@@ -6707,5 +6707,346 @@
       "noun": "جیرجیرک ، ( بازی ) کریکت"
     },
     "subWords": {}
+  },
+  {
+    "word": "cried",
+    "pronunciation": "kra^yd",
+    "translates": {
+      "past-tens": "گذشته فعل cry ( گریه کرد )",
+      "auxiliary-verb": "اسم مفعول فعل cry"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crime",
+    "pronunciation": "kra^ym",
+    "translates": {
+      "noun": "جرم ، جنایت ، گناه ، بزه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "criminal",
+    "pronunciation": "'krimina^l",
+    "translates": {
+      "adjective": "جنایی ، جزایی ، کیفری ، خلاف قانون ، جنایت کارانه",
+      "noun": "مجرم ، جانی ، بزهکار ، جنایت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crimson",
+    "pronunciation": "'krimzen",
+    "translates": {
+      "noun": "[ رنگ ] زرشکی ، قرمز سیر",
+      "adjective": "زرشکی ، [ مجازی ] سرخ ، به رنگ خون ، لاکی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cripple",
+    "pronunciation": "'kripel",
+    "translates": {
+      "noun": "معلول ، فلج ، لنگ ، چلاق ، زمین گیر",
+      "transitive-verb": "فلج کردن ، معلول کردن ، علیل کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crisis",
+    "pronunciation": "'kra^ysis",
+    "translates": {
+      "noun": "بحران"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crisp",
+    "pronunciation": "krisp",
+    "translates": {
+      "adjective": "ترد ، خشک ، شکننده ، برشته ، تازه ، تر و تازه ، قاطع ، مصمم ، محکم ، مختصر",
+      "noun": "چیپس"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "critic",
+    "pronunciation": "kritik",
+    "translates": {
+      "noun": "منتقد ، مخالف ، عیب جو ، خرده گیر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "critical",
+    "pronunciation": "'kritica^l",
+    "translates": {
+      "adjective": "بحرانی ، حاد ، وخیم ، خطرناک ، مهم ، حیاطی ، انتقادی ، انتقاد آمیز ، عیب جویانه ، ایرادی ، عیب جو"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "critically",
+    "pronunciation": "'kritica^li",
+    "translates": {
+      "adverb": "به طور بحرانی ، انتقاد آمیز ، منتقدانه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "criticism",
+    "pronunciation": "'kritisizem",
+    "translates": {
+      "noun": "نقد ، انتقاد"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "criticize",
+    "pronunciation": "'kritisa^yz",
+    "translates": {
+      "transitive-verb": "انتقاد کردن ، ایراد گرفتن ، نقد کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "croak",
+    "pronunciation": "krok",
+    "translates": {
+      "noun": "[ قورباقه ] غور غور ، [ کلاغ ] قار قار ، [ آدم ] خِر خِر ، خِس خِس",
+      "transitive-verb": "غور غور کردن ، قار قار کردن ، خِر خِر کردن ، خِس خِس کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crochet",
+    "pronunciation": "'kroshey",
+    "translates": {
+      "noun": "قلاب بافی ، قلاب دوزی",
+      "transitive-verb": "قلاب بافی کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crockery",
+    "pronunciation": "'kra^keri",
+    "translates": {
+      "noun": "ظروف سفالی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crocodile",
+    "pronunciation": "'kra^coda^yl",
+    "translates": {
+      "noun": "تمساح"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crook",
+    "pronunciation": "kruk",
+    "translates": {
+      "noun": "کلاهبردار ، دزد ، عصای سر کج ، کجی",
+      "transitive-verb": "خم کردن ، کج کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crooked",
+    "pronunciation": "'krukid",
+    "translates": {
+      "adjective": "کج ، خمیده ، نادرست ، متقلب"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crop",
+    "pronunciation": "kra^p",
+    "translates": {
+      "noun": "محصول ، [ به صورت جمع ] کشت ، دسته ، گروه ، جمعیت ، موی کوتاه ، سر ماشین شده ، سر تراشیده",
+      "transitive-verb": "کاشتن ، زیر کشت بردن ، محصول دادن ، بار دادن ، چیدن ، زدن کوتاه کردن ،موی ( کسی را ) از ته زدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cross",
+    "pronunciation": "kra^s",
+    "translates": {
+      "noun": "صلیب ، علامت ضربدر یا بعلاوه ( × ، + ) ، مسیحیت",
+      "transitive-verb": "از عرض ( جایی ) گذشتن ، عبور کردن ، همدیگر را قطع کردن ، روی هم انداختن ، روی هم گذاشتن ، از کنار هم رد شدن ، [ چک ] آورنده را خط زدن",
+      "adjective": "عصبانی ، غضب آلود ، [ باد ] مخالف"
+    },
+    "subWords": {
+      "subWord0": "cross off ( or out )",
+      "subTranslate0": "خط زدن ، حذف کردن",
+      "subWord1": "cross oneself",
+      "subTranslate1": "( به خود ) صلیب کشیدن",
+      "subWord2": "The Red Cross",
+      "subTranslate2": "سازمان صلیب سرخ",
+      "subWord3": "cross-country",
+      "subTranslate3": "از راه فرعی",
+      "subWord4": "cross-town",
+      "subTranslate4": "سرتاسری"
+    }
+  },
+  {
+    "word": "cross-examination",
+    "pronunciation": "kra^s igzami'neyshen",
+    "translates": {
+      "noun": "بازپرسی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cross-examine",
+    "pronunciation": "kra^s ig'zamin",
+    "translates": {
+      "transitive-verb": "بازپرسی کردن ، بازجویی کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cross-eyed",
+    "pronunciation": "'kra^s a^yd",
+    "translates": {
+      "adjective": "چپ چشم ، لوچ ، احول"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crossing",
+    "pronunciation": "'kra^sing",
+    "translates": {
+      "noun": "مسافرت ( دریایی ) ، عبور ، عابر پیاده ، خط کشی ، معبر ، تقاطع ، گذرگاه ، سر مرز"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crossroads",
+    "pronunciation": "'kra^srodz",
+    "translates": {
+      "noun": "تقاطع ، چهار راه ، نقطه عطف"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crossword",
+    "pronunciation": "'kra^swerd",
+    "translates": {
+      "noun": "جدول کلمات متقاطع"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crotchet",
+    "pronunciation": "'kra^tchit",
+    "translates": {
+      "noun": "[ موسقی ] سیاه ، هوس ، بوالهوسی ، قلاب ، قلاب کوچک ، قلاب دوزندگی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crouch",
+    "pronunciation": "kraoch",
+    "translates": {
+      "intransitive-verb": "قوز کردن ، دولا شدن ، کِز کردن ، خود را جمع کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crow",
+    "pronunciation": "kro",
+    "translates": {
+      "noun": "کلاغ ، زاغ ، اهرم ، دیلم",
+      "intransitive-verb": "[ خروس ] خواندن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crowd",
+    "pronunciation": "kraod",
+    "translates": {
+      "noun": "جمعیت ، ازدحام ، جماعت ، مردم",
+      "intransitive-verb": "جمع شدن ، ازدحام کردن ، پر کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crowded",
+    "pronunciation": "'kraodid",
+    "translates": {
+      "adjective": "پر جمعیت ، شلوغ ، پُر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crown",
+    "pronunciation": "kraon",
+    "translates": {
+      "noun": "تاج ، سلطنت ، تاج و تخت ، تاج گل ، تاج دندان ، روکش دندان",
+      "transitive-verb": "تاج بر سرِ ( کسی ) گذاشتن ، به کمال رساندن ، [ دندان ] روکش گذاشتن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crucifix",
+    "pronunciation": "'kroosifiks",
+    "translates": {
+      "noun": "صلیب"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crucifixion",
+    "pronunciation": "kroosi'fikshen",
+    "translates": {
+      "noun": "تصلیب ، شمایل عیسای مصلوب ، تصلیب عیسای مسیح"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crude",
+    "pronunciation": "krood",
+    "translates": {
+      "adjective": "خام ، نا پخته ، زمخت ، ناشیانه ، ابتدایی ، خشن ، خالی از ظرافت ، بی ادبانه"
+    },
+    "subWords": {
+      "subWord0": "crude oil",
+      "subTranslate0": "نفت خام"
+    }
+  },
+  {
+    "word": "cruel",
+    "pronunciation": "'kroo.el",
+    "translates": {
+      "adjective": "بی رحم ، ظالم ، ستمکار ، ظالمانه ، دردناک ، سخت "
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cruelly",
+    "pronunciation": "'kroo.eli",
+    "translates": {
+      "adverb": "با بی رحمی ، ظالمانه ، سنگدلانه ، سخت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cruelty",
+    "pronunciation": "'kroo.elti",
+    "translates": {
+      "noun": "بی رحمی ، ظلم ، ستم ، قساوت ، خشونت ، سنگدلی ، وحشیگری ، ستمگری"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cruise",
+    "pronunciation": "krooz",
+    "translates": {
+      "noun": "گردش دریایی ، سفر دریای",
+      "intransitive-verb": "گشتن ، گشت زدن"
+    },
+    "subWords": {}
   }
 ]
