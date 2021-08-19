@@ -7048,5 +7048,577 @@
       "intransitive-verb": "گشتن ، گشت زدن"
     },
     "subWords": {}
+  },
+  {
+    "word": "cruiser",
+    "pronunciation": "'kroozer",
+    "translates": {
+      "noun": "رزمناو ، قایق تفریحی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crum",
+    "pronunciation": "kra^m",
+    "translates": {
+      "noun": "خرده نان ، خمیر وسط نان ، ذره ، خرده ، چکه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crumble",
+    "pronunciation": "kra^mbel",
+    "translates": {
+      "transitive-verb": "خرد کردن",
+      "intransitive-verb": "خرد شدن ، فرو ریختن ، فرو پاشیدن ، متلاشی شدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crumbly",
+    "pronunciation": "'kra^mbli",
+    "translates": {
+      "adjective": "ترد ، خشک ، شکننده ، سست ، متلاشی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crumple",
+    "pronunciation": "'kra^mpel",
+    "translates": {
+      "transitive-verb": "چروک کردن ، [ کاغذ ] مچاله کردن",
+      "intransitive-verb": "چروک شدن ، چروک خوردن ، [ ماشین ] قُر شدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crunch",
+    "pronunciation": "kra^nch",
+    "translates": {
+      "transitive-verb": "قرچ قرچ خوردن ، خرد کردن",
+      "intransitive-verb": "قرچ قرچ کردن ، خرد شدن ، ترد شدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crush",
+    "pronunciation": "kra^sh",
+    "translates": {
+      "transitive-verb": "له کردن ، خرد کردن ، فشردن ، چلاندن ، چروک کردن ، چپاندن",
+      "intransitive-verb": "له شدن ، چروک شدن",
+      "noun": "جمعیت ، ازدحام"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crust",
+    "pronunciation": "kra^st",
+    "translates": {
+      "noun": "پوسته ، رویه ( نان و غیره ) ، برش نان ، قشر ، لایه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crusty",
+    "pronunciation": "'kra^sti",
+    "translates": {
+      "adjective": "[ نان ] برشته ، خشن ، سخت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crutch",
+    "pronunciation": "kra^ch",
+    "translates": {
+      "noun": "چوب زیر بغل ، عصای زیر بغل ، دوشاخه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cry",
+    "pronunciation": "kra^y",
+    "translates": {
+      "noun": "گریه ، فریاد ، نعره ، جیغ ، ناله ، بانگ",
+      "intransitive-verb": "فریاد کشیدن ، فریاد زدن ، داد کشیدن ، گریه کردن ، جیغ کشیدن ، جار زدن"
+    },
+    "subWords": {
+      "subWord0": "cry baby",
+      "subTranslate0": "بچه ننه ، بچه نق نقو",
+      "subWord1": "give a cry",
+      "subTranslate1": "داد زدن ، فریاد کشیدن",
+      "subWord2": "cry off",
+      "subTranslate2": "دبه در آوردن ، زیرش زدن ",
+      "subWord3": "cry out",
+      "subTranslate3": "داد زدن ، فریاد کشیدن"
+    }
+  },
+  {
+    "word": "crystal",
+    "pronunciation": "'krista^l",
+    "translates": {
+      "noun": "بلور ، کریستال",
+      "adjective": "شفاف"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cub",
+    "pronunciation": "ka^b",
+    "translates": {
+      "noun": "[ حیوانات گوشتخوار ] توله ، بچه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cube",
+    "pronunciation": "kyoob",
+    "translates": {
+      "noun": "مکعب ، توان سه ، [ قند ] حبه",
+      "transitive-verb": "به توان سه رساندن ، مکعبی بریدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cubic",
+    "pronunciation": "'kyoobik",
+    "translates": {
+      "adjective": "مکعب ، مکعبی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cucumber",
+    "pronunciation": "'kyoo.ka^mber",
+    "translates": {
+      "noun": "خیار"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cuddle",
+    "pronunciation": "'ka^del",
+    "translates": {
+      "transitive-verb": "بغل کردن ، در آغوش گرفتن ، نوازش کردن",
+      "intransitive-verb": "همدیگر را بغل کردن ، همدیگر را در آغوش گرفتن ، بغل هم خوابیدن ، بغل (‌ کسی ) خوابیدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cudgel",
+    "pronunciation": "'ka^jel",
+    "translates": {
+      "noun": "چماق",
+      "transitive-verb": "چماق زدن ، چوب زدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cue",
+    "pronunciation": "kyoo",
+    "translates": {
+      "noun": "سرنخ ، اشاره ، چوب بیلیارد"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cuff",
+    "pronunciation": "ka^f",
+    "translates": {
+      "noun": "[ پیراهن ] مچ ، [ کت ] سر آستین ، [ شلوار ] پاکتی ، دکمه سر دست"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cul-de-sac",
+    "pronunciation": "'kol da^ sak",
+    "translates": {
+      "noun": "بن بست ، کوچه دنج"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cultivate",
+    "pronunciation": "'ka^ltiveyt",
+    "translates": {
+      "transitive-verb": "[ زمین ] شخم زدن ، آماده کردن ، زراعت کردن در ، کشت و کار کردن در ، کاشتن ، زیر کشت بردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cultivation",
+    "pronunciation": "ka^lti'veyshen",
+    "translates": {
+      "noun": "کشت ، پرورش ، زراعت ، فرهیختگی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cultivator",
+    "pronunciation": "'ka^ltiveyter",
+    "translates": {
+      "noun": "زارع ، کشاورز ، برزگر ، ( ماشین ) علف چین"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "culture",
+    "pronunciation": "'ka^lcher",
+    "translates": {
+      "noun": "فرهنگ"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cultured",
+    "pronunciation": "'ka^lcherd",
+    "translates": {
+      "adjective": "با فرهنگ ، فرهیخته ، پرورش یافته ، پرورده"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cumbersome",
+    "pronunciation": "'ka^mbersa^m",
+    "translates": {
+      "adjective": "دست و پا گیر ، کُند ، کم تحرک ، سنگین"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cunning",
+    "pronunciation": "'ka^ning",
+    "translates": {
+      "noun": "مکر ، حیله ، حقه ، نیرنگ ، زرنگی ، زیرکی ، زبلی",
+      "adjective": "مکار ، حیله گر ، حقه باز ، زرنگ ، زبل"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cup",
+    "pronunciation": "ka^p",
+    "translates": {
+      "noun": "فنجان ، جام ، پیاله ، ساغر ، پیمانه ، [ مسابقات ] جام"
+    },
+    "subWords": {
+      "subWord0": "cup-final",
+      "subTranslate0": "[ فوتبال ] مسابق نهایی"
+    }
+  },
+  {
+    "word": "cupboard",
+    "pronunciation": "'ka^bord",
+    "translates": {
+      "noun": "قفسه ، گنجه ، کمد ، کابینت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "curb",
+    "pronunciation": "kerb",
+    "translates": {
+      "noun": "افسار ، عنان ، مهار ، کنترل ، زنجیر ، جدول ( خیابان )",
+      "transitive-verb": "محدود کردن ، تحت کنترل در آوردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "curd",
+    "pronunciation": "kerd",
+    "translates": {
+      "noun": "لور ، کشک ، دَلَمه",
+      "transitive-verb": "بستن",
+      "intransitive-verb": "دلمه شدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cure",
+    "pronunciation": "kyur",
+    "translates": {
+      "noun": "معالجه ، درمان ، مداوا ، علاج ، شفا ، بهبود ، دوا ، دارو ",
+      "transitive-verb": "درمان کردن ، معالجه کردن ، مداوا کردن ، خوب کردن ، شفا دادن ، بهبود بخشیدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "curiosity",
+    "pronunciation": "kuri'ya^siti",
+    "translates": {
+      "noun": "کنجکاوی ، شوق ، فضولی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "curious",
+    "pronunciation": "'kyuriyes",
+    "translates": {
+      "adjective": "کنجکاو ، مشتاق ، علاقه مند ، فضول ، عجیب ، شگفت انگیز ، نادر"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "curiously",
+    "pronunciation": "'kyuriyesli",
+    "translates": {
+      "adverb": "عجیب این که ، با تعجب ، از روی تعجب ، با کنجکاوی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "curl",
+    "pronunciation": "kerl",
+    "translates": {
+      "noun": "حلقه ، حلقه مو ، جعد موی",
+      "transitive-verb": "حلقه کردن ، فر زدن ، فرفری کردن ، پیچیدن ، تاب دادن ، موج دار کردن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "curler",
+    "pronunciation": "'kerler",
+    "translates": {
+      "noun": "بیگودی ، دستگاه فر زنی"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "curly",
+    "pronunciation": "'kerli",
+    "translates": {
+      "adjective": "حلقه حلقه ، فرفری ، مجعد"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "currant",
+    "pronunciation": "'ka^rent",
+    "translates": {
+      "noun": "کشمش بی دانه ، انگور فرنگی ، مویز"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "currency",
+    "pronunciation": "'ka^rensi",
+    "translates": {
+      "noun": "پول رایج ، پول ، [ پول ] گردش"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "current",
+    "pronunciation": "'ka^rent",
+    "translates": {
+      "adjective": "جاری ، رایج ، متداول ، در جریان",
+      "noun": "جریان ، جریان آب ، کوران ، جریان برق"
+    },
+    "subWords": {
+      "subWord0": "current events",
+      "subTranslate0": "اخبار روز",
+      "subWord1": "current issue",
+      "subTranslate1": "[ روزنامه ، مجله و غیره ] آخرین شماره"
+    }
+  },
+  {
+    "word": "curry",
+    "pronunciation": "'ka^ri",
+    "translates": {
+      "noun": "[ خوراک ] کاری ، ادویه هندی",
+      "transitive-verb": "شانه یا قشو کردن ، مالیدن ، پرداخت کردن چرم"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "curse",
+    "pronunciation": "kers",
+    "translates": {
+      "noun": "لعنت ، نفرین ، فحش ، ناسزا ، [ عامیانه ] قاعدگی",
+      "transitive-verb": "نفرین کردن ، لعن کردن ، فحش دادن ، ناسزا گفتن ، دشنام دادن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "curtain",
+    "pronunciation": "'kerten",
+    "translates": {
+      "noun": "پرده ، لایه ، پوشش ، حفاظ ، حجاب ، آغاز نمایش"
+    },
+    "subWords": {
+      "subWord0": "draw the curtain",
+      "subTranslate0": "پرده را کشیدن"
+    }
+  },
+  {
+    "word": "curve",
+    "pronunciation": "kerv",
+    "translates": {
+      "noun": "منحنی ، خط منحنی ، قوس ، پیچ ، خم",
+      "intransitive-verb": "پیچیدن ، پیچ خوردن ، قوس زدن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cushion",
+    "pronunciation": "'kushen",
+    "translates": {
+      "noun": "کوسن ، بالشتک ، پشتی ، تشکچه ، تشک ، متکا ، توده ، کپه"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "custodian",
+    "pronunciation": "ka^s'todieyn",
+    "translates": {
+      "noun": "سرپرست ، متولی ، سرایدار ، نگهبان"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "custody",
+    "pronunciation": "'ka^stedi",
+    "translates": {
+      "noun": "سرپرستی ، حضانت ، امانت ، حبس ، بازداشت ، توقیف ، حفاظت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "custom",
+    "pronunciation": "'ka^stem",
+    "translates": {
+      "noun": "رسم ، سنت ، عرف ، عادت ، خرید ، سفارش"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "customer",
+    "pronunciation": "'ka^stemer",
+    "translates": {
+      "noun": "مشتری ، خریدار ، [ عامیانه ] آدم"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "customs",
+    "pronunciation": "'ka^stemz",
+    "translates": {
+      "noun": "آداب و رسوم ، سنن ، مراسم ، گمرک ، عوازض گمرکی ، حقوق گمرکی"
+    },
+    "subWords": {
+      "subWord0": "customs duties",
+      "subTranslate0": "عوارض گمرکی",
+      "subWord1": "customs officer",
+      "subTranslate1": "مامور گمرک"
+    }
+  },
+  {
+    "word": "cut",
+    "pronunciation": "ka^t",
+    "translates": {
+      "intransitive-verb": "بریدن ، قطع کردن ، برش دادن ، زدن ، قطعه قطعه کردن ، تکه تکه کردن ، تقسیم کردن ، جدا کردن ، [ ناخن ] گرفتن ، چیدن ، میان بُر زدن ، [ ورق بازی ] کوپ کردن ، بُر تخت زدن",
+      "noun": "برش ، بریدگی ، قطع ، ",
+      "adjective": "بریده",
+      "past-tens": "گذشته فعل cut",
+      "past-participle": "اسم مفعول فعل cut"
+    },
+    "subWords": {
+      "subWord0": "cut down",
+      "subTranslate0": "[ درخت ] انداختن ، قطع کردن ، کوتاه کردن ، کوچک کردن",
+      "subWord1": "cut in ( or on ) ",
+      "subTranslate1": "حرف کسی یا گفتگویی را قطع کردن",
+      "subWord2": "cut off",
+      "subTranslate2": "بریدن ، قطع کردن",
+      "subWord3": "cut out",
+      "subTranslate3": "ترک کردن ، کنار گذاشتن ، بریدن ، [ موتور و غیره ] از کار افتادن",
+      "subWord4": "cut price",
+      "subTranslate4": "زیر قیمت فروختن ، با تخفیف فروختن",
+      "subWord5": "cut somebody short",
+      "subTranslate5": "حرف کسی را قطع کردن"
+    }
+  },
+  {
+    "word": "cutlery",
+    "pronunciation": "'ka^tleri",
+    "translates": {
+      "noun": "( سرویس ) قاشق و چنگال ، کار و چنگال"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cutlet",
+    "pronunciation": "'ka^tlit",
+    "translates": {
+      "noun": "استیک ، کتلت"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cut-price",
+    "pronunciation": "ka^t 'pra^ys",
+    "translates": {
+      "adjective": "ارزان"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cutter",
+    "pronunciation": "ka^ter",
+    "translates": {
+      "noun": "برش کار ، ماشین برش ، چرخ برش ، بُرنده"
+    },
+    "subWords": {
+      "subWord0": "film cutter",
+      "subTranslate0": "[ فیلم ] برش کار"
+    }
+  },
+  {
+    "word": "cutting",
+    "pronunciation": "ka^ting",
+    "translates": {
+      "noun": "برش ، بریده ( جرائد ) قلمه ، قطع ، خاک برداری ، [ سینما ] تدوین",
+      "adjective": "بُرنده ، گزنده ، تند ، تیز ، سخت ، شدید ، سرد"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cycle",
+    "pronunciation": "'sa^ykel",
+    "translates": {
+      "noun": "چرخه ، دوره ، سیکل ، دوچرخه",
+      "intransitive-verb": "دوچرخه سواری کردن ، با دوچرخه رفتن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cylinder",
+    "pronunciation": "'silinder",
+    "translates": {
+      "noun": "استوانه ، [ موتور ] سیلندر ، غلتک"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cylindrical",
+    "pronunciation": "si'lindrika^l",
+    "translates": {
+      "adjective": "استوانه ای ، استوانه ای شکل"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cymbal",
+    "pronunciation": "'simba^l",
+    "translates": {
+      "noun": "سِنج",
+      "transitive-verb": "با سنج نواختن"
+    },
+    "subWords": {}
+  },
+  {
+    "word": "cypress",
+    "pronunciation": "'sa^ypres",
+    "translates": {
+      "noun": "[ درخت ] سرو ، چوب سرو"
+    },
+    "subWords": {}
   }
 ]

@@ -135,7 +135,7 @@ button {
   align-items: flex-end;
   position: relative;
   padding: 5px 8px;
-  margin: 2px 4px;
+  margin: 2px 8px 2px 4px;
   border: 1px solid #ccc;
   border-radius: 4px;
   font-weight: 600;
@@ -163,7 +163,7 @@ button {
 .option input[type=radio]:focus ~ .sign,
 .fieldset-option input[type=checkbox]:focus ~ .sign,
 .fieldset-option input[type=radio]:focus ~ .sign {
-  box-shadow: inset 0 0 0 3px #00a6e8dc;
+  box-shadow: inset 0 0 0 3px #00e868dc;
 }
 .option input[type=checkbox]:checked ~ .sign,
 .option input[type=radio]:checked ~ .sign,
@@ -374,8 +374,8 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 55px;
-  height: 55px;
+  width: 45px;
+  height: 45px;
   border: 1px solid #ccc;
   border-radius: 50%;
   background-color: transparent;
@@ -386,18 +386,18 @@ button {
   content: "";
   position: absolute;
   display: inline-block;
-  width: 20px;
-  height: 3px;
+  width: 15px;
+  height: 2px;
   background-color: #aaa;
 }
 .next::after,
 .prev::after {
   content: "";
   display: block;
-  width: 15px;
-  height: 15px;
-  border-left: 3px solid #aaa;
-  border-bottom: 3px solid #aaa;
+  width: 10px;
+  height: 10px;
+  border-left: 2px solid #aaa;
+  border-bottom: 2px solid #aaa;
   transform: rotate(45deg);
 }
 .next:hover,
@@ -425,15 +425,6 @@ button {
     width: 40px;
     height: 40px;
   }
-  .next::before,
-.prev::before {
-    width: 15px;
-  }
-  .next::after,
-.prev::after {
-    width: 10px;
-    height: 10px;
-  }
 }
 @media screen and (max-width: 400px) {
   .next,
@@ -444,13 +435,11 @@ button {
   .next::before,
 .prev::before {
     width: 10px;
-    height: 3px;
   }
   .next::after,
 .prev::after {
     width: 7px;
     height: 7px;
-    border-width: 2px;
   }
 }
 
@@ -484,7 +473,7 @@ button {
 }
 
 .button {
-  padding: 8px 12px;
+  padding: 5px 10px;
   border: 1px solid #ccc;
   font-size: 16px;
   line-height: 1;
@@ -526,7 +515,7 @@ button {
   justify-content: space-between;
   align-items: center;
   margin-top: 3px;
-  padding: 4px;
+  padding: 2px 4px;
   padding-left: 8px;
 }
 .formContainer .formGroupContainer .translateFieldset label:hover {
@@ -555,7 +544,7 @@ button {
   min-width: 105px;
 }
 .formContainer .formControl {
-  padding: 5px;
+  padding: 2px 5px;
   border: none;
   border-radius: 3px;
   outline: 0;
@@ -626,7 +615,7 @@ button {
 }
 .formContainer .formButtons button {
   display: inline-block;
-  padding: 12px 10%;
+  padding: 8px 8%;
   margin-top: 5px;
   border: 1px solid #ccc;
   background-color: #efefef;
