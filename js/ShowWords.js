@@ -11,10 +11,13 @@ export default function showTranslate() {
 
 function showWords() {
   const words = getWords();
+  if(!words || words.length === 0) return;
+
   const index = getCurrentWord();
   el("#word-index").value = index;
-  
+
   const [word, pronunciation] = Object.values(words[index]);
+
   const row = (...content) =>
     content.map(
       (val) => `
@@ -31,21 +34,16 @@ function showWords() {
     )
     .join("");
 
-  const subWord = (arr, size) =>
-    Array.from({ length: Math.ceil(arr.length / size) }, (val, i) =>
-      arr.slice(i * size, i * size + size)
-    );
-
-  const subRows = words[index].subWords
-    ? subWord(
-        Object.values(words[index].subWords).map(
-          (val) => `<td><span>${val}</span></td>`
-        ),
-        2
-      )
-        .map((val) => `<tr class="subWordRow">${val.join("")}</tr>`)
-        .join("")
-    : "";
+  const subWords = words[index].subWords;
+  const subRows =
+    subWords.length > 0
+      ? subWords
+          .map((item) => {
+            const obj = Object.entries(item)[0];
+            return `<tr class="subWordRow"><td><span>${obj[0]}</span></td><td><span>${obj[1]}</span></td></tr>`;
+          })
+          .join("")
+      : "";
 
   return ` 
     <table>

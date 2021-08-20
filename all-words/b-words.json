@@ -5,7 +5,7 @@
     "translates": {
       "noun": "بی ، (دومین حرف الفبای انگلیسی)"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "baby",
@@ -13,7 +13,7 @@
     "translates": {
       "noun": "کودک ، طفل ، بچه ، نوزاد"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "babysitter",
@@ -21,7 +21,7 @@
     "translates": {
       "noun": "پرستار بچه ، بچه نگهدار"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bachelor",
@@ -30,7 +30,7 @@
       "noun": "مردِ مجرد ، لیسانسه",
       "adjective": "مجرد"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "back",
@@ -42,22 +42,29 @@
       "transitive-verb": "برگرداندن ، پشت نویسی کردن",
       "intransitive-verb": "برگشتن"
     },
-    "subWords": {
-      "subWord0": "be back",
-      "subTranslate0": "برگشتن",
-      "subWord1": "behind someone's back",
-      "subTranslate1": "پشت سر کسی ، در غیاب کسی",
-      "subWord2": "on the back of",
-      "subTranslate2": "پشتِ",
-      "subWord3": "put one's back info",
-      "subTranslate3": "به کاری چسبیدن ، پشتِ کاری گذاشتن",
-      "subWord4": "back way",
-      "subTranslate4": "عقب عقب رفتن",
-      "subWord5": "back down",
-      "subTranslate5": "(حرفی را) پس گرفتن",
-      "subWord6": "back out",
-      "subTranslate6": "عقب عقب رفتن ، با دنده عقب خارج شدن"
-    }
+    "subWords": [
+      {
+        "be back": "برگشتن"
+      },
+      {
+        "behind someone's back": "پشت سر کسی ، در غیاب کسی"
+      },
+      {
+        "on the back of": "پشتِ"
+      },
+      {
+        "put one's back info": "به کاری چسبیدن ، پشتِ کاری گذاشتن"
+      },
+      {
+        "back way": "عقب عقب رفتن"
+      },
+      {
+        "back down": "(حرفی را) پس گرفتن"
+      },
+      {
+        "back out": "عقب عقب رفتن ، با دنده عقب خارج شدن"
+      }
+    ]
   },
   {
     "word": "backbone",
@@ -65,7 +72,7 @@
     "translates": {
       "noun": "ستون فقرات ، ستون مهره ها ، استحکام"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "backfire",
@@ -73,7 +80,7 @@
     "translates": {
       "noun": "عطسه اگزوز ، پس زدن تفنگ ، نتیجه معکوس"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "background",
@@ -81,7 +88,7 @@
     "translates": {
       "noun": "زمینه ، سابقه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "backing",
@@ -89,7 +96,7 @@
     "translates": {
       "noun": "پشتیبانی ، پشتی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "backward",
@@ -97,10 +104,11 @@
     "translates": {
       "adverb": "به عقب ، رو به عقب ، عقب عقب ، وارونه"
     },
-    "subWords": {
-      "subWord0": "go backwards and forwards",
-      "subTranslate0": "از این طرف به آن طرف رفتن"
-    }
+    "subWords": [
+      {
+        "go backwards and forwards": "از این طرف به آن طرف رفتن"
+      }
+    ]
   },
   {
     "word": "bacon",
@@ -108,7 +116,7 @@
     "translates": {
       "noun": "ژامبون ، بیکن ، گوشت خوک دودی (گوشت نمک زده پهلو و پشت خوک)"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bad",
@@ -117,14 +125,17 @@
       "noun": "بدی",
       "adjective": "بد ، زشت ، ناشایست ، ناپسند ، غیر کافی ، خراب ، مضر ، فاسد ، گندیده ، ضعیف ، سخت ، شدید ، [چک] بی محل"
     },
-    "subWords": {
-      "subWord0": "bad luck",
-      "subTranslate0": "بدشانسی ، بداقبالی",
-      "subWord1": "go bad",
-      "subTranslate1": "فاسد شدن ، خراب شدن",
-      "subWord2": "go from bad to worse",
-      "subTranslate2": "از بد بدتر شدن ، خراب تر شدن"
-    }
+    "subWords": [
+      {
+        "bad luck": "بدشانسی ، بداقبالی"
+      },
+      {
+        "go bad": "فاسد شدن ، خراب شدن"
+      },
+      {
+        "go from bad to worse": "از بد بدتر شدن ، خراب تر شدن"
+      }
+    ]
   },
   {
     "word": "badge",
@@ -132,7 +143,7 @@
     "translates": {
       "noun": "نشان ،‌ آرم (علامت برجسته و مشخص)"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "badly",
@@ -140,10 +151,11 @@
     "translates": {
       "adverb": "بد ، بدجوری ، به طور ناشایسته"
     },
-    "subWords": {
-      "subWord0": "be badly off for something",
-      "subTranslate0": "از لحاظ چیزی در مضیقه بودن"
-    }
+    "subWords": [
+      {
+        "be badly off for something": "از لحاظ چیزی در مضیقه بودن"
+      }
+    ]
   },
   {
     "word": "badminton",
@@ -151,7 +163,7 @@
     "translates": {
       "noun": "بدمینتون (نوعی بازی تنیس با توپ پر دار)"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "badness",
@@ -159,7 +171,7 @@
     "translates": {
       "noun": "بدی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bad-tempered",
@@ -167,7 +179,7 @@
     "translates": {
       "adjective": "بد اخلاق ، بد خلق ، بد عُنق ، عبوس ، تند خو ، بد خو"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "baffle",
@@ -176,7 +188,7 @@
       "noun": "پریشانی",
       "transitive-verb": "گیج کردن ، متحیر کردن ، گمراه کردن ، درمانده کردن ، بی نتیجه کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bag",
@@ -184,7 +196,7 @@
     "translates": {
       "noun": "کیف ، ساک ، کیسه ، خورجین ، توبره ، پاکت"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "baggage",
@@ -192,7 +204,7 @@
     "translates": {
       "noun": "بار ، باروبنه ، چمدان ، وسایل سفر ، اثاثیه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bagpipes",
@@ -200,7 +212,7 @@
     "translates": {
       "noun": "نی انبان ، گاردین"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bail",
@@ -209,7 +221,7 @@
       "noun": "وثیقه ، ضمانت ، کفالت ، حبس ، تسمه ، سطل ، [کریکت] چوبِ کوتاه افقی روی پایه",
       "transitive-verb": "به امانت گرفتن ، کفیل گرفتن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bait",
@@ -217,7 +229,7 @@
     "translates": {
       "noun": "طعمه ، دانه ، چینه ، چِشته"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bake",
@@ -226,7 +238,7 @@
       "transitive-verb": "[در تنور یا فر] پختن ، طبخ کردن ، خشک کردن ، خشکاندن",
       "intransitive-verb": "پخته شدن ، خشکیدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "baker",
@@ -234,7 +246,7 @@
     "translates": {
       "noun": "نانوا ، خباز"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bakery",
@@ -242,7 +254,7 @@
     "translates": {
       "noun": "نانوایی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "balance",
@@ -251,7 +263,7 @@
       "noun": "تعادل ، توازن ، ترازو ، تراز ، میزان ، موازنه",
       "transitive-verb": "متعادل نگه داشتن ، متعادل کردن ، موازنه کردن ، مقایسه کردن ، [حساب] تراز کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "balcony",
@@ -259,7 +271,7 @@
     "translates": {
       "noun": "بالکن ، ایوان"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bald",
@@ -267,7 +279,7 @@
     "translates": {
       "adjective": "طاس ، کچل ، بی مو ، عریان ، ساده ، بی لطف"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bale",
@@ -275,10 +287,11 @@
     "translates": {
       "noun": "عدل ، محنت ، لنگه ، بیل ، بسته ، رنج ، مصیبت ، تاچه ، بلاء"
     },
-    "subWords": {
-      "subWord0": "bale out",
-      "subTranslate0": "[هواپیما] با چتر پریدن"
-    }
+    "subWords": [
+      {
+        "bale out": "[هواپیما] با چتر پریدن"
+      }
+    ]
   },
   {
     "word": "ball",
@@ -286,7 +299,7 @@
     "translates": {
       "noun": "توپ ، گوی ، کلاف ، گلوله ، (مجلس) رقص ، بال ، خوشی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "ballerina",
@@ -294,7 +307,7 @@
     "translates": {
       "noun": "بالرین ، رقاصه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "ballet",
@@ -302,7 +315,7 @@
     "translates": {
       "noun": "باله ، گروه باله ، رقص ورزشی و هنری"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "balloon",
@@ -310,7 +323,7 @@
     "translates": {
       "noun": "بادکنک ، بالون"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "ballot",
@@ -318,7 +331,7 @@
     "translates": {
       "noun": "برگه رای گیری ، رای گیری ، رای گیری مخفی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "ballot-box",
@@ -326,7 +339,7 @@
     "translates": {
       "noun": "صندوق رای"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "ballpoint",
@@ -334,10 +347,11 @@
     "translates": {
       "noun": "گلوله"
     },
-    "subWords": {
-      "subWord0": "ballpoint pen",
-      "subTranslate0": "خودکار"
-    }
+    "subWords": [
+      {
+        "ballpoint pen": "خودکار"
+      }
+    ]
   },
   {
     "word": "balm",
@@ -346,7 +360,7 @@
       "noun": "مرهم ، آرامش ، مایه تسلی ، (روغن) بَلَسان",
       "transitive-verb": "مومیایی کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "balmy",
@@ -354,7 +368,7 @@
     "translates": {
       "noun": "خوشبو ، دلپذیر ، دارای خاصیت مرهم ، خوش رایحه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "ban",
@@ -363,7 +377,7 @@
       "noun": "ممنوعیت ، منع ، لعن ، نهی",
       "transitive-verb": "ممنوع کردن ، قدغن کردن "
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "banana",
@@ -371,7 +385,7 @@
     "translates": {
       "noun": "موز"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "band",
@@ -380,7 +394,7 @@
       "noun": "باند ، نوار ، بند ، تسمه ، دسته ، گروه",
       "transitive-verb": "دسته کردن ، با نوار بستن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bandage",
@@ -389,7 +403,7 @@
       "noun": "نوار زخم بندی ، باند ، بانداژ",
       "transitive-verb": "باند پیچی کردن ،‌ با نوار بستن ، قنداق کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bandit",
@@ -397,7 +411,7 @@
     "translates": {
       "noun": "راهزن ، سارق"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "banditry",
@@ -405,7 +419,7 @@
     "translates": {
       "noun": "راهزنی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bang",
@@ -414,7 +428,7 @@
       "noun": "(صدای) دَنگ ، شَتَرق ، صدای بلند یا محکم ، صدای انفجار",
       "transitive-verb": "زدن ، کوبیدن ، به هم زدن ، به هم کوبیدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bangle",
@@ -422,7 +436,7 @@
     "translates": {
       "noun": "النگو ، دستبند"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "banish",
@@ -430,7 +444,7 @@
     "translates": {
       "transitive-verb": "تبعید کردن ، طرد کردن ، (از ذهن خود) بیرون کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "banister",
@@ -438,7 +452,7 @@
     "translates": {
       "noun": "نرده ، تارمی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "banjo",
@@ -446,7 +460,7 @@
     "translates": {
       "noun": "بانجو (نوعی ساز زهی)"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bank",
@@ -455,7 +469,7 @@
       "noun": "بانک ، ساحل (رودخانه) ، مرز ، حاشیه",
       "intransitive-verb": "[پول] در بانک گذاشتن ، توده کردن ، روی هم انباشتن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "banker",
@@ -463,7 +477,7 @@
     "translates": {
       "noun": "بانکدار"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bankrupt",
@@ -473,7 +487,7 @@
       "adjective": "ورشکسته",
       "transitive-verb": "ورشکست کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bankruptcy",
@@ -481,7 +495,7 @@
     "translates": {
       "noun": "ورشکستگی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "banner",
@@ -489,7 +503,7 @@
     "translates": {
       "noun": "پلاکارد ، پرچم ، شعار ، بیرق ، درفش"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "banquet",
@@ -497,7 +511,7 @@
     "translates": {
       "noun": "جشن ، ضیافت ، مهمانی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "baptize",
@@ -505,7 +519,7 @@
     "translates": {
       "transitive-verb": "(غسل) تمعید دادن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bar",
@@ -514,7 +528,7 @@
       "noun": "بار ، مشروب فروشی ، کافه ، میله ، قطعه ، تکه ، شمش ، خط ، ممنوعیت ، راه بند",
       "transitive-verb": "بستن ، غدغن کردن ، ممنوع کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barbecue",
@@ -523,7 +537,7 @@
       "noun": "کبابی ، کباب پز (زغالی) ،‌ غذای بریان",
       "transitive-verb": "کباب کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barbed",
@@ -531,7 +545,7 @@
     "translates": {
       "adjective": "خاردار"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barbed wire",
@@ -539,7 +553,7 @@
     "translates": {
       "noun": "سیم خاردار"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barber",
@@ -547,7 +561,7 @@
     "translates": {
       "noun": "سلمانی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barber shop",
@@ -555,7 +569,7 @@
     "translates": {
       "noun": "آرایشگاه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barberry",
@@ -563,7 +577,7 @@
     "translates": {
       "noun": "زرشک"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barbie",
@@ -571,7 +585,7 @@
     "translates": {
       "noun": "باربی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bare",
@@ -579,7 +593,7 @@
     "translates": {
       "adjective": "لخت ، برهنه ، عریان ، خالی ، ساده ، عاری"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barely",
@@ -587,7 +601,7 @@
     "translates": {
       "adverb": "به سختی ، به زحمت ، نه چندان ، بسیار کم"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barefoot",
@@ -595,7 +609,7 @@
     "translates": {
       "adjective": "پا برهنه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bargain",
@@ -605,7 +619,7 @@
       "adjective": "ارزان",
       "transitive-verb": "مذاکره کردن ، چانه زدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bargaining",
@@ -613,7 +627,7 @@
     "translates": {
       "transitive-verb": "چانه زدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barge",
@@ -621,7 +635,7 @@
     "translates": {
       "noun": "قایق باری ، دوبه ، کرجی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bark",
@@ -630,7 +644,7 @@
       "noun": "پوست درخت ، پارس سگ ، واق واق (سگ)",
       "transitive-verb": "پوست کندن ، واق واق کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barley",
@@ -638,7 +652,7 @@
     "translates": {
       "noun": "جَو"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barn",
@@ -647,7 +661,7 @@
       "noun": "انبار غله ، کاهدان ، طویله",
       "transitive-verb": "انبار کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barometer",
@@ -655,7 +669,7 @@
     "translates": {
       "noun": "فشار سنج ، هوا سنج ، جو سنج "
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "baron",
@@ -663,7 +677,7 @@
     "translates": {
       "noun": "بارون ، شخص مهم و برجسته در هر قسمتی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "baroque",
@@ -672,7 +686,7 @@
       "noun": "باروک ، آرایش عجیب و غریب ، سبک بی قاعده و ناموزون موسقی",
       "adjective": "بی تناسب"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barracks",
@@ -680,7 +694,7 @@
     "translates": {
       "noun": "پادگان"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barrack",
@@ -688,7 +702,7 @@
     "translates": {
       "noun": "سرباز خانه ، کلبه یا اتاقک موقتی ، منزل کارگران ، انبار گاه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barrage",
@@ -696,7 +710,7 @@
     "translates": {
       "noun": "رگبار گلوله ، رگبار"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barrel",
@@ -704,7 +718,7 @@
     "translates": {
       "noun": "بشکه ، [تفنگ ، تپانچه ، غیره] لوله"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barren",
@@ -712,7 +726,7 @@
     "translates": {
       "adjective": "بی ثمر ، نازا ، خشک ، بایر ، بی بار ، بی حاصل"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barred",
@@ -720,7 +734,7 @@
     "translates": {
       "adjective": "مسدود ، بسته"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barricade",
@@ -730,7 +744,7 @@
       "transitive-verb": "مسدود کردن",
       "intransitive-verb": "مانع شدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barrier",
@@ -738,7 +752,7 @@
     "translates": {
       "noun": "سد ، مانع ، حصار ، حائل ، محل بازرسی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barrister",
@@ -746,7 +760,7 @@
     "translates": {
       "noun": "وکیل مدافع ، وکیل دعاوی ، مدافع"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "barrow",
@@ -754,7 +768,7 @@
     "translates": {
       "noun": "فرقون ، چرخ دستی ، چرخ دوره گردها ، قطعه عظیم یخ ، کوه یخ ، پشته ، توده ، کوه ، تپه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "base",
@@ -764,7 +778,7 @@
       "adjective": "فرومایه",
       "transitive-verb": "اساس (چیزی) قرار دادن ، مبنا قرار دادن ، مستقر کردن ، پایه زدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "baseball",
@@ -772,7 +786,7 @@
     "translates": {
       "noun": "بیس بال"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "basement",
@@ -780,7 +794,7 @@
     "translates": {
       "noun": "زیر زمین ، سرداب ، سردابه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bash",
@@ -789,7 +803,7 @@
       "transitive-verb": "زدن ، کوبیدن ، دست و پاچه نمودن ، برهم زدن",
       "intransitive-verb": "ترسیدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "basic",
@@ -797,7 +811,7 @@
     "translates": {
       "adjective": "اصلی ، اساسی ، بنیادی ، پایه ای"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "basil",
@@ -805,7 +819,7 @@
     "translates": {
       "adjective": "ریحان ، شاهسپرم از خانواده نعناعیان"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "basin",
@@ -813,7 +827,7 @@
     "translates": {
       "noun": "کاسه ، لگن ، تشتک ، حوزه رودخانه ، آبگیر"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "basis",
@@ -821,7 +835,7 @@
     "translates": {
       "noun": "اساس ، پایه ، مبنا ، بنیان"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bask",
@@ -829,7 +843,7 @@
     "translates": {
       "intransitive-verb": "[در آفتاب] دراز کشیدن ، آرامیدن ، حمام آفتاب گرفتن ، آفتاب خوردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "basket",
@@ -837,7 +851,7 @@
     "translates": {
       "noun": "سبد ، زنبیل"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "basketball",
@@ -845,7 +859,7 @@
     "translates": {
       "noun": "بازی بسکتبال"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bass",
@@ -854,7 +868,7 @@
       "noun": "صدای بم ، خواننده باس ، نوعی ماهی خاردار دریای",
       "adjective": "بَم ، باس"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bast",
@@ -862,7 +876,7 @@
     "translates": {
       "noun": "لیفت درخت ، پوست لیفی درختان"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bastard",
@@ -871,7 +885,7 @@
       "noun": "(بچه) نامشروع",
       "adjective": "حرامزاده ، لعنتی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bat",
@@ -880,7 +894,7 @@
       "noun": "خفاش ، چوب ، چوگان ، چماق ، راکت (پینگ پونگ)",
       "intransitive-verb": "بال بال زدن ، سِرو زدن ، چوگان زدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "batch",
@@ -888,7 +902,7 @@
     "translates": {
       "noun": "دسته ، گروه ، یک مشت ، یک پخت ، یک تنور"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bath",
@@ -896,7 +910,7 @@
     "translates": {
       "noun": "استحمام ، حمام ، وان ، حمام کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bathe",
@@ -906,7 +920,7 @@
       "transitive-verb": "آبتنی کردن ، استحمام کردن ، شستوشو کردن",
       "intransitive-verb": "[زخم] شستن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bathroom",
@@ -914,7 +928,7 @@
     "translates": {
       "noun": "حمام ، گرمابه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bathrobe",
@@ -922,7 +936,7 @@
     "translates": {
       "noun": "روپوش"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "batsman",
@@ -930,7 +944,7 @@
     "translates": {
       "noun": "آدمک زن ، [کریکت] توپ زدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "battalion",
@@ -938,7 +952,7 @@
     "translates": {
       "noun": "گُردان"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "batter",
@@ -947,7 +961,7 @@
       "noun": "خمیر ، خمیدگی ، [بیس بال] توپ زدن",
       "transitive-verb": "خراب کردن ، کوبیدن ،‌ خُرد کردن ، درب و داغون کردن ، خمیر درست کردن ، با خمیر پوشاندن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "battery",
@@ -955,7 +969,7 @@
     "translates": {
       "noun": "باتری ، باطری"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "battle",
@@ -964,7 +978,7 @@
       "noun": "نبرد ، پیکار ، مبارزه ، جنگ ، مصاف ، نزاع ، جدال",
       "intransitive-verb": "نبرد کردن ، مبارزه کردن ، جنگ کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "battlefield",
@@ -972,7 +986,7 @@
     "translates": {
       "noun": "میدان جنگ ، میدان ، نبردگاه ، رزمگاه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bay",
@@ -983,7 +997,7 @@
       "transitive-verb": "دفاع کردن در مقابل",
       "intransitive-verb": "زوزه کشیدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bayonet",
@@ -992,7 +1006,7 @@
       "noun": "سرنیزه",
       "transitive-verb": "با سرنیزه مجبور کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bazaar",
@@ -1000,7 +1014,7 @@
     "translates": {
       "noun": "[در مشرق زمین] بازار ، حراج"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "BC",
@@ -1008,7 +1022,7 @@
     "translates": {
       "indefinite-article": "قبل از میلاد ، قبل از میلاد مسیح"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "be",
@@ -1016,10 +1030,11 @@
     "translates": {
       "intransitive-verb": "بودن ، شدن ، ماندن ، رفتن ، آمدن ، وجود داشتن"
     },
-    "subWords": {
-      "subWord0": "be on",
-      "subTranslate0": "[فیلم] نمایش دادن ، نشان دادن"
-    }
+    "subWords": [
+      {
+        "be on": "[فیلم] نمایش دادن ، نشان دادن"
+      }
+    ]
   },
   {
     "word": "beach",
@@ -1027,7 +1042,7 @@
     "translates": {
       "noun": "ساحل ، ساحل دریا ، کنار دریا ، شن زار"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beacon",
@@ -1035,7 +1050,7 @@
     "translates": {
       "noun": "فانوس دریای ، چراغ دریای ، برج دیدبانی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bead",
@@ -1043,7 +1058,7 @@
     "translates": {
       "noun": "مهره ، منجوق ، دانه تسبیح"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beaded",
@@ -1051,7 +1066,7 @@
     "translates": {
       "adjective": "مهره دار"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beak",
@@ -1059,7 +1074,7 @@
     "translates": {
       "noun": "منقار ، نوک ، پوزه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beaker",
@@ -1067,7 +1082,7 @@
     "translates": {
       "noun": "پیاله ، جام ، لیوان ، ظرف کیمیاگری ، لیوان آزمایشگاه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beam",
@@ -1075,7 +1090,7 @@
     "translates": {
       "noun": "نور ، پرتو ، شعاع ، تیر ، تیر چوبی ، میله ، لبخند ، تبسم"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beaming",
@@ -1083,12 +1098,14 @@
     "translates": {
       "adjective": "بشاش ، درخشان ، پرتو دار"
     },
-    "subWords": {
-      "subWord0": "beaming smile",
-      "subTranslate0": "لبخند تابنده",
-      "subWord1": "beaming face",
-      "subTranslate1": "صورت پرتوی"
-    }
+    "subWords": [
+      {
+        "beaming smile": "لبخند تابنده"
+      },
+      {
+        "beaming face": "صورت پرتوی"
+      }
+    ]
   },
   {
     "word": "bean",
@@ -1096,10 +1113,11 @@
     "translates": {
       "noun": "لوبیا ، باقلا ، حبوبات ، دانه"
     },
-    "subWords": {
-      "subWord0": "bean sprouts",
-      "subTranslate0": "جوانه لوبیا"
-    }
+    "subWords": [
+      {
+        "bean sprouts": "جوانه لوبیا"
+      }
+    ]
   },
   {
     "word": "bear",
@@ -1108,7 +1126,7 @@
       "noun": "خرس",
       "transitive-verb": "بردن ، آوردن ، داشتن ، حمل کردن ، زاییدن ، تحمل کردن ، تاب آوردن ، طاقت آوردن ، حوصله (کسی را) داشتن ، نگه داشتن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beard",
@@ -1116,7 +1134,7 @@
     "translates": {
       "noun": "ریش"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bearded",
@@ -1124,7 +1142,7 @@
     "translates": {
       "adjective": "ریشو ، ریش دار"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bearing",
@@ -1133,7 +1151,7 @@
       "noun": "یاتاقان",
       "adjective": "متحمل"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bearish",
@@ -1141,7 +1159,7 @@
     "translates": {
       "adjective": "مثل خرس ، بی تربیت ، خشن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beast",
@@ -1149,7 +1167,7 @@
     "translates": {
       "noun": "حیوان ، جانور ، چهار پا ، آدم حیوان صفت ، عنتر"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beastly",
@@ -1158,10 +1176,11 @@
       "adjective": "حیوان صفت ، وحشی",
       "adverb": "جانور وار"
     },
-    "subWords": {
-      "subWord0": "beastly temper",
-      "subTranslate0": "خوی وحشی"
-    }
+    "subWords": [
+      {
+        "beastly temper": "خوی وحشی"
+      }
+    ]
   },
   {
     "word": "beat",
@@ -1171,10 +1190,11 @@
       "adjective": "خسته ، کوفته",
       "transitive-verb": "زدن ، کتک زدن ، کوبیدن ، تپیدن ، شلاق زدن ، غلبه کردن بر ، بردن از ، [رکورد] شکستن"
     },
-    "subWords": {
-      "subWord0": "beats me",
-      "subTranslate0": "مرا کتک می زند"
-    }
+    "subWords": [
+      {
+        "beats me": "مرا کتک می زند"
+      }
+    ]
   },
   {
     "word": "beater",
@@ -1182,7 +1202,7 @@
     "translates": {
       "noun": "کتک زننده ، کوبنده"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beaten",
@@ -1191,7 +1211,7 @@
       "adjective": "مغلوب ، کوبیده ، چکش خورده ، زده",
       "past-participle": "اسم مفعول فعل beat (مورد ضرب و شتم)"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beautiful",
@@ -1199,10 +1219,11 @@
     "translates": {
       "adjective": "زیبا ، خوشگل ، قشنگ ، خوب ، دلنشین ، شکیل ، عالی ، باصفا ، خوش رو "
     },
-    "subWords": {
-      "subWord0": "beautiful poetry",
-      "subTranslate0": "شعر زیبا"
-    }
+    "subWords": [
+      {
+        "beautiful poetry": "شعر زیبا"
+      }
+    ]
   },
   {
     "word": "beautifully",
@@ -1210,10 +1231,11 @@
     "translates": {
       "adverb": "زیبا ، قشنگ ، عالی"
     },
-    "subWords": {
-      "subWord0": "beautifully written",
-      "subTranslate0": "زیبا نوشته شده"
-    }
+    "subWords": [
+      {
+        "beautifully written": "زیبا نوشته شده"
+      }
+    ]
   },
   {
     "word": "beauty",
@@ -1221,7 +1243,7 @@
     "translates": {
       "noun": "زیبایی ، جمال ،‌ حُسن ، خوشگلی ، خوبی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "became",
@@ -1229,10 +1251,11 @@
     "translates": {
       "past-tens": "گذشته فعل become (شد)"
     },
-    "subWords": {
-      "subWord0": "became aware",
-      "subTranslate0": "آگاه شد"
-    }
+    "subWords": [
+      {
+        "became aware": "آگاه شد"
+      }
+    ]
   },
   {
     "word": "because",
@@ -1240,12 +1263,14 @@
     "translates": {
       "conjunction": "زیرا ، چون ، چونکه ، به علتِ ،‌ برای اینکه"
     },
-    "subWords": {
-      "subWord0": "because of",
-      "subTranslate0": "به دلیل ، به علت",
-      "subWord1": "because of you",
-      "subTranslate1": "به خاطر تو"
-    }
+    "subWords": [
+      {
+        "because of": "به دلیل ، به علت"
+      },
+      {
+        "because of you": "به خاطر تو"
+      }
+    ]
   },
   {
     "word": "beck",
@@ -1254,7 +1279,7 @@
       "noun": "اشاره ، تکان دادن سر یا دست",
       "transitive-verb": "تعظیم کردن ، سر تکان دادن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beckon",
@@ -1262,7 +1287,7 @@
     "translates": {
       "transitive-verb": "اشاره کردن ، با اشاره صدا زدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "become",
@@ -1270,10 +1295,11 @@
     "translates": {
       "intransitive-verb": "شدن ، درخور بودن ، اتفاق افتادن ،‌ آمدن به"
     },
-    "subWords": {
-      "subWord0": "becomes",
-      "subTranslate0": "تبدیل می شود"
-    }
+    "subWords": [
+      {
+        "becomes": "تبدیل می شود"
+      }
+    ]
   },
   {
     "word": "becoming",
@@ -1281,7 +1307,7 @@
     "translates": {
       "adjective": "زیبنده ، شایسته ، مناسب ، برازنده"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bed",
@@ -1289,12 +1315,14 @@
     "translates": {
       "noun": "رختخواب ، تختخواب ،‌ بستر ، کف ، فراش ، باغچه"
     },
-    "subWords": {
-      "subWord0": "get out of bed",
-      "subTranslate0": "از رختخواب بیرون آمدن ، پاشدن",
-      "subWord1": "go to bed",
-      "subTranslate1": "به رختخواب رفتن ،‌ خوابیدن"
-    }
+    "subWords": [
+      {
+        "get out of bed": "از رختخواب بیرون آمدن ، پاشدن"
+      },
+      {
+        "go to bed": "به رختخواب رفتن ،‌ خوابیدن"
+      }
+    ]
   },
   {
     "word": "bedding",
@@ -1302,10 +1330,11 @@
     "translates": {
       "noun": "تختخواب و ملافه آن ، ملافه"
     },
-    "subWords": {
-      "subWord0": "badding set",
-      "subTranslate0": "سرویس خواب"
-    }
+    "subWords": [
+      {
+        "badding set": "سرویس خواب"
+      }
+    ]
   },
   {
     "word": "bedclothes",
@@ -1313,7 +1342,7 @@
     "translates": {
       "noun": "روانداز"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bedroom",
@@ -1321,7 +1350,7 @@
     "translates": {
       "noun": "اتاق خواب ،‌ خوابگاه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bedspread",
@@ -1329,7 +1358,7 @@
     "translates": {
       "noun": "روتختی ، چادر شب رختخواب ، روپوش تخت"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bedside",
@@ -1337,10 +1366,11 @@
     "translates": {
       "noun": "بالین ، کنار بستر ، کنار تخت"
     },
-    "subWords": {
-      "subWord0": "bedside manner",
-      "subTranslate0": "رفتار بالینی"
-    }
+    "subWords": [
+      {
+        "bedside manner": "رفتار بالینی"
+      }
+    ]
   },
   {
     "word": "bedtime",
@@ -1348,10 +1378,11 @@
     "translates": {
       "noun": "وقت خواب ،‌ وقت استراحت ، زمان خوابیدن"
     },
-    "subWords": {
-      "subWord0": "bedtime story",
-      "subTranslate0": "داستان موقع خواب"
-    }
+    "subWords": [
+      {
+        "bedtime story": "داستان موقع خواب"
+      }
+    ]
   },
   {
     "word": "bee",
@@ -1359,7 +1390,7 @@
     "translates": {
       "noun": "زنبور ، زنبور عسل ، مگس انگبین"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beef",
@@ -1367,10 +1398,11 @@
     "translates": {
       "noun": "گوشت گاو"
     },
-    "subWords": {
-      "subWord0": "beef stew",
-      "subTranslate0": "خوراک گوشت گاو"
-    }
+    "subWords": [
+      {
+        "beef stew": "خوراک گوشت گاو"
+      }
+    ]
   },
   {
     "word": "beehive",
@@ -1379,7 +1411,7 @@
       "noun": "کندو ، کندوی عسل ، جای شلوغ و پر جمعیت",
       "intransitive-verb": "جمع شدن ، دسته شدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "been",
@@ -1387,12 +1419,14 @@
     "translates": {
       "past-participle": "اسم مفعول فعل be (بوده)"
     },
-    "subWords": {
-      "subWord0": "been there",
-      "subTranslate0": "آنجا بوده",
-      "subWord1": "been a while",
-      "subTranslate1": "یک مدتی میگذرد"
-    }
+    "subWords": [
+      {
+        "been there": "آنجا بوده"
+      },
+      {
+        "been a while": "یک مدتی میگذرد"
+      }
+    ]
   },
   {
     "word": "beer",
@@ -1400,7 +1434,7 @@
     "translates": {
       "noun": "آبجو"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beetle",
@@ -1409,7 +1443,7 @@
       "noun": "سوسک",
       "adjective": "سوسک وار"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beetroot",
@@ -1417,12 +1451,14 @@
     "translates": {
       "noun": "چغندر ، ریشه چغندر"
     },
-    "subWords": {
-      "subWord0": "beetroot juice",
-      "subTranslate0": "آب چغندر",
-      "subWord1": "beetroot soup",
-      "subTranslate1": "سوپ چغندر"
-    }
+    "subWords": [
+      {
+        "beetroot juice": "آب چغندر"
+      },
+      {
+        "beetroot soup": "سوپ چغندر"
+      }
+    ]
   },
   {
     "word": "before",
@@ -1432,12 +1468,14 @@
       "preposition": "قبل از ، قبل از اینکه ، پیش ،‌ پیش از",
       "conjunction": "جلویِ ، در برابرِ ، در حضورِ"
     },
-    "subWords": {
-      "subWord0": "before you go",
-      "subTranslate0": "قبل از اینکه شما بروید",
-      "subWord1": "before that",
-      "subTranslate1": "قبل از آن"
-    }
+    "subWords": [
+      {
+        "before you go": "قبل از اینکه شما بروید"
+      },
+      {
+        "before that": "قبل از آن"
+      }
+    ]
   },
   {
     "word": "beforehand",
@@ -1445,7 +1483,7 @@
     "translates": {
       "adverb": "قبلاً ، پیش ، پیشاپیش ، از قبل ، از پیش ، زودتر"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beg",
@@ -1453,12 +1491,14 @@
     "translates": {
       "transitive-verb": "گدایی کردن ، خواهش کردن ، التماس کردن ، خواستن ، استدعاء کردن ، درخواست کردن"
     },
-    "subWords": {
-      "subWord0": "beg off",
-      "subTranslate0": "التماس کردن",
-      "subWord1": "beg you",
-      "subTranslate1": "التماست میکنم"
-    }
+    "subWords": [
+      {
+        "beg off": "التماس کردن"
+      },
+      {
+        "beg you": "التماست میکنم"
+      }
+    ]
   },
   {
     "word": "began",
@@ -1466,12 +1506,14 @@
     "translates": {
       "past-tens": "گذشته فعل begin ( آغاز شد )"
     },
-    "subWords": {
-      "subWord0": "began to",
-      "subTranslate0": "شروع به",
-      "subWord1": "began came from",
-      "subTranslate1": "آغاز شد از"
-    }
+    "subWords": [
+      {
+        "began to": "شروع به"
+      },
+      {
+        "began came from": "آغاز شد از"
+      }
+    ]
   },
   {
     "word": "beggar",
@@ -1480,7 +1522,7 @@
       "noun": "گدا ، گرفتار فقر و فاقه ، سائل",
       "transitive-verb": "به گدایی انداختن ،‌ بیچاره کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beggary",
@@ -1488,7 +1530,7 @@
     "translates": {
       "noun": "گدایی ، متکدی ، محل سکونت گدایان ، گدا خانه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "begged",
@@ -1496,7 +1538,7 @@
     "translates": {
       "adjective": "التماس ، خواسته"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "begin",
@@ -1505,14 +1547,17 @@
       "transitive-verb": "شروع کردن ، آغاز کردن",
       "intransitive-verb": "شروع شدن ، آغاز شدن ، پیدا شدن"
     },
-    "subWords": {
-      "subWord0": "begin again",
-      "subTranslate0": "دوباره شروع کن",
-      "subWord1": "begin with",
-      "subTranslate1": "شروع با",
-      "subWord2": "begin the mission",
-      "subTranslate2": "ماموریت را شروع کنید"
-    }
+    "subWords": [
+      {
+        "begin again": "دوباره شروع کن"
+      },
+      {
+        "begin with": "شروع با"
+      },
+      {
+        "begin the mission": "ماموریت را شروع کنید"
+      }
+    ]
   },
   {
     "word": "beginner",
@@ -1520,7 +1565,7 @@
     "translates": {
       "noun": "مبتدی ، تازه کار"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beginning",
@@ -1528,12 +1573,14 @@
     "translates": {
       "noun": "شروع ، ابتدا ، اول ، آغاز"
     },
-    "subWords": {
-      "subWord0": "beginning monday",
-      "subTranslate0": "آغاز دوشنبه",
-      "subWord1": "beginning of ",
-      "subTranslate1": "آغاز از"
-    }
+    "subWords": [
+      {
+        "beginning monday": "آغاز دوشنبه"
+      },
+      {
+        "beginning of ": "آغاز از"
+      }
+    ]
   },
   {
     "word": "begun",
@@ -1541,10 +1588,11 @@
     "translates": {
       "past-participle": "اسم مفعول فعل begin ( آغاز شده )"
     },
-    "subWords": {
-      "subWord0": "begun to fight",
-      "subTranslate0": "شروع به مبارزه کرد"
-    }
+    "subWords": [
+      {
+        "begun to fight": "شروع به مبارزه کرد"
+      }
+    ]
   },
   {
     "word": "behalf",
@@ -1552,12 +1600,14 @@
     "translates": {
       "noun": "بابت"
     },
-    "subWords": {
-      "subWord0": "in (or on) behalf of",
-      "subTranslate0": "از طرفِ ، به نمایندگی از طرفِ ، به خاطرِ",
-      "subWord1": "on behalf of me",
-      "subTranslate1": "از طرف من"
-    }
+    "subWords": [
+      {
+        "in (or on) behalf of": "از طرفِ ، به نمایندگی از طرفِ ، به خاطرِ"
+      },
+      {
+        "on behalf of me": "از طرف من"
+      }
+    ]
   },
   {
     "word": "behave",
@@ -1565,10 +1615,11 @@
     "translates": {
       "intransitive-verb": "رفتار کردن ، درست رفتار کردن ، مودب بودن ، عمل کردن"
     },
-    "subWords": {
-      "subWord0": "behave well",
-      "subTranslate0": "خوب رفتار کن"
-    }
+    "subWords": [
+      {
+        "behave well": "خوب رفتار کن"
+      }
+    ]
   },
   {
     "word": "behavior",
@@ -1576,7 +1627,7 @@
     "translates": {
       "noun": "رفتار ، سلوک ، اخلاق"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beheld",
@@ -1586,7 +1637,7 @@
       "past-tens": "گذشته فعل behold ( مشاهده شده )",
       "past-participle": "اسم مفعول فعل behold"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "behind",
@@ -1596,12 +1647,14 @@
       "adverb": "پشت سر ، عقب ، از عقب ، از پشت ، پشتِ ، عقب تر از ، به دنبال",
       "preposition": "پشت سر ، دیر تر از"
     },
-    "subWords": {
-      "subWord0": "behind the scenes",
-      "subTranslate0": "پشت صحنه",
-      "subWord1": "behind you",
-      "subTranslate1": "پشت سرت"
-    }
+    "subWords": [
+      {
+        "behind the scenes": "پشت صحنه"
+      },
+      {
+        "behind you": "پشت سرت"
+      }
+    ]
   },
   {
     "word": "behold",
@@ -1609,10 +1662,11 @@
     "translates": {
       "transitive-verb": "دیدن ، نگریستن ، نظاره کردن ، مشاهده کردن"
     },
-    "subWords": {
-      "subWord0": "behold her",
-      "subTranslate0": "او را ببین"
-    }
+    "subWords": [
+      {
+        "behold her": "او را ببین"
+      }
+    ]
   },
   {
     "word": "beholder",
@@ -1620,7 +1674,7 @@
     "translates": {
       "noun": "مخاطب ، مشاهده کننده"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beholden",
@@ -1628,10 +1682,11 @@
     "translates": {
       "adjective": "مدیون ، مرهون ، زیر بار منت"
     },
-    "subWords": {
-      "subWord0": "beholden to",
-      "subTranslate0": "ببین به"
-    }
+    "subWords": [
+      {
+        "beholden to": "ببین به"
+      }
+    ]
   },
   {
     "word": "beholding",
@@ -1639,7 +1694,7 @@
     "translates": {
       "transitive-verb": "دیدن ، مشاهده کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "behoove",
@@ -1647,7 +1702,7 @@
     "translates": {
       "transitive-verb": "واجب بودن ، فرض بودن ، اقتضاء کردن ، آمدن به ، شایسته بودن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "behoof",
@@ -1655,7 +1710,7 @@
     "translates": {
       "noun": "سود ، صرفه ، مزیت"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "being",
@@ -1663,16 +1718,20 @@
     "translates": {
       "noun": "وجود ، هستی ، شخصیت ، موجود ، شی ، انسان"
     },
-    "subWords": {
-      "subWord0": "being human",
-      "subTranslate0": "انسان بودن",
-      "subWord1": "being happy",
-      "subTranslate1": "شاد بودن",
-      "subWord2": "being happy never goes out of style",
-      "subTranslate2": "شاد بودن هرگز از مد نمی افتد",
-      "subWord3": "being held",
-      "subTranslate3": "در حال برگزار"
-    }
+    "subWords": [
+      {
+        "being human": "انسان بودن"
+      },
+      {
+        "being happy": "شاد بودن"
+      },
+      {
+        "being happy never goes out of style": "شاد بودن هرگز از مد نمی افتد"
+      },
+      {
+        "being held": "در حال برگزار"
+      }
+    ]
   },
   {
     "word": "beige",
@@ -1680,7 +1739,7 @@
     "translates": {
       "noun": "رنگ بژ"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "belch",
@@ -1690,10 +1749,11 @@
       "transitive-verb": "بیرون ریختن ، با خشونت ادا کردن ،‌ با زور خارج شدن ، به شدت بیرون انداختن",
       "intransitive-verb": "آروغ زدن"
     },
-    "subWords": {
-      "subWord0": "belch out",
-      "subTranslate0": "بیرون کشیدن"
-    }
+    "subWords": [
+      {
+        "belch out": "بیرون کشیدن"
+      }
+    ]
   },
   {
     "word": "Belgian",
@@ -1701,7 +1761,7 @@
     "translates": {
       "adjective": "بلژیکی ، اهل بلژیک"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "Belgium",
@@ -1709,7 +1769,7 @@
     "translates": {
       "noun": "بلژیک"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "belief",
@@ -1717,10 +1777,11 @@
     "translates": {
       "noun": "اعتقاد ، باور ، ایمان ، عقیده"
     },
-    "subWords": {
-      "subWord0": "belief in god",
-      "subTranslate0": "اعتقاد به خدا"
-    }
+    "subWords": [
+      {
+        "belief in god": "اعتقاد به خدا"
+      }
+    ]
   },
   {
     "word": "believe",
@@ -1728,10 +1789,11 @@
     "translates": {
       "transitive-verb": "اعتقاد داشتن ، ایمان داشتن ، باور داشتن ، معتقد بود"
     },
-    "subWords": {
-      "subWord0": "believe in yourself",
-      "subTranslate0": "به خودت ایمان داشته باش"
-    }
+    "subWords": [
+      {
+        "believe in yourself": "به خودت ایمان داشته باش"
+      }
+    ]
   },
   {
     "word": "bell",
@@ -1739,7 +1801,7 @@
     "translates": {
       "noun": "زنگ ، ناقوس"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bellow",
@@ -1748,7 +1810,7 @@
       "noun": "زیر",
       "intransitive-verb": "نعره زدن ، فریاد کشیدن ، [گاو] ماغ کشیدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "belly",
@@ -1756,10 +1818,11 @@
     "translates": {
       "noun": "شکم ، دل ، معده"
     },
-    "subWords": {
-      "subWord0": "belly fat",
-      "subTranslate0": "چربی شکم"
-    }
+    "subWords": [
+      {
+        "belly fat": "چربی شکم"
+      }
+    ]
   },
   {
     "word": "belong",
@@ -1767,10 +1830,11 @@
     "translates": {
       "intransitive-verb": "تعلق داشتن ، مال ( کسی ) بودن ، مال ( چیزی ) بودن"
     },
-    "subWords": {
-      "subWord0": "belong to me",
-      "subTranslate0": "متعلق به من است"
-    }
+    "subWords": [
+      {
+        "belong to me": "متعلق به من است"
+      }
+    ]
   },
   {
     "word": "belonging",
@@ -1779,10 +1843,11 @@
       "noun": "متعلقات ، دارایی",
       "adjective": "متعلق ، وابسته ها"
     },
-    "subWords": {
-      "subWord0": "belonging to the same family",
-      "subTranslate0": "متعلق به یک خانواده"
-    }
+    "subWords": [
+      {
+        "belonging to the same family": "متعلق به یک خانواده"
+      }
+    ]
   },
   {
     "word": "belongings",
@@ -1790,7 +1855,7 @@
     "translates": {
       "noun": "متعلقات ، لوازم ، چیزها ، مضافات"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beloved",
@@ -1798,10 +1863,11 @@
     "translates": {
       "adjective": "محبوب ، معشوق ، مورد علاقه"
     },
-    "subWords": {
-      "subWord0": "beloved friend",
-      "subTranslate0": "دوست عزیز"
-    }
+    "subWords": [
+      {
+        "beloved friend": "دوست عزیز"
+      }
+    ]
   },
   {
     "word": "below",
@@ -1809,10 +1875,11 @@
     "translates": {
       "adverb": "پایین ، در زیر ، زیرِ ، پایین تر از ،‌ در پایین"
     },
-    "subWords": {
-      "subWord0": "below zero",
-      "subTranslate0": "زیر صفر"
-    }
+    "subWords": [
+      {
+        "below zero": "زیر صفر"
+      }
+    ]
   },
   {
     "word": "belt",
@@ -1821,7 +1888,7 @@
       "noun": "کمربند ، تسمه ، نوار ، بند چرمی",
       "transitive-verb": "بستن ،‌ شلاق زدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bench",
@@ -1829,7 +1896,7 @@
     "translates": {
       "noun": "نیمکت ، مسند ، کرسی قضاوت ، جای ویژه ، میز کار"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bend",
@@ -1839,10 +1906,11 @@
       "transitive-verb": "خم کردن ، خمیدن ، تا کردن ، کج کردن",
       "intransitive-verb": "خم شدن ، پیچیدن"
     },
-    "subWords": {
-      "subWord0": "bend your knees",
-      "subTranslate0": "زانو های خود را خم کنید"
-    }
+    "subWords": [
+      {
+        "bend your knees": "زانو های خود را خم کنید"
+      }
+    ]
   },
   {
     "word": "beneath",
@@ -1852,10 +1920,11 @@
       "adverb": "در زیر ، پایین ، پایینِ ، پایین تر از ، از زیر ، از پایین",
       "preposition": "زیر"
     },
-    "subWords": {
-      "subWord0": "beneath the skin",
-      "subTranslate0": "زیر پوست"
-    }
+    "subWords": [
+      {
+        "beneath the skin": "زیر پوست"
+      }
+    ]
   },
   {
     "word": "benefactor",
@@ -1863,7 +1932,7 @@
     "translates": {
       "noun": "خیر ، بانی خیر ، نیکوکار ، ولینعمت ، واقف ، صاحب خیر"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "benefit",
@@ -1872,10 +1941,11 @@
       "noun": "سود ، منفعت ، بهره ، مزیت ، مزایا ، استفاده ",
       "transitive-verb": "احسان کردن ، بهره مند شدن از"
     },
-    "subWords": {
-      "subWord0": "benefit of",
-      "subTranslate0": "بهره مندی از"
-    }
+    "subWords": [
+      {
+        "benefit of": "بهره مندی از"
+      }
+    ]
   },
   {
     "word": "benevolent",
@@ -1883,7 +1953,7 @@
     "translates": {
       "adjective": "خیر خواه ، خیر اندیش ، نیکو کار ، نیک خواه ،‌ مهربان ، کریم ، خوش دل"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bent",
@@ -1892,7 +1962,7 @@
       "noun": "خم ، خمیدگی ، میل ، گرایش ، علف شبیه نی",
       "adjective": "خم ، منحنی ، خم شده ، خمیده ، مایل"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "berry",
@@ -1900,7 +1970,7 @@
     "translates": {
       "noun": "توت ، حبه ، دانه ، سته"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "berth",
@@ -1908,7 +1978,7 @@
     "translates": {
       "noun": "اسکله ، لنگرگاه ، کابین خواب ، کوپه خواب ، اطاق کشتی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beside",
@@ -1917,7 +1987,7 @@
       "adverb": "در کنار ، پیش ، در یک طرف ، از طرف دیگر",
       "preposition": "( در ) پهلوی ، نزدیک ، به جز ، غیر از"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "besides",
@@ -1926,12 +1996,14 @@
       "adverb": "کنار ، در کنار ، علاوه بر این ، بعلاوه ، از این گذشته ، به اضافه ، وانگهی",
       "preposition": "غیر ، غیر از ، به جز ، سوای "
     },
-    "subWords": {
-      "subWord0": "besides that",
-      "subTranslate0": "علاوه بر این که",
-      "subWord1": "besides me",
-      "subTranslate1": "در کنار من"
-    }
+    "subWords": [
+      {
+        "besides that": "علاوه بر این که"
+      },
+      {
+        "besides me": "در کنار من"
+      }
+    ]
   },
   {
     "word": "best",
@@ -1939,14 +2011,17 @@
     "translates": {
       "noun": "بهترین ، بهتر از همه ، بهترین کار  ، شایسته ترین ، [در ترکیب] _ترین ،"
     },
-    "subWords": {
-      "subWord0": "best friend",
-      "subTranslate0": "بهترین دوست",
-      "subWord1": "at best",
-      "subTranslate1": "در بهترین حالت ، فوقش ، در نهایت",
-      "subWord2": "do one's best",
-      "subTranslate2": "بهترین کار را انجام دادن ، نهایت سعی خود را کردن"
-    }
+    "subWords": [
+      {
+        "best friend": "بهترین دوست"
+      },
+      {
+        "at best": "در بهترین حالت ، فوقش ، در نهایت"
+      },
+      {
+        "do one's best": "بهترین کار را انجام دادن ، نهایت سعی خود را کردن"
+      }
+    ]
   },
   {
     "word": "bet",
@@ -1956,7 +2031,7 @@
       "transitive-verb": "شرط بستن با",
       "intransitive-verb": "شرط بندی کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "betray",
@@ -1964,7 +2039,7 @@
     "translates": {
       "transitive-verb": "خیانت کردن ، تسلیم دشمن کردن ، لو دادن ، فاش کردن ، خیانت کردن به "
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "betrayer",
@@ -1972,7 +2047,7 @@
     "translates": {
       "noun": "خائن ، خیانت کار ، میهن فروش"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "betrayal",
@@ -1980,10 +2055,11 @@
     "translates": {
       "noun": "خیانت ، غدر"
     },
-    "subWords": {
-      "subWord0": "betrayal of trust",
-      "subTranslate0": "خیانت در امانت"
-    }
+    "subWords": [
+      {
+        "betrayal of trust": "خیانت در امانت"
+      }
+    ]
   },
   {
     "word": "better",
@@ -1995,22 +2071,29 @@
       "transitive-verb": "بهتر کردن ، بهبود بخشیدن",
       "intransitive-verb": "بهتر شدن"
     },
-    "subWords": {
-      "subWord0": "better than before",
-      "subTranslate0": "بهتر از قبل",
-      "subWord1": "better and better",
-      "subTranslate1": "باز هم بهتر ، بهتر از پیش ، بهتر و بهتر",
-      "subWord2": "get better",
-      "subTranslate2": "بهتر شدن ، بهبود یافتن",
-      "subWord3": "get the better of",
-      "subTranslate3": "غلبه کردن ، چیره شدن ، سبقت جستن",
-      "subWord4": "had better",
-      "subTranslate4": "بهتر است که ، بهتر بود",
-      "subWord5": "like something better",
-      "subTranslate5": "چیز را ترجیح دادن ، مثل چیزی بهتر",
-      "subWord6": "so much the better",
-      "subTranslate6": "چه خوب ، چه بهتر ، خیلی بهتر"
-    }
+    "subWords": [
+      {
+        "better than before": "بهتر از قبل"
+      },
+      {
+        "better and better": "باز هم بهتر ، بهتر از پیش ، بهتر و بهتر"
+      },
+      {
+        "get better": "بهتر شدن ، بهبود یافتن"
+      },
+      {
+        "get the better of": "غلبه کردن ، چیره شدن ، سبقت جستن"
+      },
+      {
+        "had better": "بهتر است که ، بهتر بود"
+      },
+      {
+        "like something better": "چیز را ترجیح دادن ، مثل چیزی بهتر"
+      },
+      {
+        "so much the better": "چه خوب ، چه بهتر ، خیلی بهتر"
+      }
+    ]
   },
   {
     "word": "between",
@@ -2019,10 +2102,11 @@
       "adverb": "مابینِ ، بینِ آنها ، جمعاً ، با هم",
       "preposition": "بینِ ، میانِ ، در میانِ ، در بینِ ، مابینِ ،"
     },
-    "subWords": {
-      "subWord0": "between you and me",
-      "subTranslate0": "بین من و تو"
-    }
+    "subWords": [
+      {
+        "between you and me": "بین من و تو"
+      }
+    ]
   },
   {
     "word": "beware",
@@ -2030,10 +2114,11 @@
     "translates": {
       "intransitive-verb": "مواظب بودن ، بر حذر بودن"
     },
-    "subWords": {
-      "subWord0": "beware of",
-      "subTranslate0": "مواظب باش"
-    }
+    "subWords": [
+      {
+        "beware of": "مواظب باش"
+      }
+    ]
   },
   {
     "word": "bewilder",
@@ -2041,7 +2126,7 @@
     "translates": {
       "transitive-verb": "گیج کردن ، سردرگم کردن ، گم کردن ، سرگشته کردن ، شگفت زده کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bewilderment",
@@ -2049,7 +2134,7 @@
     "translates": {
       "noun": "سردرگمی ، گیجی ، بُهت ، حیرت ، سرگشتگی ، در هم ریختگی ، اغتشاش ، بی تربیتی ، تحیر ، ژولیدگی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bewitch",
@@ -2057,7 +2142,7 @@
     "translates": {
       "transitive-verb": "جادو کردن ، افسون کردن ، فریفتن ، مسحور کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "beyond",
@@ -2066,10 +2151,11 @@
       "adverb": "خارج از ، دورتر ، فراتر ، برتر از",
       "preposition": "خارج از ، آن طرفِ ، فراسوی ، آنسوی ، مافوق"
     },
-    "subWords": {
-      "subWord0": "beyond words",
-      "subTranslate0": "فراتر از کلمات"
-    }
+    "subWords": [
+      {
+        "beyond words": "فراتر از کلمات"
+      }
+    ]
   },
   {
     "word": "bias",
@@ -2079,10 +2165,11 @@
       "adjective": "مورب",
       "transitive-verb": "تحت تاثیر قرار دادن ، به یک طرف متمایل کردن"
     },
-    "subWords": {
-      "subWord0": "bias for action",
-      "subTranslate0": "تعصب برای عمل"
-    }
+    "subWords": [
+      {
+        "bias for action": "تعصب برای عمل"
+      }
+    ]
   },
   {
     "word": "bib",
@@ -2091,7 +2178,7 @@
       "noun": "سینه بند ، پیش بند بچه ، شانه",
       "transitive-verb": "نوشیدن ، آشامیدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bible",
@@ -2099,10 +2186,11 @@
     "translates": {
       "noun": "کتاب مقدس ( تورات ،‌ انجیل ) ، کتاب آسمانی"
     },
-    "subWords": {
-      "subWord0": "bible verse",
-      "subTranslate0": "آیه انجیل"
-    }
+    "subWords": [
+      {
+        "bible verse": "آیه انجیل"
+      }
+    ]
   },
   {
     "word": "bicycle",
@@ -2110,10 +2198,11 @@
     "translates": {
       "noun": "دوچرخه"
     },
-    "subWords": {
-      "subWord0": "bicycle lane",
-      "subTranslate0": "مسیر دوچرخه"
-    }
+    "subWords": [
+      {
+        "bicycle lane": "مسیر دوچرخه"
+      }
+    ]
   },
   {
     "word": "bicyclist",
@@ -2121,7 +2210,7 @@
     "translates": {
       "noun": "دوچرخه سوار"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bid",
@@ -2130,12 +2219,14 @@
       "noun": "[حراج] پیشنهاد قیمت ،‌ پیشنهاد مناقصه یا مزایده",
       "transitive-verb": "پیشنهاد قیمت دادن ،‌ در مناقصه یا مزایده شرکت کردن ، فرمودن ، امر کردن ، دعوت کردن"
     },
-    "subWords": {
-      "subWord0": "bid price",
-      "subTranslate0": "قیمت مناقصه",
-      "subWord1": "bid now",
-      "subTranslate1": "اکنون پیشنهاد دهید"
-    }
+    "subWords": [
+      {
+        "bid price": "قیمت مناقصه"
+      },
+      {
+        "bid now": "اکنون پیشنهاد دهید"
+      }
+    ]
   },
   {
     "word": "bidder",
@@ -2143,7 +2234,7 @@
     "translates": {
       "noun": "[مناقصه یا مزایده]پیشنهاد دهنده"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bifocal",
@@ -2151,10 +2242,11 @@
     "translates": {
       "adjective": "دوکانونه ، دو دید ، دارای دو کانون"
     },
-    "subWords": {
-      "subWord0": "bifocal lenses",
-      "subTranslate0": "لنزهای دو کانونی"
-    }
+    "subWords": [
+      {
+        "bifocal lenses": "لنزهای دو کانونی"
+      }
+    ]
   },
   {
     "word": "big",
@@ -2162,12 +2254,14 @@
     "translates": {
       "adjective": "بزرگ ، گنده ، مهم ، اصلی ، وسیع ، گسترده"
     },
-    "subWords": {
-      "subWord0": "big sister",
-      "subTranslate0": "خواهر بزرگ",
-      "subWord1": "big money",
-      "subTranslate1": "پول گنده"
-    }
+    "subWords": [
+      {
+        "big sister": "خواهر بزرگ"
+      },
+      {
+        "big money": "پول گنده"
+      }
+    ]
   },
   {
     "word": "bike",
@@ -2175,10 +2269,11 @@
     "translates": {
       "noun": "دوچرخه"
     },
-    "subWords": {
-      "subWord0": "bike ride",
-      "subTranslate0": "دوچرخه سواری"
-    }
+    "subWords": [
+      {
+        "bike ride": "دوچرخه سواری"
+      }
+    ]
   },
   {
     "word": "biker",
@@ -2186,7 +2281,7 @@
     "translates": {
       "noun": "دوچرخه سوار ، موتور سوار"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bikini",
@@ -2194,7 +2289,7 @@
     "translates": {
       "noun": "مایوی دو تیکه ، لباس شنای زنانه دو تیکه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bill",
@@ -2202,12 +2297,14 @@
     "translates": {
       "noun": "لایحه ، صورت حساب ، قبض ، اسکناس ، فاکتور ، منقار ، نوک"
     },
-    "subWords": {
-      "subWord0": "bill of lading",
-      "subTranslate0": "بارنامه",
-      "subWord1": "bill of rights",
-      "subTranslate1": "لایحه حقوق"
-    }
+    "subWords": [
+      {
+        "bill of lading": "بارنامه"
+      },
+      {
+        "bill of rights": "لایحه حقوق"
+      }
+    ]
   },
   {
     "word": "billiards",
@@ -2215,7 +2312,7 @@
     "translates": {
       "noun": "بیلیارد"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "billion",
@@ -2223,7 +2320,7 @@
     "translates": {
       "noun": "بیلیون ، تریلیون ، میلیارد"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bin",
@@ -2231,7 +2328,7 @@
     "translates": {
       "noun": "سطل آشغال ، صندوقچه ، لاوک"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bind",
@@ -2239,12 +2336,14 @@
     "translates": {
       "transitive-verb": "صحافی کردن ، گرفتار و اسیر کردن ، (به هم ) بستن ، متعهد کردن ، ( به هم ) پیوند دادن ، به هم چسباندن"
     },
-    "subWords": {
-      "subWord0": "bind up",
-      "subTranslate0": "مقید کردن",
-      "subWord1": "bind to",
-      "subTranslate1": "اتصال به"
-    }
+    "subWords": [
+      {
+        "bind up": "مقید کردن"
+      },
+      {
+        "bind to": "اتصال به"
+      }
+    ]
   },
   {
     "word": "binder",
@@ -2252,7 +2351,7 @@
     "translates": {
       "noun": "چسب ، صحاف ، بند"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "binding",
@@ -2261,7 +2360,7 @@
       "noun": "جلد ، صحافی ، مغزی ، لبه ، انقیاد",
       "adjective": "اجباری ، الزام آور"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bingo",
@@ -2269,7 +2368,7 @@
     "translates": {
       "noun": "بینگو ، یک نوع بازی شبیه لوتو"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "biography",
@@ -2277,7 +2376,7 @@
     "translates": {
       "noun": "بیوگرافی ، زندگی نامه ، شرح حال"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "biology",
@@ -2285,7 +2384,7 @@
     "translates": {
       "noun": "زیست شناسی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bird",
@@ -2293,7 +2392,7 @@
     "translates": {
       "noun": "پرنده ، مرغ ، جوجه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "birth",
@@ -2301,10 +2400,11 @@
     "translates": {
       "noun": "تولد ، زایش ، پیدایش ، میلاد"
     },
-    "subWords": {
-      "subWord0": "birth date",
-      "subTranslate0": "تاریخ تولد"
-    }
+    "subWords": [
+      {
+        "birth date": "تاریخ تولد"
+      }
+    ]
   },
   {
     "word": "birthday",
@@ -2312,10 +2412,11 @@
     "translates": {
       "noun": "روز تولد ، زادروز"
     },
-    "subWords": {
-      "subWord0": "birthday party",
-      "subTranslate0": "جشن تولد"
-    }
+    "subWords": [
+      {
+        "birthday party": "جشن تولد"
+      }
+    ]
   },
   {
     "word": "biscuit",
@@ -2323,7 +2424,7 @@
     "translates": {
       "noun": "بیسکویت"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bishop",
@@ -2331,7 +2432,7 @@
     "translates": {
       "noun": "اُسقف ، راهب"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bit",
@@ -2339,10 +2440,11 @@
     "translates": {
       "noun": "کمی ، ذره ، تکه ، قطعه ، مته ، دهنه ، رقم دودویی"
     },
-    "subWords": {
-      "subWord0": "a bit",
-      "subTranslate0": "یک کمی ، کمی"
-    }
+    "subWords": [
+      {
+        "a bit": "یک کمی ، کمی"
+      }
+    ]
   },
   {
     "word": "bite",
@@ -2351,7 +2453,7 @@
       "noun": "نیش ، گاز ، گزش",
       "transitive-verb": "گاز گرفتن ، گاز زدن ، نیش زدن ، سوزاندن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bitten",
@@ -2359,7 +2461,7 @@
     "translates": {
       "past-participle": "اسم مفعول bite ( گزیده شده )"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bitter",
@@ -2367,7 +2469,7 @@
     "translates": {
       "adjective": "تلخ ، تند ، سوزدار ، گزنده"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bitterly",
@@ -2375,7 +2477,7 @@
     "translates": {
       "adverb": "سخت ، تلخ ، خیلی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bitterness",
@@ -2383,7 +2485,7 @@
     "translates": {
       "noun": "تلخی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "black",
@@ -2393,10 +2495,11 @@
       "adjective": "سیاه ، مشکی ، تیره ، سیاه رنگ ، تاریک ، گرفته",
       "transitive-verb": "سیاه کردن ، واکس سیاه زدن ، تحریم کردن"
     },
-    "subWords": {
-      "subWord0": "black sheep",
-      "subTranslate0": "گوسفند سیاه"
-    }
+    "subWords": [
+      {
+        "black sheep": "گوسفند سیاه"
+      }
+    ]
   },
   {
     "word": "blackberry",
@@ -2404,7 +2507,7 @@
     "translates": {
       "noun": "شاه توت ، توت سیاه ، تمشک"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blackbird",
@@ -2412,7 +2515,7 @@
     "translates": {
       "noun": "توکای سیاه ، مرغ سیاه ، طرقه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blackboard",
@@ -2420,7 +2523,7 @@
     "translates": {
       "noun": "تخته سیاه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blacken",
@@ -2429,7 +2532,7 @@
       "transitive-verb": "سیاه کردن ، سیاه ساختن ، لکه دار کردن ، بد نام کردن",
       "intransitive-verb": "سیاه شدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blackmail",
@@ -2438,7 +2541,7 @@
       "noun": "تهدید ، حق السکوت ،‌ باج سبیل",
       "transitive-verb": "حق السکوت خواستن ، اخازی کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blackness",
@@ -2446,7 +2549,7 @@
     "translates": {
       "noun": "سیاهی ، تاریکی ، سیاه رنگی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blackout",
@@ -2454,7 +2557,7 @@
     "translates": {
       "noun": "خاموشی ، خاموش شدن چراغ ها ، قطع کامل برق"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "Blacks",
@@ -2462,7 +2565,7 @@
     "translates": {
       "noun": "سیاه پوستان"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blade",
@@ -2470,7 +2573,7 @@
     "translates": {
       "noun": "تیغه ، تیغ"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blame",
@@ -2479,7 +2582,7 @@
       "noun": "سرزنش ، گناه",
       "transitive-verb": "مقصر دانستن ، سرزنش کردن ، تقصیر یا گناه را به گردن کسی انداختن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blameless",
@@ -2487,7 +2590,7 @@
     "translates": {
       "noun": "بی گناه ، منزه ، بی تقصیر ، بی عیب ، منزه از گناه ، پاک"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blank",
@@ -2495,7 +2598,7 @@
     "translates": {
       "adjective": "سفید‌ ، ننوشته ، خالی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blanket",
@@ -2503,7 +2606,7 @@
     "translates": {
       "noun": "پتو ، روکش ، لایه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blast",
@@ -2512,7 +2615,7 @@
       "noun": "انفجار ، دم ، وزش ، باد ، جریان هوا ، صدای انفجار",
       "transitive-verb": "ترکاندن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blaze",
@@ -2522,10 +2625,11 @@
       "transitive-verb": "با تصویر نشان دادن ، جار زدن",
       "intransitive-verb": "مشتعل بودن ، تابیدن ، درخشیدن"
     },
-    "subWords": {
-      "subWord0": "blaze up",
-      "subTranslate0": "شعله ور شدن"
-    }
+    "subWords": [
+      {
+        "blaze up": "شعله ور شدن"
+      }
+    ]
   },
   {
     "word": "blazer",
@@ -2533,7 +2637,7 @@
     "translates": {
       "noun": "بلیزر ، جارچی ،‌ ژاکت مخصوص ورزش ، اعلام کننده"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bleach",
@@ -2543,7 +2647,7 @@
       "transitive-verb": "سفید کردن ، بی رنگ کردن",
       "intransitive-verb": "سفید شدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bleak",
@@ -2551,7 +2655,7 @@
     "translates": {
       "adjective": "تیره و تار ، غم افزا ، افسرده ، تاریک ، در معرض باد سرد ، بی حفاظ"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bleat",
@@ -2560,7 +2664,7 @@
       "noun": "بع بع",
       "transitive-verb": "بع بع کردن ، ناله کردن ، صدای بزغاله کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bleed",
@@ -2569,7 +2673,7 @@
       "noun": "خونریزی",
       "transitive-verb": "خون گرفتن ، خون گرفتن از ، خونریزی کردن ، خون آمدن ، خون ریختن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blemish",
@@ -2578,7 +2682,7 @@
       "noun": "عیب ، نقص",
       "transitive-verb": "لکه دار کردن ، خسارت واردن کردن ، خوار کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blend",
@@ -2588,7 +2692,7 @@
       "transitive-verb": "مخلوط کردن",
       "intransitive-verb": "مخلوط شدن ، باهم جور بودن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bless",
@@ -2596,10 +2700,11 @@
     "translates": {
       "transitive-verb": "دعا کردن ، برکت دادن ، آرزوی خوشبختی کردن"
     },
-    "subWords": {
-      "subWord0": "bless you",
-      "subTranslate0": "به تو برکت دهد"
-    }
+    "subWords": [
+      {
+        "bless you": "به تو برکت دهد"
+      }
+    ]
   },
   {
     "word": "blessing",
@@ -2607,10 +2712,11 @@
     "translates": {
       "noun": "برکت ، نعمت ، موهبت ، دعای خیر ، شکر ، شگزاری"
     },
-    "subWords": {
-      "subWord0": "blessing and curse",
-      "subTranslate0": "برکت و نفرین"
-    }
+    "subWords": [
+      {
+        "blessing and curse": "برکت و نفرین"
+      }
+    ]
   },
   {
     "word": "blew",
@@ -2618,7 +2724,7 @@
     "translates": {
       "past-tens": "گذشته فعل blow (وزید)"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blind",
@@ -2628,14 +2734,17 @@
       "adjective": "کور ، نابینا ، عاجز",
       "transitive-verb": "کور کردن ،‌ خیره کردن"
     },
-    "subWords": {
-      "subWord0": "blind spots",
-      "subTranslate0": "نقاط کور",
-      "subWord1": "blind as a bat",
-      "subTranslate1": "کور مثل خفاش",
-      "subWord2": "blind of one eye",
-      "subTranslate2": "یک چشم ، کور یک چشم"
-    }
+    "subWords": [
+      {
+        "blind spots": "نقاط کور"
+      },
+      {
+        "blind as a bat": "کور مثل خفاش"
+      },
+      {
+        "blind of one eye": "یک چشم ، کور یک چشم"
+      }
+    ]
   },
   {
     "word": "blindfold",
@@ -2644,7 +2753,7 @@
       "adjective": "چشم بسته ،‌ با چشم بسته ،‌ کورکورانه",
       "transitive-verb": "چشم بستن ،‌ کور کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blindly",
@@ -2652,7 +2761,7 @@
     "translates": {
       "adverb": "کورکورانه ،‌ مانند کورها"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blindness",
@@ -2660,7 +2769,7 @@
     "translates": {
       "noun": "کوری ، نابینایی ، بی خردی ، بی بصیرتی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blink",
@@ -2669,7 +2778,7 @@
       "noun": "چشمک ، نگاه مختصر",
       "intransitive-verb": "چشمک زدن ، پلک زدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bliss",
@@ -2677,7 +2786,7 @@
     "translates": {
       "noun": "سعادت ، برکت ، نعمت ، لذت"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blissful",
@@ -2685,7 +2794,7 @@
     "translates": {
       "adjective": "سعادتمند ، خوش ، لذت بخش"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blister",
@@ -2694,7 +2803,7 @@
       "noun": "تاول ، آبله",
       "intransitive-verb": "تاول زدن ، جوش زدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blizzard",
@@ -2702,7 +2811,7 @@
     "translates": {
       "noun": "کولاک ، کولاک شدید ،‌ بوران"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bloated",
@@ -2710,7 +2819,7 @@
     "translates": {
       "adjective": "پف کرده ، بادکرده ، نفخ کرده ،‌ باد دار"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "block",
@@ -2719,7 +2828,7 @@
       "noun": "بلوک ، انسداد ، سد ، مانع ، قطعه ، کُنده ( چوب ) ، ساختمان",
       "transitive-verb": "مسدود کردن ، بستن ، بند آوردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blockade",
@@ -2728,7 +2837,7 @@
       "noun": "محاصره ، انسداد ، راه بندان ، حصر",
       "transitive-verb": "محاصره کردن ، بستن ، راه بند کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blond",
@@ -2737,7 +2846,7 @@
       "noun": "( مرد ) موبور",
       "adjective": "بور ، بلوند"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blonde",
@@ -2746,7 +2855,7 @@
       "noun": "( زن ) بلوند",
       "adjective": "طلایی ، بلوند"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blood",
@@ -2754,7 +2863,7 @@
     "translates": {
       "noun": "خون ، تبار ، نژاد"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bloodshed",
@@ -2762,7 +2871,7 @@
     "translates": {
       "noun": "خونریزی ، کشت و کشتار"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bloodthirsty",
@@ -2770,7 +2879,7 @@
     "translates": {
       "adjective": "خونخوار ، سفاک ، خون آشام ، خون ریز ، بی رخم"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bloody",
@@ -2778,7 +2887,7 @@
     "translates": {
       "adjective": "خونین ، خونی ، خون آلود ، خون بار"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bloom",
@@ -2787,7 +2896,7 @@
       "noun": "شکوفه ،‌ گُل دادنی",
       "transitive-verb": "شکوفه کردن ،‌ گل دادن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blossom",
@@ -2796,7 +2905,7 @@
       "noun": "شکوفه ، گل",
       "intransitive-verb": "شکوفه دادن ، گل دادن ، شکفتن ، رشد کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blot",
@@ -2806,7 +2915,7 @@
       "transitive-verb": "لکه دار کردن",
       "intransitive-verb": "لکه دار شدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blotting-paper",
@@ -2814,7 +2923,7 @@
     "translates": {
       "noun": "کاغذ خشک کن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blouse",
@@ -2822,7 +2931,7 @@
     "translates": {
       "noun": "بلوز ، پیراهن یا جامه گشاد"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blow",
@@ -2832,12 +2941,14 @@
       "transitive-verb": "فوت کردن",
       "intransitive-verb": "دمیدن ، وزیدن ، ترکیدن"
     },
-    "subWords": {
-      "subWord0": "blow out",
-      "subTranslate0": "[شمع] فوت کردن ، منفجر شدن ، ترکیدن ، پنچر شدن",
-      "subWord1": "blow up",
-      "subTranslate1": "منفجر کردن ، ترکاندن"
-    }
+    "subWords": [
+      {
+        "blow out": "[شمع] فوت کردن ، منفجر شدن ، ترکیدن ، پنچر شدن"
+      },
+      {
+        "blow up": "منفجر کردن ، ترکاندن"
+      }
+    ]
   },
   {
     "word": "blown",
@@ -2846,7 +2957,7 @@
       "adjective": "دمیده شده ، ورم کرده",
       "past-participle": "اسم مفعول فعل blow"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blue",
@@ -2855,7 +2966,7 @@
       "noun": "آبی",
       "adjective": "آبی ، نیلی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blues",
@@ -2863,7 +2974,7 @@
     "translates": {
       "noun": "بلوز ( موسقی حزن انگیز سیاهان ) ، غم افسردگی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bluff",
@@ -2872,7 +2983,7 @@
       "noun": "بلوف ، خالی بندی ، چاخان ، پرتگاه ، سرازیری کنار رودخانه ، توپ",
       "transitive-verb": "بلوف زدن ، خالی بستن ، توپ زدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blunt",
@@ -2881,7 +2992,7 @@
       "adjective": "کُند ، صاف ، ساده ، بی پرده ، رک",
       "transitive-verb": "کند کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "blush",
@@ -2890,7 +3001,7 @@
       "noun": "سرخی (چهره در اثر خجالت )",
       "intransitive-verb": "سرخ شدن ، خجالت کشیدن ، شرمنده شدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boar",
@@ -2898,7 +3009,7 @@
     "translates": {
       "noun": "گراز ، گراز وحشی ، گراز نر ، خوک نر"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "board",
@@ -2908,7 +3019,7 @@
       "transitive-verb": "سوار شدن ، به کنار کشتی آمدن ، تخته انداختن ، پانسیون کردن ، خوراک دادن",
       "intransitive-verb": "پانسیون شدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boarder",
@@ -2916,7 +3027,7 @@
     "translates": {
       "noun": "شاگرد شبانه روزی ، محصل شبانه روزی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boast",
@@ -2925,7 +3036,7 @@
       "noun": "پُز ، لاف ، مباهات ، رجز خوانی",
       "transitive-verb": "پُز دادن ، لاف زدن ، به رخ کشیدن ، خودستایی کردن ، به خود بالیدن ، رجز خواندن ، قُپی کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boastful",
@@ -2933,7 +3044,7 @@
     "translates": {
       "adjective": "پُزی ، چاخان ، متظاهر ، مغرور ، خودستایی ، از خود راضی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boat",
@@ -2941,7 +3052,7 @@
     "translates": {
       "noun": "قایق ، کشتی ( کوچک )"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bob",
@@ -2950,7 +3061,7 @@
       "noun": "شاقول ، فریب ، ضربت ، منگوله ، حرکت تند و سریع",
       "intransitive-verb": "بالا و پایین رفتن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bodily",
@@ -2958,7 +3069,7 @@
     "translates": {
       "adjective": "بدنی ، جسمی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "body",
@@ -2966,12 +3077,14 @@
     "translates": {
       "noun": "بدن ، بدنه ، تن ، جسم ، اندام ، لاشه ، جسد ، پیکر ، اطاق ماشین"
     },
-    "subWords": {
-      "subWord0": "body lotion",
-      "subTranslate0": "لوسیون بدن",
-      "subWord1": "body count",
-      "subTranslate1": "سرشماری"
-    }
+    "subWords": [
+      {
+        "body lotion": "لوسیون بدن"
+      },
+      {
+        "body count": "سرشماری"
+      }
+    ]
   },
   {
     "word": "bodyguard",
@@ -2979,7 +3092,7 @@
     "translates": {
       "noun": "محافظ ، محافظ شخصی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bog",
@@ -2987,7 +3100,7 @@
     "translates": {
       "noun": "باتلاق ، لجن زار ، گنداب"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boggy",
@@ -2995,7 +3108,7 @@
     "translates": {
       "adjective": "باتلاق ، باتلاقی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bogus",
@@ -3003,7 +3116,7 @@
     "translates": {
       "adjective": "ساختگی ، جعلی ، کاذب ، قلابی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boil",
@@ -3012,12 +3125,14 @@
       "noun": "جوش ، کورک ، دمل ، التهاب",
       "intransitive-verb": "جوشاندن ، جوشیدن ، به جوش آمدن"
     },
-    "subWords": {
-      "subWord0": "boil over",
-      "subTranslate0": "جوشیدن ، ( شیر ) سر رفتن ، ( آب ) لبریز شدن",
-      "subWord1": "boil water",
-      "subTranslate1": "آب جوش"
-    }
+    "subWords": [
+      {
+        "boil over": "جوشیدن ، ( شیر ) سر رفتن ، ( آب ) لبریز شدن"
+      },
+      {
+        "boil water": "آب جوش"
+      }
+    ]
   },
   {
     "word": "boiler",
@@ -3025,7 +3140,7 @@
     "translates": {
       "noun": "دیگ بخار ، جوشاننده ، مخزن آب گرم"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boisterous",
@@ -3033,7 +3148,7 @@
     "translates": {
       "adjective": "خشن و بی ادب ، پر سر و صدا ، خشن و زبر ، قوی ، شدید ، سترگ ، توفانی ، شلوغ"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bold",
@@ -3041,7 +3156,7 @@
     "translates": {
       "adjective": "پر رنگ ، جسور ، گستاخ ، بی پروا ، بی باک ، دلیر ، مشخص ، واضح"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boldness",
@@ -3049,7 +3164,7 @@
     "translates": {
       "noun": "جسارت ، وقاحت ،‌ خیرگی ، چیرگی ، بی باکی "
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bolster",
@@ -3058,7 +3173,7 @@
       "noun": "بالش ، متکا",
       "transitive-verb": "تقویت کردن ، با بالشت نگه داشتن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bolt",
@@ -3067,7 +3182,7 @@
       "noun": "پیچ ، توپ پارچه ، چفت ، قفل",
       "transitive-verb": "از جا جستن ، پیچاندن ، بستن ، چفت کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bomb",
@@ -3076,7 +3191,7 @@
       "noun": "بمب ، بمب اتمی ، نارنجک",
       "transitive-verb": "بمباران کردن ، بمب گذاری"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bomber",
@@ -3084,7 +3199,7 @@
     "translates": {
       "noun": "( هواپیمای ) بمب افکن ، بمب انداز "
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bond",
@@ -3092,7 +3207,7 @@
     "translates": {
       "noun": "اوراق قرضه ، رابطه ، پیوند ، پیوستگی ، اتصال ، تعهد ، التزام "
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bone",
@@ -3101,7 +3216,7 @@
       "noun": "استخوان ، استخوان بندی",
       "transitive-verb": "استخوان ( گوشت ) در آوردن ، گرفتن یا برداشتن ، خواستن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bonfire",
@@ -3109,7 +3224,7 @@
     "translates": {
       "noun": "آتش بازی ، آتش ، آتش سوزی ، جشن آتش"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bonnet",
@@ -3118,7 +3233,7 @@
       "noun": "سرپوش ، کلاهک ، کلاهک دودکش ،‌ در پوش ، نوعی کلاه لبه دار",
       "transitive-verb": "کلاه سرگذاشتن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boo",
@@ -3127,7 +3242,7 @@
       "noun": "اشتباه",
       "transitive-verb": "هو کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "book",
@@ -3136,10 +3251,11 @@
       "noun": "کتاب ، دفتر ، دفتر چه ، سفر ، فصل",
       "transitive-verb": "رزرو کردن ، جا رزرو کردن ، توقیف کردن"
     },
-    "subWords": {
-      "subWord0": "book up",
-      "subTranslate0": "[ هتل و غیره ] پر کردن ، تکمیل کردن ، رزرو کردن"
-    }
+    "subWords": [
+      {
+        "book up": "[ هتل و غیره ] پر کردن ، تکمیل کردن ، رزرو کردن"
+      }
+    ]
   },
   {
     "word": "bookcase",
@@ -3147,7 +3263,7 @@
     "translates": {
       "noun": "قفسه کتاب"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "booking office",
@@ -3155,7 +3271,7 @@
     "translates": {
       "noun": "دفتر رزرو ، باجه فروش بلیط"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "booklet",
@@ -3163,7 +3279,7 @@
     "translates": {
       "noun": "جزوه ، کتابچه ، دفتر چه ، رساله"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boom",
@@ -3171,7 +3287,7 @@
     "translates": {
       "noun": "رونق ، شکوفایی ، غرش ، توسعه عظیم ، صدای غرش ، صدای بومب"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boost",
@@ -3180,7 +3296,7 @@
       "noun": "ترقی",
       "transitive-verb": "تقویت کردن ، بالا بردن ، ترقی دادن ، زیاد کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "booster",
@@ -3188,7 +3304,7 @@
     "translates": {
       "noun": "تقویت کننده ، حامی ، تشدید کننده"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boot",
@@ -3196,7 +3312,7 @@
     "translates": {
       "noun": "چکمه ، پوتین ، صندوق عقب ( اتومبیل )"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "booth",
@@ -3204,7 +3320,7 @@
     "translates": {
       "noun": "غرفه ، اطاقک ، دکه ، باجه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "booze",
@@ -3213,7 +3329,7 @@
       "noun": "مشروب الکلی ، عرق ، خمر",
       "transitive-verb": "مست کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "border",
@@ -3222,7 +3338,7 @@
       "noun": "مرز ،‌ حاشیه ، سر حد ، لبه ، خط مرزی",
       "transitive-verb": "حاشیه گذاشتن ، لبه گذاشتن ، مجاور بودن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bore",
@@ -3231,7 +3347,7 @@
       "noun": "منفذ ، سوراخ ، گمانه",
       "transitive-verb": "با مته سوراخ کردن ، موی دماغ کسی شدن ، حفر کردن ، خسته کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boredom",
@@ -3239,7 +3355,7 @@
     "translates": {
       "noun": "خستگی ، دلزدگی ،‌ ملالت ، کسالت ، بی حوصلگی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "born",
@@ -3247,10 +3363,11 @@
     "translates": {
       "adjective": "متولد ، مولد ، زاد ، زاییده شده ، مولود ، طبیعی"
     },
-    "subWords": {
-      "subWord0": "be born",
-      "subTranslate0": "متولد شدن"
-    }
+    "subWords": [
+      {
+        "be born": "متولد شدن"
+      }
+    ]
   },
   {
     "word": "borrow",
@@ -3258,7 +3375,7 @@
     "translates": {
       "transitive-verb": "قرض گرفتن ، امانت گرفتن ، وام گرفتن , قرض کردن ، اقتباس کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boss",
@@ -3267,7 +3384,7 @@
       "noun": "رئیس ، کارفرما ، ارباب ، مافوق",
       "transitive-verb": "ریاست کردن ، دستور دادن ، اربابی کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bossy",
@@ -3275,7 +3392,7 @@
     "translates": {
       "adjective": "ریاست طلب ، برجسته ، ارباب منش ، دارای برجستگی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "botanical",
@@ -3283,7 +3400,7 @@
     "translates": {
       "adjective": "گیاه شناختی ، [ مربوط به ] گیاه شناسی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "botany",
@@ -3291,7 +3408,7 @@
     "translates": {
       "noun": "گیاه شناسی ، کتاب گیاه شناسی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "both",
@@ -3301,12 +3418,14 @@
       "adverb": "هم",
       "pronoun": "هردوی"
     },
-    "subWords": {
-      "subWord0": "both of them",
-      "subTranslate0": "هر دوی آنها",
-      "subWord1": "both of",
-      "subTranslate1": "هر دو"
-    }
+    "subWords": [
+      {
+        "both of them": "هر دوی آنها"
+      },
+      {
+        "both of": "هر دو"
+      }
+    ]
   },
   {
     "word": "bother",
@@ -3315,7 +3434,7 @@
       "noun": "زحمت ، پریشانی ، رنجش ، دردسر",
       "transitive-verb": "زحمت دادن ،‌ عذاب دادن ، اذیت کردن ، ناراحت کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bottle",
@@ -3323,12 +3442,14 @@
     "translates": {
       "noun": "بطری ، شیشه"
     },
-    "subWords": {
-      "subWord0": "bottle of water",
-      "subTranslate0": "بطری آب",
-      "subWord1": "bottle opener",
-      "subTranslate1": "درب باز کن بطری"
-    }
+    "subWords": [
+      {
+        "bottle of water": "بطری آب"
+      },
+      {
+        "bottle opener": "درب باز کن بطری"
+      }
+    ]
   },
   {
     "word": "bottom",
@@ -3337,7 +3458,7 @@
       "noun": "پایین ، زیر ، ته ، کف ، انتها ، بستر",
       "adjective": "پایین"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bough",
@@ -3345,7 +3466,7 @@
     "translates": {
       "noun": "شاخه ، تنه درخت ، ترکه ، شاخه کلفت ، شانه حیوان"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bought",
@@ -3354,7 +3475,7 @@
       "adjective": "خریداری شده",
       "past-tens": "گذشته فعل buy ( خریده )"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boulder",
@@ -3362,7 +3483,7 @@
     "translates": {
       "noun": "تخته سنگ ، سنگ ،‌ گرداله"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bounce",
@@ -3372,7 +3493,7 @@
       "transitive-verb": "گزاف گویی کردن",
       "intransitive-verb": "پریدن ، بالا جستن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bound",
@@ -3383,10 +3504,11 @@
       "transitive-verb": "محدود کردن",
       "intransitive-verb": "هم مرز بودن ، جهیدن"
     },
-    "subWords": {
-      "subWord0": "bound to",
-      "subTranslate0": "مقید به ، ملزم"
-    }
+    "subWords": [
+      {
+        "bound to": "مقید به ، ملزم"
+      }
+    ]
   },
   {
     "word": "boundary",
@@ -3394,7 +3516,7 @@
     "translates": {
       "noun": "مرز ، سرحد ، کرانه ، حدود"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boundless",
@@ -3402,15 +3524,15 @@
     "translates": {
       "adjective": "بی کران ، بی پایان ، خارج از حدود"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bounty",
     "pronunciation": "'baonti",
     "translates": {
-      "noun":"جایزه ، بخشش ، سخاوت ، وفور ، بخشندگی ، انعام ، شهامت"
+      "noun": "جایزه ، بخشش ، سخاوت ، وفور ، بخشندگی ، انعام ، شهامت"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bout",
@@ -3418,7 +3540,7 @@
     "translates": {
       "noun": "تقلا ، کشمکش ، یک دور مسابقه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bow",
@@ -3428,7 +3550,7 @@
       "transitive-verb": "سر تکان دادن ، تعظیم کردن ، خم کردن",
       "intransitive-verb": "خم شدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bowl",
@@ -3437,7 +3559,7 @@
       "noun": "کاسه ، پیاله ،‌ جام",
       "transitive-verb": "[ توپ در کریکت ] پرتاب کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bowler",
@@ -3445,7 +3567,7 @@
     "translates": {
       "noun": "کاسه ساز ، نوعی کلاه لبه دار ، کلاه لگنی ،‌ قدح ساز ،‌ دائم الخمر"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "box",
@@ -3454,7 +3576,7 @@
       "noun": "جعبه ، صندوق ، باکس ، قوطی ، محفظه ، اطاقک",
       "transitive-verb": "بوکس بازی کردن ، مشت زدن ، در جعبه محصور کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boxer",
@@ -3462,7 +3584,7 @@
     "translates": {
       "noun": "بوکسور ، مشت زن ، بوکس باز"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "box office",
@@ -3470,7 +3592,7 @@
     "translates": {
       "noun": "باجه بلیط فروشی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boy",
@@ -3478,7 +3600,7 @@
     "translates": {
       "noun": "پسر ،‌ پسر بچه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boycott",
@@ -3487,7 +3609,7 @@
       "noun": "تحریم ، بایکوت",
       "transitive-verb": "تحریم کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boyfriend",
@@ -3495,7 +3617,7 @@
     "translates": {
       "noun": "دوست پسر ، دوست ، رفیق ، معشوق"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "boyhood",
@@ -3503,7 +3625,7 @@
     "translates": {
       "noun": "بچگی ، پسر بچگی ، ( دوران ) کودکی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bra",
@@ -3511,7 +3633,7 @@
     "translates": {
       "noun": "سینه بند ، کرست ، پستان بند"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brace",
@@ -3520,7 +3642,7 @@
       "noun": "بند شلوار ، تجدید و احیای روحیه ، تحریک احساست ، آکولاد ، بست",
       "transitive-verb": "با بست محکم کردن ، محکم بستن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bracket",
@@ -3528,7 +3650,7 @@
     "translates": {
       "noun": "براکت ، پرانتز ، کروشه ، قلاب ، بست ، بازویی ، پایه سه گوش"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brag",
@@ -3537,7 +3659,7 @@
       "noun": "لاف ، رجز خوانی ، مباهات ، خود ستا",
       "transitive-verb": "لاف زدن ، با تکبر راه رفتن ، بالیدن ، پُز دادن ، نازیدن ، باد کردن ، رجز خواندن ، قپی کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "braid",
@@ -3546,7 +3668,7 @@
       "noun": "نوار ، گلابتون ، حاشیه ، گیس ، بافه ، قیطان",
       "transitive-verb": "به هم تابیدن و بافتن ، بافتن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "braiding",
@@ -3554,7 +3676,7 @@
     "translates": {
       "noun": "بافندگی ، نوار یا توری قیطانی ، بافتن مو ، قیطانی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brain",
@@ -3562,10 +3684,11 @@
     "translates": {
       "noun": "مغز ، هوش ، مخ ، ذهن ، عقل"
     },
-    "subWords": {
-      "subWord0": "pick somebody's brain(s)",
-      "subTranslate0": "نظر کسی را ( درباره چیزی ) جویا شدن ، از کسی ایده گرفتن"
-    }
+    "subWords": [
+      {
+        "pick somebody's brain(s)": "نظر کسی را ( درباره چیزی ) جویا شدن ، از کسی ایده گرفتن"
+      }
+    ]
   },
   {
     "word": "brainstorm",
@@ -3573,7 +3696,7 @@
     "translates": {
       "noun": "ایده پردازی ، آشفتگی فکری موقتی ، فکر بکر و ناگهانی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brake",
@@ -3582,12 +3705,14 @@
       "noun": "ترمز ، بیشه",
       "transitive-verb": "ترمز کردن ، متوقف  کردن"
     },
-    "subWords": {
-      "subWord0": "brake fluid",
-      "subTranslate0": "روغن ترمز",
-      "subWord1": "brake pads",
-      "subTranslate1": "لنت های ترمز"
-    }
+    "subWords": [
+      {
+        "brake fluid": "روغن ترمز"
+      },
+      {
+        "brake pads": "لنت های ترمز"
+      }
+    ]
   },
   {
     "word": "bramble",
@@ -3595,10 +3720,11 @@
     "translates": {
       "noun": "خار ، بوته ، ترنج ،‌ خاربن ، تمشک جنگلی"
     },
-    "subWords": {
-      "subWord0": "bramble bush",
-      "subTranslate0": "بوته خاردار"
-    }
+    "subWords": [
+      {
+        "bramble bush": "بوته خاردار"
+      }
+    ]
   },
   {
     "word": "bran",
@@ -3606,7 +3732,7 @@
     "translates": {
       "noun": "سبوس ، پوست گندم"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "branch",
@@ -3616,7 +3742,7 @@
       "transitive-verb": "شاخه در آوردن",
       "intransitive-verb": "منشعب شدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brand",
@@ -3625,7 +3751,7 @@
       "noun": "مارک ، نام تجاری ، نشان ، نوع ، داغ ، نیم سوز",
       "transitive-verb": "داغ کردن ، داغ زدن ، علامت گذاشتن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brand new",
@@ -3633,7 +3759,7 @@
     "translates": {
       "adjective": "آکبند ، کاملا جدید ، نوی نو"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brandy",
@@ -3641,7 +3767,7 @@
     "translates": {
       "noun": "کنیاک ، براندی ، عرق"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brass",
@@ -3650,7 +3776,7 @@
       "noun": "[ فلز ] برنج ، اشیاء برنجی",
       "adjective": "برنجی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brave",
@@ -3659,10 +3785,11 @@
       "adjective": "شجاع ، دلیر ، دلاور ، غیور ، بی باک",
       "transitive-verb": "با شجاعت استقبال کردن از"
     },
-    "subWords": {
-      "subWord0": "brave boy",
-      "subTranslate0": "پسر شجاع"
-    }
+    "subWords": [
+      {
+        "brave boy": "پسر شجاع"
+      }
+    ]
   },
   {
     "word": "bravely",
@@ -3670,7 +3797,7 @@
     "translates": {
       "adverb": "دلیرانه ، شجاعانه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bravery",
@@ -3678,7 +3805,7 @@
     "translates": {
       "noun": "شجاعت ، دلیری ، مردانگی ، سلحشوری ، شهامت"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brawl",
@@ -3687,7 +3814,7 @@
       "noun": "نزاع و جدال ، جنجال ، دعوا و مرافه",
       "transitive-verb": "نزاع و جدال کردن ، سروصدا کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "Brazil",
@@ -3695,7 +3822,7 @@
     "translates": {
       "noun": "برزیل"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "Brazilian",
@@ -3703,7 +3830,7 @@
     "translates": {
       "noun": "برزیلی ، اهل برزیل"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "breach",
@@ -3712,7 +3839,7 @@
       "noun": "رخنه ، شکاف ، نقض عهد",
       "transitive-verb": "نقض کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bread",
@@ -3720,10 +3847,11 @@
     "translates": {
       "noun": "نان ، قوت ، غذا"
     },
-    "subWords": {
-      "subWord0": "bread and butter",
-      "subTranslate0": "نان و کره ، نان و پنیر ، وسیله امرار و معاش ، رزق و روزی"
-    }
+    "subWords": [
+      {
+        "bread and butter": "نان و کره ، نان و پنیر ، وسیله امرار و معاش ، رزق و روزی"
+      }
+    ]
   },
   {
     "word": "breadth",
@@ -3731,7 +3859,7 @@
     "translates": {
       "noun": "عرض , پهنا ، وسعت نظر"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "break",
@@ -3740,30 +3868,41 @@
       "noun": "شکست ، وقفه ، شکاف ، گسستگی ، استراحت ، زنگ تفریح",
       "transitive-verb": "شکستن ، نقض کردن ، خرد کردن ، از هم باز کردن"
     },
-    "subWords": {
-      "subWord0": "break away",
-      "subTranslate0": "جدا شدن ، جدایی ، فرار ، استعفاء ، رم",
-      "subWord1": "break down",
-      "subTranslate1": "در هم شکستن ، تجزیه کردن",
-      "subWord2": "break even",
-      "subTranslate2": "سر به سر کردن ، صافی در آمدن ، بی سود و زیان شدن",
-      "subWord3": "break in",
-      "subTranslate3": "شکستن ، به زور وارد ( جایی ) شدن",
-      "subWord4": "break into",
-      "subTranslate4": "وارد شدن ، ناگهان شروع کردن به",
-      "subWord5": "break off",
-      "subTranslate5": "کندن ، جدا کردن",
-      "subWord6": "break open",
-      "subTranslate6": "به زور باز کردن ، شکستن",
-      "subWord7": "break out",
-      "subTranslate7": "تاول زدن ، شیوع پیدا کردن ",
-      "subWord8": "break to pieces",
-      "subTranslate8": "خرد کردن ، خرد و خمیر کردن",
-      "subWord9": "break up",
-      "subTranslate9": "تفکیک کردن ، جدا شدن ، متفرق شدن ، پراکنده شدن",
-      "subWord10": "have a break",
-      "subTranslate10": "زنگ تفریح داشتن ، وقت استراحت داشتن"
-    }
+    "subWords": [
+      {
+        "break away": "جدا شدن ، جدایی ، فرار ، استعفاء ، رم"
+      },
+      {
+        "break down": "در هم شکستن ، تجزیه کردن"
+      },
+      {
+        "break even": "سر به سر کردن ، صافی در آمدن ، بی سود و زیان شدن"
+      },
+      {
+        "break in": "شکستن ، به زور وارد ( جایی ) شدن"
+      },
+      {
+        "break into": "وارد شدن ، ناگهان شروع کردن به"
+      },
+      {
+        "break off": "کندن ، جدا کردن"
+      },
+      {
+        "break open": "به زور باز کردن ، شکستن"
+      },
+      {
+        "break out": "تاول زدن ، شیوع پیدا کردن "
+      },
+      {
+        "break to pieces": "خرد کردن ، خرد و خمیر کردن"
+      },
+      {
+        "break up": "تفکیک کردن ، جدا شدن ، متفرق شدن ، پراکنده شدن"
+      },
+      {
+        "have a break": "زنگ تفریح داشتن ، وقت استراحت داشتن"
+      }
+    ]
   },
   {
     "word": "breakable",
@@ -3771,7 +3910,7 @@
     "translates": {
       "adjective": "شکستنی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "breakage",
@@ -3779,7 +3918,7 @@
     "translates": {
       "noun": "شکست ، شکستگی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "breaker",
@@ -3787,7 +3926,7 @@
     "translates": {
       "noun": "موج شکن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "breakfast",
@@ -3796,7 +3935,7 @@
       "noun": "صبحانه",
       "transitive-verb": "صبحانه خوردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "breakwater",
@@ -3804,7 +3943,7 @@
     "translates": {
       "noun": "موج شکن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "breast",
@@ -3812,7 +3951,7 @@
     "translates": {
       "noun": "پستان ، سینه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "breaststroke",
@@ -3820,7 +3959,7 @@
     "translates": {
       "noun": "شنای پروانه ، شنای قورباغه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "breath",
@@ -3828,10 +3967,11 @@
     "translates": {
       "noun": "نفس ، دم ، جان ، نسیم"
     },
-    "subWords": {
-      "subWord0": "out of breath",
-      "subTranslate0": "از نفس افتادن ، نفس نفس زنان"
-    }
+    "subWords": [
+      {
+        "out of breath": "از نفس افتادن ، نفس نفس زنان"
+      }
+    ]
   },
   {
     "word": "breathalyzer",
@@ -3839,7 +3979,7 @@
     "translates": {
       "noun": "دستگاه تنفس ، الکل سنج تنفسی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "breathe",
@@ -3847,7 +3987,7 @@
     "translates": {
       "intransitive-verb": "نفس کشیدن ، استنشاق کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "breathless",
@@ -3855,7 +3995,7 @@
     "translates": {
       "adjective": "بی نفس ، بی جان ، از نفس افتاده"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "breathlessly",
@@ -3863,7 +4003,7 @@
     "translates": {
       "adverb": "نفس نفس زنان"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bred",
@@ -3871,7 +4011,7 @@
     "translates": {
       "past-participle": "اسم مفعول فعل breed ( پرورش یافته )"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "breeches",
@@ -3879,7 +4019,7 @@
     "translates": {
       "noun": "جوراب شلواری ، شلوار ، تنبان"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "breed",
@@ -3889,7 +4029,7 @@
       "transitive-verb": "پروردن ، تربیت کردن ، بار آوردن ",
       "intransitive-verb": "جفت گیری کردن ، تولید مثل کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "breeze",
@@ -3897,7 +4037,7 @@
     "translates": {
       "noun": "نسیم"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "breezy",
@@ -3905,7 +4045,7 @@
     "translates": {
       "adjective": "شادی بخش ، خنک ، نسیم دار ، تازه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brew",
@@ -3915,7 +4055,7 @@
       "transitive-verb": "دَم کردن ، آمیختن",
       "intransitive-verb": "دم کشیدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brewery",
@@ -3923,7 +4063,7 @@
     "translates": {
       "noun": "کارخانه آبجو سازی ، آبجو سازی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bribe",
@@ -3932,7 +4072,7 @@
       "noun": "رشوه",
       "transitive-verb": "رشوه دادن ، تطمیع کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brick",
@@ -3940,7 +4080,7 @@
     "translates": {
       "noun": "آجر ، خشت"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bricklayer",
@@ -3948,7 +4088,7 @@
     "translates": {
       "noun": "آجر کار ، بنا ، خشت مال ، آجر چین"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bridal",
@@ -3957,7 +4097,7 @@
       "noun": "جشن عروسی",
       "adjective": "[ مربوط به ] عروس یا عروسی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bride",
@@ -3965,7 +4105,7 @@
     "translates": {
       "noun": "عروس ، تازه عروس"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bridegroom",
@@ -3973,7 +4113,7 @@
     "translates": {
       "noun": "داماد ، خواستگار ، تازه داماده"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bridesmaid",
@@ -3981,7 +4121,7 @@
     "translates": {
       "noun": "ساقدوش عروس"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bridge",
@@ -3989,7 +4129,7 @@
     "translates": {
       "noun": "پُل"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bridle",
@@ -3998,7 +4138,7 @@
       "noun": "افسار ، لگام ، پالهنگ ، دهانه ، مهار ، عنان ، قید",
       "transitive-verb": "رام کردن ، جلوگیری کردن از ، کنترل کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brief",
@@ -4006,7 +4146,7 @@
     "translates": {
       "adjective": "مختصر ، کوتاه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "briefly",
@@ -4014,7 +4154,7 @@
     "translates": {
       "adverb": "به طور خلاصه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "briefs",
@@ -4022,7 +4162,7 @@
     "translates": {
       "noun": "خلاصه اخبار ، زیر شلواری ، شرت"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brigade",
@@ -4030,7 +4170,7 @@
     "translates": {
       "noun": "[ نظامی ] تیپ ، تشکیلات ، گروه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bright",
@@ -4038,7 +4178,7 @@
     "translates": {
       "adjective": "روشن ، درخشان ، زرنگ ، باهوش"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brighten",
@@ -4046,7 +4186,7 @@
     "translates": {
       "transitive-verb": "روشن کردن ، درخشان کردن ، زرنگ کردن ، شاد کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brightly",
@@ -4054,7 +4194,7 @@
     "translates": {
       "adjective": "درخشان ، با درخشندگی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brightness",
@@ -4062,7 +4202,7 @@
     "translates": {
       "noun": "روشنایی ، روشنی ، درخشش"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brilliance",
@@ -4070,7 +4210,7 @@
     "translates": {
       "noun": "درخشش ، درخشندگی ، استعداد ، زیرکی ، مهارت ، تابش"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brilliant",
@@ -4079,7 +4219,7 @@
       "noun": "برلیان ، الماس درخشان",
       "adjective": "درخشان ، با استعداد ، تابان ، براق ،‌ زیرک"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brim",
@@ -4088,7 +4228,7 @@
       "noun": "لبه ، طره ، حاشیه ، کنار ، ضلع",
       "intransitive-verb": "لبریز بودن ، لبریز شدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bring",
@@ -4096,24 +4236,32 @@
     "translates": {
       "transitive-verb": "آوردن ، موجب شدن ، به دنبال آوردن"
     },
-    "subWords": {
-      "subWord0": "bring about",
-      "subTranslate0": "به وجود آوردن ، موجب شدن ، ایجاد کردن",
-      "subWord1": "bring back",
-      "subTranslate1": "برگرداندن ، به یاد آوردن",
-      "subWord2": "bring down",
-      "subTranslate2": "پایین آوردن ، از پا در آوردن",
-      "subWord3": "bring forward",
-      "subTranslate3": "جلو انداختن ، مطرح کردن",
-      "subWord4": "bring in",
-      "subTranslate4": "وارد کردن ،‌ آوردن ، عایدی داشتن",
-      "subWord5": "bring out",
-      "subTranslate5": "خارج کردن ، بیرون آوردن ، آشکار کردن ، زاییدن",
-      "subWord6": "bring round",
-      "subTranslate6": "به هوش آوردن ، گرد آوردن",
-      "subWord7": "bring up",
-      "subTranslate7": "مطرح کردن ، پرورش دادن ، تربیت کردن ، بالا آوردن"
-    }
+    "subWords": [
+      {
+        "bring about": "به وجود آوردن ، موجب شدن ، ایجاد کردن"
+      },
+      {
+        "bring back": "برگرداندن ، به یاد آوردن"
+      },
+      {
+        "bring down": "پایین آوردن ، از پا در آوردن"
+      },
+      {
+        "bring forward": "جلو انداختن ، مطرح کردن"
+      },
+      {
+        "bring in": "وارد کردن ،‌ آوردن ، عایدی داشتن"
+      },
+      {
+        "bring out": "خارج کردن ، بیرون آوردن ، آشکار کردن ، زاییدن"
+      },
+      {
+        "bring round": "به هوش آوردن ، گرد آوردن"
+      },
+      {
+        "bring up": "مطرح کردن ، پرورش دادن ، تربیت کردن ، بالا آوردن"
+      }
+    ]
   },
   {
     "word": "brink",
@@ -4121,7 +4269,7 @@
     "translates": {
       "noun": "مرز ، لب ، لبه‌ ، حاشیه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brisk",
@@ -4129,7 +4277,7 @@
     "translates": {
       "adjective": "سریع ، تند ، چابک ، سرزنده و بشاش ، سر زنده ، با روح ، چست ، چالاک"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bristle",
@@ -4138,7 +4286,7 @@
       "noun": "موی زبر ، موی خوک ، موی سیخ ، مو",
       "intransitive-verb": "سیخ شدن ، آماده جنگ شدن ، رویه تجاوزگرانه داشتن ، عصبانی شدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "Britain",
@@ -4146,7 +4294,7 @@
     "translates": {
       "noun": "بریتانیا"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "British",
@@ -4155,7 +4303,7 @@
       "noun": "انگلیسی",
       "adjective": "بریتانیایی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "Briton",
@@ -4163,7 +4311,7 @@
     "translates": {
       "noun": "بریتانیایی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brittle",
@@ -4171,10 +4319,11 @@
     "translates": {
       "adjective": "شکننده ، ترد"
     },
-    "subWords": {
-      "subWord0": "brittle bones",
-      "subTranslate0": "استخوان های شکننده"
-    }
+    "subWords": [
+      {
+        "brittle bones": "استخوان های شکننده"
+      }
+    ]
   },
   {
     "word": "broad",
@@ -4182,7 +4331,7 @@
     "translates": {
       "adjective": "پهن ، عریض ، پهناور ، گشاد ، [ لهجه ] غلیظ"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "broadcast",
@@ -4191,7 +4340,7 @@
       "noun": "پخش ، داده پراکنی",
       "transitive-verb": "منتشر کردن ، پخش کردن ،‌ برنامه پخش کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "broad-minded",
@@ -4199,7 +4348,7 @@
     "translates": {
       "adjective": "روشنفکر ، دارای فکر وسیع"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "broke",
@@ -4208,7 +4357,7 @@
       "adjective": "ورشکسته ، مُفلس ، بی پول",
       "past-tens": "گذشته فعل break ( شکست )"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "broken",
@@ -4217,14 +4366,17 @@
       "adjective": "شکسته ، شکسته شده ، پاره ، خراب",
       "past-participle": "اسم مفعول فعل break ( شکسته شده )"
     },
-    "subWords": {
-      "subWord0": "broken down",
-      "subTranslate0": "خراب شده ، ویران",
-      "subWord1": "broken heart",
-      "subTranslate1": "قلب شکسته",
-      "subWord2": "broken home",
-      "subTranslate2": "خانه خراب"
-    }
+    "subWords": [
+      {
+        "broken down": "خراب شده ، ویران"
+      },
+      {
+        "broken heart": "قلب شکسته"
+      },
+      {
+        "broken home": "خانه خراب"
+      }
+    ]
   },
   {
     "word": "bronchitis",
@@ -4232,7 +4384,7 @@
     "translates": {
       "noun": "برونشیت ، برنشیت [ التهاب نایژه ها ]"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bronze",
@@ -4241,7 +4393,7 @@
       "noun": "برنز ، مفروغ ، شیءِ بُرنزی",
       "adjective": "برنزی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brooch",
@@ -4249,7 +4401,7 @@
     "translates": {
       "noun": "گُل سینه ، سنجاق سینه ، سنجاق ، سوراخ کن ، سنجاق کراوات"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brook",
@@ -4257,7 +4409,7 @@
     "translates": {
       "noun": "نهر ، جویبار ، جوی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "broom",
@@ -4265,7 +4417,7 @@
     "translates": {
       "noun": "جارو ( دسته بلند )"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "broth",
@@ -4273,7 +4425,7 @@
     "translates": {
       "noun": "آبگوشت ، سوپ"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brother",
@@ -4281,7 +4433,7 @@
     "translates": {
       "noun": "برادر"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brought",
@@ -4289,14 +4441,17 @@
     "translates": {
       "past-tens": "گذشته فعل bring ( آورده شده )"
     },
-    "subWords": {
-      "subWord0": "brought out",
-      "subTranslate0": "بیرون آورد",
-      "subWord1": "brought about",
-      "subTranslate1": "به وجود آورد",
-      "subWord2": "brought up",
-      "subTranslate2": "مطرح شده"
-    }
+    "subWords": [
+      {
+        "brought out": "بیرون آورد"
+      },
+      {
+        "brought about": "به وجود آورد"
+      },
+      {
+        "brought up": "مطرح شده"
+      }
+    ]
   },
   {
     "word": "brow",
@@ -4304,7 +4459,7 @@
     "translates": {
       "noun": "ابرو ، پیشانی ، جبین ، خط ابرو"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brown",
@@ -4315,7 +4470,7 @@
       "transitive-verb": "قهوه ای کردن ، برنزه کردن ، برشته کردن",
       "intransitive-verb": "قهوه ای شدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bruise",
@@ -4325,7 +4480,7 @@
       "transitive-verb": "کوبیدن ، کبود کردن",
       "intransitive-verb": "کبود شدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brush",
@@ -4335,10 +4490,11 @@
       "transitive-verb": "برس زدن ، پاک کردن ، نقاشی کردن ، لیف زدن",
       "intransitive-verb": "مسواک زدن"
     },
-    "subWords": {
-      "subWord0": "brush up",
-      "subTranslate0": "تقویت کردن ، تجدید خاطره کردن ، معلومات خود را تجدید کردن"
-    }
+    "subWords": [
+      {
+        "brush up": "تقویت کردن ، تجدید خاطره کردن ، معلومات خود را تجدید کردن"
+      }
+    ]
   },
   {
     "word": "brussels-sprout",
@@ -4346,7 +4502,7 @@
     "translates": {
       "noun": "کلم بروکسل ، کلم فندقی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brutal",
@@ -4354,7 +4510,7 @@
     "translates": {
       "adjective": "بی رحم , وحشی ، وحشیانه ، حیوان صفت ، شهوانی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "brute",
@@ -4363,7 +4519,7 @@
       "noun": "حیوان ، جانور",
       "adjective": "بی رحم ، خشن ، وحشیانه ، حیوان صفت ، بی شعور"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bubble",
@@ -4372,7 +4528,7 @@
       "noun": "حباب",
       "intransitive-verb": "جوشیدن ، کف کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "buck",
@@ -4382,10 +4538,11 @@
       "transitive-verb": "جفتک انداختن",
       "intransitive-verb": "[ اسب ] پریدن"
     },
-    "subWords": {
-      "subWord0": "buck up",
-      "subTranslate0": "خوش حال شدن ، روحیه دادن ، شجاع شدن ، تهییج کردن ، پیشرفت کردن"
-    }
+    "subWords": [
+      {
+        "buck up": "خوش حال شدن ، روحیه دادن ، شجاع شدن ، تهییج کردن ، پیشرفت کردن"
+      }
+    ]
   },
   {
     "word": "bucket",
@@ -4393,7 +4550,7 @@
     "translates": {
       "noun": "سطل ، دلو"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "buckle",
@@ -4402,7 +4559,7 @@
       "noun": "سگک ، قلاب",
       "transitive-verb": "با سگک بستن ، خم شدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bud",
@@ -4411,7 +4568,7 @@
       "noun": "غنچه ، جوانه ، شکوفه",
       "transitive-verb": "جوانه زدن ، غنچه دادن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "budgerigar",
@@ -4419,7 +4576,7 @@
     "translates": {
       "noun": "مرغ عشق"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "budget",
@@ -4428,7 +4585,7 @@
       "noun": "بودجه",
       "transitive-verb": "هزینه ( چیزی را ) تامین کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "buffalo",
@@ -4436,7 +4593,7 @@
     "translates": {
       "noun": "بوفالو ، گاو وحشی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "buffer",
@@ -4444,7 +4601,7 @@
     "translates": {
       "noun": "بافر ، ضربه گیر ، سپر ، حائل ، میانگیر"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "buffet",
@@ -4452,7 +4609,7 @@
     "translates": {
       "noun": "بوفه ، رستوران ، اغذیه فروشی ، ساندویچی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bug",
@@ -4460,7 +4617,7 @@
     "translates": {
       "noun": "ساس ، حشره ( کوچک ) ، اشکال ، میکروفن مخفی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bugle",
@@ -4468,7 +4625,7 @@
     "translates": {
       "noun": "شیپور ، بوق"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "build",
@@ -4476,7 +4633,7 @@
     "translates": {
       "transitive-verb": "ساختن ، بنا نهادن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "building",
@@ -4485,7 +4642,7 @@
       "noun": "ساختمان ، عمارت ، بنا",
       "adjective": "ساختمانی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "built",
@@ -4494,7 +4651,7 @@
       "adverb": "ساخته",
       "past-tens": "گذشته فعل build ( ساخته شده )"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bulb",
@@ -4502,7 +4659,7 @@
     "translates": {
       "noun": "لامپ ، پیاز ( گُل )"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bulging",
@@ -4510,7 +4667,7 @@
     "translates": {
       "adjective": "بیرون زدن ، برآمده ، برجسته"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bulk",
@@ -4518,7 +4675,7 @@
     "translates": {
       "noun": "حجم ، گُندگی ( هیکل ) ، توده"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bulky",
@@ -4526,7 +4683,7 @@
     "translates": {
       "adjective": "گُنده ، تنومند ، بزرگ ، حجیم"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bull",
@@ -4534,7 +4691,7 @@
     "translates": {
       "noun": "گاو نر ، فیل نر ( و هر حیوان نر بزرگ )"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bulldozer",
@@ -4542,7 +4699,7 @@
     "translates": {
       "noun": "بولدوزر"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bullet",
@@ -4550,7 +4707,7 @@
     "translates": {
       "noun": "گلوله"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bulletin",
@@ -4558,7 +4715,7 @@
     "translates": {
       "noun": "اطلاعیه ، پژوهشنامه ، گزارش خبری ، خبر نامه ، تابلو اعلانات"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bulletproof",
@@ -4566,7 +4723,7 @@
     "translates": {
       "noun": "ضد گلوله"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bullock",
@@ -4574,7 +4731,7 @@
     "translates": {
       "noun": "گاو اخته"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bully",
@@ -4582,7 +4739,7 @@
     "translates": {
       "noun": "قلدر ، زورگو ، گردن کلفت ، پهلوان پنبه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bump",
@@ -4591,7 +4748,7 @@
       "noun": "ضربه ، تکان ، دست انداز جاده",
       "transitive-verb": "برخورد کردن با ، بالا و پایین پریدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bumper",
@@ -4599,7 +4756,7 @@
     "translates": {
       "noun": "[ اتومبیل و غیره ] سپر ، ضربه گیر"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bumpy",
@@ -4607,7 +4764,7 @@
     "translates": {
       "adjective": "پُر دست انداز ، پر برامدگی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bun",
@@ -4615,7 +4772,7 @@
     "translates": {
       "noun": "کیک ( شبیه به کیک یزدی ) ، ( مدل موی ) گوجه ای"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bunch",
@@ -4625,10 +4782,11 @@
       "transitive-verb": "جمع کردن ، دسته کردن",
       "intransitive-verb": "دور هم جمع شدن"
     },
-    "subWords": {
-      "subWord0": "bunch of red roses",
-      "subTranslate0": "یک دسته گل رز قرمز"
-    }
+    "subWords": [
+      {
+        "bunch of red roses": "یک دسته گل رز قرمز"
+      }
+    ]
   },
   {
     "word": "bundle",
@@ -4636,10 +4794,11 @@
     "translates": {
       "noun": "دسته ، بسته ، بقچه ، کپه"
     },
-    "subWords": {
-      "subWord0": "bundle in",
-      "subTranslate0": "چپاندن"
-    }
+    "subWords": [
+      {
+        "bundle in": "چپاندن"
+      }
+    ]
   },
   {
     "word": "bungalow",
@@ -4647,7 +4806,7 @@
     "translates": {
       "noun": "خانه یک طبقه ، خانه ویلایی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bungle",
@@ -4656,7 +4815,7 @@
       "noun": "سرهم بندی",
       "transitive-verb": "سَمبَل کردن ، سرهم بندی کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bunk",
@@ -4664,7 +4823,7 @@
     "translates": {
       "noun": "[کشتی ، قطار و کاروان ] تختخواب ، تختخواب دو طبقه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "buoy",
@@ -4673,7 +4832,7 @@
       "noun": "جسم شناور ، کویچه ، راهنمای شناور ، روآبی ، حلقه نجات",
       "transitive-verb": "شناور ساختن ، روی آب نگه داشتن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "burden",
@@ -4682,7 +4841,7 @@
       "noun": "بار ، مسئولیت ، بار مسئولیت ، وزن",
       "transitive-verb": "بار کردن ، تحمیل کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bureau",
@@ -4690,7 +4849,7 @@
     "translates": {
       "noun": "دفتر ، اداره ، میز کشودار"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "burglar",
@@ -4698,7 +4857,7 @@
     "translates": {
       "noun": "دزد ، سارق"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "burglary",
@@ -4706,7 +4865,7 @@
     "translates": {
       "noun": "دزدی"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "burgle",
@@ -4714,7 +4873,7 @@
     "translates": {
       "transitive-verb": "دزدی کردن ، [خانه و غیره ] زدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "burial",
@@ -4722,7 +4881,7 @@
     "translates": {
       "noun": "تدفین ، دفن ، خاکسپاری"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "burly",
@@ -4730,7 +4889,7 @@
     "translates": {
       "adjective": "قوی هیکل ، تنومند ، زبر و خشن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "burn",
@@ -4740,10 +4899,11 @@
       "transitive-verb": "سوزاندن",
       "intransitive-verb": "سوختن"
     },
-    "subWords": {
-      "subWord0": "burn down",
-      "subTranslate0": "کاملا سوختن"
-    }
+    "subWords": [
+      {
+        "burn down": "کاملا سوختن"
+      }
+    ]
   },
   {
     "word": "burning",
@@ -4752,7 +4912,7 @@
       "noun": "سوزش",
       "adjective": "سوزان ، داغ ، سوزنده"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "burnt",
@@ -4761,7 +4921,7 @@
       "past-tens": "گذشته فعل burn ( سوخته )",
       "past-participle": "اسم مفعول burn"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "burrow",
@@ -4770,7 +4930,7 @@
       "noun": "نقب ، سوراخ ، پناه گاه ",
       "transitive-verb": "نقب زدن ،‌ کندن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "burst",
@@ -4780,12 +4940,14 @@
       "transitive-verb": "منفجر کردن ، پاره کردن ، شکستن",
       "intransitive-verb": "ترکیدن ، ترکاندن ، منفجر شدن"
     },
-    "subWords": {
-      "subWord0": "burst into tears",
-      "subTranslate0": "زیر گریه زدن ، اشک ریخت",
-      "subWord1": "burst out laughing",
-      "subTranslate1": "زیر خنده زدن ، از خنده ترکید"
-    }
+    "subWords": [
+      {
+        "burst into tears": "زیر گریه زدن ، اشک ریخت"
+      },
+      {
+        "burst out laughing": "زیر خنده زدن ، از خنده ترکید"
+      }
+    ]
   },
   {
     "word": "bury",
@@ -4793,7 +4955,7 @@
     "translates": {
       "transitive-verb": "دفن کردن ، به خاک سپردن ، پنهان کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bus",
@@ -4801,7 +4963,7 @@
     "translates": {
       "noun": "اتوبوس"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bush",
@@ -4809,7 +4971,7 @@
     "translates": {
       "noun": "بوته ، درختچه ، سرزمین وحشی یا دست نخورده"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bushy",
@@ -4817,7 +4979,7 @@
     "translates": {
       "adjective": "پر پشت ، انبوه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "business",
@@ -4825,12 +4987,14 @@
     "translates": {
       "noun": "کار ، شغل ، کسب و کار ، تجارت ، معامله"
     },
-    "subWords": {
-      "subWord0": "do business with somebody",
-      "subTranslate0": "با کسی معامله داشتن",
-      "subWord1": "it's none of your business",
-      "subTranslate1": "فضولی نکن ، کاری به کار دیگران نداشته باش"
-    }
+    "subWords": [
+      {
+        "do business with somebody": "با کسی معامله داشتن"
+      },
+      {
+        "it's none of your business": "فضولی نکن ، کاری به کار دیگران نداشته باش"
+      }
+    ]
   },
   {
     "word": "bus stop",
@@ -4838,7 +5002,7 @@
     "translates": {
       "noun": "ایستگاه اتوبوس"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bust",
@@ -4847,10 +5011,11 @@
       "noun": "مجسمه نیم تنه ، مجسمه ، سینه ، دستگیری ، توقیف",
       "transitive-verb": "دستگیر کردن ، [ عامیانه ] گرفتن ، [ پلیس ] ریختن ، ورشکست شدن"
     },
-    "subWords": {
-      "subWord0": "bust up",
-      "subTranslate0": "جدا شدن ، خاتمه دادن"
-    }
+    "subWords": [
+      {
+        "bust up": "جدا شدن ، خاتمه دادن"
+      }
+    ]
   },
   {
     "word": "bustle",
@@ -4860,7 +5025,7 @@
       "transitive-verb": "شلوغ کردن",
       "intransitive-verb": "مشغول بودن ، جنب و جوش داشتن ، در تکاپو بودن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "busy",
@@ -4869,7 +5034,7 @@
       "adjective": "مشغول ، سرگرمِ ، شلوغ ، پر مشغله ، گرفتار ، پر جنب و جوش",
       "transitive-verb": "مشغول کردن با"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "but",
@@ -4879,10 +5044,11 @@
       "preposition": "مگر ، جز ، بجز ، غیر از ، بدون اینکه",
       "conjunction": "اما ، ولی"
     },
-    "subWords": {
-      "subWord0": "but for",
-      "subTranslate0": "بدونِ"
-    }
+    "subWords": [
+      {
+        "but for": "بدونِ"
+      }
+    ]
   },
   {
     "word": "butcher",
@@ -4890,7 +5056,7 @@
     "translates": {
       "noun": "قصاب ، سلاخ"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "butler",
@@ -4898,7 +5064,7 @@
     "translates": {
       "noun": "خدمتکار ، سرپیشخدمت"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "butter",
@@ -4907,7 +5073,7 @@
       "noun": "کره ، [ در ترکیب ] کرهء",
       "transitive-verb": "کره مالیدن به"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "butterfly",
@@ -4915,7 +5081,7 @@
     "translates": {
       "noun": "پروانه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "buttocks",
@@ -4923,7 +5089,7 @@
     "translates": {
       "noun": "باسن ، سرین"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "button",
@@ -4933,7 +5099,7 @@
       "transitive-verb": "دکمه ( چیزی را ) بستن",
       "intransitive-verb": "[ دکمه ] بسته شدن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "buttonhole",
@@ -4941,7 +5107,7 @@
     "translates": {
       "noun": "سوراخ دکمه ، جا دکمه ، مادگی ، گًل یقه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "buy",
@@ -4950,7 +5116,7 @@
       "noun": "خرید ، خریداری",
       "transitive-verb": "خریدن ، خرید کردن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "buzz",
@@ -4960,7 +5126,7 @@
       "transitive-verb": "وزوز کردن ، همهمه کردن",
       "intransitive-verb": "به همهمه افتادن"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "buzzer",
@@ -4968,7 +5134,7 @@
     "translates": {
       "noun": "زنگ ، زنگ اخبار ، صدای زنگ"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "by",
@@ -4977,12 +5143,14 @@
       "adverb": "نزدیکِ ، کنارِ ، در کنارِ ، از کنارِ ، پیرامون",
       "preposition": "توسط ، با ، از ، به وسیله ، از روی ، به واسطه ، طبقِ"
     },
-    "subWords": {
-      "subWord0": "by and by",
-      "subTranslate0": "به زودی ، کمی بعد ، در آینده ، کم کم",
-      "subWord1": "by night",
-      "subTranslate1": "در طول شب ، شبانه"
-    }
+    "subWords": [
+      {
+        "by and by": "به زودی ، کمی بعد ، در آینده ، کم کم"
+      },
+      {
+        "by night": "در طول شب ، شبانه"
+      }
+    ]
   },
   {
     "word": "bye-bye",
@@ -4990,7 +5158,7 @@
     "translates": {
       "interjection": "خداحافظ"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "by-law",
@@ -4998,7 +5166,7 @@
     "translates": {
       "noun": "آیین نامه ، مقررات محلی ، قانون ویژه"
     },
-    "subWords": {}
+    "subWords": []
   },
   {
     "word": "bypass",
@@ -5007,6 +5175,6 @@
       "noun": "میان بر ، جاده کمربندی ، مجرای فرعی ، گذرگاه",
       "transitive-verb": "از کنار ( چیزی ) گذشتن"
     },
-    "subWords": {}
+    "subWords": []
   }
 ]

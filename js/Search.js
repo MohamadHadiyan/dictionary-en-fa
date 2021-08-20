@@ -7,26 +7,33 @@ export const SearchBox = () => {
     if (e.target.classList.contains("error-shadow")) {
       e.target.classList.remove("error-shadow");
     }
-  }
+  };
+
   const handleSearch = (e) => {
     const value = e.target.value.trim();
     if (!value) return;
 
     const words = getWords();
-    const wordObj = words
-      .filter((item) => item.word.startsWith(value))
-      .slice(0, 5);
+    let index = words.findIndex((item) => item.word.startsWith(value));
 
-    if (wordObj.length == 0) {
+    if (index === -1) {
+      index = words.findIndex((item) => item.word.includes(value));
+    }
+
+    if (index === -1) {
+      index = words.findIndex((item) =>
+        Object.values(item.subWords).some((elm) =>
+          Object.keys(elm)[0].includes(value)
+        )
+      );
+    }
+
+    if (index === -1) {
       e.target.classList.add("error-shadow");
       return;
     }
 
     checkClasses(e);
-
-    const word = wordObj[0].word;
-    const index = words.findIndex((item) => item.word.includes(word));
-
     setCurrentWord(index);
     showTranslate();
   };
@@ -38,7 +45,7 @@ export const SearchBox = () => {
   );
 
   search.placeholder = "Search...";
-  search.onblur = (e) => e.target.value ? undefined : checkClasses(e);
+  search.onblur = (e) => (e.target.value ? undefined : checkClasses(e));
 
   return search;
 };
