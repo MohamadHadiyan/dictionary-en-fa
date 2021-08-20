@@ -1,13 +1,13 @@
 import FarsiType from "./FarsiType.js";
-import { arrayToObject, el, newElm } from "./utils.js";
+import { arrayElementsToObject, el, newElm } from "./utils.js";
 
 export const translateInputs = [];
 
-export const getTranslatesWord = () =>  {
-  const elems = arrayToObject(translateInputs);
+export const getTranslatesWord = () => {
+  const elems = arrayElementsToObject(translateInputs);
   translateInputs.splice(0);
   return elems;
-}
+};
 
 const addInput = (name) => {
   let elm = newElm("input", {
@@ -36,7 +36,6 @@ const handleChangeInput = (e) => {
     e.target.parentNode.parentNode.append(elm);
     elm.focus();
     FarsiType.init();
-
   } else {
     e.target.parentNode.parentNode.lastElementChild.remove();
     removeInput(e.target.name);

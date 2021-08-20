@@ -1,28 +1,30 @@
 import { loadData } from "./utils.js";
 
-const wordStore={
-  words:[],
+const wordStore = {
+  words: [],
   currentWord: 0,
 };
 
-export const setWordStore = async () =>{
-    const data = await loadData("./words.json");
+export const setWordStore = async () => {
+  const data = await loadData("../all-words/d-words.json");
+  if (data) {
     wordStore.words.push(...data);
-}
+  }
+};
 
 export const getWords = () => {
   return wordStore.words;
-}
+};
 
-export const addWordToStore = (word) =>{
-  if(typeof word !== "object") return;
+export const addWordToStore = (word) => {
+  if (typeof word !== "object") return;
   wordStore.words.push(word);
-}
+};
 
-export const setCurrentWord = (index) =>{
+export const setCurrentWord = (index) => {
   wordStore.currentWord = index;
-}
+};
 
-export const getCurrentWord = () =>{
+export const getCurrentWord = () => {
   return wordStore.currentWord;
-}
+};

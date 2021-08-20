@@ -1,0 +1,206 @@
+[
+  {
+    "word": "D, d",
+    "pronunciation": "dii",
+    "translates": {
+      "noun": "دی (= چهارمین حرف الفبای انگلیسی )"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dab",
+    "pronunciation": "dab",
+    "translates": {
+      "transitive-verb": "پاک کردن ، مالیدن ، تر کردن ، ضربه زدن ، زدن ، آهسته زدن ، کهنه را نم زدن",
+      "noun": "قطعه ، اندکی ، تکه"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dad",
+    "pronunciation": "dad",
+    "translates": {
+      "noun": "بابا ، پدر"
+    },
+    "subWords": []
+  },
+  {
+    "word": "daffodil",
+    "pronunciation": "'dafodil",
+    "translates": {
+      "noun": "گل نرگس ، گل زرد"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dagger",
+    "pronunciation": "'dager",
+    "translates": {
+      "noun": "خنجر ، دشنه"
+    },
+    "subWords": []
+  },
+  {
+    "word": "daily",
+    "pronunciation": "'deyli",
+    "translates": {
+      "adjective": "روزانه ، هر روز ، هر روزه ، روزی ، روزمره",
+      "noun": "روزنامه"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dainty",
+    "pronunciation": "'deynti",
+    "translates": {
+      "adjective": "خوش طعم ، مطبوع ،‌ ظریف ، خوشگل ، قشنگ ، ملوس ، خوش ریخت",
+      "noun": "گوشت یا خوراک لذیذ"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dairy",
+    "pronunciation": "'deri",
+    "translates": {
+      "noun": "لبنیات فروشی ، لبنیاتی ، [ کارخانه ] لبنیات سازی"
+    },
+    "subWords": []
+  },
+  {
+    "word": "daisy",
+    "pronunciation": "'deyzi",
+    "translates": {
+      "noun": "گل مینا ، گل مروارید"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dam",
+    "pronunciation": "dam",
+    "translates": {
+      "noun": "سد ، بند"
+    },
+    "subWords": []
+  },
+  {
+    "word": "damage",
+    "pronunciation": "'damij",
+    "translates": {
+      "noun": "خسارت ، آسیب ، لطمه ، خرابی ، صدمه ، ضرر ، زیان ،‌ خرج",
+      "transitive-verb": "آسیب رساندن ، خسارت وارد کردن ، لطمه زدن ، زیان زدن"
+    },
+    "subWords": []
+  },
+  {
+    "word": "damn",
+    "pronunciation": "dam",
+    "translates": {
+      "transitive-verb": "لعنت کردن ، لعن کردن ، فحش دادن ، بد و بیراه گفتن ، به باد انتقاد گرفتن",
+      "adjective": "لعنتی",
+      "noun": "فحش"
+    },
+    "subWords": []
+  },
+  {
+    "word": "damp",
+    "pronunciation": "damp",
+    "translates": {
+      "noun": "رطوبت ، نم",
+      "adjective": "مرطوب ، نم دار ، نمناک",
+      "transitive-verb": "مرطوب کردن"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dance",
+    "pronunciation": "dans",
+    "translates": {
+      "noun": "رقص ، آهنگ رقص ، مجلس رقص",
+      "intransitive-verb": "رقصیدن ،‌ رقصاندن ، بالا و پایین رفتن",
+      "transitive-verb": "بالا و پایین انداختن"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dancer",
+    "pronunciation": "danser",
+    "translates": {
+      "noun": "رقاص ، رقصنده"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dandruff",
+    "pronunciation": "'dandra^f",
+    "translates": {
+      "noun": "شوره سر"
+    },
+    "subWords": []
+  },
+  {
+    "word": "Dane",
+    "pronunciation": "deyn",
+    "translates": {
+      "noun": "دانمارکی"
+    },
+    "subWords": []
+  },
+  {
+    "word": "danger",
+    "pronunciation": "'deynjer",
+    "translates": {
+      "noun": "خطر"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dangerous",
+    "pronunciation": "'deynjeres",
+    "translates": {
+      "adjective": "خطرناک"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dangerously",
+    "pronunciation": "'deynjeresli",
+    "translates": {
+      "adverb": "به طور خطرناکی"
+    },
+    "subWords": []
+  },
+  {
+    "word": "Danish",
+    "pronunciation": "'deynish",
+    "translates": {
+      "adjective": "دانمارکی",
+      "noun": "زبان دانمارکی"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dank",
+    "pronunciation": "kank",
+    "translates": {
+      "adjective": "مرطوب ، نمناک ، مرطوب و سرد"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dare",
+    "pronunciation": "der",
+    "translates": {
+      "transitive-verb": "جرئت کردن ، به چالش طلبیدن",
+      "intransitive-verb": "جرئت داشتن ، شهامت ( کاری را ) داشتن ، به خود اجازه دادن",
+      "noun": "شهامت"
+    },
+    "subWords": [
+      {
+        "How dare you...!": "چطور جرئت می کنی ...! ، چطور به خودت اجاره می دهی ...!"
+      },
+      {
+        "I dare say": "فک می کنم ، گمان می کنم ، احتمال دارد"
+      }
+    ]
+  }
+]

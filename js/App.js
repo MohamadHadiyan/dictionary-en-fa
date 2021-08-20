@@ -1,5 +1,13 @@
 import FarsiType from "./FarsiType.js";
-import { arrayToObject, el, elms, isEmptyObject, newElm, showAlert } from "./utils.js";
+import {
+  arrayElementsToObject,
+  arrayToKeyValueObject,
+  el,
+  elms,
+  isEmptyObject,
+  newElm,
+  showAlert,
+} from "./utils.js";
 import { addFieldsetOptions, getTranslatesWord } from "./FieldsetOptions.js";
 import { SearchBox } from "./Search.js";
 import {
@@ -127,17 +135,19 @@ function addWords(e) {
   }
 
   const inputs = [...elms("#wordAndPronunArea input")];
-  const subInputs = [...elms("#subWordInputs input")];
-  const word = arrayToObject(inputs);
+  const subInputs = [...elms("#subWordInputs input")].map((elem) => elem.value);
+  const word = arrayElementsToObject(inputs);
 
   word.translates = getTranslatesWord();
-  word.subWords = arrayToObject(subInputs);
+  word.subWords = subInputs.length > 0 ? arrayToKeyValueObject(subInputs) : [];
+
   const isEmpty = isEmptyObject(word.translates);
-  
-  if(isEmpty) {
-    showAlert("There is probably an empty translate fields!!", "warning")
+  const isSubEmpty = subInputs.some((item) => item === "");
+
+  if (isEmpty || isSubEmpty) {
+    showAlert("There is probably an empty translate fields!!", "warning");
     return;
-  } 
+  }
 
   words.push(word);
   addWordToStore(word);

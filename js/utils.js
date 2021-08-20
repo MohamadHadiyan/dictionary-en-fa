@@ -1,9 +1,29 @@
-export const arrayToObject = (arr) =>
+export const arrayElementsToObject = (arr) =>
   arr.reduce((obj, elm) => ((obj[elm.name] = elm.value), obj), {});
 
+export const arrayToKeyValueObject = (arr) =>
+  arr.reduce(
+    (obj, val, i) =>
+      i % 2 === 0 ? [...obj, { [arr[i]]: arr[i + 1] }] : [...obj],
+    []
+  );
+
+export const objectTOArray = (obj) => {
+  const sub = Object.values(obj);
+  return sub.reduce(
+    (obj, val, i) =>
+      i % 2 === 0 ? [...obj, { [sub[i]]: sub[i + 1] }] : [...obj],
+    []
+  );
+};
+
 export async function loadData(url) {
-  let res = await fetch(url);
-  return await res.json();
+  try {
+    let res = await fetch(url);
+    return await res.json();
+  } catch (err) {
+    console.log(err);
+  }
 }
 
 export function showAlert(msg, type) {
@@ -47,6 +67,6 @@ export function newElm(
   return elm;
 }
 
-export const isEmptyObject = (obj) =>{
+export const isEmptyObject = (obj) => {
   return Object.keys(obj).length === 0 && obj.constructor === Object;
-}
+};
