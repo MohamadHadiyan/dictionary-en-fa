@@ -1,3 +1,56 @@
+export const getValues = (arr) => {
+  return Object.values(arr);
+};
+
+export const getKeys = (arr) => {
+  return Object.keys(arr);
+};
+
+export const getEntries = (arr) => {
+  return Object.entries(arr);
+};
+
+export const isEnglishLang = (str) => {
+  const reg = /^[a-zA-Z]+$/;
+  return reg.test(str);
+};
+
+export const isRTL = (str) => {
+  var ltrChars =
+      "A-Za-z\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u02B8\u0300-\u0590\u0800-\u1FFF" +
+      "\u2C00-\uFB1C\uFDFE-\uFE6F\uFEFD-\uFFFF",
+    rtlChars = "\u0591-\u07FF\uFB1D-\uFDFD\uFE70-\uFEFC",
+    rtlDirCheck = new RegExp("^[^" + ltrChars + "]*[" + rtlChars + "]");
+
+  return rtlDirCheck.test(str);
+};
+
+export const isArray = (arr) => {
+  return arr instanceof Array;
+};
+
+export const isString = (str) => {
+  return typeof str === "string";
+};
+
+export const getIndexByStartsWith = (arr, val) => {
+  if (!isArray(arr) || !isString(val)) return -1;
+
+  let index = -1;
+  index = arr.findIndex((item) => item.startsWith(val));
+
+  return index;
+};
+
+export const getIndexByIncludes = (arr, val) => {
+  if (!isArray(arr) || !isString(val)) return -1;
+
+  let index = -1;
+  index = arr.findIndex((item) => item.includes(val));
+
+  return index;
+};
+
 export const arrayElementsToObject = (arr) =>
   arr.reduce((obj, elm) => ((obj[elm.name] = elm.value), obj), {});
 
