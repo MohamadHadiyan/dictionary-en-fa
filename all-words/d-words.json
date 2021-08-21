@@ -202,5 +202,396 @@
         "I dare say": "فک می کنم ، گمان می کنم ، احتمال دارد"
       }
     ]
+  },
+  {
+    "word": "dark",
+    "pronunciation": "da^rk",
+    "translates": {
+      "adjective": "تاریک ، [ رنگ ] تیره ، سیر ، [ چهره ] سبزه ، سیاه",
+      "noun": "تاریکی ، غروب"
+    },
+    "subWords": [
+      {
+        "before dark": "قبل از غروب"
+      },
+      {
+        "after dark": "بعد از غروب"
+      }
+    ]
+  },
+  {
+    "word": "darken",
+    "pronunciation": "da^rken",
+    "translates": {
+      "intransitive-verb": "تیره شدن ، تاریک شدن",
+      "transitive-verb": "تیره کردن"
+    },
+    "subWords": []
+  },
+  {
+    "word": "darkness",
+    "pronunciation": "da^rknes",
+    "translates": {
+      "noun": "تاریکی ، تیرگی"
+    },
+    "subWords": []
+  },
+  {
+    "word": "darling",
+    "pronunciation": "da^rling",
+    "translates": {
+      "adjective": "عزیز ، محبوب",
+      "noun": "[  در خطاب ] عزیزم"
+    },
+    "subWords": []
+  },
+  {
+    "word": "darn",
+    "pronunciation": "da^rn",
+    "translates": {
+      "noun": "رفو ، فحش",
+      "transitive-verb": "رفو کردن"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dart",
+    "pronunciation": "da^rt",
+    "translates": {
+      "intransitive-verb": "مثل تیر رفتن ، مثل برق رفتن ، پریدن",
+      "transitive-verb": "به سرعت حرکت کردن ، پراندن ، انداختن",
+      "noun": "نیزه ، پیکان ، حرکت تند ، زوبین ، تیر"
+    },
+    "subWords": []
+  },
+  {
+    "word": "darts",
+    "pronunciation": "da^rts",
+    "translates": {
+      "noun": "[ بازی ] دارت"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dash",
+    "pronunciation": "dash",
+    "translates": {
+      "noun": "خط تیره ، یورش ، شتاب ، کمی ، دوی سرعت",
+      "transitive-verb": "با سرعت رفتن ، با عجله رفتن ، پرتاب کردن ، خرد کردن ، شکستن",
+      "intransitive-verb": "با عجله نوشتن",
+      "interjection": "لعنت بر ...!"
+    },
+    "subWords": []
+  },
+  {
+    "word": "date",
+    "pronunciation": "deyt",
+    "translates": {
+      "noun": "تاریخ ، زمان ، خرما ، نخل ، عصر ، دوره ، ملاقات ، قرار ملاقات",
+      "transitive-verb": "تاریخ گذاشتن ، تاریخ زدن ، تاریخ ( چیزی را ) تعیین کردن ، قرار ( ملاقات ) گذاشتن با"
+    },
+    "subWords": [
+      {
+        "to date": "تا این تاریخ ، تاکنون"
+      },
+      {
+        "up to date": "نو ، امروزی ، روزآمد"
+      },
+      {
+        "what's to date today?": "امروز چندم است؟"
+      }
+    ]
+  },
+  {
+    "word": "daughter",
+    "pronunciation": "'doter",
+    "translates": {
+      "noun": "دختر ، فرزند دختر"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dawdle",
+    "pronunciation": "'dodel",
+    "translates": {
+      "intransitive-verb": "وقت تلف کردن ، فس فس کردن ، چرت زدن ، بیهوده وقت گذراندن",
+      "noun": "اهمال کار"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dawn",
+    "pronunciation": "don",
+    "translates": {
+      "noun": "سپیده دم ، پگاه ، سحر ، سحرگاه ، بامداد ، فجر",
+      "intransitive-verb": "سپیده زدن ، صبح شدن ، [ مجازی ] جوانه زدن"
+    },
+    "subWords": []
+  },
+  {
+    "word": "day",
+    "pronunciation": "dey",
+    "translates": {
+      "noun": "روز ، شبانه روز ، [ اغلب به صورت جمع ] دوره ، زمان"
+    },
+    "subWords": [
+      {
+        "all day long": "در تمام روز ، همهء روز"
+      },
+      {
+        "by day": "در روز ، روزها"
+      },
+      {
+        "day after day": "هر روز ، همه روزه"
+      },
+      {
+        "day in, day out": "هر روز ، پیوسته ، بی وقفه"
+      },
+      {
+        "in a few day's time": "به زودی ، در ظرف چند روز ، همین روز ها"
+      },
+      {
+        "one day": "روزی ، یک روز"
+      },
+      {
+        "the day after tomorrow": "پس فردا"
+      },
+      {
+        "the day before yesterday": "پریروز"
+      },
+      {
+        "what day is it today?": "امروز چند شنبه است؟"
+      }
+    ]
+  },
+  {
+    "word": "daybreak",
+    "pronunciation": "'deybreyk",
+    "translates": {
+      "noun": "سپیده دم ، بامداد ، صبح ، سحرگاه"
+    },
+    "subWords": []
+  },
+  {
+    "word": "daydream",
+    "pronunciation": "'deydriim",
+    "translates": {
+      "noun": "خیال پردازی ، رویا پردازی ، افکار پوچ",
+      "intransitive-verb": "خیال پردازی کردن"
+    },
+    "subWords": []
+  },
+  {
+    "word": "daylight",
+    "pronunciation": "'deyla^yt",
+    "translates": {
+      "noun": "روز ، روشنایی روز ، روز روشن"
+    },
+    "subWords": []
+  },
+  {
+    "word": "daze",
+    "pronunciation": "deyz",
+    "translates": {
+      "transitive-verb": "گیج کردن ، بهت زده کردن ، خیره کردن ، ژولیده کردن",
+      "noun": "گیجی ، بهت ، خیرگی"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dazed",
+    "pronunciation": "deyzd",
+    "translates": {
+      "adjective": "گیج ، منگ ، خیره ، ژولیده"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dazzle",
+    "pronunciation": "'dazel",
+    "translates": {
+      "transitive-verb": "[ نور ] چشم را زدن ، کور کردن ، خیره کردن",
+      "noun": "تابش یا روشنی خیره کننده"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dead",
+    "pronunciation": "ded",
+    "translates": {
+      "adjective": "مرده ، بی روح ، ساکت ، خاموش ، بی حس ، کامل",
+      "adverb": "کاملاً",
+      "noun": "سکوت ، سکون"
+    },
+    "subWords": []
+  },
+  {
+    "word": "deaden",
+    "pronunciation": "'deden",
+    "translates": {
+      "transitive-verb": "[ درد ] آرام کردن ، تسکین دادن ، بی حس و بی روح کردن",
+      "intransitive-verb": "بی جان شدن"
+    },
+    "subWords": []
+  },
+  {
+    "word": "deadly",
+    "pronunciation": "'dedli",
+    "translates": {
+      "adjective": "کُشنده ، مرگبار ، مهلک ، [ دشمن ] قهار ، خونی ، کینه توز ، کاری ، موثر"
+    },
+    "subWords": []
+  },
+  {
+    "word": "deaf",
+    "pronunciation": "def",
+    "translates": {
+      "adjective": "کر ، ناشنوا"
+    },
+    "subWords": []
+  },
+  {
+    "word": "deafen",
+    "pronunciation": "'defen",
+    "translates": {
+      "transitive-verb": "کر کردن",
+      "intransitive-verb": "کر شدن"
+    },
+    "subWords": []
+  },
+  {
+    "word": "deafness",
+    "pronunciation": "'defnis",
+    "translates": {
+      "noun": "ناشنوایی"
+    },
+    "subWords": []
+  },
+  {
+    "word": "deal",
+    "pronunciation": "dill",
+    "translates": {
+      "noun": "معامله ، مصالحه ، نوبت (ورق دادن ) ، دست ، دور ، مقدار",
+      "transitive-verb": "معامله کردن ، رفتار کردن ، سر و کله زدن با ، پرداختن به ، دادن ، توضیع کردن"
+    },
+    "subWords": [
+      {
+        "deal in something": "در کار خرید و فروش چیزی بودن"
+      },
+      {
+        "deal out": "توضیع کردن ، تقسیم کردن"
+      },
+      {
+        "deal with something": "درباره چیزی بودن ، به چیزی پرداختن"
+      },
+      {
+        "a good deal": "خیلی ، مقدار زیادی ،‌ یک معامله خوب"
+      },
+      {
+        "a great deal": "خیلی ، مقدار زیادی"
+      }
+    ]
+  },
+  {
+    "word": "dealer",
+    "pronunciation": "'diller",
+    "translates": {
+      "noun": "فروشنده ، دلال"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dealt",
+    "pronunciation": "delt",
+    "translates": {
+      "past-tens": "گذشته فعل deal",
+      "auxiliary-verb": "اسم مفعول فعل deal"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dear",
+    "pronunciation": "'diyer",
+    "translates": {
+      "adjective": "عزیز ، محبوب ، [ در عنوانِ نامه ] گرامی ، گران ، پر ارزش",
+      "noun": "عزیز"
+    },
+    "subWords": []
+  },
+  {
+    "word": "dearly",
+    "pronunciation": "'diyerli",
+    "translates": {
+      "adverb": "بسیار ، خیلی ، به طور عزیز"
+    },
+    "subWords": []
+  },
+  {
+    "word": "death",
+    "pronunciation": "deth",
+    "translates": {
+      "noun": "مرگ ، مرگ و میر ، فوت ، درگذشت ، ( عمل ) کشتن"
+    },
+    "subWords": [
+      {
+        "put someone to death": "اعدام کردن ، کُشتن"
+      }
+    ]
+  },
+  {
+    "word": "deathly",
+    "pronunciation": "'dethli",
+    "translates": {
+      "adjective": "مرگبار ، مرگ گونه ، مهلک ، فانی",
+      "adverb": "مرگ وار ، شبیه به مرده ، مثل مرده"
+    },
+    "subWords": []
+  },
+  {
+    "word": "debate",
+    "pronunciation": "di'beyt",
+    "translates": {
+      "noun": "مناظره ، مذاکره ، مباحثه ، مجادله ، بحث ، بگومگو",
+      "intransitive-verb": "بحث کردن ، مذاکره کردن ، مناظره کردن ، جر و بحث کردن ، ( پیش خود ) فکر کردن"
+    },
+    "subWords": []
+  },
+  {
+    "word": "debt",
+    "pronunciation": "det",
+    "translates": {
+      "noun": "قرض ، بدهی ، بدهکاری ، وام ، [ مجازی ] دِین"
+    },
+    "subWords": [
+      {
+        "in debt": "مقروض"
+      }
+    ]
+  },
+  {
+    "word": "decade",
+    "pronunciation": "'dekeyd",
+    "translates": {
+      "noun": "دهه ، ده سال"
+    },
+    "subWords": []
+  },
+  {
+    "word": "decay",
+    "pronunciation": "di'key",
+    "translates": {
+      "noun": "فساد ، خرابی ، گندیدگی ، پوسیدگی ، زوال ، ویرانی ، انحطاط",
+      "intransitive-verb": "فساد شدن ، خراب شدن ، گندیدن ، پوسیدن ، ویران شدن ، فرو ریختن ، ریختن",
+      "transitive-verb": "فاسد کردن ، خراب کردن ، ضایع کردن"
+    },
+    "subWords": []
+  },
+  {
+    "word": "deceit",
+    "pronunciation": "di'siit",
+    "translates": {
+      "noun": "فریبکاری ، حقه بازی ، تقلب ، فریب ، حیله ، دروغ"
+    },
+    "subWords": []
   }
 ]

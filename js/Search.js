@@ -1,6 +1,32 @@
 import showTranslate from "./ShowWords.js";
-import { newElm } from "./utils.js";
+import {
+  getIndexByIncludes,
+  getIndexByStartsWith,
+  getKeys,
+  getValues,
+  isEnglishLang,
+  isRTL,
+  newElm,
+} from "./utils.js";
 import { getWords, setCurrentWord } from "./WordStore.js";
+
+const englishSearch = (wordsObj, value) => {
+  let index = -1;
+  const words = wordsObj.map((item) => item.word);
+  index = getIndexByStartsWith(words, value);
+
+  if (index === -1) {
+    index = getIndexByIncludes(words, value);
+  }
+
+  if (index === -1) {
+    index = wordsObj.findIndex((item) =>
+      getValues(item.subWords).some((elm) => getKeys(elm)[0].includes(value))
+    );
+  }
+
+  return index;
+};
 
 export const SearchBox = () => {
   const checkClasses = (e) => {
@@ -14,18 +40,10 @@ export const SearchBox = () => {
     if (!value) return;
 
     const words = getWords();
-    let index = words.findIndex((item) => item.word.startsWith(value));
+    let index = -1;
 
-    if (index === -1) {
-      index = words.findIndex((item) => item.word.includes(value));
-    }
-
-    if (index === -1) {
-      index = words.findIndex((item) =>
-        Object.values(item.subWords).some((elm) =>
-          Object.keys(elm)[0].includes(value)
-        )
-      );
+    if (!isRTL(value)) {
+      index = englishSearch(words, value);
     }
 
     if (index === -1) {
