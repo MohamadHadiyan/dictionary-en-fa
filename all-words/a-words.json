@@ -3,4893 +3,5437 @@
     "word": "A,a",
     "pronunciation": "ey",
     "translates": {
-      "noun": "اِی (اولین حرف الفبای انگلیسی)"
+      "noun": ["اِی (اولین حرف الفبای انگلیسی)"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "a",
     "pronunciation": "e",
     "translates": {
-      "indefinite-article": "یک",
-      "prefix": "ی (یای نکره یا وحدت) ، هر ، در"
+      "indefinite-article": ["یک"],
+      "prefix": ["ی (یای نکره یا وحدت)", "هر", "در"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aback",
     "pronunciation": "ebak",
     "translates": {
-      "adverb": "به عقب ، تعجب"
+      "adverb": ["به عقب", "تعجب"]
     },
-    "subWords": [
-      {
-        "be taken aback": "یکه خوردن"
-      }
-    ]
+    "subWords": {
+      "be taken aback": ["یکه خوردن"]
+    }
   },
   {
     "word": "abandon",
     "pronunciation": "e'banden",
     "translates": {
-      "past-tens": "واگذاری ، بیخیالی",
-      "transitive-verb": "رها کردن ، ترک کردن ، متوقف کردن"
+      "past-tens": ["واگذاری", "بیخیالی"],
+      "transitive-verb": ["رها کردن", "ترک کردن", "متوقف کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "abbreviation",
     "pronunciation": "abriiviyeyshen",
     "translates": {
-      "noun": "مخفف ، اختصار ، علامت اختصاری"
+      "noun": ["مخفف", "اختصار", "علامت اختصاری"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ability",
     "pronunciation": "e'biliti",
     "translates": {
-      "noun": "توانایی ، قابلیت ، استعداد ، شایستگی ، لیاقت ، عُرضه"
+      "noun": ["توانایی", "قابلیت", "استعداد", "شایستگی", "لیاقت", "عُرضه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ablaze",
     "pronunciation": "e'bleyz",
     "translates": {
-      "adjective": "مشتعل ، درخشان ، شعله ور ، بر افروخته ، فروزان ، سوزان"
+      "adjective": [
+        "مشتعل",
+        "درخشان",
+        "شعله ور",
+        "بر افروخته",
+        "فروزان",
+        "سوزان"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "able",
     "pronunciation": "eybel",
     "translates": {
-      "adjective": "قادر ، توانا ، قابل ، ماهر ، لایق ، ماهرانه"
+      "adjective": ["قادر", "توانا", "قابل", "ماهر", "لایق", "ماهرانه"]
     },
-    "subWords": [
-      {
-        "be taken aback": "توانستن ، قادر بودن"
-      }
-    ]
+    "subWords": {
+      "be taken aback": ["توانستن", "قادر بودن"]
+    }
   },
   {
     "word": "ablution",
     "pronunciation": "a'blooshen",
     "translates": {
-      "noun": "شستشو ، غسل ، وضو"
+      "noun": ["شستشو", "غسل", "وضو"]
     },
-    "subWords": [
-      {
-        "ablutions": "وضو گرفتن"
-      }
-    ]
+    "subWords": {
+      "ablutions": ["وضو گرفتن"]
+    }
   },
   {
     "word": "ably",
     "pronunciation": "eybli",
     "translates": {
-      "adjective": "توانا ، با توانایی",
-      "adverb": "ماهرانه ، استادانه ، از روی لیاقت"
+      "adjective": ["توانا", "با توانایی"],
+      "adverb": ["ماهرانه", "استادانه", "از روی لیاقت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aboard",
     "pronunciation": "e'bord",
     "translates": {
-      "adverb": "رویِ یا داخلِ",
-      "preposition": "[کشتی ، هواپیما ، قطار] سوارِ ، رویِ ، تویِ ، در"
+      "adverb": ["رویِ یا داخلِ"],
+      "preposition": ["[کشتی", "هواپیما", "قطار] سوارِ", "رویِ", "تویِ", "در"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "abolish",
     "pronunciation": "a'ba^lish",
     "translates": {
-      "transitive-verb": "برانداختن ، منسوخ کردن"
+      "transitive-verb": ["برانداختن", "منسوخ کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "abolition",
     "pronunciation": "aba^lishen",
     "translates": {
-      "noun": "لغو ، فسخ ، برچیدن"
+      "noun": ["لغو", "فسخ", "برچیدن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "abominable",
     "pronunciation": "e'baminebel",
     "translates": {
-      "adjective": "نفرت انگیز ، مشمئز کننده ، مکروه ، منفور ، ناپسند ، زشت"
+      "adjective": [
+        "نفرت انگیز",
+        "مشمئز کننده",
+        "مکروه",
+        "منفور",
+        "ناپسند",
+        "زشت"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "abortion",
     "pronunciation": "e'borshen",
     "translates": {
-      "adjective": "سقط جنین ، عدم تکامل"
+      "adjective": ["سقط جنین", "عدم تکامل"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "abound",
     "pronunciation": "e'baond",
     "translates": {
-      "intransitive-verb": "فراوان بودن ، زیاد بودن"
+      "intransitive-verb": ["فراوان بودن", "زیاد بودن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "about",
     "pronunciation": "e'baot",
     "translates": {
-      "adverb": "تقریباً ، گرداگرد ، نزدیک",
-      "preposition": "در باره ، در ، در حدود ، پیرامونِ ، "
+      "adverb": ["تقریباً", "گرداگرد", "نزدیک"],
+      "preposition": ["در باره", "در", "در حدود", "پیرامونِ"]
     },
-    "subWords": [
-      {
-        "about 8 o'clock": "حدود ساعت 8"
-      }
-    ]
+    "subWords": {
+      "about 8 o'clock": ["حدود ساعت 8"]
+    }
   },
   {
     "word": "above",
     "pronunciation": "e;ba^v",
     "translates": {
-      "adjective": "بالاتر ، مافوق",
-      "adverb": "بالاتر ، در بالا",
-      "preposition": "فوقِ ، بالایِ ، فراز"
+      "adjective": ["بالاتر", "مافوق"],
+      "adverb": ["بالاتر", "در بالا"],
+      "preposition": ["فوقِ", "بالایِ", "فراز"]
     },
-    "subWords": [
-      {
-        "above all": "مخصوصاً ، مهم تر از ، بالاتر از همه"
-      }
-    ]
+    "subWords": {
+      "above all": ["مخصوصاً", "مهم تر از", "بالاتر از همه"]
+    }
   },
   {
     "word": "abreast",
     "pronunciation": "e'brest",
     "translates": {
-      "adverb": "پهلو به پهلو ، کنار هم ، در جهت هم"
+      "adverb": ["پهلو به پهلو", "کنار هم", "در جهت هم"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "abridged",
     "pronunciation": "e'brijd",
     "translates": {
-      "adjective": "مختصر ، خلاصه شده"
+      "adjective": ["مختصر", "خلاصه شده"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "abroad",
     "pronunciation": "e'brod",
     "translates": {
-      "adverb": "خارج از کشور ، خارج ، همه جا ، وسیع"
+      "adverb": ["خارج از کشور", "خارج", "همه جا", "وسیع"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "abrupt",
     "pronunciation": "e'bra^pt",
     "translates": {
-      "adjective": "ناگهانی ، غیر منتظره ، تند ، خشن ، زننده"
+      "adjective": ["ناگهانی", "غیر منتظره", "تند", "خشن", "زننده"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "abruptly",
     "pronunciation": "e'bra^ptli",
     "translates": {
-      "adverb": "ناگهان ، به طور ناگهانی ، با خشونت و تندی"
+      "adverb": ["ناگهان", "به طور ناگهانی", "با خشونت و تندی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "absence",
     "pronunciation": "absens",
     "translates": {
-      "noun": "غیبت ، عدم ، فقدان ، غیاب ، نبودن"
+      "noun": ["غیبت", "عدم", "فقدان", "غیاب", "نبودن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "absent",
     "pronunciation": "ab'sent",
     "translates": {
-      "adjective": "غایب ، حواس پرت ، گیج ، گنگ ، مات"
+      "adjective": ["غایب", "حواس پرت", "گیج", "گنگ", "مات"]
     },
-    "subWords": [
-      {
-        "absent onself": "غیبت کردن ، غایب شدن ، نرفتن ، نیامدن"
-      }
-    ]
+    "subWords": {
+      "absent onself": ["غیبت کردن", "غایب شدن", "نرفتن", "نیامدن"]
+    }
   },
   {
     "word": "absolute",
     "pronunciation": "'absoloot",
     "translates": {
-      "adjective": "مطلق ، کامل ، قطعی ، مستبد"
+      "adjective": ["مطلق", "کامل", "قطعی", "مستبد"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "absolutely",
     "pronunciation": "'absolootli",
     "translates": {
-      "adverb": "مطلقاً ، کاملاً ، بدون قید و شرط ، به کلی ، مسلماً"
+      "adverb": ["مطلقاً", "کاملاً", "بدون قید و شرط", "به کلی", "مسلماً"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "absorb",
     "pronunciation": "ab'sorb",
     "translates": {
-      "transitive-verb": "جذب کردن ، فراگرفتن ، مجذوب کردن ، جذب شدن"
+      "transitive-verb": ["جذب کردن", "فراگرفتن", "مجذوب کردن", "جذب شدن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "abstain",
     "pronunciation": "ab'steyn",
     "translates": {
-      "intransitive-verb": "خودداری کردن ، پرهیز کردن ، امتناع کردن ، رأی ممتنع دادن"
+      "intransitive-verb": [
+        "خودداری کردن",
+        "پرهیز کردن",
+        "امتناع کردن",
+        "رأی ممتنع دادن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "abstract",
     "pronunciation": "'abstrakt",
     "translates": {
-      "adjective": "انتزاعی",
-      "noun": "خلاصه"
+      "adjective": ["انتزاعی"],
+      "noun": ["خلاصه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "absurd",
     "pronunciation": "ab'serd",
     "translates": {
-      "adjective": "بی معنی ، پوچ ، مزخرف ، چرند ، مضحک ، نا معقول ، احمقانه",
-      "noun": "مزخرف"
+      "adjective": [
+        "بی معنی",
+        "پوچ",
+        "مزخرف",
+        "چرند",
+        "مضحک",
+        "نا معقول",
+        "احمقانه"
+      ],
+      "noun": ["مزخرف"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "abuse",
     "pronunciation": "a'byoos",
     "translates": {
-      "noun": "سوءِ استفاده ، بد رفتاری ، خشونت ، فحش ، توهین",
-      "transitive-verb": "سوءِ استفاده کردن ، بد رفتاری کردن با ، فحش دادن به ، نا سزا گفتن به"
+      "noun": ["سوءِ استفاده", "بد رفتاری", "خشونت", "فحش", "توهین"],
+      "transitive-verb": [
+        "سوءِ استفاده کردن",
+        "بد رفتاری کردن با",
+        "فحش دادن به",
+        "نا سزا گفتن به"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "academic",
     "pronunciation": "aka'demik",
     "translates": {
-      "adjective": "علمی ، آموزشی ، تحصیلی"
+      "adjective": ["علمی", "آموزشی", "تحصیلی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "accelerate",
     "pronunciation": "ak'selereyt",
     "translates": {
-      "intransitive-verb": "سرعت بخشیدن ، شتاب دادن ، تشدید کردن",
-      "transitive-verb": "سرعت گرفتن ، شدت یافتن"
+      "intransitive-verb": ["سرعت بخشیدن", "شتاب دادن", "تشدید کردن"],
+      "transitive-verb": ["سرعت گرفتن", "شدت یافتن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "acceleration",
     "pronunciation": "aksele'reyshen",
     "translates": {
-      "noun": "شتاب ، سرعت ، تسریع"
+      "noun": ["شتاب", "سرعت", "تسریع"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "accelerator",
     "pronunciation": "ak'selereyter",
     "translates": {
-      "noun": "شتاب دهنده ، شتابگر ، شتابنده ، (پدال) گاز"
+      "noun": ["شتاب دهنده", "شتابگر", "شتابنده", "(پدال) گاز"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "accent",
     "pronunciation": "'aksent",
     "translates": {
-      "noun": "لهجه ، تاکید ، تلفظ ، [به صورت جمع] لحن"
+      "noun": ["لهجه", "تاکید", "تلفظ", "[به صورت جمع] لحن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "accept",
     "pronunciation": "ak'sept",
     "translates": {
-      "intransitive-verb": "پذیرفتن ، قبول کردن ، باور کردن",
-      "transitive-verb": "قبول داشتن ، به عهده گرفتن ، تعهد کردن"
+      "intransitive-verb": ["پذیرفتن", "قبول کردن", "باور کردن"],
+      "transitive-verb": ["قبول داشتن", "به عهده گرفتن", "تعهد کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "acceptable",
     "pronunciation": "ak'septebel",
     "translates": {
-      "adjective": "قابل قبول ، قابل پذیرش ، پذیرفتنی ، مقبول ، مجاز"
+      "adjective": ["قابل قبول", "قابل پذیرش", "پذیرفتنی", "مقبول", "مجاز"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "accessory",
     "pronunciation": "eksasori",
     "translates": {
-      "noun": "لوازم جانبی ، منضمات ، لوازم فرعی ، همدست ، شریک ، لوازم",
-      "adjective": "فرعی"
+      "noun": ["لوازم جانبی", "منضمات", "لوازم فرعی", "همدست", "شریک", "لوازم"],
+      "adjective": ["فرعی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "accident",
     "pronunciation": "'aksident",
     "translates": {
-      "noun": "تصادف ، سانحه ، حادثه ، پیشامد، اتفاق"
+      "noun": ["تصادف", "سانحه", "حادثه", "پیشامد", "اتفاق"]
     },
-    "subWords": [
-      {
-        "by accident": "اتفاقی ، برحسب اتفاق"
-      },
-      {
-        "have an accident": "تصادف کردن"
-      }
-    ]
+    "subWords": {
+      "by accident": ["اتفاقی", "برحسب اتفاق"],
+      "have an accident": ["تصادف کردن"]
+    }
   },
   {
     "word": "accidental",
     "pronunciation": "aksi'denta^l",
     "translates": {
-      "adjective": "تصادفی ، اتفاقی ، پیش بینی نشده"
+      "adjective": ["تصادفی", "اتفاقی", "پیش بینی نشده"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "accidentally",
     "pronunciation": "aksi'dentli",
     "translates": {
-      "adverb": "تصادفاً ، به طور تصادفی ، اتفاقی"
+      "adverb": ["تصادفاً", "به طور تصادفی", "اتفاقی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "accommodate",
     "pronunciation": "eka^modeyt",
     "translates": {
-      "transitive-verb": "جا دادن ، منزل دادن"
+      "transitive-verb": ["جا دادن", "منزل دادن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "accommodating",
     "pronunciation": "eka^modeyting",
     "translates": {
-      "transitive-verb": "جا دادن ، همساز کردن ، وفق دادن با"
+      "transitive-verb": ["جا دادن", "همساز کردن", "وفق دادن با"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "accommodation",
     "pronunciation": "eka^mo'deyshen",
     "translates": {
-      "noun": "جا ، منزل ، محلِ سکونت ، محل اقامت، تطابق ، تطبیق"
+      "noun": ["جا", "منزل", "محلِ سکونت", "محل اقامت", "تطابق", "تطبیق"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "accompany",
     "pronunciation": "e'ka^mpeni",
     "translates": {
-      "transitive-verb": "همراهی کردن ، همراه بودن با"
+      "transitive-verb": ["همراهی کردن", "همراه بودن با"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "accomplice",
     "pronunciation": "e'ka^mplis",
     "translates": {
-      "noun": "همدست ، شریک جرم"
+      "noun": ["همدست", "شریک جرم"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "accomplish",
     "pronunciation": "e'ka^mplish",
     "translates": {
-      "transitive-verb": "انجام دادن ، به نتیجه رساندن ، به انجام رساندن"
+      "transitive-verb": ["انجام دادن", "به نتیجه رساندن", "به انجام رساندن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "accomplishment",
     "pronunciation": "e'ka^mplishment",
     "translates": {
-      "noun": "انجام ، اتمام ، تحقق"
+      "noun": ["انجام", "اتمام", "تحقق"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "accord",
     "pronunciation": "a'kord",
     "translates": {
-      "noun": "توافق ، پیمان ، سازش ، رضایت ، خواسف ، قرارداد"
+      "noun": ["توافق", "پیمان", "سازش", "رضایت", "خواسف", "قرارداد"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "according",
     "pronunciation": "a'kording",
     "translates": {
-      "adjective": "مطابق",
-      "preposition": "با توجه"
+      "adjective": ["مطابق"],
+      "preposition": ["با توجه"]
     },
-    "subWords": [
-      {
-        "according as": "بر حسب این که ، همان طور که ، چنان که"
-      },
-      {
-        "according to": "بنابر ، طبق ، مطابق با"
-      }
-    ]
+    "subWords": {
+      "according as": ["بر حسب این که", "همان طور که", "چنان که"],
+      "according to": ["بنابر", "طبق", "مطابق با"]
+    }
   },
   {
     "word": "accordingly",
     "pronunciation": "a'kordingli",
     "translates": {
-      "adverb": "همان طور ، طبق آن ، بنابر این ، نتیجتاً ، بر این اساس"
+      "adverb": ["همان طور", "طبق آن", "بنابر این", "نتیجتاً", "بر این اساس"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "accordion",
     "pronunciation": "a'kordiyen",
     "translates": {
-      "noun": "آکاردئون"
+      "noun": ["آکاردئون"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "account",
     "pronunciation": "e'kaont",
     "translates": {
-      "noun": "حساب ، صورت حساب ، گزارش ، علت",
-      "intransitive-verb": "حساب پس دادن ، ذکر علت کردن ، پاسخگو بودن",
-      "transitive-verb": "حساب کردن ، به حساب آوردن ، دانستن"
+      "noun": ["حساب", "صورت حساب", "گزارش", "علت"],
+      "intransitive-verb": ["حساب پس دادن", "ذکر علت کردن", "پاسخگو بودن"],
+      "transitive-verb": ["حساب کردن", "به حساب آوردن", "دانستن"]
     },
-    "subWords": [
-      {
-        "account for": "علت چیزی را بیان کردن ، توضیح دادن"
-      },
-      {
-        "on account of": "به علتِ ، به واسطۀ"
-      },
-      {
-        "on no account": "به هیچ وجه ، اصلا"
-      },
-      {
-        "take into account": "به حساب آوردن ، در نظر گرفتن"
-      }
-    ]
+    "subWords": {
+      "account for": ["علت چیزی را بیان کردن", "توضیح دادن"],
+      "on account of": ["به علتِ", "به واسطۀ"],
+      "on no account": ["به هیچ وجه", "اصلا"],
+      "take into account": ["به حساب آوردن", "در نظر گرفتن"]
+    }
   },
   {
     "word": "accountant",
     "pronunciation": "e'kaontent",
     "translates": {
-      "noun": "حسابدار"
+      "noun": ["حسابدار"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "accurate",
     "pronunciation": "'akyurit",
     "translates": {
-      "adjective": "دقیق ، صحیح ، درست"
+      "adjective": ["دقیق", "صحیح", "درست"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "accurately",
     "pronunciation": "'akyuritili",
     "translates": {
-      "adverb": "با دقت ، به درستی ، به طور دقیق"
+      "adverb": ["با دقت", "به درستی", "به طور دقیق"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "accuse",
     "pronunciation": "a'kyooz",
     "translates": {
-      "transitive-verb": "متهم کردن ، مقصر دانستن ، سرزنش کردن"
+      "transitive-verb": ["متهم کردن", "مقصر دانستن", "سرزنش کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "accustomed",
     "pronunciation": "a'ka^stemd",
     "translates": {
-      "adjective": "خو گرفته ، عادی ، معمولی ، همیشگی"
+      "adjective": ["خو گرفته", "عادی", "معمولی", "همیشگی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ace",
     "pronunciation": "eys",
     "translates": {
-      "noun": "[بازی ورق] تکخال ، تک ، آس ،[نرد] یک"
+      "noun": ["[بازی ورق] تکخال", "تک", "آس", "[نرد] یک"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ache",
     "pronunciation": "eyk",
     "translates": {
-      "noun": "درد ، تیر ، اشتیاق",
-      "intransitive-verb": "درد کردن ، بی تاب بودن ، تیر کشیدن"
+      "noun": ["درد", "تیر", "اشتیاق"],
+      "intransitive-verb": ["درد کردن", "بی تاب بودن", "تیر کشیدن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "achieve",
     "pronunciation": "a'chiive",
     "translates": {
-      "intransitive-verb": "رسیدن ، دست یافتن ، به نتیجه رسیدن",
-      "transitive-verb": "انجام دادن ، به اتمام رساندن"
+      "intransitive-verb": ["رسیدن", "دست یافتن", "به نتیجه رسیدن"],
+      "transitive-verb": ["انجام دادن", "به اتمام رساندن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "achievement",
     "pronunciation": "a'chiivment",
     "translates": {
-      "noun": "موفقیت ، دستاورد ، پیروزی ، تحقق"
+      "noun": ["موفقیت", "دستاورد", "پیروزی", "تحقق"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "acid",
     "pronunciation": "asid",
     "translates": {
-      "adjective": "ترش ، تند ، گزنده",
-      "noun": "اسید ، جوهر ، ال.اس.دی. "
+      "adjective": ["ترش", "تند", "گزنده"],
+      "noun": ["اسید", "جوهر", "ال.اس.دی."]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "acknowledge",
     "pronunciation": "ak'na^lij",
     "translates": {
-      "transitive-verb": "اذعان کردن ، اقرار کردن ، قبول داشتن ، قدردانی کردن"
+      "transitive-verb": [
+        "اذعان کردن",
+        "اقرار کردن",
+        "قبول داشتن",
+        "قدردانی کردن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "acknowledgement",
     "pronunciation": "ak'na^lijment",
     "translates": {
-      "noun": "اذعان ، تصدیق ، قدردانی ، تشکر ، اقرار ، اعلام وصول ، رسید"
+      "noun": [
+        "اذعان",
+        "تصدیق",
+        "قدردانی",
+        "تشکر",
+        "اقرار",
+        "اعلام وصول",
+        "رسید"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "acorn",
     "pronunciation": "'eykorn",
     "translates": {
-      "noun": "(میوه یا دانه) بلوط"
+      "noun": ["(میوه یا دانه) بلوط"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "acquaintance",
     "pronunciation": "e'kweyntens",
     "translates": {
-      "noun": "آشنایی ، (شخص) آشنا"
+      "noun": ["آشنایی", "(شخص) آشنا"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "acquire",
     "pronunciation": "a'kwa^yr",
     "translates": {
-      "transitive-verb": "کسب کردن ، به دست آوردن ، فراگرفتن ، آموختن ، صاحب شدن"
+      "transitive-verb": [
+        "کسب کردن",
+        "به دست آوردن",
+        "فراگرفتن",
+        "آموختن",
+        "صاحب شدن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "acre",
     "pronunciation": "'eyker",
     "translates": {
-      "noun": "هکتار ، آکر (واحد اندازه گیری زمین برابر با 4047 متر مربع)"
+      "noun": ["هکتار", "آکر (واحد اندازه گیری زمین برابر با 4047 متر مربع)"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "acrobat",
     "pronunciation": "'akrobat",
     "translates": {
-      "noun": "بند باز ، آکروبات باز"
+      "noun": ["بند باز", "آکروبات باز"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "acrobatic",
     "pronunciation": "akro'batik",
     "translates": {
-      "adjective": "آکروباتی ، چالاک ، چابک ، فرز"
+      "adjective": ["آکروباتی", "چالاک", "چابک", "فرز"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "across",
     "pronunciation": "e'kra^s",
     "translates": {
-      "adverb": "از این طرف به آن طرف ، به طرف دیگر ، آن طرف ، به آن طرف ، از عرض",
-      "preposition": "در میان ، رویِ ، از رویِ ، در عرض"
+      "adverb": [
+        "از این طرف به آن طرف",
+        "به طرف دیگر",
+        "آن طرف",
+        "به آن طرف",
+        "از عرض"
+      ],
+      "preposition": ["در میان", "رویِ", "از رویِ", "در عرض"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "act",
     "pronunciation": "akt",
     "translates": {
-      "noun": "عمل ، کار ، کنش ، فعل ، قانون ، [نمایش] پرده ، بازی ، ادا ، ژست",
-      "intransitive-verb": "عمل کردن ، اقدام کردن ، رفتار کردن ، بازی کردن ، تظاهر کردن"
+      "noun": [
+        "عمل",
+        "کار",
+        "کنش",
+        "فعل",
+        "قانون",
+        "[نمایش] پرده",
+        "بازی",
+        "ادا",
+        "ژست"
+      ],
+      "intransitive-verb": [
+        "عمل کردن",
+        "اقدام کردن",
+        "رفتار کردن",
+        "بازی کردن",
+        "تظاهر کردن"
+      ]
     },
-    "subWords": [
-      {
-        "in the act of": "در حین انجام"
-      }
-    ]
+    "subWords": {
+      "in the act of": ["در حین انجام"]
+    }
   },
   {
     "word": "acting",
     "pronunciation": "'akting",
     "translates": {
-      "adjective": "موقت ، جانشین ، عامل ، قائم مقام ، سرپرست ",
-      "noun": "بازیگری ، بازی ، اجرای نقش ، هنر پیشگی ، کفیل"
+      "adjective": ["موقت", "جانشین", "عامل", "قائم مقام", "سرپرست"],
+      "noun": ["بازیگری", "بازی", "اجرای نقش", "هنر پیشگی", "کفیل"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "action",
     "pronunciation": "'akshen",
     "translates": {
-      "noun": "عمل ، کار ، کنش ، اقدام ، حرکت ، فعالیت ، بازی"
+      "noun": ["عمل", "کار", "کنش", "اقدام", "حرکت", "فعالیت", "بازی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "active",
     "pronunciation": "'aktiv",
     "translates": {
-      "adjective": "فعال ، کاری ، جدی"
+      "adjective": ["فعال", "کاری", "جدی"]
     },
-    "subWords": [
-      {
-        "active verb": "فعل معلوم"
-      }
-    ]
+    "subWords": {
+      "active verb": ["فعل معلوم"]
+    }
   },
   {
     "word": "activity",
     "pronunciation": "ak'tiviti",
     "translates": {
-      "noun": "فعالیت ، کار ، عمل ، سرگرمی ، تفریح"
+      "noun": ["فعالیت", "کار", "عمل", "سرگرمی", "تفریح"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "actor",
     "pronunciation": "'akter",
     "translates": {
-      "noun": "بازیگر ، هنر پیشه"
+      "noun": ["بازیگر", "هنر پیشه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "actress",
     "pronunciation": "'aktris",
     "translates": {
-      "noun": "بازیگر (زن) ، هنر پیشه (زن)"
+      "noun": ["بازیگر (زن)", "هنر پیشه (زن)"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "actual",
     "pronunciation": "'akchuwa^l",
     "translates": {
-      "adjective": "واقعی ، حقیقی ، فعلی ، کنونی ، اصلی ، عمده"
+      "adjective": ["واقعی", "حقیقی", "فعلی", "کنونی", "اصلی", "عمده"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "actually",
     "pronunciation": "'akchuwa^li",
     "translates": {
-      "adverb": "واقعاً ، عملاً ، در حقیقت ، در واقع"
+      "adverb": ["واقعاً", "عملاً", "در حقیقت", "در واقع"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "acute",
     "pronunciation": "a'kyoot",
     "translates": {
-      "adjective": "حاد ، تند ، [حواس] تیز ، قوی ، شدید ، عمیق ، موشکاف ، تیز بین ، [صدا] زیر"
+      "adjective": [
+        "حاد",
+        "تند",
+        "[حواس] تیز",
+        "قوی",
+        "شدید",
+        "عمیق",
+        "موشکاف",
+        "تیز بین",
+        "[صدا] زیر"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "acutely",
     "pronunciation": "a'kyootli",
     "translates": {
-      "adverb": "به شدت ، عمیقاً ، سخت ، بسیار ، با دقت"
+      "adverb": ["به شدت", "عمیقاً", "سخت", "بسیار", "با دقت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ad",
     "pronunciation": "ad",
     "translates": {
-      "noun": "آگهی"
+      "noun": ["آگهی"]
     },
-    "subWords": [
-      {
-        "AD (ey'dii)": "بعد از میلاد ، میلادی"
-      }
-    ]
+    "subWords": {
+      "AD (ey'dii)": ["بعد از میلاد", "میلادی"]
+    }
   },
   {
     "word": "adapt",
     "pronunciation": "a'dapt",
     "translates": {
-      "transitive-verb": "سازگار کردن ، وفق دادن ، عادت دادن ، تنظیم کردن"
+      "transitive-verb": ["سازگار کردن", "وفق دادن", "عادت دادن", "تنظیم کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "adaptor",
     "pronunciation": "a'dapter",
     "translates": {
-      "noun": "مبدل ، آداپتور ، وفق دهنده ، رابط"
+      "noun": ["مبدل", "آداپتور", "وفق دهنده", "رابط"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "add",
     "pronunciation": "ad",
     "translates": {
-      "intransitive-verb": "جمع کردن ، جمع زدن ، اضافه کردن",
-      "transitive-verb": "افزودن ، اضافه شدن ، زیاد کردن"
+      "intransitive-verb": ["جمع کردن", "جمع زدن", "اضافه کردن"],
+      "transitive-verb": ["افزودن", "اضافه شدن", "زیاد کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "adder",
     "pronunciation": "'ader",
     "translates": {
-      "noun": "افزایش گر ، مار جعفری ، افعی"
+      "noun": ["افزایش گر", "مار جعفری", "افعی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "addict",
     "pronunciation": "a'dikt",
     "translates": {
-      "noun": "(شخص) معتاد ",
-      "transitive-verb": "معتاد کردن"
+      "noun": ["(شخص) معتاد"],
+      "transitive-verb": ["معتاد کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "addicted",
     "pronunciation": "a'diktid",
     "translates": {
-      "adjective": "معتاد ، شیفته"
+      "adjective": ["معتاد", "شیفته"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "addiction",
     "pronunciation": "a'dikshen",
     "translates": {
-      "noun": "اعتیاد"
+      "noun": ["اعتیاد"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "addition",
     "pronunciation": "a'dishen",
     "translates": {
-      "noun": "جمع ، اضافه ، افزوده ، ضمیمه"
+      "noun": ["جمع", "اضافه", "افزوده", "ضمیمه"]
     },
-    "subWords": [
-      {
-        "in addition": "علاوه بر این"
-      },
-      {
-        "in addition to": "علاوه بر"
-      }
-    ]
+    "subWords": {
+      "in addition": ["علاوه بر این"],
+      "in addition to": ["علاوه بر"]
+    }
   },
   {
     "word": "address",
     "pronunciation": "a'dres",
     "translates": {
-      "noun": "نشانی ، آدرس ، خطاب",
-      "transitive-verb": "نشانی دادن ، آدرس نوشتن ، خطاب کردن ، مخاطب قرار دادن"
+      "noun": ["نشانی", "آدرس", "خطاب"],
+      "transitive-verb": [
+        "نشانی دادن",
+        "آدرس نوشتن",
+        "خطاب کردن",
+        "مخاطب قرار دادن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "adequate",
     "pronunciation": "'adikwit",
     "translates": {
-      "adjective": "کافی ، بسنده ، متناسب ، مناسب ، به اندازه کافی"
+      "adjective": ["کافی", "بسنده", "متناسب", "مناسب", "به اندازه کافی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "adequately",
     "pronunciation": "'adikwitli",
     "translates": {
-      "adverb": "به نحو شایسته ای ، به اندازه کافی"
+      "adverb": ["به نحو شایسته ای", "به اندازه کافی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "adhesive",
     "pronunciation": "ad'hiisiv",
     "translates": {
-      "adjective": "چسبنده ، چسبیده ، چسب دار",
-      "noun": "چسب"
+      "adjective": ["چسبنده", "چسبیده", "چسب دار"],
+      "noun": ["چسب"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "adjective",
     "pronunciation": "'ajiktiv",
     "translates": {
-      "noun": "[دستور زبان] صفت"
+      "noun": ["[دستور زبان] صفت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "adjust",
     "pronunciation": "a'ja^st",
     "translates": {
-      "intransitive-verb": "وفق دادن ، سازگار کردن ،تطبیق دادن",
-      "transitive-verb": "عادت دادن ، تنظیم کردن ، میزان کردن"
+      "intransitive-verb": ["وفق دادن", "سازگار کردن", "تطبیق دادن"],
+      "transitive-verb": ["عادت دادن", "تنظیم کردن", "میزان کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "administration",
     "pronunciation": "admini'streyshen",
     "translates": {
-      "noun": "اداره ، اجرا ، اعمال ، مسئولان ، سرپرستی ، اداری"
+      "noun": ["اداره", "اجرا", "اعمال", "مسئولان", "سرپرستی", "اداری"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "admiral",
     "pronunciation": "'admiral",
     "translates": {
-      "noun": "دریا سالار ، دریا دار"
+      "noun": ["دریا سالار", "دریا دار"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "admiration",
     "pronunciation": "admi'reyshen",
     "translates": {
-      "noun": "تحسین ، تمجید ، مایۀ تحسین ، شگفت"
+      "noun": ["تحسین", "تمجید", "مایۀ تحسین", "شگفت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "admire",
     "pronunciation": "ad'ma^yr",
     "translates": {
-      "transitive-verb": "تحسین کردن ، تعریف کردن از ، حظ کردن از ، لذت بردن از"
+      "transitive-verb": [
+        "تحسین کردن",
+        "تعریف کردن از",
+        "حظ کردن از",
+        "لذت بردن از"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "admission",
     "pronunciation": "ad'mishen",
     "translates": {
-      "noun": "ورود ، پذیرش ، ورودی ، ورودیه ، اعتراف ، قبول"
+      "noun": ["ورود", "پذیرش", "ورودی", "ورودیه", "اعتراف", "قبول"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "admit",
     "pronunciation": "ad'mit",
     "translates": {
-      "intransitive-verb": "راه دادن ، اجازه ورود دادن ، پذیرفتن",
-      "transitive-verb": "جا داشتن ، اقرار کردن ، اعتراف کردن"
+      "intransitive-verb": ["راه دادن", "اجازه ورود دادن", "پذیرفتن"],
+      "transitive-verb": ["جا داشتن", "اقرار کردن", "اعتراف کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "adolescent",
     "pronunciation": "ada^'lesent",
     "translates": {
-      "adjective": "جوان ، بالغ",
-      "noun": "نوجوان ، نپخته ، خام ، بچگانه"
+      "adjective": ["جوان", "بالغ"],
+      "noun": ["نوجوان", "نپخته", "خام", "بچگانه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "adopt",
     "pronunciation": "e'da^pt",
     "translates": {
-      "transitive-verb": "اتخاذ کردن ، اختیار کردن ،‌ گرفتن ، انتخاب کردن ، به فرزندی گرفتن"
+      "transitive-verb": [
+        "اتخاذ کردن",
+        "اختیار کردن",
+        "‌ گرفتن",
+        "انتخاب کردن",
+        "به فرزندی گرفتن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "adorable",
     "pronunciation": "a'dorebel",
     "translates": {
-      "adjective": "زیبا ، قشنگ ، ملوس ، دلربا ، شایان ستایش ، قابل پرستش "
+      "adjective": [
+        "زیبا",
+        "قشنگ",
+        "ملوس",
+        "دلربا",
+        "شایان ستایش",
+        "قابل پرستش"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "adore",
     "pronunciation": "a'dor",
     "translates": {
-      "transitive-verb": "پرستیدن ، عشق ورزیدن ، دوست داشتن , عاشق بودن"
+      "transitive-verb": ["پرستیدن", "عشق ورزیدن", "دوست داشتن , عاشق بودن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "adorn",
     "pronunciation": "e'dorn",
     "translates": {
-      "transitive-verb": "تزیین کردن ، زینت دادن ، آراستن ، زیبا کردن ، مزین کردن"
+      "transitive-verb": [
+        "تزیین کردن",
+        "زینت دادن",
+        "آراستن",
+        "زیبا کردن",
+        "مزین کردن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "adult",
     "pronunciation": "'ada^lt",
     "translates": {
-      "adjective": "بالغ",
-      "noun": "بزرگسال"
+      "adjective": ["بالغ"],
+      "noun": ["بزرگسال"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "advance",
     "pronunciation": "ad'va^ns",
     "translates": {
-      "noun": "پیشرفت ، ترقی ، پیشروی ، پیش پرداخت ،‌ مساعده",
-      "intransitive-verb": "پیش رفتن ، پیش بردن ، پیشرفت کردن ، افزایش دادن ، افزایش یافتن"
+      "noun": ["پیشرفت", "ترقی", "پیشروی", "پیش پرداخت", "‌ مساعده"],
+      "intransitive-verb": [
+        "پیش رفتن",
+        "پیش بردن",
+        "پیشرفت کردن",
+        "افزایش دادن",
+        "افزایش یافتن"
+      ]
     },
-    "subWords": [
-      {
-        "in advance": "پیشاپیش"
-      }
-    ]
+    "subWords": {
+      "in advance": ["پیشاپیش"]
+    }
   },
   {
     "word": "advanced",
     "pronunciation": "ad'va^nst",
     "translates": {
-      "adjective": "پیشرفته ، مترقی ، نو ، جلو ، پیش ، [سن] بالا ، زیاد"
+      "adjective": ["پیشرفته", "مترقی", "نو", "جلو", "پیش", "[سن] بالا", "زیاد"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "advantage",
     "pronunciation": "ad'va^ntij",
     "translates": {
-      "noun": "مزیت ، امتیاز ، سود ، فایده ، نفع ، صرفه"
+      "noun": ["مزیت", "امتیاز", "سود", "فایده", "نفع", "صرفه"]
     },
-    "subWords": [
-      {
-        "take advantage of": "سوءِ استفاده کردن از ، کمال استفاده را (از چیزی) کردن"
-      }
-    ]
+    "subWords": {
+      "take advantage of": [
+        "سوءِ استفاده کردن از",
+        "کمال استفاده را (از چیزی) کردن"
+      ]
+    }
   },
   {
     "word": "adventure",
     "pronunciation": "ad'vencher",
     "translates": {
-      "noun": "ماجرا ، حادثه ،خطر ، مخاطره ، ماجراجویی ، کار پر مخاطره"
+      "noun": ["ماجرا", "حادثه", "خطر", "مخاطره", "ماجراجویی", "کار پر مخاطره"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "adventurous",
     "pronunciation": "ad'vencheres",
     "translates": {
-      "adjective": "ماجراجو ، حادثه جو ،‌ پر ماجرا"
+      "adjective": ["ماجراجو", "حادثه جو", "‌ پر ماجرا"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "adverb",
     "pronunciation": "adverb",
     "translates": {
-      "noun": "[دستور زبان] قید ، عبارت قیدی"
+      "noun": ["[دستور زبان] قید", "عبارت قیدی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "adversary",
     "pronunciation": "'adverseri",
     "translates": {
-      "noun": "دشمن ، مخالف ، حریف ، رقیب"
+      "noun": ["دشمن", "مخالف", "حریف", "رقیب"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "adverse",
     "pronunciation": "'advers",
     "translates": {
-      "adjective": "نامطلوب ، نامساعد ، بد ، مخالف ، مضر"
+      "adjective": ["نامطلوب", "نامساعد", "بد", "مخالف", "مضر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "advertise",
     "pronunciation": "'adverta^yz",
     "translates": {
-      "intransitive-verb": "آگهی کردن ، تبلیغ کردن ، آگهی داده",
-      "transitive-verb": "اعلان کردن ، اعلان زدن"
+      "intransitive-verb": ["آگهی کردن", "تبلیغ کردن", "آگهی داده"],
+      "transitive-verb": ["اعلان کردن", "اعلان زدن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "advertisement",
     "pronunciation": "ad'vertizment",
     "translates": {
-      "noun": "تبلیغ ، آگهی ، اعلان"
+      "noun": ["تبلیغ", "آگهی", "اعلان"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "advertiser",
     "pronunciation": "'advertayzer",
     "translates": {
-      "noun": "آگهی دهنده ، تبلیغ کننده"
+      "noun": ["آگهی دهنده", "تبلیغ کننده"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "advice",
     "pronunciation": "ad'a^ys",
     "translates": {
-      "noun": "نصیحت ، مشاوره ، پند ، توصیه ، اندرز ، خبر"
+      "noun": ["نصیحت", "مشاوره", "پند", "توصیه", "اندرز", "خبر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "advisable",
     "pronunciation": "ad'va^yzebel",
     "translates": {
-      "adjective": "معقول ،‌ عاقلانه ، قابل توصیه ، درست ،‌صلاح"
+      "adjective": ["معقول", "‌ عاقلانه", "قابل توصیه", "درست", "‌صلاح"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "advise",
     "pronunciation": "ad'va^yz",
     "translates": {
-      "transitive-verb": "توصیه کردن ، مشورت دادن ، سفارش کردن ،‌نصیحت کردن ، پند دادن ، خبر دادن ، اطلاع دادن"
+      "transitive-verb": [
+        "توصیه کردن",
+        "مشورت دادن",
+        "سفارش کردن",
+        "‌نصیحت کردن",
+        "پند دادن",
+        "خبر دادن",
+        "اطلاع دادن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aerial",
     "pronunciation": "'eriya^l",
     "translates": {
-      "adjective": "هوایی",
-      "noun": "آنتن"
+      "adjective": ["هوایی"],
+      "noun": ["آنتن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aerobatics",
     "pronunciation": "ero'batiks",
     "translates": {
-      "noun": "عملیات آکروباتی (هواپیمایی)"
+      "noun": ["عملیات آکروباتی (هواپیمایی)"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aerodrome",
     "pronunciation": "'erodrom",
     "translates": {
-      "noun": "فرودگاه (کوچک)"
+      "noun": ["فرودگاه (کوچک)"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aeroplane",
     "pronunciation": "'eropleyn",
     "translates": {
-      "noun": "هواپیما"
+      "noun": ["هواپیما"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aerosol",
     "pronunciation": "'erosa^l",
     "translates": {
-      "noun": "افشانه ، اسپرِی"
+      "noun": ["افشانه", "اسپرِی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "afar",
     "pronunciation": "e'fa^r",
     "translates": {
-      "adverb": "دور ، از دور"
+      "adverb": ["دور", "از دور"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "affair",
     "pronunciation": "e'fer",
     "translates": {
-      "noun": "کار ، امر ، مسئله ، واقعه , پیشامد ، [به صورت جمع] امور ،‌ عشق بازی ، رابطه جنسی"
+      "noun": [
+        "کار",
+        "امر",
+        "مسئله",
+        "واقعه , پیشامد",
+        "[به صورت جمع] امور",
+        "‌ عشق بازی",
+        "رابطه جنسی"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "affect",
     "pronunciation": "a'fekt",
     "translates": {
-      "noun": "اثر",
-      "transitive-verb": "تاثیر گذاشتن ،‌ اثر گذاشتن ، متاثر کردن ، تحت تاثیر قرار دادن ، مبتلا کردن ، تظاهر کردن"
+      "noun": ["اثر"],
+      "transitive-verb": [
+        "تاثیر گذاشتن",
+        "‌ اثر گذاشتن",
+        "متاثر کردن",
+        "تحت تاثیر قرار دادن",
+        "مبتلا کردن",
+        "تظاهر کردن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "affection",
     "pronunciation": "a'fekshen",
     "translates": {
-      "noun": "مهر ، محبت ، علاقه ، عاطفه ، مهربانی ، تاثیر ، دلبستگی ، ابتلاء"
+      "noun": [
+        "مهر",
+        "محبت",
+        "علاقه",
+        "عاطفه",
+        "مهربانی",
+        "تاثیر",
+        "دلبستگی",
+        "ابتلاء"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "affectionate",
     "pronunciation": "a'fekshenit",
     "translates": {
-      "adjective": "مهربان ، با محبت ، با عاطفه ، دلسوز"
+      "adjective": ["مهربان", "با محبت", "با عاطفه", "دلسوز"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "affectionately",
     "pronunciation": "a'fekshenitli",
     "translates": {
-      "adverb": "از روی محبت ، با دلسوزی ، [در پایانِ نامه] قربانت"
+      "adverb": ["از روی محبت", "با دلسوزی", "[در پایانِ نامه] قربانت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "affirmative",
     "pronunciation": "a'fermetiv",
     "translates": {
-      "adjective": "مثبت",
-      "noun": "جواب مثبت"
+      "adjective": ["مثبت"],
+      "noun": ["جواب مثبت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "affluence",
     "pronunciation": "'afluwens",
     "translates": {
-      "noun": "ثروت ، رفاه ، فراوانی ،‌ وفور"
+      "noun": ["ثروت", "رفاه", "فراوانی", "‌ وفور"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "affluent",
     "pronunciation": "'afluwent",
     "translates": {
-      "adjective": "ثروتمند ،‌ مرفه ،‌ دولتمند"
+      "adjective": ["ثروتمند", "‌ مرفه", "‌ دولتمند"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "afford",
     "pronunciation": "e'ford",
     "translates": {
-      "transitive-verb": "استطاعت داشتن ، پول (چیزی را) داشتن ،‌ توانستن ، فراهم کردن "
+      "transitive-verb": [
+        "استطاعت داشتن",
+        "پول (چیزی را) داشتن",
+        "‌ توانستن",
+        "فراهم کردن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "afloat",
     "pronunciation": "e'flot",
     "translates": {
-      "adjective": "شناور ، معلق"
+      "adjective": ["شناور", "معلق"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "afraid",
     "pronunciation": "e'freyd",
     "translates": {
-      "adjective": "ترسیده ، هراسان ، ترسان"
+      "adjective": ["ترسیده", "هراسان", "ترسان"]
     },
-    "subWords": [
-      {
-        "be afraid": "ترسیدن ، نگران بودن ،ناراحت بودن ، دو دل بودن"
-      },
-      {
-        "I am afraid": "متاسفانه"
-      }
-    ]
+    "subWords": {
+      "be afraid": ["ترسیدن", "نگران بودن", "ناراحت بودن", "دو دل بودن"],
+      "I am afraid": ["متاسفانه"]
+    }
   },
   {
     "word": "Africa",
     "pronunciation": "'afrika^",
     "translates": {
-      "noun": "آفریقا"
+      "noun": ["آفریقا"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "African",
     "pronunciation": "'afriken",
     "translates": {
-      "adjective": "آفریقایی ، [مربوط به] آفریقا ، اهل آفریقا"
+      "adjective": ["آفریقایی", "[مربوط به] آفریقا", "اهل آفریقا"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "after",
     "pronunciation": "a^fter",
     "translates": {
-      "adverb": "بعد از ، پس از ،‌ پس از اینکه ، به سبکِ ، به شیوه",
-      "preposition": "پشت سر ، به دنبالِ‌ ، در تعقیب ، مطابقِ"
+      "adverb": ["بعد از", "پس از", "‌ پس از اینکه", "به سبکِ", "به شیوه"],
+      "preposition": ["پشت سر", "به دنبالِ‌", "در تعقیب", "مطابقِ"]
     },
-    "subWords": [
-      {
-        "after all": "روی هم رفته ، با این همه ،‌ با این وجود"
-      }
-    ]
+    "subWords": {
+      "after all": ["روی هم رفته", "با این همه", "‌ با این وجود"]
+    }
   },
   {
     "word": "afternoon",
     "pronunciation": "a^fter'noon",
     "translates": {
-      "noun": "بعد از ظهر ،‌ عصر ، اواخر"
+      "noun": ["بعد از ظهر", "‌ عصر", "اواخر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "afterwards",
     "pronunciation": "a^fterwordz",
     "translates": {
-      "adverb": "بعداً ، بعد ، سپس ، پس از آن"
+      "adverb": ["بعداً", "بعد", "سپس", "پس از آن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "again",
     "pronunciation": "e'gen",
     "translates": {
-      "adverb": "دوباره ، باز از نو ، مجدداً ، باز هم ، باز ، دیگر ، از این گذشته ، علاوه بر این"
+      "adverb": [
+        "دوباره",
+        "باز از نو",
+        "مجدداً",
+        "باز هم",
+        "باز",
+        "دیگر",
+        "از این گذشته",
+        "علاوه بر این"
+      ]
     },
-    "subWords": [
-      {
-        "again and again": "بارها ، به کرات"
-      }
-    ]
+    "subWords": {
+      "again and again": ["بارها", "به کرات"]
+    }
   },
   {
     "word": "against",
     "pronunciation": "e'genst",
     "translates": {
-      "preposition": "(بر) علیه ، ضدِ ، خلافِ ، در برابرِ ، در مقابلِ ، برایِ ، برای جلوگیری از ، روبرویِ ، به ، بر"
+      "preposition": [
+        "(بر) علیه",
+        "ضدِ",
+        "خلافِ",
+        "در برابرِ",
+        "در مقابلِ",
+        "برایِ",
+        "برای جلوگیری از",
+        "روبرویِ",
+        "به",
+        "بر"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "age",
     "pronunciation": "eyj",
     "translates": {
-      "noun": "سن ، سال ،‌عمر ،‌ قدمت ، عصر ، دوران ، عهدِ ، زمان ، گذشت زمان ، مدت ها"
+      "noun": [
+        "سن",
+        "سال",
+        "‌عمر",
+        "‌ قدمت",
+        "عصر",
+        "دوران",
+        "عهدِ",
+        "زمان",
+        "گذشت زمان",
+        "مدت ها"
+      ]
     },
-    "subWords": [
-      {
-        "ages": "سالیان سال ،‌مدت های مدید"
-      },
-      {
-        "com of age": "بالغ شدن"
-      },
-      {
-        "of age": "بالغ"
-      },
-      {
-        "under age": "خرد سال ، نابالغ ، صغیر"
-      }
-    ]
+    "subWords": {
+      "ages": ["سالیان سال", "‌مدت های مدید"],
+      "com of age": ["بالغ شدن"],
+      "of age": ["بالغ"],
+      "under age": ["خرد سال", "نابالغ", "صغیر"]
+    }
   },
   {
     "word": "agency",
     "pronunciation": "'eyjensi",
     "translates": {
-      "noun": "آژانس ، موسسه ، اداره ، شعبه ، نمایندگی ، وساطت"
+      "noun": ["آژانس", "موسسه", "اداره", "شعبه", "نمایندگی", "وساطت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "agent",
     "pronunciation": "'eyjent",
     "translates": {
-      "noun": "نماینده ، عامل ، نمایندگی ، آژانس ، مأمور ، کارگزار ، دلال"
+      "noun": [
+        "نماینده",
+        "عامل",
+        "نمایندگی",
+        "آژانس",
+        "مأمور",
+        "کارگزار",
+        "دلال"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aggravating",
     "pronunciation": "'agreveyting",
     "translates": {
-      "adjective": "ناراحت کننده ، آزار دهنده ، تشدید کننده"
+      "adjective": ["ناراحت کننده", "آزار دهنده", "تشدید کننده"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aggregate",
     "pronunciation": "agre'geyt",
     "translates": {
-      "noun": "جمع ، مجموع ، تجمیع ، تراکم ، توده",
-      "adjective": "متراکم ، انبوه ، به هم پیوسته ، جمع شده",
-      "transitive-verb": "جمع کردن ، توده کردن ، متراکم ساختن",
-      "intransitive-verb": "جمع شدن"
+      "noun": ["جمع", "مجموع", "تجمیع", "تراکم", "توده"],
+      "adjective": ["متراکم", "انبوه", "به هم پیوسته", "جمع شده"],
+      "transitive-verb": ["جمع کردن", "توده کردن", "متراکم ساختن"],
+      "intransitive-verb": ["جمع شدن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aggregation",
     "pronunciation": "agre'geyshen",
     "translates": {
-      "noun": "تجمع ، تراکم ، توده ، اجتماع"
+      "noun": ["تجمع", "تراکم", "توده", "اجتماع"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aggression",
     "pronunciation": "a'greshen",
     "translates": {
-      "noun": "تجاوز ، تعرض ، پرخاشگری"
+      "noun": ["تجاوز", "تعرض", "پرخاشگری"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aggressive",
     "pronunciation": "a'gresiv",
     "translates": {
-      "adjective": "ستیزه جو ، جسور ، تهاجمی ، پرخاشگر ، مهاجم ، متجاوز"
+      "adjective": ["ستیزه جو", "جسور", "تهاجمی", "پرخاشگر", "مهاجم", "متجاوز"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aggressively",
     "pronunciation": "a'gresivli",
     "translates": {
-      "adverb": "با پرخاشجویی ، با حالتِ ستیزه جویانه ، پرخاشگرانه"
+      "adverb": ["با پرخاشجویی", "با حالتِ ستیزه جویانه", "پرخاشگرانه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aghast",
     "pronunciation": "e'ga^st",
     "translates": {
-      "adjective": "بهت زده ، مات و مبهوت ، وحشت زده"
+      "adjective": ["بهت زده", "مات و مبهوت", "وحشت زده"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "agile",
     "pronunciation": "'aja^yl",
     "translates": {
-      "adjective": "چابک ، چالاک ،‌ فرز ، سریع ، پر جنب و جوش ، پر تحرک"
+      "adjective": ["چابک", "چالاک", "‌ فرز", "سریع", "پر جنب و جوش", "پر تحرک"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "agility",
     "pronunciation": "e'jiliti",
     "translates": {
-      "noun": "چابکی ، چالاکی ، فرزی"
+      "noun": ["چابکی", "چالاکی", "فرزی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "agitation",
     "pronunciation": "aji'teyshen",
     "translates": {
-      "noun": "نگرانی ، اضطراب ، آشوب ، بلوا ، تحریک ، تلاطم"
+      "noun": ["نگرانی", "اضطراب", "آشوب", "بلوا", "تحریک", "تلاطم"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ago",
     "pronunciation": "e'go",
     "translates": {
-      "adverb": "پیش ، قبل ، گذشته"
+      "adverb": ["پیش", "قبل", "گذشته"]
     },
-    "subWords": [
-      {
-        "long ago": "خیلی وقت پیش , در گذشته های دور"
-      }
-    ]
+    "subWords": {
+      "long ago": ["خیلی وقت پیش , در گذشته های دور"]
+    }
   },
   {
     "word": "agonizing",
     "pronunciation": "'aga^na^yzing",
     "translates": {
-      "adjective": "دردناک ،‌ عذاب آور ، درد آور ، مشقت بار"
+      "adjective": ["دردناک", "‌ عذاب آور", "درد آور", "مشقت بار"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "agony",
     "pronunciation": "'agoni",
     "translates": {
-      "noun": "درد ، رنج ، زجر ، عذاب"
+      "noun": ["درد", "رنج", "زجر", "عذاب"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "agree",
     "pronunciation": "e'grii",
     "translates": {
-      "transitive-verb": "موافقت کردن ،‌ توافق کردن ، رضایت دادن ، موافق بودن ، (با هم) توافق داشتن"
+      "transitive-verb": [
+        "موافقت کردن",
+        "‌ توافق کردن",
+        "رضایت دادن",
+        "موافق بودن",
+        "(با هم) توافق داشتن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "agreeable",
     "pronunciation": "e'griyebel",
     "translates": {
-      "adjective": "خوشایند ، مطبوع ،‌ دلپذیر ، مطلوب ، خوب , موافق "
+      "adjective": ["خوشایند", "مطبوع", "‌ دلپذیر", "مطلوب", "خوب , موافق"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "agreement",
     "pronunciation": "e'griiment",
     "translates": {
-      "noun": "توافق ، موافقت ، قرارداد ، پیمان"
+      "noun": ["توافق", "موافقت", "قرارداد", "پیمان"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "agricultural",
     "pronunciation": "agri'ka^lcera^l",
     "translates": {
-      "adjective": "کشاورزی ، زراعتی"
+      "adjective": ["کشاورزی", "زراعتی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "agriculture",
     "pronunciation": "agri'ka^lcher",
     "translates": {
-      "noun": "کشاورزی ، زراعت"
+      "noun": ["کشاورزی", "زراعت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aground",
     "pronunciation": "e'graond",
     "translates": {
-      "adjective": "بر زمین ، [کشتی] به گل نشسته",
-      "adverb": "در زمین"
+      "adjective": ["بر زمین", "[کشتی] به گل نشسته"],
+      "adverb": ["در زمین"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ahead",
     "pronunciation": "e'hed",
     "translates": {
-      "adverb": "پیش ، جلو ، پیش تر ، جلو تر ، پیشاپیش ، از پیش ، از قبل ‌، در پیش ، روبرو"
+      "adverb": [
+        "پیش",
+        "جلو",
+        "پیش تر",
+        "جلو تر",
+        "پیشاپیش",
+        "از پیش",
+        "از قبل ‌",
+        "در پیش",
+        "روبرو"
+      ]
     },
-    "subWords": [
-      {
-        "ahead of": "پیش از ، جلوتر از"
-      },
-      {
-        "look ahead": "در فکر آینده بودن"
-      },
-      {
-        "straight ahead": "مستقیم"
-      }
-    ]
+    "subWords": {
+      "ahead of": ["پیش از", "جلوتر از"],
+      "look ahead": ["در فکر آینده بودن"],
+      "straight ahead": ["مستقیم"]
+    }
   },
   {
     "word": "aid",
     "pronunciation": "eyd",
     "translates": {
-      "noun": "کمک ، یاری ، مساعدت ، حمایت",
-      "transitive-verb": "کمک کردن ، یاری کردن ، مساعدت کردن"
+      "noun": ["کمک", "یاری", "مساعدت", "حمایت"],
+      "transitive-verb": ["کمک کردن", "یاری کردن", "مساعدت کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ailing",
     "pronunciation": "'eyling",
     "translates": {
-      "adjective": "بیمار ، مریض"
+      "adjective": ["بیمار", "مریض"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aim",
     "pronunciation": "eym",
     "translates": {
-      "noun": "هدف ، قصد ، خواست ، منظور",
-      "transitive-verb": "هدف گرفتن ، نشانه گرفتن ، هدف قرار دادن ، زدن ، قصد داشتن ، در نظر داشتن"
+      "noun": ["هدف", "قصد", "خواست", "منظور"],
+      "transitive-verb": [
+        "هدف گرفتن",
+        "نشانه گرفتن",
+        "هدف قرار دادن",
+        "زدن",
+        "قصد داشتن",
+        "در نظر داشتن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aimlessly",
     "pronunciation": "'eymlisli",
     "translates": {
-      "adverb": "بی هدف ، سرگردان"
+      "adverb": ["بی هدف", "سرگردان"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "air",
     "pronunciation": "er",
     "translates": {
-      "noun": "هوا ، جریان هوا ، ظاهر ، قیافه ، سر و وضع ، حال و هوا ، آهنگ ، نغمه",
-      "transitive-verb": "هوا دادن ، باد دادن ، خشک کردن ، پهن کردن ، هوای (جایی را) عوض کردن یا تازه کردن ، بیان داشتن ابراز کردن"
+      "noun": [
+        "هوا",
+        "جریان هوا",
+        "ظاهر",
+        "قیافه",
+        "سر و وضع",
+        "حال و هوا",
+        "آهنگ",
+        "نغمه"
+      ],
+      "transitive-verb": [
+        "هوا دادن",
+        "باد دادن",
+        "خشک کردن",
+        "پهن کردن",
+        "هوای (جایی را) عوض کردن یا تازه کردن",
+        "بیان داشتن ابراز کردن"
+      ]
     },
-    "subWords": [
-      {
-        "be (or go) on the air": "[رایو و تلویزیون] پخش شدن ، برنامه داشتن ، روی آنتن رفتن"
-      },
-      {
-        "by air": "هوایی ، به وسیله هواپیما"
-      }
-    ]
+    "subWords": {
+      "be (or go) on the air": [
+        "[رایو و تلویزیون] پخش شدن",
+        "برنامه داشتن",
+        "روی آنتن رفتن"
+      ],
+      "by air": ["هوایی", "به وسیله هواپیما"]
+    }
   },
   {
     "word": "airborne",
     "pronunciation": "'erborn",
     "translates": {
-      "adjective": "هوابُرد"
+      "adjective": ["هوابُرد"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "air-conditioned",
     "pronunciation": "'er ka^ndishend",
     "translates": {
-      "adjective": "دارای تهویه مطبوع"
+      "adjective": ["دارای تهویه مطبوع"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aircraft",
     "pronunciation": "'erkra^ft",
     "translates": {
-      "noun": "هواپیما (ها)"
+      "noun": ["هواپیما (ها)"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aircraft carrier",
     "pronunciation": "'erkra^ft kariyer",
     "translates": {
-      "noun": "ناو هواپیما بر"
+      "noun": ["ناو هواپیما بر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "airfield",
     "pronunciation": "'erfiild",
     "translates": {
-      "noun": "فرودگاه کوچک"
+      "noun": ["فرودگاه کوچک"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "airforce",
     "pronunciation": "'erfors",
     "translates": {
-      "noun": "نیروی هوایی"
+      "noun": ["نیروی هوایی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "air hostess",
     "pronunciation": "'er hostis",
     "translates": {
-      "noun": "مهماندار هواپیما"
+      "noun": ["مهماندار هواپیما"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "airline",
     "pronunciation": "'erla^yn",
     "translates": {
-      "noun": "(شرکت) هواپیمایی"
+      "noun": ["(شرکت) هواپیمایی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "airmail",
     "pronunciation": "'ermeyl",
     "translates": {
-      "noun": "پست هوایی"
+      "noun": ["پست هوایی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "airplane",
     "pronunciation": "'erpleyn",
     "translates": {
-      "noun": "هواپیما"
+      "noun": ["هواپیما"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "airport",
     "pronunciation": "'erport",
     "translates": {
-      "noun": "فرودگاه"
+      "noun": ["فرودگاه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "airy",
     "pronunciation": "'ery",
     "translates": {
-      "adjective": "خوش هوا ، هوا گیر ، دلباز ، با روح ، تصنعی ، ساختگی"
+      "adjective": ["خوش هوا", "هوا گیر", "دلباز", "با روح", "تصنعی", "ساختگی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aisle",
     "pronunciation": "a^yle",
     "translates": {
-      "noun": "راهرو"
+      "noun": ["راهرو"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ajar",
     "pronunciation": "e'ja^r",
     "translates": {
-      "adverb": "نیمه باز ، پیش"
+      "adverb": ["نیمه باز", "پیش"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "akin",
     "pronunciation": "e'kin",
     "translates": {
-      "adjective": "خویشاوند ، وابسته"
+      "adjective": ["خویشاوند", "وابسته"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "algorithm",
     "pronunciation": "'algerithem",
     "translates": {
-      "noun": "الگوریتم ، محاسبه عددی"
+      "noun": ["الگوریتم", "محاسبه عددی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "alarm",
     "pronunciation": "e'la^rm",
     "translates": {
-      "noun": "آژیر ، زنگ خطر ، هشدار ، اخطار ، ساعت زنگ دار ، دلهره ، ترس ، هول",
-      "transitive-verb": "ترساندن ، متوحش ساختن ، مضطرب کردن ، از خطر (چیزی) آگاهانیدن"
+      "noun": [
+        "آژیر",
+        "زنگ خطر",
+        "هشدار",
+        "اخطار",
+        "ساعت زنگ دار",
+        "دلهره",
+        "ترس",
+        "هول"
+      ],
+      "transitive-verb": [
+        "ترساندن",
+        "متوحش ساختن",
+        "مضطرب کردن",
+        "از خطر (چیزی) آگاهانیدن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "alas",
     "pronunciation": "a'las",
     "translates": {
-      "interjection": "افسوس ، دریغ ، حیف ، آه ، اوخ"
+      "interjection": ["افسوس", "دریغ", "حیف", "آه", "اوخ"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "album",
     "pronunciation": "'albem",
     "translates": {
-      "noun": "آلبوم ، صفحه سی و سه دور ، جای عکس"
+      "noun": ["آلبوم", "صفحه سی و سه دور", "جای عکس"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "alcohol",
     "pronunciation": "alkoha^l",
     "translates": {
-      "noun": "الکل ، مشروب (الکلی)"
+      "noun": ["الکل", "مشروب (الکلی)"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ale",
     "pronunciation": "eyl",
     "translates": {
-      "noun": "آبجو ، اِیل (نوعی آبجوی قوی)"
+      "noun": ["آبجو", "اِیل (نوعی آبجوی قوی)"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "alert",
     "pronunciation": "e'lert",
     "translates": {
-      "noun": "آژیر ، اعلام خطر",
-      "adjective": "هوشیار ، گوش به زنگ ، آگاه ، باخبر ، آماده باش",
-      "transitive-verb": "هشدار دادن"
+      "noun": ["آژیر", "اعلام خطر"],
+      "adjective": ["هوشیار", "گوش به زنگ", "آگاه", "باخبر", "آماده باش"],
+      "transitive-verb": ["هشدار دادن"]
     },
-    "subWords": [
-      {
-        "on the alert": "مواظب ، گوش به زنگ"
-      }
-    ]
+    "subWords": {
+      "on the alert": ["مواظب", "گوش به زنگ"]
+    }
   },
   {
     "word": "alias",
     "pronunciation": "'eylies",
     "translates": {
-      "noun": "نام مستعار"
+      "noun": ["نام مستعار"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "alibi",
     "pronunciation": "'aliba^y",
     "translates": {
-      "noun": "(ارائه) ادله و شواهد ، عذر و بهانه"
+      "noun": ["(ارائه) ادله و شواهد", "عذر و بهانه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "alien",
     "pronunciation": "'eylien",
     "translates": {
-      "noun": "خارجی ، بیگانه ، غریبه",
-      "adjective": "متفاوت ، مخالف ، خارجی ، بیگانه"
+      "noun": ["خارجی", "بیگانه", "غریبه"],
+      "adjective": ["متفاوت", "مخالف", "خارجی", "بیگانه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "alight",
     "pronunciation": "e'la^yt",
     "translates": {
-      "adjective": "شعله ور ، مشتعل ، روشن ، درخشان ، براق",
-      "intransitive-verb": "[پرنده] نشستن ،فرود آمدن ، پیاده شدن ، پایین آمدن"
+      "adjective": ["شعله ور", "مشتعل", "روشن", "درخشان", "براق"],
+      "intransitive-verb": [
+        "[پرنده] نشستن",
+        "فرود آمدن",
+        "پیاده شدن",
+        "پایین آمدن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "align",
     "pronunciation": "'e'la^yen",
     "translates": {
-      "transitive-verb": "هم تراز کردن ، ردیف کردن ، تراز کردن"
+      "transitive-verb": ["هم تراز کردن", "ردیف کردن", "تراز کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "alignment",
     "pronunciation": "'e'la^ynment",
     "translates": {
-      "noun": "هم ترازی ، صف بندی ، تنظیم"
+      "noun": ["هم ترازی", "صف بندی", "تنظیم"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "alike",
     "pronunciation": "e'la^yk",
     "translates": {
-      "adjective": "شبیه ، مثل هم ، همانند ، یکسان ، مانند",
-      "adverb": "یک جور ، به تساوی"
+      "adjective": ["شبیه", "مثل هم", "همانند", "یکسان", "مانند"],
+      "adverb": ["یک جور", "به تساوی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "alive",
     "pronunciation": "e'la^yv",
     "translates": {
-      "adjective": "زنده ، سر حال ، سر زنده ، فعال"
+      "adjective": ["زنده", "سر حال", "سر زنده", "فعال"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "all",
     "pronunciation": "ol",
     "translates": {
-      "adjective": "همه ، همۀ ، تمام ، هر ، هر گونه ، هر چه ، آنچه ، تمامِ آنچه ",
-      "adverb": "کاملاً ، یکسره ، همه نوع ، هر یک از",
-      "pronoun": "کلٍ ، مجموعِ"
+      "adjective": [
+        "همه",
+        "همۀ",
+        "تمام",
+        "هر",
+        "هر گونه",
+        "هر چه",
+        "آنچه",
+        "تمامِ آنچه"
+      ],
+      "adverb": ["کاملاً", "یکسره", "همه نوع", "هر یک از"],
+      "pronoun": ["کلٍ", "مجموعِ"]
     },
-    "subWords": [
-      {
-        "all along": "همیشه ، در تمام مدت"
-      },
-      {
-        "all in": "کلاً ، جمعاً"
-      },
-      {
-        "all out": "با تمام نیرو"
-      },
-      {
-        "all over": "همه جا ، همه جای ، سر تا سر ، پایان یافته ، تمام"
-      },
-      {
-        "all right": "بسیار خوب ، خوب ، سالم ، صحیح و سالم ، تندرست"
-      },
-      {
-        "all that": "[در جمله های منفی] چندان هم"
-      },
-      {
-        "all the same": "با این همه ، با این وجود ، همچنان"
-      },
-      {
-        "all together": "همه با هم ، بر روی هم"
-      },
-      {
-        "at all": "ابداً ، اصلاً ، به هیچ وجه"
-      },
-      {
-        "for all": "به رغم ، با وجود"
-      },
-      {
-        "not at all": "اصلاً ، به هیچ وجه ،‌ قابلی نداره ، خواهش میکنم"
-      }
-    ]
+    "subWords": {
+      "all along": ["همیشه", "در تمام مدت"],
+      "all in": ["کلاً", "جمعاً"],
+      "all out": ["با تمام نیرو"],
+      "all over": ["همه جا", "همه جای", "سر تا سر", "پایان یافته", "تمام"],
+      "all right": ["بسیار خوب", "خوب", "سالم", "صحیح و سالم", "تندرست"],
+      "all that": ["[در جمله های منفی] چندان هم"],
+      "all the same": ["با این همه", "با این وجود", "همچنان"],
+      "all together": ["همه با هم", "بر روی هم"],
+      "at all": ["ابداً", "اصلاً", "به هیچ وجه"],
+      "for all": ["به رغم", "با وجود"],
+      "not at all": ["اصلاً", "به هیچ وجه", "‌ قابلی نداره", "خواهش میکنم"]
+    }
   },
   {
     "word": "alley",
     "pronunciation": "'ali",
     "translates": {
-      "noun": "کوچه ، کوی ،‌ راه"
+      "noun": ["کوچه", "کوی", "‌ راه"]
     },
-    "subWords": [
-      {
-        "blind alley": "کوچۀ بن بست"
-      }
-    ]
+    "subWords": {
+      "blind alley": ["کوچۀ بن بست"]
+    }
   },
   {
     "word": "alliance",
     "pronunciation": "e'la^yens",
     "translates": {
-      "noun": "اتحاد ، اتفاق ، پیمان ، اتحادیه ، پیوند"
+      "noun": ["اتحاد", "اتفاق", "پیمان", "اتحادیه", "پیوند"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "alligator",
     "pronunciation": "'aligeyter",
     "translates": {
-      "noun": "آلیگاتور (جانوری شبیه به تمساح)"
+      "noun": ["آلیگاتور (جانوری شبیه به تمساح)"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "allotment",
     "pronunciation": "a'la^tment",
     "translates": {
-      "noun": "تقسیم ، سهم ، تخصیص ، جیره"
+      "noun": ["تقسیم", "سهم", "تخصیص", "جیره"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "allow",
     "pronunciation": "e'lao",
     "translates": {
-      "transitive-verb": "اجازه دادن ، تصدیق کردن ، مجاز دانستن"
+      "transitive-verb": ["اجازه دادن", "تصدیق کردن", "مجاز دانستن"]
     },
-    "subWords": [
-      {
-        "allow for": "در نظر گرفتن ، منظور کردن"
-      }
-    ]
+    "subWords": {
+      "allow for": ["در نظر گرفتن", "منظور کردن"]
+    }
   },
   {
     "word": "allowance",
     "pronunciation": "e'lao-ens",
     "translates": {
-      "noun": "پولِ ، هزینۀ ، خرجِ ، کمک هزینه ، حقِ ، مقرری ، مستمری ، تخفیف"
+      "noun": [
+        "پولِ",
+        "هزینۀ",
+        "خرجِ",
+        "کمک هزینه",
+        "حقِ",
+        "مقرری",
+        "مستمری",
+        "تخفیف"
+      ]
     },
-    "subWords": [
-      {
-        "make allowance for": "منظور کردن ، در نظر گرفتن"
-      }
-    ]
+    "subWords": {
+      "make allowance for": ["منظور کردن", "در نظر گرفتن"]
+    }
   },
   {
     "word": "alloy",
     "pronunciation": "'aloy",
     "translates": {
-      "noun": "آلیاژ ، عیار"
+      "noun": ["آلیاژ", "عیار"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "allude",
     "pronunciation": "a'lood",
     "translates": {
-      "intransitive-verb": "اشاره کردن ، اظهار کردن"
+      "intransitive-verb": ["اشاره کردن", "اظهار کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ally",
     "pronunciation": "'ala^y",
     "translates": {
-      "noun": "متحد ، هم پیمان ، دوست",
-      "transitive-verb": "متحد کردن ، دست به یکی کردن با ، همدست شدن با",
-      "intransitive-verb": "پیوستن ، متحد شدن ، هم پیمان شدن"
+      "noun": ["متحد", "هم پیمان", "دوست"],
+      "transitive-verb": ["متحد کردن", "دست به یکی کردن با", "همدست شدن با"],
+      "intransitive-verb": ["پیوستن", "متحد شدن", "هم پیمان شدن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "almighty",
     "pronunciation": "ol'ma^yti",
     "translates": {
-      "noun": "[معمولاً صفت خداوند] قادر مطلق ، توانا بر همه چیز"
+      "noun": ["[معمولاً صفت خداوند] قادر مطلق", "توانا بر همه چیز"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "almond",
     "pronunciation": "a^mend",
     "translates": {
-      "noun": "بادام ، مغز بادام"
+      "noun": ["بادام", "مغز بادام"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "almost",
     "pronunciation": "'olmost",
     "translates": {
-      "adverb": "تقریباً"
+      "adverb": ["تقریباً"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "alms",
     "pronunciation": "a^mz",
     "translates": {
-      "noun": "صدقه ، خیرات"
+      "noun": ["صدقه", "خیرات"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "alone",
     "pronunciation": "e'lon",
     "translates": {
-      "adjective": "تنها ، یکتا ، تک و تنها",
-      "adverb": "به تنهایی ، فقط"
+      "adjective": ["تنها", "یکتا", "تک و تنها"],
+      "adverb": ["به تنهایی", "فقط"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "along",
     "pronunciation": "e'la^ng",
     "translates": {
-      "adverb": "پیش ، جلو ، رو به جلو",
-      "preposition": "با ، همراه ، سر تا سرِ ،‌ طول"
+      "adverb": ["پیش", "جلو", "رو به جلو"],
+      "preposition": ["با", "همراه", "سر تا سرِ", "‌ طول"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "alongside",
     "pronunciation": "ela^ng'sa^yd",
     "translates": {
-      "adverb": "در کنارِ ، به موازاتِ",
-      "preposition": "پهلویِ ، کنارِ"
+      "adverb": ["در کنارِ", "به موازاتِ"],
+      "preposition": ["پهلویِ", "کنارِ"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aloof",
     "pronunciation": "e'loof",
     "translates": {
-      "adjective": "گوشه گیر ، درونگرا ، سرد ، نجوش",
-      "adverb": "(به) دور ، (به) کنار "
+      "adjective": ["گوشه گیر", "درونگرا", "سرد", "نجوش"],
+      "adverb": ["(به) دور", "(به) کنار"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aloud",
     "pronunciation": "e'laod",
     "translates": {
-      "adverb": "با صدای بلند"
+      "adverb": ["با صدای بلند"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "alphabet",
     "pronunciation": "'alfabet",
     "translates": {
-      "noun": "الفبا"
+      "noun": ["الفبا"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "alphabetical",
     "pronunciation": "alfa'betika^l",
     "translates": {
-      "adjective": "الفبایی ، به ترتیب الفبا"
+      "adjective": ["الفبایی", "به ترتیب الفبا"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "already",
     "pronunciation": "ol'redi",
     "translates": {
-      "adverb": "تا حالا ، قبلاً ، پیش از این ، به این زودی ، فعلا"
+      "adverb": ["تا حالا", "قبلاً", "پیش از این", "به این زودی", "فعلا"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "also",
     "pronunciation": "'olso",
     "translates": {
-      "adverb": "هم ، همچنین ، نیز"
+      "adverb": ["هم", "همچنین", "نیز"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "alter",
     "pronunciation": "'olter",
     "translates": {
-      "noun": "محراب ، قربانگاه",
-      "transitive-verb": "تغییر کردن ، اصلاح کردن ، عوض کردن ، [لباس] تنگ یا گشاد کردن",
-      "intransitive-verb": "تغییر کردن ، عوض شدن"
+      "noun": ["محراب", "قربانگاه"],
+      "transitive-verb": [
+        "تغییر کردن",
+        "اصلاح کردن",
+        "عوض کردن",
+        "[لباس] تنگ یا گشاد کردن"
+      ],
+      "intransitive-verb": ["تغییر کردن", "عوض شدن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "alteration",
     "pronunciation": "olte'reyshen",
     "translates": {
-      "noun": "تغییر ، اصلاح ، دگرگونی ، تعمیر"
+      "noun": ["تغییر", "اصلاح", "دگرگونی", "تعمیر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "alternate",
     "pronunciation": "ol'ternat",
     "translates": {
-      "noun": "چاره ، شق ، شق دیگر ، پیشنهاد متناوب",
-      "adjective": "متناوب ، تناوبی ، دیگر ، نوبتی ، متبادل"
+      "noun": ["چاره", "شق", "شق دیگر", "پیشنهاد متناوب"],
+      "adjective": ["متناوب", "تناوبی", "دیگر", "نوبتی", "متبادل"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "alternative",
     "pronunciation": "ol'ternadiv",
     "translates": {
-      "noun": "جایگزین ، انتخاب ، امکان ، شق (دیگر)",
-      "adjective": "متناوب ، تناوبی ، دیگر ، دو شقی ، متفاوت"
+      "noun": ["جایگزین", "انتخاب", "امکان", "شق (دیگر)"],
+      "adjective": ["متناوب", "تناوبی", "دیگر", "دو شقی", "متفاوت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "although",
     "pronunciation": "al'dho",
     "translates": {
-      "conjunction": "گرچه ، اگر چه ،‌ هر چند که ،‌ با اینکه ،‌ با وجود اینکه ، به رغم اینکه"
+      "conjunction": [
+        "گرچه",
+        "اگر چه",
+        "‌ هر چند که",
+        "‌ با اینکه",
+        "‌ با وجود اینکه",
+        "به رغم اینکه"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "altitude",
     "pronunciation": "'altityood",
     "translates": {
-      "noun": "ارتفاع ،‌ بلندی"
+      "noun": ["ارتفاع", "‌ بلندی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "altogether",
     "pronunciation": "oltu'gedher",
     "translates": {
-      "noun": "مجموع",
-      "adverb": "روی هم رفته ، در مجموع ،‌ جمعاً ، کاملاً ،‌ به کلی"
+      "noun": ["مجموع"],
+      "adverb": ["روی هم رفته", "در مجموع", "‌ جمعاً", "کاملاً", "‌ به کلی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "altruist",
     "pronunciation": "altro'ist",
     "translates": {
-      "noun": "نوع دوست"
+      "noun": ["نوع دوست"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aluminium",
     "pronunciation": "alyu'miniyem",
     "translates": {
-      "noun": "آلومینیم",
-      "adjective": "آلومینیمی"
+      "noun": ["آلومینیم"],
+      "adjective": ["آلومینیمی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "always",
     "pronunciation": "'olweyz",
     "translates": {
-      "adverb": "همیشه ، همواره ، همه وقت ، بدون استثنا ، دائماً ، مدام ،‌ برای همیشه ، تا ابد ،‌ تا آخر عمر"
+      "adverb": [
+        "همیشه",
+        "همواره",
+        "همه وقت",
+        "بدون استثنا",
+        "دائماً",
+        "مدام",
+        "‌ برای همیشه",
+        "تا ابد",
+        "‌ تا آخر عمر"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "am",
     "pronunciation": "am",
     "translates": {
-      "intransitive-verb": "هستم (صیغۀ اول شخص مفرد ، زمان حال از فعل to be «بودن»)"
+      "intransitive-verb": [
+        "هستم (صیغۀ اول شخص مفرد",
+        "زمان حال از فعل to be «بودن»)"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "a.m.",
     "pronunciation": "ey 'em",
     "translates": {
-      "adverb": "صبح ، پیش از ظهر (از نیمه شب تا ظهر)"
+      "adverb": ["صبح", "پیش از ظهر (از نیمه شب تا ظهر)"]
     },
-    "subWords": [
-      {
-        "A.M.": ".a.m"
-      }
-    ]
+    "subWords": {
+      "A.M.": [".a.m"]
+    }
   },
   {
     "word": "amateur",
     "pronunciation": "'amater",
     "translates": {
-      "noun": "آماتور ، (آدم) غیر حرفه ای",
-      "adjective": "غیر حرفه ای"
+      "noun": ["آماتور", "(آدم) غیر حرفه ای"],
+      "adjective": ["غیر حرفه ای"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "amaze",
     "pronunciation": "e'meyz",
     "translates": {
-      "noun": "تعجب",
-      "transitive-verb": "به حیرت انداختن ، بهت زده کردن ، مات کردن ، خیره کردن ، مبهوت کردن"
+      "noun": ["تعجب"],
+      "transitive-verb": [
+        "به حیرت انداختن",
+        "بهت زده کردن",
+        "مات کردن",
+        "خیره کردن",
+        "مبهوت کردن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "amazement",
     "pronunciation": "e'meyzment",
     "translates": {
-      "noun": "ناباوری ، حیرت ، تعجب ، کمال تعجب"
+      "noun": ["ناباوری", "حیرت", "تعجب", "کمال تعجب"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ambassador",
     "pronunciation": "am'basader",
     "translates": {
-      "noun": "سفیر ، سفیر کبیر"
+      "noun": ["سفیر", "سفیر کبیر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "amber",
     "pronunciation": "'amber",
     "translates": {
-      "noun": "کهربا ، رنگ زرد کهربایی",
-      "adjective": "کهربایی"
+      "noun": ["کهربا", "رنگ زرد کهربایی"],
+      "adjective": ["کهربایی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ambition",
     "pronunciation": "am'bishen",
     "translates": {
-      "noun": "بلند پروازی ، جاه طلبی ، آرزو"
+      "noun": ["بلند پروازی", "جاه طلبی", "آرزو"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ambitious",
     "pronunciation": "am'bishes",
     "translates": {
-      "adjective": "بلند پرواز ،‌ بلند همت ، جاه طلب ،‌ جاه طلبانه"
+      "adjective": ["بلند پرواز", "‌ بلند همت", "جاه طلب", "‌ جاه طلبانه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ambulance",
     "pronunciation": "'ambyulens",
     "translates": {
-      "noun": "آمبولانس"
+      "noun": ["آمبولانس"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ambush",
     "pronunciation": "'ambush",
     "translates": {
-      "noun": "کمین ، دام ، کمینگاه ، حملهء غافلگیرانه",
-      "transitive-verb": "غافلگیر کردن ، کمین کردن"
+      "noun": ["کمین", "دام", "کمینگاه", "حملهء غافلگیرانه"],
+      "transitive-verb": ["غافلگیر کردن", "کمین کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "America",
     "pronunciation": "e'merika^",
     "translates": {
-      "noun": "آمریکا"
+      "noun": ["آمریکا"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "American",
     "pronunciation": "e'meriken",
     "translates": {
-      "noun": "اهل آمریکا ،‌ آمریکایی",
-      "adjective": "آمریکایی ، [مربوط به] آمریکا"
+      "noun": ["اهل آمریکا", "‌ آمریکایی"],
+      "adjective": ["آمریکایی", "[مربوط به] آمریکا"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ammunition",
     "pronunciation": "amyu'nishen",
     "translates": {
-      "noun": "مهمات ،‌ دستاویز ، گزک"
+      "noun": ["مهمات", "‌ دستاویز", "گزک"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "among",
     "pronunciation": "e'ma^ng",
     "translates": {
-      "preposition": "(در) میانِ ، (در) نزدِ ، (در) بینِ ، یکی از ، از جمله ،‌ لای ، لا به لای"
+      "preposition": [
+        "(در) میانِ",
+        "(در) نزدِ",
+        "(در) بینِ",
+        "یکی از",
+        "از جمله",
+        "‌ لای",
+        "لا به لای"
+      ]
     },
-    "subWords": [
-      {
-        "amongst": "among"
-      }
-    ]
+    "subWords": {
+      "amongst": ["among"]
+    }
   },
   {
     "word": "amount",
     "pronunciation": "e'maont",
     "translates": {
-      "noun": "مقدار ، میزان ، جمع ، کل ، مبلغ ، مبالغ ،‌ تعداد"
+      "noun": ["مقدار", "میزان", "جمع", "کل", "مبلغ", "مبالغ", "‌ تعداد"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ample",
     "pronunciation": "'ampel",
     "translates": {
-      "adjective": "فراوان ، زیاد ، کافی ، به اندازه ، جادار ، مفصل "
+      "adjective": ["فراوان", "زیاد", "کافی", "به اندازه", "جادار", "مفصل"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "amplifier",
     "pronunciation": "'amplifa^yer",
     "translates": {
-      "noun": "(دستگاه) تقویت کننده ، آمپلی فایر"
+      "noun": ["(دستگاه) تقویت کننده", "آمپلی فایر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "amplify",
     "pronunciation": "'amplifa^y",
     "translates": {
-      "transitive-verb": "تقویت کردن ،‌ وسعت بخشیدن ، بزرگ تر کردن ، شرح و بسط دادن"
+      "transitive-verb": [
+        "تقویت کردن",
+        "‌ وسعت بخشیدن",
+        "بزرگ تر کردن",
+        "شرح و بسط دادن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "amputate",
     "pronunciation": "'ampyuteyt",
     "translates": {
-      "transitive-verb": "[عضو] قطع کردن ،‌ بریدن ، جدا کردن"
+      "transitive-verb": ["[عضو] قطع کردن", "‌ بریدن", "جدا کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "amuse",
     "pronunciation": "amyooz",
     "translates": {
-      "transitive-verb": "سرگرم کردن ، خنداندن ، مات و متحیر کردن"
+      "transitive-verb": ["سرگرم کردن", "خنداندن", "مات و متحیر کردن"]
     },
-    "subWords": [
-      {
-        "be amused at (or by)": "خوش آمدن از ، به خنده افتادن از"
-      }
-    ]
+    "subWords": {
+      "be amused at (or by)": ["خوش آمدن از", "به خنده افتادن از"]
+    }
   },
   {
     "word": "amusement",
     "pronunciation": "a'myoozment",
     "translates": {
-      "noun": "خنده ، لبخند ، شادی ، خوشی ، تفریح ، سرگرمی ، لذت ، وسیلهء تفریح"
+      "noun": [
+        "خنده",
+        "لبخند",
+        "شادی",
+        "خوشی",
+        "تفریح",
+        "سرگرمی",
+        "لذت",
+        "وسیلهء تفریح"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "amusing",
     "pronunciation": "a'myoozing",
     "translates": {
-      "adjective": "خنده دار ، خنده آور ، مضحک ، بامزه ، تفننی ، سرگرم کننده"
+      "adjective": [
+        "خنده دار",
+        "خنده آور",
+        "مضحک",
+        "بامزه",
+        "تفننی",
+        "سرگرم کننده"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "an",
     "pronunciation": "an",
     "translates": {
-      "indefinite-article": "یک ،‌ ی (یای نکره یا وحدت)"
+      "indefinite-article": ["یک", "‌ ی (یای نکره یا وحدت)"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anaemia",
     "pronunciation": "a'niimiya^",
     "translates": {
-      "noun": "کم خونی"
+      "noun": ["کم خونی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anaesthetic",
     "pronunciation": "anis'thetik",
     "translates": {
-      "noun": "داروی بیهوشی ، داروی بی حسی",
-      "adjective": "بی حس کننده ، بیهوش کننده"
+      "noun": ["داروی بیهوشی", "داروی بی حسی"],
+      "adjective": ["بی حس کننده", "بیهوش کننده"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "analogous",
     "pronunciation": "e'naleges",
     "translates": {
-      "adjective": "مشابه ، شبیه ، متشابه ، قابل قیاس"
+      "adjective": ["مشابه", "شبیه", "متشابه", "قابل قیاس"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "analyse",
     "pronunciation": "'anala^yz",
     "translates": {
-      "transitive-verb": "تجزیه کردن ، تجزیه و تحلیل کردن ، بررسی کردن ، تحلیل کردن ، کند و کاو کردن در"
+      "transitive-verb": [
+        "تجزیه کردن",
+        "تجزیه و تحلیل کردن",
+        "بررسی کردن",
+        "تحلیل کردن",
+        "کند و کاو کردن در"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "analysis",
     "pronunciation": "e'nalisis",
     "translates": {
-      "noun": "تجزیه ، تجزیه و تحلیل ، بررسی ، آنالیز"
+      "noun": ["تجزیه", "تجزیه و تحلیل", "بررسی", "آنالیز"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "analyst",
     "pronunciation": "'analist",
     "translates": {
-      "noun": "تحلیل گر ، روانکاو"
+      "noun": ["تحلیل گر", "روانکاو"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anarchy",
     "pronunciation": "anarki",
     "translates": {
-      "noun": "بی دولتی ، بی قانونی ،‌ بی نظمی ، هرج و مرج ، اغتشاش"
+      "noun": ["بی دولتی", "بی قانونی", "‌ بی نظمی", "هرج و مرج", "اغتشاش"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anatomy",
     "pronunciation": "a'nata^mi",
     "translates": {
-      "noun": "کالبد شناسی ، آناتومی ، تشریح ، ساختمان ، ساختمان بدن"
+      "noun": ["کالبد شناسی", "آناتومی", "تشریح", "ساختمان", "ساختمان بدن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ancestor",
     "pronunciation": "'ansester",
     "translates": {
-      "noun": "جد ، نیا"
+      "noun": ["جد", "نیا"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anchor",
     "pronunciation": "'anker",
     "translates": {
-      "noun": "لنگر",
-      "transitive-verb": "لنگر انداختن",
-      "intransitive-verb": "بستن"
+      "noun": ["لنگر"],
+      "transitive-verb": ["لنگر انداختن"],
+      "intransitive-verb": ["بستن"]
     },
-    "subWords": [
-      {
-        "cast anchor": "لنگر انداختن"
-      }
-    ]
+    "subWords": {
+      "cast anchor": ["لنگر انداختن"]
+    }
   },
   {
     "word": "anchorage",
     "pronunciation": "'ankerij",
     "translates": {
-      "noun": "لنگر گاه"
+      "noun": ["لنگر گاه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ancient",
     "pronunciation": "'eynshent",
     "translates": {
-      "adjective": "باستان ، باستانی ، کهن ، قدیمی ، عتیقه ، از عهد عتیق ، پارینه"
+      "adjective": [
+        "باستان",
+        "باستانی",
+        "کهن",
+        "قدیمی",
+        "عتیقه",
+        "از عهد عتیق",
+        "پارینه"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "and",
     "pronunciation": "and,an",
     "translates": {
-      "conjunction": "وَ ، تا ، که"
+      "conjunction": ["وَ", "تا", "که"]
     },
-    "subWords": [
-      {
-        "and you": "شما چطور؟"
-      }
-    ]
+    "subWords": {
+      "and you": ["شما چطور؟"]
+    }
   },
   {
     "word": "angel",
     "pronunciation": "'eynjel",
     "translates": {
-      "noun": "[معنی حقیقی و مجازی] فرشته ، مَلَک"
+      "noun": ["[معنی حقیقی و مجازی] فرشته", "مَلَک"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anger",
     "pronunciation": "'anger",
     "translates": {
-      "noun": "خشم ، غضب ، عصبانیت",
-      "transitive-verb": "خشمگین کردن ، عصبانی کردن"
+      "noun": ["خشم", "غضب", "عصبانیت"],
+      "transitive-verb": ["خشمگین کردن", "عصبانی کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "angle",
     "pronunciation": "'angel",
     "translates": {
-      "noun": "زاویه ، گوشه",
-      "intransitive-verb": "(با قلاب) ماهی گرفتن"
+      "noun": ["زاویه", "گوشه"],
+      "intransitive-verb": ["(با قلاب) ماهی گرفتن"]
     },
-    "subWords": [
-      {
-        "right angle": "زاویه قائمه"
-      }
-    ]
+    "subWords": {
+      "right angle": ["زاویه قائمه"]
+    }
   },
   {
     "word": "angler",
     "pronunciation": "'angler",
     "translates": {
-      "noun": "ماهی گیر"
+      "noun": ["ماهی گیر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "angrily",
     "pronunciation": "'angrili",
     "translates": {
-      "adverb": "باخشم ، از روی خشم"
+      "adverb": ["باخشم", "از روی خشم"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "angry",
     "pronunciation": "'angri",
     "translates": {
-      "adjective": "خشمگین ، خشمناک ، حاکی از عصبانیت ، [زخم] ملتهب ، متورم"
+      "adjective": [
+        "خشمگین",
+        "خشمناک",
+        "حاکی از عصبانیت",
+        "[زخم] ملتهب",
+        "متورم"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anguish",
     "pronunciation": "'angwish",
     "translates": {
-      "noun": "اضطراب ، دلهره ، غم و اندوه ، تشویش ، دلواپسی"
+      "noun": ["اضطراب", "دلهره", "غم و اندوه", "تشویش", "دلواپسی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "animal",
     "pronunciation": "'anima^l",
     "translates": {
-      "noun": "جانور ، حیوان",
-      "adjective": "جانوری ، حیوانی"
+      "noun": ["جانور", "حیوان"],
+      "adjective": ["جانوری", "حیوانی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "animated cartoon",
     "pronunciation": "animeytid ka^r'toon",
     "translates": {
-      "noun": "کارتون ، نقاشی متحرک"
+      "noun": ["کارتون", "نقاشی متحرک"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ankle",
     "pronunciation": "'ankel",
     "translates": {
-      "noun": "مچ پا ، قوزک"
+      "noun": ["مچ پا", "قوزک"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anniversary",
     "pronunciation": "ani'verseri",
     "translates": {
-      "noun": "سالگرد ، سالروز ، مراسم سالگرد"
+      "noun": ["سالگرد", "سالروز", "مراسم سالگرد"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "annotate",
     "pronunciation": "ane'teyt",
     "translates": {
-      "transitive-verb": "حاشیه نوشتن ، تفسیر نوشتن ، یادداشت نوشتن"
+      "transitive-verb": ["حاشیه نوشتن", "تفسیر نوشتن", "یادداشت نوشتن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "annotation",
     "pronunciation": "ane'teyshen",
     "translates": {
-      "noun": "حاشیه نویسی ، یاداشت ، تفسیر"
+      "noun": ["حاشیه نویسی", "یاداشت", "تفسیر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "announce",
     "pronunciation": "a'naons",
     "translates": {
-      "transitive-verb": "اعلام کردن ، اطلاع دادن ، خبر دادن (از) ، علنی کردن ، اعلان کردن ، آگهی کردن"
+      "transitive-verb": [
+        "اعلام کردن",
+        "اطلاع دادن",
+        "خبر دادن (از)",
+        "علنی کردن",
+        "اعلان کردن",
+        "آگهی کردن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "announcement",
     "pronunciation": "a'naonsement",
     "translates": {
-      "noun": "اعلام ، اعلان ، آگهی ، خبر"
+      "noun": ["اعلام", "اعلان", "آگهی", "خبر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "announcer",
     "pronunciation": "a'naonser",
     "translates": {
-      "noun": "گوینده (رادیو یا تلویزیون)"
+      "noun": ["گوینده (رادیو یا تلویزیون)"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "annoy",
     "pronunciation": "a'noy",
     "translates": {
-      "transitive-verb": "ناراحت کردن‌ ، اذیت کردن ، دلخور کردن ، رنجاندن ، تحریک کردن ، عصبانی کردن ، کفری کردن"
+      "transitive-verb": [
+        "ناراحت کردن‌",
+        "اذیت کردن",
+        "دلخور کردن",
+        "رنجاندن",
+        "تحریک کردن",
+        "عصبانی کردن",
+        "کفری کردن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "annoyance",
     "pronunciation": "a'noyens",
     "translates": {
-      "noun": "ناراحتی ، عصبانیت ، دلخوری ، رنجش ، اذیت"
+      "noun": ["ناراحتی", "عصبانیت", "دلخوری", "رنجش", "اذیت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "annual",
     "pronunciation": "'anyuwa^l",
     "translates": {
-      "adjective": "سالانه ، سالیانه ، هر ساله ، یک ساله "
+      "adjective": ["سالانه", "سالیانه", "هر ساله", "یک ساله"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anonymous",
     "pronunciation": "a'na^nimes",
     "translates": {
-      "adjective": "گمنام ،‌ ناشناس ، بی امضا ، بی نام"
+      "adjective": ["گمنام", "‌ ناشناس", "بی امضا", "بی نام"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anorak",
     "pronunciation": "'anorak",
     "translates": {
-      "noun": "بادگیر ، کاپشن ، آنوراک"
+      "noun": ["بادگیر", "کاپشن", "آنوراک"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "another",
     "pronunciation": "e'nadher",
     "translates": {
-      "adjective": "دیگر ، دیگری",
-      "pronoun": "یکی دیگر"
+      "adjective": ["دیگر", "دیگری"],
+      "pronoun": ["یکی دیگر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "answer",
     "pronunciation": "'a^nser",
     "translates": {
-      "noun": "پاسخ ، جواب ،‌ واکنش ، عکس العمل",
-      "transitive-verb": "جواب دادن ، پاسخ دادن"
+      "noun": ["پاسخ", "جواب", "‌ واکنش", "عکس العمل"],
+      "transitive-verb": ["جواب دادن", "پاسخ دادن"]
     },
-    "subWords": [
-      {
-        "answer back": "زبان درازی کردن ،‌ جواب دادن"
-      },
-      {
-        "answer the door": "در را باز کردن"
-      }
-    ]
+    "subWords": {
+      "answer back": ["زبان درازی کردن", "‌ جواب دادن"],
+      "answer the door": ["در را باز کردن"]
+    }
   },
   {
     "word": "ant ",
     "pronunciation": "ant",
     "translates": {
-      "noun": "مورچه"
+      "noun": ["مورچه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "antagonism",
     "pronunciation": "an'tagonizem",
     "translates": {
-      "noun": "ضدیت ، دشمنی ،‌ خصومت ، مخالفت"
+      "noun": ["ضدیت", "دشمنی", "‌ خصومت", "مخالفت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "antagonize",
     "pronunciation": "an'tagona^yz",
     "translates": {
-      "transitive-verb": "خصومت (کسی را) برانگیختن ، مخالفت کردن ،‌ ضدیت کردن"
+      "transitive-verb": [
+        "خصومت (کسی را) برانگیختن",
+        "مخالفت کردن",
+        "‌ ضدیت کردن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "Antarctic",
     "pronunciation": "an'ta^rktik",
     "translates": {
-      "noun": "جنوبگان ، ناحیه قطب جنوب",
-      "adjective": "[مربوط به] جنوبگان یا قطب جنوب"
+      "noun": ["جنوبگان", "ناحیه قطب جنوب"],
+      "adjective": ["[مربوط به] جنوبگان یا قطب جنوب"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "antelope",
     "pronunciation": "'antilop",
     "translates": {
-      "noun": "آهو"
+      "noun": ["آهو"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anthem",
     "pronunciation": "'anthem",
     "translates": {
-      "noun": "سرود"
+      "noun": ["سرود"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anti-aircraft",
     "pronunciation": "anti 'erkra^ft",
     "translates": {
-      "adjective": "ضد هوایی ، پدافند هوایی"
+      "adjective": ["ضد هوایی", "پدافند هوایی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "antibiotic",
     "pronunciation": "antiba^ya^tik",
     "translates": {
-      "noun": "آنتی بیوتیک ، پادزیست"
+      "noun": ["آنتی بیوتیک", "پادزیست"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anticipate",
     "pronunciation": "an'tisipeyt",
     "translates": {
-      "transitive-verb": "پیش بینی کردن ، حدس زدن ،‌ پیش خور کردن ، جلو افتادن"
+      "transitive-verb": [
+        "پیش بینی کردن",
+        "حدس زدن",
+        "‌ پیش خور کردن",
+        "جلو افتادن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anticipation",
     "pronunciation": "antisi'peyshen",
     "translates": {
-      "noun": "پیش بینی ، پیش دستی"
+      "noun": ["پیش بینی", "پیش دستی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "antidote",
     "pronunciation": "'antidot",
     "translates": {
-      "noun": "پادزهر"
+      "noun": ["پادزهر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "antifreeze",
     "pronunciation": "'antifriiz",
     "translates": {
-      "noun": "ضد یخ"
+      "noun": ["ضد یخ"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "antique",
     "pronunciation": "an'tiik",
     "translates": {
-      "noun": "عتیقه",
-      "adjective": "باستانی ،‌ قدیمی"
+      "noun": ["عتیقه"],
+      "adjective": ["باستانی", "‌ قدیمی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "antiseptic",
     "pronunciation": "anti'septik",
     "translates": {
-      "noun": "دوای ضد عفونی",
-      "adjective": "(ماده) ضد عفونی کننده ،‌ گند زدا ،‌ پلشت بر ، [مربوط به] گندزدایی"
+      "noun": ["دوای ضد عفونی"],
+      "adjective": [
+        "(ماده) ضد عفونی کننده",
+        "‌ گند زدا",
+        "‌ پلشت بر",
+        "[مربوط به] گندزدایی"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anxiety",
     "pronunciation": "ang'za^yeti",
     "translates": {
-      "noun": "اضطراب ،‌نگرانی ،‌ تشویش ، دلواپسی ، دلشوره"
+      "noun": ["اضطراب", "‌نگرانی", "‌ تشویش", "دلواپسی", "دلشوره"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anxious",
     "pronunciation": "'ankshes",
     "translates": {
-      "adjective": "نگران ،‌ دلواپس ، مضطرب ، نگران کننده ، دلهره آور ، مشتاق ، علاقه مند"
+      "adjective": [
+        "نگران",
+        "‌ دلواپس",
+        "مضطرب",
+        "نگران کننده",
+        "دلهره آور",
+        "مشتاق",
+        "علاقه مند"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anxiously",
     "pronunciation": "'ankshesli",
     "translates": {
-      "adverb": "با نگرانی ، با تشویش ، مضطربانه ، با اضطراب ، مشتاقانه"
+      "adverb": ["با نگرانی", "با تشویش", "مضطربانه", "با اضطراب", "مشتاقانه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "any",
     "pronunciation": "eni",
     "translates": {
-      "adjective": "هر ، هیچ ، اصلاً ",
-      "pronoun": "هیچ ، هیچ گونه ، هیچ کس ، هیچ یک ، هر یک ، دیگر"
+      "adjective": ["هر", "هیچ", "اصلاً"],
+      "pronoun": ["هیچ", "هیچ گونه", "هیچ کس", "هیچ یک", "هر یک", "دیگر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anybody",
     "pronunciation": "'eniba^di",
     "translates": {
-      "pronoun": "کسی ، هیچ کس ، هر کس ، هر کسی"
+      "pronoun": ["کسی", "هیچ کس", "هر کس", "هر کسی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anyhow",
     "pronunciation": "'enihao",
     "translates": {
-      "adjective": "بدون هیچ نظمی ، در هم بر هم ، ریخته پاشیده",
-      "adverb": "به هر حال ، در هر صورت ، به هر تقدیر ، باری "
+      "adjective": ["بدون هیچ نظمی", "در هم بر هم", "ریخته پاشیده"],
+      "adverb": ["به هر حال", "در هر صورت", "به هر تقدیر", "باری"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anyone",
     "pronunciation": "'enywa^n",
     "translates": {
-      "pronoun": "کسی ، هیچ کس ، هر کس ، هر کسی"
+      "pronoun": ["کسی", "هیچ کس", "هر کس", "هر کسی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anything",
     "pronunciation": "'enithing",
     "translates": {
-      "pronoun": "چیزی ، هر چیز ، هر چیزی ، هر چه ، هیچ چیز ، هر کاری ، هیچ کار "
+      "pronoun": [
+        "چیزی",
+        "هر چیز",
+        "هر چیزی",
+        "هر چه",
+        "هیچ چیز",
+        "هر کاری",
+        "هیچ کار"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anyway",
     "pronunciation": "'eniwey",
     "translates": {
-      "adverb": "به هر حال ، در هر صورت ، با این همه ، با این وجود ، خوب "
+      "adverb": ["به هر حال", "در هر صورت", "با این همه", "با این وجود", "خوب"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "anywhere",
     "pronunciation": "'eniwer",
     "translates": {
-      "adverb": "جایی ، جایِ ، هر جا ، هر کجا ، یک جایی"
+      "adverb": ["جایی", "جایِ", "هر جا", "هر کجا", "یک جایی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "apart",
     "pronunciation": "e'pa^rt",
     "translates": {
-      "adjective": "جدا ، کنار ، دور",
-      "adverb": "جدا از هم ، دور از هم ، با فاصله ، در فاصلۀ ... از یکدیگر"
+      "adjective": ["جدا", "کنار", "دور"],
+      "adverb": ["جدا از هم", "دور از هم", "با فاصله", "در فاصلۀ ... از یکدیگر"]
     },
-    "subWords": [
-      {
-        "apart from": "قطع نظر از ، صرف نظر از ، بدون توجه به"
-      }
-    ]
+    "subWords": {
+      "apart from": ["قطع نظر از", "صرف نظر از", "بدون توجه به"]
+    }
   },
   {
     "word": "apartment",
     "pronunciation": "e'pa^rtment",
     "translates": {
-      "noun": "آپارتمان ، اتاق"
+      "noun": ["آپارتمان", "اتاق"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ape",
     "pronunciation": "eyp",
     "translates": {
-      "noun": "میمون انسان نما"
+      "noun": ["میمون انسان نما"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "apologetic",
     "pronunciation": "epa^lo'jetik",
     "translates": {
-      "adjective": "پوزش خواهانه ، متاسف"
+      "adjective": ["پوزش خواهانه", "متاسف"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "apologetically",
     "pronunciation": "epa^lo'jetikli",
     "translates": {
-      "adverb": "با عذرخواهی ، پوزش طلبانه"
+      "adverb": ["با عذرخواهی", "پوزش طلبانه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "apologize",
     "pronunciation": "e'pa^loja^yz",
     "translates": {
-      "intransitive-verb": "پوزش خواستن ، عذرخواهی کردن"
+      "intransitive-verb": ["پوزش خواستن", "عذرخواهی کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "apology",
     "pronunciation": "e'pa^loji",
     "translates": {
-      "noun": "عذرخواهی ‌، پوزش"
+      "noun": ["عذرخواهی ‌", "پوزش"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "apostle",
     "pronunciation": "e'pa^sel",
     "translates": {
-      "noun": "حواری ، مُبَلغ ، رسول ، فرستاده"
+      "noun": ["حواری", "مُبَلغ", "رسول", "فرستاده"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "apostrophe",
     "pronunciation": "e'pa^strofi",
     "translates": {
-      "noun": "آپاستروف"
+      "noun": ["آپاستروف"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "appalling",
     "pronunciation": "e'poling",
     "translates": {
-      "adjective": "وحشتناک ، اسفناک ، افتضاح ، ترسناک ، مخوف"
+      "adjective": ["وحشتناک", "اسفناک", "افتضاح", "ترسناک", "مخوف"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "apparatus",
     "pronunciation": "apa'reytes",
     "translates": {
-      "noun": "دستگاه ، ابزار ،‌ وسایل ، لوازم"
+      "noun": ["دستگاه", "ابزار", "‌ وسایل", "لوازم"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "apparent",
     "pronunciation": "e'parent",
     "translates": {
-      "adjective": "آشکار ، واضح ، معلوم ، پیدا ، ظاهری"
+      "adjective": ["آشکار", "واضح", "معلوم", "پیدا", "ظاهری"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "apparently",
     "pronunciation": "e'parentli",
     "translates": {
-      "adverb": "ظاهراً ، در ظاهر ، از قرار معلوم"
+      "adverb": ["ظاهراً", "در ظاهر", "از قرار معلوم"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "apparel",
     "pronunciation": "apera^l",
     "translates": {
-      "noun": "پوشاک ، جامه ، رخت ، اسباب",
-      "intransitive-verb": "آراستن ، پوشاندن"
+      "noun": ["پوشاک", "جامه", "رخت", "اسباب"],
+      "intransitive-verb": ["آراستن", "پوشاندن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "appeal",
     "pronunciation": "e'piil",
     "translates": {
-      "noun": "تقاظا ، درخواست ، خواهش ، توسل ، کشش ، گیرایی",
-      "intransitive-verb": "تقاظا کردن ، التماس کردن ،‌ متوسل شدن (به) ، داوری خواستن (از) ،‌جالب بودن ، جلب توجه کردن"
+      "noun": ["تقاظا", "درخواست", "خواهش", "توسل", "کشش", "گیرایی"],
+      "intransitive-verb": [
+        "تقاظا کردن",
+        "التماس کردن",
+        "‌ متوسل شدن (به)",
+        "داوری خواستن (از)",
+        "‌جالب بودن",
+        "جلب توجه کردن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "appear",
     "pronunciation": "e'piyer",
     "translates": {
-      "intransitive-verb": "آشکار شدن ، به نظر آمدن ، به نظر رسیدن ، ظاهر شدن"
+      "intransitive-verb": [
+        "آشکار شدن",
+        "به نظر آمدن",
+        "به نظر رسیدن",
+        "ظاهر شدن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "appearance",
     "pronunciation": "e'piyerens",
     "translates": {
-      "noun": "ظهور ، پیدایش ، ظاهر ، جلوه"
+      "noun": ["ظهور", "پیدایش", "ظاهر", "جلوه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "appease",
     "pronunciation": "e'piiz",
     "translates": {
-      "transitive-verb": "آرام کردن ، فرونشاندن ، تسکین دادن ، ساکت کردن"
+      "transitive-verb": ["آرام کردن", "فرونشاندن", "تسکین دادن", "ساکت کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "appendicitis",
     "pronunciation": "apendi'sa^ytis",
     "translates": {
-      "noun": "آپاندیسیت ، التهاب زائده روده کور "
+      "noun": ["آپاندیسیت", "التهاب زائده روده کور"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "appendix",
     "pronunciation": "a'pendiks",
     "translates": {
-      "noun": "پیوست ، ضمیمه"
+      "noun": ["پیوست", "ضمیمه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "appetite",
     "pronunciation": "'apita^yt",
     "translates": {
-      "noun": "اشتها ، میل"
+      "noun": ["اشتها", "میل"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "appetizing",
     "pronunciation": "'apita^yzing",
     "translates": {
-      "adjective": "اشتها آور"
+      "adjective": ["اشتها آور"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "applaud",
     "pronunciation": "e'plod",
     "translates": {
-      "transitive-verb": "تحسین کردن ، تشویق کردن",
-      "intransitive-verb": "کف زدن ، تشویق کردن"
+      "transitive-verb": ["تحسین کردن", "تشویق کردن"],
+      "intransitive-verb": ["کف زدن", "تشویق کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "applause",
     "pronunciation": "e'ploz",
     "translates": {
-      "noun": "کف زدن ‌، تشویق ، تحسین ، تمجید"
+      "noun": ["کف زدن ‌", "تشویق", "تحسین", "تمجید"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "apple",
     "pronunciation": "'apel",
     "translates": {
-      "noun": "سیب ، درخت سیب"
+      "noun": ["سیب", "درخت سیب"]
     },
-    "subWords": [
-      {
-        "apple pie": "[شیرینی] پای سیب"
-      },
-      {
-        "apple-tree": "درخت سیب"
-      }
-    ]
+    "subWords": {
+      "apple pie": ["[شیرینی] پای سیب"],
+      "apple-tree": ["درخت سیب"]
+    }
   },
   {
     "word": "appliance",
     "pronunciation": "e'pla^yens",
     "translates": {
-      "noun": "اسباب ، وسیله ، ابزار ، دستگاه"
+      "noun": ["اسباب", "وسیله", "ابزار", "دستگاه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "applicant",
     "pronunciation": "'aplikent",
     "translates": {
-      "noun": "متقاضی"
+      "noun": ["متقاضی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "application",
     "pronunciation": "apli'keyshen",
     "translates": {
-      "noun": "کاربرد ، درخواست ،‌ تقاظانامه"
+      "noun": ["کاربرد", "درخواست", "‌ تقاظانامه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "apply",
     "pronunciation": "a'pla^y",
     "translates": {
-      "intransitive-verb": "درخواست کردن ، درخواست دادن ، تقاظا کردن ، اعمال کردن ، به کار بردن"
+      "intransitive-verb": [
+        "درخواست کردن",
+        "درخواست دادن",
+        "تقاظا کردن",
+        "اعمال کردن",
+        "به کار بردن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "appoint",
     "pronunciation": "e'poynt",
     "translates": {
-      "transitive-verb": "منصوب کردن ، انتخاب کردن ، مأمور کردن ، تعیین کردن ، اختصاص دادن"
+      "transitive-verb": [
+        "منصوب کردن",
+        "انتخاب کردن",
+        "مأمور کردن",
+        "تعیین کردن",
+        "اختصاص دادن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "appointment",
     "pronunciation": "e'poyntment",
     "translates": {
-      "noun": "قرار (ملاقات) ، شغل ، انتصاب"
+      "noun": ["قرار (ملاقات)", "شغل", "انتصاب"]
     },
-    "subWords": [
-      {
-        "make an appointment with": "با کسی قرار (ملاقات) گذاشتن"
-      }
-    ]
+    "subWords": {
+      "make an appointment with": ["با کسی قرار (ملاقات) گذاشتن"]
+    }
   },
   {
     "word": "appreciate",
     "pronunciation": "e'priishiyeyt",
     "translates": {
-      "transitive-verb": "قدردانی کردن ، قدر (چیزی را) دانستن ، به ارزش (چیزی) پی بردن"
+      "transitive-verb": [
+        "قدردانی کردن",
+        "قدر (چیزی را) دانستن",
+        "به ارزش (چیزی) پی بردن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "appreciation",
     "pronunciation": "epriishi'yeyshen",
     "translates": {
-      "noun": "قدردانی ، سپاسگزاری ، تقدیر ، ارزیابی"
+      "noun": ["قدردانی", "سپاسگزاری", "تقدیر", "ارزیابی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "apprehensive",
     "pronunciation": "apri'hensiv",
     "translates": {
-      "adjective": "نگران ، دلواپس ، بیمناک ، دلهره آور"
+      "adjective": ["نگران", "دلواپس", "بیمناک", "دلهره آور"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "apprentice",
     "pronunciation": "a'prentis",
     "translates": {
-      "noun": "شاگرد ، کارآموز",
-      "transitive-verb": "به شاگردی گذاشتن (نزد) ، شاگردی کردن"
+      "noun": ["شاگرد", "کارآموز"],
+      "transitive-verb": ["به شاگردی گذاشتن (نزد)", "شاگردی کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "approach",
     "pronunciation": "e'proch",
     "translates": {
-      "noun": "روش ، رویکرد ، دید ، راهِ ورود ، نزدیکی",
-      "transitive-verb": "نزدیک شدن ، نزدیک آمدن ، نزدیک شدن به"
+      "noun": ["روش", "رویکرد", "دید", "راهِ ورود", "نزدیکی"],
+      "transitive-verb": ["نزدیک شدن", "نزدیک آمدن", "نزدیک شدن به"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "appropriate",
     "pronunciation": "a'propri-it , a'propriyeyt",
     "translates": {
-      "noun": "مناسب ، متناسب ، درخور ، مربوط ، مقتضی",
-      "transitive-verb": "تصرف کردن ، از آن خود کردن ، اختصاص دادن ، تخصیص دادن"
+      "noun": ["مناسب", "متناسب", "درخور", "مربوط", "مقتضی"],
+      "transitive-verb": [
+        "تصرف کردن",
+        "از آن خود کردن",
+        "اختصاص دادن",
+        "تخصیص دادن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "appropriately",
     "pronunciation": "a'propri-itli",
     "translates": {
-      "adverb": "به نحو شایسته ای ، به طور مناسب"
+      "adverb": ["به نحو شایسته ای", "به طور مناسب"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "approval",
     "pronunciation": "a'proova^l",
     "translates": {
-      "noun": "تایید ، رضایت ، موافقت ، تصویب ، پسند"
+      "noun": ["تایید", "رضایت", "موافقت", "تصویب", "پسند"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "approve",
     "pronunciation": "a'proov",
     "translates": {
-      "transitive-verb": "پذیرفتن ، تایید کردن ، تصویب کردن ، پسندیدن"
+      "transitive-verb": ["پذیرفتن", "تایید کردن", "تصویب کردن", "پسندیدن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "approximate",
     "pronunciation": "a'pra^ksimit",
     "translates": {
-      "adjective": "تقریبی ، نزدیک به"
+      "adjective": ["تقریبی", "نزدیک به"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "approximately",
     "pronunciation": "a'pra^ksimitli",
     "translates": {
-      "adverb": "تقریباً ، حدوداً ، در حدود"
+      "adverb": ["تقریباً", "حدوداً", "در حدود"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "apricot",
     "pronunciation": "'eyprika^t",
     "translates": {
-      "noun": "زردآلو‌ ، درخت زردآلو"
+      "noun": ["زردآلو‌", "درخت زردآلو"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "April",
     "pronunciation": "'eypril",
     "translates": {
-      "noun": "آوریل (ماه چهارم سال فرنگی)"
+      "noun": ["آوریل (ماه چهارم سال فرنگی)"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "apron",
     "pronunciation": "'eypren",
     "translates": {
-      "noun": "پیش بند ،‌ صحن ، کف"
+      "noun": ["پیش بند", "‌ صحن", "کف"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "apt",
     "pronunciation": "apt",
     "translates": {
-      "adjective": "مناسب ،‌ بجا ، به موقع ، مستعد ، قابل ، با استعداد ، تیز هوش ، شایسته"
+      "adjective": [
+        "مناسب",
+        "‌ بجا",
+        "به موقع",
+        "مستعد",
+        "قابل",
+        "با استعداد",
+        "تیز هوش",
+        "شایسته"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aptitude",
     "pronunciation": "'aptityood",
     "translates": {
-      "noun": "استعداد ،‌ توانایی ، شایستگی ، لیاقت ،‌ قابلیت ، ذوق"
+      "noun": ["استعداد", "‌ توانایی", "شایستگی", "لیاقت", "‌ قابلیت", "ذوق"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aquarium",
     "pronunciation": "e'kweriyem",
     "translates": {
-      "noun": "آکواریوم ، آبزیدان"
+      "noun": ["آکواریوم", "آبزیدان"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aquatic",
     "pronunciation": "e'kwatik",
     "translates": {
-      "adjective": "آبزی ، آبی"
+      "adjective": ["آبزی", "آبی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aqueduct",
     "pronunciation": "'akwida^kt",
     "translates": {
-      "noun": "قنات ، آباره (آب آره) ، آب بر ، مجرا"
+      "noun": ["قنات", "آباره (آب آره)", "آب بر", "مجرا"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "Arab",
     "pronunciation": "'arab",
     "translates": {
-      "noun": "عرب ، تازی ، اسب تازی",
-      "adjective": "عربی"
+      "noun": ["عرب", "تازی", "اسب تازی"],
+      "adjective": ["عربی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "Arabian",
     "pronunciation": "e'reybiyen",
     "translates": {
-      "noun": "عرب ، اهل عربستان",
-      "adjective": "عربی ، [مربوط به] عرب یا عربستان"
+      "noun": ["عرب", "اهل عربستان"],
+      "adjective": ["عربی", "[مربوط به] عرب یا عربستان"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "Arabic",
     "pronunciation": "'arabik",
     "translates": {
-      "noun": "زبان عربی ، عربی",
-      "adjective": "[مربوط به] عرب یا اعراب"
+      "noun": ["زبان عربی", "عربی"],
+      "adjective": ["[مربوط به] عرب یا اعراب"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arbitrary",
     "pronunciation": "a^rbitreri",
     "translates": {
-      "adjective": "اختیاری ، دلخواه ، خودسرانه ، مستبدانه ، مستبد"
+      "adjective": ["اختیاری", "دلخواه", "خودسرانه", "مستبدانه", "مستبد"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arbitrate",
     "pronunciation": "'a^rbitreyt",
     "translates": {
-      "transitive-verb": "حکمیت کردن ، داوری کردن"
+      "transitive-verb": ["حکمیت کردن", "داوری کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arc",
     "pronunciation": "a^rk",
     "translates": {
-      "noun": "قوس ، کمان ، هلال"
+      "noun": ["قوس", "کمان", "هلال"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arch",
     "pronunciation": "a^rch",
     "translates": {
-      "noun": "قوس ، طاق ، طاق نما ، هلال ، قوس کف پا",
-      "transitive-verb": "قوس دادن ، خم کردن",
-      "intransitive-verb": "خم شدن"
+      "noun": ["قوس", "طاق", "طاق نما", "هلال", "قوس کف پا"],
+      "transitive-verb": ["قوس دادن", "خم کردن"],
+      "intransitive-verb": ["خم شدن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "archaeology",
     "pronunciation": "a^rki'ya^la^ji",
     "translates": {
-      "noun": "باستان شناسی"
+      "noun": ["باستان شناسی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "archbishop",
     "pronunciation": "a^rch'bisha^p",
     "translates": {
-      "noun": "اُسقف اعظم ، سر اُسقف"
+      "noun": ["اُسقف اعظم", "سر اُسقف"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "archery",
     "pronunciation": "a^rcheri",
     "translates": {
-      "noun": "تیراندازی"
+      "noun": ["تیراندازی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "architect",
     "pronunciation": "'a^rkitekt",
     "translates": {
-      "noun": "معمار ، طراح"
+      "noun": ["معمار", "طراح"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "architecture",
     "pronunciation": "'a^rkitekcher",
     "translates": {
-      "noun": "معماری ، سبک معماری ، بنا"
+      "noun": ["معماری", "سبک معماری", "بنا"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "are",
     "pronunciation": "a^r",
     "translates": {
-      "intransitive-verb": "هستیم ، هستید ، هستند"
+      "intransitive-verb": ["هستیم", "هستید", "هستند"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "area",
     "pronunciation": "'erya^",
     "translates": {
-      "noun": "منطقه ، ناحیه ، بخش ، محل ، حیاط خلوت ، مساحت"
+      "noun": ["منطقه", "ناحیه", "بخش", "محل", "حیاط خلوت", "مساحت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aren't",
     "pronunciation": "a^rnt , 'a^rent",
     "translates": {
-      "intransitive-verb": "are not (نیستیم ، نیستید ، نیستند)"
+      "intransitive-verb": ["are not (نیستیم", "نیستید", "نیستند)"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "argue",
     "pronunciation": "a^rgyoo",
     "translates": {
-      "transitive-verb": "متقاعد کردن",
-      "intransitive-verb": "جر و بحث کردن ، دلیل آوردن ، استدلال آوردن ، مباحثه کردن"
+      "transitive-verb": ["متقاعد کردن"],
+      "intransitive-verb": [
+        "جر و بحث کردن",
+        "دلیل آوردن",
+        "استدلال آوردن",
+        "مباحثه کردن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "argument",
     "pronunciation": "a^rgyument",
     "translates": {
-      "noun": "مشاجره ، بحث و گفتگو ، استدلال ، دلیل ، برهان ، اثبات"
+      "noun": ["مشاجره", "بحث و گفتگو", "استدلال", "دلیل", "برهان", "اثبات"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arid",
     "pronunciation": "'arid",
     "translates": {
-      "adjective": "خشک ، بایر ، بی حاصل ، بی ثمر ، بیهوده"
+      "adjective": ["خشک", "بایر", "بی حاصل", "بی ثمر", "بیهوده"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arise",
     "pronunciation": "e'ra^yz",
     "translates": {
-      "intransitive-verb": "اتفاق افتادن ، رخ دادن ، پیش آمدن ، ظاهر شدن ، ناشی شدن از ، برخاستن ، بلند شدن"
+      "intransitive-verb": [
+        "اتفاق افتادن",
+        "رخ دادن",
+        "پیش آمدن",
+        "ظاهر شدن",
+        "ناشی شدن از",
+        "برخاستن",
+        "بلند شدن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arisen",
     "pronunciation": "e'rizen",
     "translates": {
-      "past-participle": "اسم مفعول فعل arise"
+      "past-participle": ["اسم مفعول فعل arise"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aristocracy",
     "pronunciation": "aris'ta^kresi",
     "translates": {
-      "noun": "حکومت اشراف ، (طبقه) اشراف"
+      "noun": ["حکومت اشراف", "(طبقه) اشراف"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aristocrat",
     "pronunciation": "'aristokrat",
     "translates": {
-      "noun": "اشراف زاده ، عیان زاده ، نجیب زاده"
+      "noun": ["اشراف زاده", "عیان زاده", "نجیب زاده"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aristocratic",
     "pronunciation": "aristo'kratik",
     "translates": {
-      "adjective": "اشرافی ،‌ اعیانی ، [مربوط به طبقه] اشراف  "
+      "adjective": ["اشرافی", "‌ اعیانی", "[مربوط به طبقه] اشراف"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arithmetic",
     "pronunciation": "a'ritmetik",
     "translates": {
-      "noun": "(علم) حساب ، محاسبه ، جمع",
-      "adjective": "[مربوط به] حساب ، حسابی ، عددی"
+      "noun": ["(علم) حساب", "محاسبه", "جمع"],
+      "adjective": ["[مربوط به] حساب", "حسابی", "عددی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arithmetical",
     "pronunciation": "arith'metika^l",
     "translates": {
-      "adjective": "arithmetic ([مربوط به] حساب ، حسابی ،‌ عددی)"
+      "adjective": ["arithmetic ([مربوط به] حساب", "حسابی", "‌ عددی)"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arm",
     "pronunciation": "a^rm",
     "translates": {
-      "noun": "بازو ، دست (از شانه تا مچ) ، دسته ، اسلحه ،‌ سلاح",
-      "transitive-verb": "مسلح کردن ، مجهز کردن",
-      "intransitive-verb": "مسلح شدن"
+      "noun": ["بازو", "دست (از شانه تا مچ)", "دسته", "اسلحه", "‌ سلاح"],
+      "transitive-verb": ["مسلح کردن", "مجهز کردن"],
+      "intransitive-verb": ["مسلح شدن"]
     },
-    "subWords": [
-      {
-        "arm in arm": "دست در دست"
-      }
-    ]
+    "subWords": {
+      "arm in arm": ["دست در دست"]
+    }
   },
   {
     "word": "armada",
     "pronunciation": "a^r'ma^da^",
     "translates": {
-      "noun": "ناوگان"
+      "noun": ["ناوگان"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "armchair",
     "pronunciation": "a^rmcher",
     "translates": {
-      "noun": "صندلی دسته دار ، مبل ، صندلی راحتی"
+      "noun": ["صندلی دسته دار", "مبل", "صندلی راحتی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "Armenian",
     "pronunciation": "a^rmiiniyen",
     "translates": {
-      "noun": "زبان ارمنی ، اهلِ ارمنستان ،‌ ارمنی",
-      "adjective": "ارمنی"
+      "noun": ["زبان ارمنی", "اهلِ ارمنستان", "‌ ارمنی"],
+      "adjective": ["ارمنی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "armistice",
     "pronunciation": "a^rmistis",
     "translates": {
-      "noun": "آتش بس موقت ، ترک مخاصمه ، صلح موقت"
+      "noun": ["آتش بس موقت", "ترک مخاصمه", "صلح موقت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "armour",
     "pronunciation": "a^rmer",
     "translates": {
-      "noun": "زره ، پوششِ زرهی ، نیروی زرهی",
-      "transitive-verb": "زره پوش کردن"
+      "noun": ["زره", "پوششِ زرهی", "نیروی زرهی"],
+      "transitive-verb": ["زره پوش کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arms",
     "pronunciation": "a^rmz",
     "translates": {
-      "noun": "آغوش ، سامان ، اسلحه ، آرم ، نشان"
+      "noun": ["آغوش", "سامان", "اسلحه", "آرم", "نشان"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "army",
     "pronunciation": "a^rmi",
     "translates": {
-      "noun": "ارتش ، سپاه ،‌ نیرویِ زمینی ، جمعیت ،‌ گروه ،‌ خیل"
+      "noun": ["ارتش", "سپاه", "‌ نیرویِ زمینی", "جمعیت", "‌ گروه", "‌ خیل"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arose",
     "pronunciation": "e'roz",
     "translates": {
-      "past-tens": "گذشته فعل arise (برخاست ، روی داد ، به وجود آمد)"
+      "past-tens": ["گذشته فعل arise (برخاست", "روی داد", "به وجود آمد)"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "around",
     "pronunciation": "e'raond",
     "translates": {
-      "adverb": "اطراف ، به اطراف ، این طرف و آن طرف ، هر طرف ، به هر طرف",
-      "preposition": "همین نزدیکی ها ، دورِ ، دور تا دورِ ، در حدودِ ، تقریباً ، محیط ، دور"
+      "adverb": [
+        "اطراف",
+        "به اطراف",
+        "این طرف و آن طرف",
+        "هر طرف",
+        "به هر طرف"
+      ],
+      "preposition": [
+        "همین نزدیکی ها",
+        "دورِ",
+        "دور تا دورِ",
+        "در حدودِ",
+        "تقریباً",
+        "محیط",
+        "دور"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arouse",
     "pronunciation": "e'raoz",
     "translates": {
-      "transitive-verb": "بر انگیختن ، تحریک کردن ، بیدار کردن"
+      "transitive-verb": ["بر انگیختن", "تحریک کردن", "بیدار کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arrange",
     "pronunciation": "a'reynj",
     "translates": {
-      "transitive-verb": "مرتب کردن ، منظم کردن ، ترتیب دادن ، تدارک دیدن ، قرار گذاشتن ، حل و فصل کردن ، [موسقی] تنظیم کردن"
+      "transitive-verb": [
+        "مرتب کردن",
+        "منظم کردن",
+        "ترتیب دادن",
+        "تدارک دیدن",
+        "قرار گذاشتن",
+        "حل و فصل کردن",
+        "[موسقی] تنظیم کردن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arrangement",
     "pronunciation": "a'reynjment",
     "translates": {
-      "noun": "تنظیم ،‌ چیدمان ، آرایش ، نظم ، ترتیب ، تدارک ، قرار"
+      "noun": ["تنظیم", "‌ چیدمان", "آرایش", "نظم", "ترتیب", "تدارک", "قرار"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arrest",
     "pronunciation": "a'rest",
     "translates": {
-      "noun": "دستگیری ، بازداشت ، توقیف",
-      "transitive-verb": "دستگیر کردن ، بازداشت کردن ،‌ متوقف کردن ، جلوی (چیزی را) گرفتن ، مانع شدن "
+      "noun": ["دستگیری", "بازداشت", "توقیف"],
+      "transitive-verb": [
+        "دستگیر کردن",
+        "بازداشت کردن",
+        "‌ متوقف کردن",
+        "جلوی (چیزی را) گرفتن",
+        "مانع شدن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arrival",
     "pronunciation": "e'ra^yva^l",
     "translates": {
-      "noun": "ورود ، رسیدن ، آمدن ، از راه رسیده ، تولد ،‌ بچه ، نوزاد ، نورسیده "
+      "noun": [
+        "ورود",
+        "رسیدن",
+        "آمدن",
+        "از راه رسیده",
+        "تولد",
+        "‌ بچه",
+        "نوزاد",
+        "نورسیده"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arrive",
     "pronunciation": "e'ra^yv",
     "translates": {
-      "intransitive-verb": "رسیدن (به) ، وارد شدن ، فرا رسیدن ، آمدن ، به دنیا آمدن ، متولد شدن"
+      "intransitive-verb": [
+        "رسیدن (به)",
+        "وارد شدن",
+        "فرا رسیدن",
+        "آمدن",
+        "به دنیا آمدن",
+        "متولد شدن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arrogant",
     "pronunciation": "'arogent",
     "translates": {
-      "adjective": "متکبر ،‌ مغرور ، پُر افاده ،‌ خود پسند ، تکبر آمیز ، گستاخ"
+      "adjective": [
+        "متکبر",
+        "‌ مغرور",
+        "پُر افاده",
+        "‌ خود پسند",
+        "تکبر آمیز",
+        "گستاخ"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arrow",
     "pronunciation": "'aro",
     "translates": {
-      "noun": "تیر ، فلش (-->) ، پیکان"
+      "noun": ["تیر", "فلش (-->)", "پیکان"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arson",
     "pronunciation": "a^rsen",
     "translates": {
-      "noun": "آتش زدن"
+      "noun": ["آتش زدن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "art",
     "pronunciation": "a^rt",
     "translates": {
-      "noun": "هنر ،‌ مهارت ، فن ،‌ استادی ، [به صورت جمع] ادبیات و علوم انسانی",
-      "adjective": "هنری"
+      "noun": [
+        "هنر",
+        "‌ مهارت",
+        "فن",
+        "‌ استادی",
+        "[به صورت جمع] ادبیات و علوم انسانی"
+      ],
+      "adjective": ["هنری"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "artery",
     "pronunciation": "'a^rteri",
     "translates": {
-      "noun": "سرخرگ ، شریان"
+      "noun": ["سرخرگ", "شریان"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "artful",
     "pronunciation": "a^rtful",
     "translates": {
-      "adjective": "حیله گر ، مکار ، نیرنگ باز"
+      "adjective": ["حیله گر", "مکار", "نیرنگ باز"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "arthritic",
     "pronunciation": "a^r'thritik",
     "translates": {
-      "noun": "التهاب مفصل ، آرتروز",
-      "adjective": "(بیمار) مبتلا به آرتریت یا التهاب مفصل"
+      "noun": ["التهاب مفصل", "آرتروز"],
+      "adjective": ["(بیمار) مبتلا به آرتریت یا التهاب مفصل"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "article",
     "pronunciation": "a^rtikel",
     "translates": {
-      "noun": "مقاله ،‌ ماده ، بند ، حرف تعریف ،‌ کالا ، شیء ، [به صورت جمع] لوازم"
+      "noun": [
+        "مقاله",
+        "‌ ماده",
+        "بند",
+        "حرف تعریف",
+        "‌ کالا",
+        "شیء",
+        "[به صورت جمع] لوازم"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "artificial",
     "pronunciation": "a^rti'fisha^l",
     "translates": {
-      "adjective": "مصنوعی ،‌ ساختگی ، غیر طبیعی"
+      "adjective": ["مصنوعی", "‌ ساختگی", "غیر طبیعی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "artificially",
     "pronunciation": "a^rti'fishia^li",
     "translates": {
-      "adverb": "به طور مصنوعی ، به طور ساختگی"
+      "adverb": ["به طور مصنوعی", "به طور ساختگی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "artillery",
     "pronunciation": "a^r'tileri",
     "translates": {
-      "noun": "توپخانه ،‌ توپ"
+      "noun": ["توپخانه", "‌ توپ"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "artist",
     "pronunciation": "a^rtist",
     "translates": {
-      "noun": "نقاش ، هنرمند"
+      "noun": ["نقاش", "هنرمند"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "artistic",
     "pronunciation": "a^r'tistik",
     "translates": {
-      "adjective": "هنری ، هنرمندانه ، هنر شناس ،‌ اهل هنر"
+      "adjective": ["هنری", "هنرمندانه", "هنر شناس", "‌ اهل هنر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "as",
     "pronunciation": "az",
     "translates": {
-      "adverb": "مثلِ ، مانندِ ، از قبیلِ ، همان قدر ، وقتی که",
-      "preposition": "در نتیجه",
-      "conjunction": " چون ،‌ زیرا ،‌ چنان چه ،‌ اگر چه ، هرچند ، هرچه ،‌ به عنوانِ"
+      "adverb": ["مثلِ", "مانندِ", "از قبیلِ", "همان قدر", "وقتی که"],
+      "preposition": ["در نتیجه"],
+      "conjunction": [
+        "چون",
+        "‌ زیرا",
+        "‌ چنان چه",
+        "‌ اگر چه",
+        "هرچند",
+        "هرچه",
+        "‌ به عنوانِ"
+      ]
     },
-    "subWords": [
-      {
-        "as for": "(اما) راجع به"
-      },
-      {
-        "as from": "[زمان] از"
-      },
-      {
-        "as to": "(اما) دربارهء ، در باب"
-      },
-      {
-        "it is as good as the others.": "این هم به خوبی بقیه است."
-      }
-    ]
+    "subWords": {
+      "as for": ["(اما) راجع به"],
+      "as from": ["[زمان] از"],
+      "as to": ["(اما) دربارهء", "در باب"],
+      "it is as good as the others.": ["این هم به خوبی بقیه است."]
+    }
   },
   {
     "word": "ascend",
     "pronunciation": "e'send",
     "translates": {
-      "transitive-verb": "بالا رفتن ، بالا رفتن از ،‌ صعود کردن ، بالا آمدن",
-      "intransitive-verb": "رسیدن به ، رفتن به"
+      "transitive-verb": [
+        "بالا رفتن",
+        "بالا رفتن از",
+        "‌ صعود کردن",
+        "بالا آمدن"
+      ],
+      "intransitive-verb": ["رسیدن به", "رفتن به"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ascent",
     "pronunciation": "e'sent",
     "translates": {
-      "noun": "صعود ،‌ ترقی ، پیشرفت ، عروج ، سربالایی"
+      "noun": ["صعود", "‌ ترقی", "پیشرفت", "عروج", "سربالایی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ash",
     "pronunciation": "ash",
     "translates": {
-      "noun": "خاکستر"
+      "noun": ["خاکستر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ashamed",
     "pronunciation": "e'sheymd",
     "translates": {
-      "adjective": "شرمنده ، شرمسار"
+      "adjective": ["شرمنده", "شرمسار"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ashore",
     "pronunciation": "e'shor",
     "translates": {
-      "adverb": "به ساحل ، تا ساحل ،‌ در ساحل"
+      "adverb": ["به ساحل", "تا ساحل", "‌ در ساحل"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ashtray",
     "pronunciation": "'ashtrey",
     "translates": {
-      "noun": "زیر سیگاری"
+      "noun": ["زیر سیگاری"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "Asia",
     "pronunciation": "'eysha^",
     "translates": {
-      "noun": "آسیا"
+      "noun": ["آسیا"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "Asian",
     "pronunciation": "'eyshen",
     "translates": {
-      "adjective": "آسیایی"
+      "adjective": ["آسیایی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aside",
     "pronunciation": "e'sa^yd",
     "translates": {
-      "adverb": "کنار ،‌ به کنار"
+      "adverb": ["کنار", "‌ به کنار"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ask",
     "pronunciation": "a^sk",
     "translates": {
-      "transitive-verb": "پرسیدن ، سوال کردن ،‌ خواستن ، توقع داشتن"
+      "transitive-verb": ["پرسیدن", "سوال کردن", "‌ خواستن", "توقع داشتن"]
     },
-    "subWords": [
-      {
-        "ask for something": "چیزی (از کسی) خواستن"
-      },
-      {
-        "ask somebody round": "کسی را دعوت کردن"
-      }
-    ]
+    "subWords": {
+      "ask for something": ["چیزی (از کسی) خواستن"],
+      "ask somebody round": ["کسی را دعوت کردن"]
+    }
   },
   {
     "word": "asleep",
     "pronunciation": "e'sliip",
     "translates": {
-      "adjective": "خواب ، خوابیده ، خفته ، کرخ ، بی حس ، خواب رفته"
+      "adjective": ["خواب", "خوابیده", "خفته", "کرخ", "بی حس", "خواب رفته"]
     },
-    "subWords": [
-      {
-        "fall asleep": "(کسی را) خواب بردن"
-      }
-    ]
+    "subWords": {
+      "fall asleep": ["(کسی را) خواب بردن"]
+    }
   },
   {
     "word": "asparagus",
     "pronunciation": "es'parages",
     "translates": {
-      "noun": "مارچوبه"
+      "noun": ["مارچوبه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aspect",
     "pronunciation": "'aspekt",
     "translates": {
-      "noun": "جنبه ، بُعد ، منظر ، نما ، سیما ، چهره ، ظاهر ، سر و وضع ، حالت ، وضع"
+      "noun": [
+        "جنبه",
+        "بُعد",
+        "منظر",
+        "نما",
+        "سیما",
+        "چهره",
+        "ظاهر",
+        "سر و وضع",
+        "حالت",
+        "وضع"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aspirin",
     "pronunciation": "'asprin",
     "translates": {
-      "noun": "آسپرین"
+      "noun": ["آسپرین"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "ass",
     "pronunciation": "as",
     "translates": {
-      "noun": "خر ، الاغ"
+      "noun": ["خر", "الاغ"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "assassin",
     "pronunciation": "e'sasin",
     "translates": {
-      "noun": "آدم کش ، قاتل"
+      "noun": ["آدم کش", "قاتل"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "assassinate",
     "pronunciation": "e'sasineyt",
     "translates": {
-      "transitive-verb": "ترور کردن ، کشتن"
+      "transitive-verb": ["ترور کردن", "کشتن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "assassination",
     "pronunciation": "esasi'neyshen",
     "translates": {
-      "noun": "ترور ، قتل"
+      "noun": ["ترور", "قتل"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "assault",
     "pronunciation": "e'solt",
     "translates": {
-      "noun": "حمله ، هجوم ، یورش ، تجاوز",
-      "transitive-verb": "حمله کردن"
+      "noun": ["حمله", "هجوم", "یورش", "تجاوز"],
+      "transitive-verb": ["حمله کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "assemble",
     "pronunciation": "a'sembel",
     "translates": {
-      "transitive-verb": "جمع کردن ، گرد هم آوردن ، سوار کردن ، مونتاژ کردن",
-      "intransitive-verb": "جمع شدن ،‌ گرد هم آمدن"
+      "transitive-verb": [
+        "جمع کردن",
+        "گرد هم آوردن",
+        "سوار کردن",
+        "مونتاژ کردن"
+      ],
+      "intransitive-verb": ["جمع شدن", "‌ گرد هم آمدن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "assembly",
     "pronunciation": "a'sembli",
     "translates": {
-      "noun": "مجلس ، مجمع ، اجتماع ،‌ تجمع ، جلسه ، گردهمایی ، سوار کردن ، مونتاژ"
+      "noun": [
+        "مجلس",
+        "مجمع",
+        "اجتماع",
+        "‌ تجمع",
+        "جلسه",
+        "گردهمایی",
+        "سوار کردن",
+        "مونتاژ"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "assert",
     "pronunciation": "a'sert",
     "translates": {
-      "transitive-verb": "اظهار داشتن ، بیان کردن ، پافشاری کردن ، تاکید کردن ، ادعا کردن ، نشان دادن"
+      "transitive-verb": [
+        "اظهار داشتن",
+        "بیان کردن",
+        "پافشاری کردن",
+        "تاکید کردن",
+        "ادعا کردن",
+        "نشان دادن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "assertion",
     "pronunciation": "a'sershen",
     "translates": {
-      "noun": "تاکید ، پافشاری ، اظهار ، بیان ، ادعا"
+      "noun": ["تاکید", "پافشاری", "اظهار", "بیان", "ادعا"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "assess",
     "pronunciation": "a'ses",
     "translates": {
-      "transitive-verb": "تخمین زدن ، برآورد کردن ،‌ ارزیابی کردن"
+      "transitive-verb": ["تخمین زدن", "برآورد کردن", "‌ ارزیابی کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "assessment",
     "pronunciation": "a'sesment",
     "translates": {
-      "noun": "برآورد ، تخمین ، ارزیابی ، قیمت گذاری"
+      "noun": ["برآورد", "تخمین", "ارزیابی", "قیمت گذاری"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "asset",
     "pronunciation": "'aset",
     "translates": {
-      "noun": "دارایی ، امتیاز"
+      "noun": ["دارایی", "امتیاز"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "assignment",
     "pronunciation": "e'sa^ynment",
     "translates": {
-      "noun": "وظیفه ،‌ کار ، شغل ،‌ مأموریت ،‌ واگذاری"
+      "noun": ["وظیفه", "‌ کار", "شغل", "‌ مأموریت", "‌ واگذاری"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "assist",
     "pronunciation": "e'sist",
     "translates": {
-      "noun": "همکاری",
-      "transitive-verb": "کمک کردن ،‌ مساعدت کردن ، یاری کردن"
+      "noun": ["همکاری"],
+      "transitive-verb": ["کمک کردن", "‌ مساعدت کردن", "یاری کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "assistant",
     "pronunciation": "e'sistent",
     "translates": {
-      "noun": "دستیار ، معاون ، کمک ، [فروشگاه] فروشنده"
+      "noun": ["دستیار", "معاون", "کمک", "[فروشگاه] فروشنده"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "associate",
     "pronunciation": "esosi'yet",
     "translates": {
-      "noun": "شریک ، معاون ، عضو پیوسته",
-      "adjective": "وابسته ، هم پیوند ، همبسته",
-      "transitive-verb": "شریک کردن ، وابسته کردن"
+      "noun": ["شریک", "معاون", "عضو پیوسته"],
+      "adjective": ["وابسته", "هم پیوند", "همبسته"],
+      "transitive-verb": ["شریک کردن", "وابسته کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "association",
     "pronunciation": "asosi'yeyshen",
     "translates": {
-      "noun": "انجمن ، کانون ، تجمع ، پیوند ، ارتباط ، رابطه ، همکاری ، معاشرت"
+      "noun": [
+        "انجمن",
+        "کانون",
+        "تجمع",
+        "پیوند",
+        "ارتباط",
+        "رابطه",
+        "همکاری",
+        "معاشرت"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "assorted",
     "pronunciation": "a'sortid",
     "translates": {
-      "adjective": "مخلوط ، متنوع ،‌ جورواجور ، همه فن حریف ،‌ سوا شده ، رده بندی شده ، سازگار ،‌ جور "
+      "adjective": [
+        "مخلوط",
+        "متنوع",
+        "‌ جورواجور",
+        "همه فن حریف",
+        "‌ سوا شده",
+        "رده بندی شده",
+        "سازگار",
+        "‌ جور"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "assortment",
     "pronunciation": "e'sortment",
     "translates": {
-      "noun": "مجموعه ، انواع ،‌ رده بندی ، طبقه بندی ، دسته بندی"
+      "noun": ["مجموعه", "انواع", "‌ رده بندی", "طبقه بندی", "دسته بندی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "assume",
     "pronunciation": "a'syoom",
     "translates": {
-      "transitive-verb": "فرض کردن ، خیال کردن ، به عهده گرفتن ، به دست گرفتن ، تظاهر کردن"
+      "transitive-verb": [
+        "فرض کردن",
+        "خیال کردن",
+        "به عهده گرفتن",
+        "به دست گرفتن",
+        "تظاهر کردن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "assumption",
     "pronunciation": "a'sa^mpshen",
     "translates": {
-      "noun": "فرض ،‌ گمان ، تصور ، تظاهر"
+      "noun": ["فرض", "‌ گمان", "تصور", "تظاهر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "assurance",
     "pronunciation": "a'shurens",
     "translates": {
-      "noun": "تضمین ، اطمینان خاطر ، بیمه ، ضمانت"
+      "noun": ["تضمین", "اطمینان خاطر", "بیمه", "ضمانت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "assure",
     "pronunciation": "a'shur",
     "translates": {
-      "transitive-verb": "مطمئن کردن ، تظمین کردن ، اطمینان دادن ، بیمه کردن"
+      "transitive-verb": [
+        "مطمئن کردن",
+        "تظمین کردن",
+        "اطمینان دادن",
+        "بیمه کردن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "asterisk",
     "pronunciation": "asterisk",
     "translates": {
-      "noun": "(علامت) ستاره ( * )"
+      "noun": ["(علامت) ستاره ( * )"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "asthma",
     "pronunciation": "'asma",
     "translates": {
-      "noun": "آسم ، تنگیِ نفس"
+      "noun": ["آسم", "تنگیِ نفس"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "astonish",
     "pronunciation": "as'ta^nish",
     "translates": {
-      "transitive-verb": "متحیر کردن ،‌ متعجب کردن ، مات کردن ، مبهوت کردن ، گیج کردن"
+      "transitive-verb": [
+        "متحیر کردن",
+        "‌ متعجب کردن",
+        "مات کردن",
+        "مبهوت کردن",
+        "گیج کردن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "astonishment",
     "pronunciation": "as'ta^nishment",
     "translates": {
-      "noun": "شگفتی ، حیرت ، تعجب"
+      "noun": ["شگفتی", "حیرت", "تعجب"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "astound",
     "pronunciation": "as'taond",
     "translates": {
-      "transitive-verb": "شگفت زده کردن ، گیج کردن ، مبهوت کردن"
+      "transitive-verb": ["شگفت زده کردن", "گیج کردن", "مبهوت کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "astray",
     "pronunciation": "es'trey",
     "translates": {
-      "adjective": "گمراه ،‌ منحرف ، غلط ،‌ اشتباه ، بیراهه"
+      "adjective": ["گمراه", "‌ منحرف", "غلط", "‌ اشتباه", "بیراهه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "astrology",
     "pronunciation": "as'tra^la^ji",
     "translates": {
-      "noun": "طالع بینی"
+      "noun": ["طالع بینی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "astronaut",
     "pronunciation": "'astra^not",
     "translates": {
-      "noun": "فضانورد"
+      "noun": ["فضانورد"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "astronomer",
     "pronunciation": "as'tra^nomer",
     "translates": {
-      "noun": "اختر شناس ، ستاره شناس ، منجم"
+      "noun": ["اختر شناس", "ستاره شناس", "منجم"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "astronomy",
     "pronunciation": "as'tra^nomy",
     "translates": {
-      "noun": "اختر شناسی ، ستاره شناسی ، نجوم"
+      "noun": ["اختر شناسی", "ستاره شناسی", "نجوم"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "astute",
     "pronunciation": "as'tyoot",
     "translates": {
-      "adjective": "دقیق ، دانا ، ناقلا ، زرنگ ، زبل ، موشکاف ، زیرکانه ،‌ هوشمندانه"
+      "adjective": [
+        "دقیق",
+        "دانا",
+        "ناقلا",
+        "زرنگ",
+        "زبل",
+        "موشکاف",
+        "زیرکانه",
+        "‌ هوشمندانه"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "asylum",
     "pronunciation": "a'sa^ylem",
     "translates": {
-      "noun": "پناهگاه ، پناهندگی (سیاسی) ، تیمارستان"
+      "noun": ["پناهگاه", "پناهندگی (سیاسی)", "تیمارستان"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "at",
     "pronunciation": "at",
     "translates": {
-      "preposition": "در ، به ، از ، سر ، با ، تویِ ، دَمِ ، پشتِ ، درحالِ ، وقتِ ، به خاطرِ ، به سببِ ، به سویِ ، به طرفِ ، طرفِ"
+      "preposition": [
+        "در",
+        "به",
+        "از",
+        "سر",
+        "با",
+        "تویِ",
+        "دَمِ",
+        "پشتِ",
+        "درحالِ",
+        "وقتِ",
+        "به خاطرِ",
+        "به سببِ",
+        "به سویِ",
+        "به طرفِ",
+        "طرفِ"
+      ]
     },
-    "subWords": [
-      {
-        "at home": "در خانه"
-      },
-      {
-        "She's not at home.": "او (در) خانه نیست."
-      },
-      {
-        "at six o'clock": "ساعت شش"
-      },
-      {
-        "I usually get home at six o'clock.": "من معمولاً ساعت 6 به خانه می آیم."
-      }
-    ]
+    "subWords": {
+      "at home": ["در خانه"],
+      "She's not at home.": ["او (در) خانه نیست."],
+      "at six o'clock": ["ساعت شش"],
+      "I usually get home at six o'clock.": [
+        "من معمولاً ساعت 6 به خانه می آیم."
+      ]
+    }
   },
   {
     "word": "ate",
     "pronunciation": "eyt , et",
     "translates": {
-      "past-tens": "گذشته فعل eat (خورد)"
+      "past-tens": ["گذشته فعل eat (خورد)"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "atheist",
     "pronunciation": "'eythi-ist",
     "translates": {
-      "noun": "مُلحد ، خدانشناس ، منکر خدا"
+      "noun": ["مُلحد", "خدانشناس", "منکر خدا"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "athlete",
     "pronunciation": "'athliit",
     "translates": {
-      "noun": "ورزشکار ، قهرمان"
+      "noun": ["ورزشکار", "قهرمان"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "athletic",
     "pronunciation": "ath'letik",
     "translates": {
-      "adjective": "ورزشی ، قهرمانی ،‌ نیرومند ، خوش هیکل"
+      "adjective": ["ورزشی", "قهرمانی", "‌ نیرومند", "خوش هیکل"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "athletics",
     "pronunciation": "ath'letiks",
     "translates": {
-      "noun": "ورزشی ، بازی های ورزشی ، ورزشکاری ، دو و میدانی"
+      "noun": ["ورزشی", "بازی های ورزشی", "ورزشکاری", "دو و میدانی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "atlas",
     "pronunciation": "'atlas",
     "translates": {
-      "noun": "اطلس"
+      "noun": ["اطلس"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "atmosphere",
     "pronunciation": "'atmosfiyer",
     "translates": {
-      "noun": "جَو ، هوا ،‌ حال و هوا ،‌ فضا"
+      "noun": ["جَو", "هوا", "‌ حال و هوا", "‌ فضا"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "atmospheric",
     "pronunciation": "atmos'ferik",
     "translates": {
-      "adjective": "جوی ، [مربوط به] جو ، رمانتیک"
+      "adjective": ["جوی", "[مربوط به] جو", "رمانتیک"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "atom",
     "pronunciation": "'atem",
     "translates": {
-      "noun": "اتم ، ذره ، خرده ، هسته"
+      "noun": ["اتم", "ذره", "خرده", "هسته"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "atomic",
     "pronunciation": "a'ta^mik",
     "translates": {
-      "adjective": "اتمی ،‌ هسته ای"
+      "adjective": ["اتمی", "‌ هسته ای"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "attach",
     "pronunciation": "e'tach",
     "translates": {
-      "transitive-verb": "چسباندن ، پیوست کردن ، ضمیمه کردن ‌، وصل کردن ، بستن ، خود را چسباندن (به) ، قائل شدن ،‌ وابسته کردن",
-      "intransitive-verb": "چسبیدن به"
+      "transitive-verb": [
+        "چسباندن",
+        "پیوست کردن",
+        "ضمیمه کردن ‌",
+        "وصل کردن",
+        "بستن",
+        "خود را چسباندن (به)",
+        "قائل شدن",
+        "‌ وابسته کردن"
+      ],
+      "intransitive-verb": ["چسبیدن به"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "attachment",
     "pronunciation": "e'tachment",
     "translates": {
-      "noun": "الحاق ، ضمیمه ، دلبستگی ، وابستگی ، علاقه ، محبت"
+      "noun": ["الحاق", "ضمیمه", "دلبستگی", "وابستگی", "علاقه", "محبت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "attack",
     "pronunciation": "e'tak",
     "translates": {
-      "noun": "حمله ، یورش",
-      "transitive-verb": "حمله کردن ، (به تدریج) فرسودن ، از بین بردن ، مبتلا کردن"
+      "noun": ["حمله", "یورش"],
+      "transitive-verb": [
+        "حمله کردن",
+        "(به تدریج) فرسودن",
+        "از بین بردن",
+        "مبتلا کردن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "attain",
     "pronunciation": "e'teyn",
     "translates": {
-      "transitive-verb": "رسیدن ، رسیدن به ، دست یافتن به ، به دست آوردن"
+      "transitive-verb": ["رسیدن", "رسیدن به", "دست یافتن به", "به دست آوردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "attempt",
     "pronunciation": "a'tempt",
     "translates": {
-      "noun": "کوشش ، تلاش ، قصد ، اقدام ، مبادرت",
-      "transitive-verb": "کوشیدن ، مبادرت کردن ، تلاش کردن"
+      "noun": ["کوشش", "تلاش", "قصد", "اقدام", "مبادرت"],
+      "transitive-verb": ["کوشیدن", "مبادرت کردن", "تلاش کردن"]
     },
-    "subWords": [
-      {
-        "attempt on somebody's life": "سوءِ قصد (به جان کسی)"
-      }
-    ]
+    "subWords": {
+      "attempt on somebody's life": ["سوءِ قصد (به جان کسی)"]
+    }
   },
   {
     "word": "attend",
     "pronunciation": "a'tend",
     "translates": {
-      "transitive-verb": "حضور یافتن ، شرکت کردن در ، رفتن به"
+      "transitive-verb": ["حضور یافتن", "شرکت کردن در", "رفتن به"]
     },
-    "subWords": [
-      {
-        "attend to": "توجه کردن ، دقت کردن ، مراقبت کردن از"
-      },
-      {
-        "attend upon": "خدمت کردن ، پرستاری کردن ‌، مراقبت کردن"
-      }
-    ]
+    "subWords": {
+      "attend to": ["توجه کردن", "دقت کردن", "مراقبت کردن از"],
+      "attend upon": ["خدمت کردن", "پرستاری کردن ‌", "مراقبت کردن"]
+    }
   },
   {
     "word": "attendance",
     "pronunciation": "a'tendens",
     "translates": {
-      "noun": "حضور ، مراقبت ، خدمت"
+      "noun": ["حضور", "مراقبت", "خدمت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "attendant",
     "pronunciation": "a'tendent",
     "translates": {
-      "noun": "مأمور ، مستخدم ، خادم ، خدمتکار ، همراه ، سرپرست"
+      "noun": ["مأمور", "مستخدم", "خادم", "خدمتکار", "همراه", "سرپرست"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "attention",
     "pronunciation": "a'tenshen",
     "translates": {
-      "noun": "توجه ، دقت ، مراقبت ، لطف"
+      "noun": ["توجه", "دقت", "مراقبت", "لطف"]
     },
-    "subWords": [
-      {
-        "pay attention to": "گوش کردن ، اعتنا کردن ، توجه کردن"
-      },
-      {
-        "stand at (or to) attention": "به حال خبردار ایستادن"
-      }
-    ]
+    "subWords": {
+      "pay attention to": ["گوش کردن", "اعتنا کردن", "توجه کردن"],
+      "stand at (or to) attention": ["به حال خبردار ایستادن"]
+    }
   },
   {
     "word": "attentive",
     "pronunciation": "a'tentiv",
     "translates": {
-      "adjective": "دقیق ، متوجه ، مراقب ، مواظب"
+      "adjective": ["دقیق", "متوجه", "مراقب", "مواظب"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "attentively",
     "pronunciation": "a'tentivli",
     "translates": {
-      "adverb": "با دقت"
+      "adverb": ["با دقت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "attic",
     "pronunciation": "'atik",
     "translates": {
-      "noun": "اتاق زیر شیروانی"
+      "noun": ["اتاق زیر شیروانی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "attitude",
     "pronunciation": "'atityood",
     "translates": {
-      "noun": "نگرش ،‌ نظر ، گرایش ، طرز بخورد ، رفتار ، حالت"
+      "noun": ["نگرش", "‌ نظر", "گرایش", "طرز بخورد", "رفتار", "حالت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "attract",
     "pronunciation": "a'trakt",
     "translates": {
-      "transitive-verb": "جذب کردن ، جلب کردن ، به سوی خود کشیدن"
+      "transitive-verb": ["جذب کردن", "جلب کردن", "به سوی خود کشیدن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "attraction",
     "pronunciation": "a'trakshen",
     "translates": {
-      "noun": "جذبه ، کشش ، گیرایی ، جاذبه"
+      "noun": ["جذبه", "کشش", "گیرایی", "جاذبه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "attractive",
     "pronunciation": "a'traktiv",
     "translates": {
-      "adjective": "جذاب ، زیبا ، جالب ، جالبِ توجه ، وسوسه انگیز ، فریبنده ، دلربا"
+      "adjective": [
+        "جذاب",
+        "زیبا",
+        "جالب",
+        "جالبِ توجه",
+        "وسوسه انگیز",
+        "فریبنده",
+        "دلربا"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "auburn",
     "pronunciation": "'obern",
     "translates": {
-      "adjective": "خرمایی ، قهوه ای مایل به قرمز ، بور"
+      "adjective": ["خرمایی", "قهوه ای مایل به قرمز", "بور"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "auction",
     "pronunciation": "okshen",
     "translates": {
-      "noun": "حراج ، مزایده",
-      "transitive-verb": "حراج کردن ، به مزایده گذاشتن"
+      "noun": ["حراج", "مزایده"],
+      "transitive-verb": ["حراج کردن", "به مزایده گذاشتن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "auctioneer",
     "pronunciation": "okshe'niir",
     "translates": {
-      "noun": "حراج گر ، حراج دهنده"
+      "noun": ["حراج گر", "حراج دهنده"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "audience",
     "pronunciation": "'odiyens",
     "translates": {
-      "noun": "حضار ، شنوندگان ، بینندگان ، خوانندگان"
+      "noun": ["حضار", "شنوندگان", "بینندگان", "خوانندگان"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "audible",
     "pronunciation": "'odibel",
     "translates": {
-      "adjective": "شنیدنی ، قابل شنیدن"
+      "adjective": ["شنیدنی", "قابل شنیدن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "audio",
     "pronunciation": "'a^dio",
     "translates": {
-      "adjective": "سمعی ، شنودی",
-      "noun": "شنیداری"
+      "adjective": ["سمعی", "شنودی"],
+      "noun": ["شنیداری"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "audio bubble",
     "pronunciation": "'a^dio ba^bl",
     "translates": {
-      "noun": "حباب صدا"
+      "noun": ["حباب صدا"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "audit",
     "pronunciation": "'a^det",
     "translates": {
-      "noun": "ممیزی ، حسابرسی ، بازرسی ، رسیدگی",
-      "transitive-verb": "رسیدگی کردن"
+      "noun": ["ممیزی", "حسابرسی", "بازرسی", "رسیدگی"],
+      "transitive-verb": ["رسیدگی کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "audition",
     "pronunciation": "o'dishen",
     "translates": {
-      "noun": "شنوایی ، استماع"
+      "noun": ["شنوایی", "استماع"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "august",
     "pronunciation": "o'ga^st",
     "translates": {
-      "adjective": "شکوهمند ،‌ با عظمت ،‌ همایون ، والامقام ، عظیم الشان"
+      "adjective": [
+        "شکوهمند",
+        "‌ با عظمت",
+        "‌ همایون",
+        "والامقام",
+        "عظیم الشان"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "August",
     "pronunciation": "'ogest",
     "translates": {
-      "noun": "اوت (هشتمین ماه سالِ فرنگی)"
+      "noun": ["اوت (هشتمین ماه سالِ فرنگی)"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aunt",
     "pronunciation": "a^nt",
     "translates": {
-      "noun": "خاله ، عمه ، زن عمو ، زن دایی"
+      "noun": ["خاله", "عمه", "زن عمو", "زن دایی"]
     },
-    "subWords": [
-      {
-        "aunty": "aunt ="
-      }
-    ]
+    "subWords": {
+      "aunty": ["aunt ="]
+    }
   },
   {
     "word": "austere",
     "pronunciation": "os'tiyer",
     "translates": {
-      "adjective": "خشک ، جدی ، سخت ، دشوار ، سختگیر ، تند و تلخ"
+      "adjective": ["خشک", "جدی", "سخت", "دشوار", "سختگیر", "تند و تلخ"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "austerity",
     "pronunciation": "os'teriti",
     "translates": {
-      "noun": "زهد ، پرهیزگاری ، ریاضت ، پارسایی ، سختی ، دشواری ، مشقت"
+      "noun": ["زهد", "پرهیزگاری", "ریاضت", "پارسایی", "سختی", "دشواری", "مشقت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "Australia",
     "pronunciation": "a^s'treyliya^",
     "translates": {
-      "noun": "استرالیا"
+      "noun": ["استرالیا"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "Australian",
     "pronunciation": "a^s'treyliyen",
     "translates": {
-      "noun": "استرالیایی ، اهل استرالیا"
+      "noun": ["استرالیایی", "اهل استرالیا"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "authentic",
     "pronunciation": "o'thentik",
     "translates": {
-      "adjective": "معتبر ، درست ، اصل ، اصیل ، موثق"
+      "adjective": ["معتبر", "درست", "اصل", "اصیل", "موثق"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "author",
     "pronunciation": "'other",
     "translates": {
-      "noun": "نویسنده ، مؤلف ، خالق ، مُبدع"
+      "noun": ["نویسنده", "مؤلف", "خالق", "مُبدع"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "authority",
     "pronunciation": "o'tha^riti",
     "translates": {
-      "noun": "قدرت ، نفوذ ، اختیار ، اجازه ، اعتبار ، حکم ،[به صورت جمع] مقامات ، دولت"
+      "noun": [
+        "قدرت",
+        "نفوذ",
+        "اختیار",
+        "اجازه",
+        "اعتبار",
+        "حکم",
+        "[به صورت جمع] مقامات",
+        "دولت"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "authorize",
     "pronunciation": "'othora^yz",
     "translates": {
-      "transitive-verb": "اختیار دادن به ، اجازه دادن ، تصویب کردن"
+      "transitive-verb": ["اختیار دادن به", "اجازه دادن", "تصویب کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "autobiography",
     "pronunciation": "otoba^y'a^grafi",
     "translates": {
-      "noun": "زندگینامه شخصی"
+      "noun": ["زندگینامه شخصی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "autobiographer",
     "pronunciation": "otoba^y'a^grafer",
     "translates": {
-      "noun": "زندگینامه نویس ، نویسنده شرح حال خود ، خود زیستنامه نویس "
+      "noun": ["زندگینامه نویس", "نویسنده شرح حال خود", "خود زیستنامه نویس"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "autograph",
     "pronunciation": "'otogra^f",
     "translates": {
-      "noun": "دستخط ، امضا",
-      "adjective": "خطی ، دست نویس",
-      "transitive-verb": "دستخط نوشتن"
+      "noun": ["دستخط", "امضا"],
+      "adjective": ["خطی", "دست نویس"],
+      "transitive-verb": ["دستخط نوشتن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "automatic",
     "pronunciation": "oto'matik",
     "translates": {
-      "adjective": "خودکار ، اتوماتیک ، غیر ارادی"
+      "adjective": ["خودکار", "اتوماتیک", "غیر ارادی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "automation",
     "pronunciation": "oto'meyshen",
     "translates": {
-      "noun": "اتوماسیون ، خودکار کردن ، ماشینی کردن"
+      "noun": ["اتوماسیون", "خودکار کردن", "ماشینی کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "automobile",
     "pronunciation": "'otomobiil",
     "translates": {
-      "noun": "ماشین ، خودرو ، اتومبیل ، سواری"
+      "noun": ["ماشین", "خودرو", "اتومبیل", "سواری"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "autumn",
     "pronunciation": "'otem",
     "translates": {
-      "noun": "پاییز ، خزان",
-      "adjective": "پاییزی ، پاییزه"
+      "noun": ["پاییز", "خزان"],
+      "adjective": ["پاییزی", "پاییزه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "autumnal",
     "pronunciation": "o'ta^mna^l",
     "translates": {
-      "adjective": "پاییزی"
+      "adjective": ["پاییزی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "auxiliary",
     "pronunciation": "og'zilyeri",
     "translates": {
-      "noun": "فعل کمکی",
-      "adjective": "کمکی ، امدادی"
+      "noun": ["فعل کمکی"],
+      "adjective": ["کمکی", "امدادی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "available",
     "pronunciation": "e'veylebel",
     "translates": {
-      "adjective": "موجود ، در دسترس ، حاضر ، قابل استفاده"
+      "adjective": ["موجود", "در دسترس", "حاضر", "قابل استفاده"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "avalanche",
     "pronunciation": "'avala^nch",
     "translates": {
-      "noun": "بهمن ، [مجازی] سیل ، انبوه"
+      "noun": ["بهمن", "[مجازی] سیل", "انبوه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "avenge",
     "pronunciation": "a'venj",
     "translates": {
-      "transitive-verb": "انتقام (کسی ‌یا چیزی را) گرفتن ، تلافی (چیزی را) در آوردن"
+      "transitive-verb": [
+        "انتقام (کسی ‌یا چیزی را) گرفتن",
+        "تلافی (چیزی را) در آوردن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "avenue",
     "pronunciation": "'avenyoo",
     "translates": {
-      "noun": "خیابان ، راه ، طریق"
+      "noun": ["خیابان", "راه", "طریق"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "average",
     "pronunciation": "'averij",
     "translates": {
-      "noun": "میانگین ، معدل ، حد متوسط ، حدِ معمول",
-      "adjective": "متوسط ، معمولی",
-      "transitive-verb": "میانگین (چیزی را) بدست آوردن"
+      "noun": ["میانگین", "معدل", "حد متوسط", "حدِ معمول"],
+      "adjective": ["متوسط", "معمولی"],
+      "transitive-verb": ["میانگین (چیزی را) بدست آوردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aversion",
     "pronunciation": "a'vershen",
     "translates": {
-      "noun": "تنفر ، بیزاری ‌، نفرت"
+      "noun": ["تنفر", "بیزاری ‌", "نفرت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aviation",
     "pronunciation": "eyvi'yeyshen",
     "translates": {
-      "noun": "هوانوردی ، هوانیروز ، هواپیمایی"
+      "noun": ["هوانوردی", "هوانیروز", "هواپیمایی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "avoid",
     "pronunciation": "a'voyd",
     "translates": {
-      "transitive-verb": "دوری کردن ، اجتناب کردن ، خودداری کردن"
+      "transitive-verb": ["دوری کردن", "اجتناب کردن", "خودداری کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "awake",
     "pronunciation": "e'weyk",
     "translates": {
-      "adjective": "بیدار ، هشیار ، آگاه ،‌ متوجه",
-      "transitive-verb": "بیدار کردن ، آگاه کردن ، متوجه کردن",
-      "intransitive-verb": "بیدار شدن ، آگاه شدن"
+      "adjective": ["بیدار", "هشیار", "آگاه", "‌ متوجه"],
+      "transitive-verb": ["بیدار کردن", "آگاه کردن", "متوجه کردن"],
+      "intransitive-verb": ["بیدار شدن", "آگاه شدن"]
     },
-    "subWords": [
-      {
-        "keep awake": "بیدار نگه داشتن"
-      },
-      {
-        "stay awake": "بیدار ماندن"
-      }
-    ]
+    "subWords": {
+      "keep awake": ["بیدار نگه داشتن"],
+      "stay awake": ["بیدار ماندن"]
+    }
   },
   {
     "word": "awaken",
     "pronunciation": "e'weyken",
     "translates": {
-      "transitive-verb": "بیدار کردن",
-      "intransitive-verb": "بیدار شدن"
+      "transitive-verb": ["بیدار کردن"],
+      "intransitive-verb": ["بیدار شدن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "award",
     "pronunciation": "e'word",
     "translates": {
-      "noun": "جایزه ، پاداش ، کمک هزینه تحصیلی ، بورس تحصیلی",
-      "transitive-verb": "اعطا کردن ، اهدا کردن ، دادن ، مقرر داشتن"
+      "noun": ["جایزه", "پاداش", "کمک هزینه تحصیلی", "بورس تحصیلی"],
+      "transitive-verb": ["اعطا کردن", "اهدا کردن", "دادن", "مقرر داشتن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "aware",
     "pronunciation": "e'wer",
     "translates": {
-      "adjective": "باخبر ، آگاه ، مطلع"
+      "adjective": ["باخبر", "آگاه", "مطلع"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "awash",
     "pronunciation": "e'wa^sh",
     "translates": {
-      "adjective": "آب گرفته ، زیر آب رفته ، غوطه ور در آب ، غرقه در ، لبریز ، مماس با سطح آب"
+      "adjective": [
+        "آب گرفته",
+        "زیر آب رفته",
+        "غوطه ور در آب",
+        "غرقه در",
+        "لبریز",
+        "مماس با سطح آب"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "away",
     "pronunciation": "e'way",
     "translates": {
-      "adverb": "دور ، دور از ، به فاصلۀ ، در فاصلۀ ، پیوسته ، مدام ، کم کم ، به تدریج ، کنار ، خارج ، بیرون از ، بیرون ، جدا"
+      "adverb": [
+        "دور",
+        "دور از",
+        "به فاصلۀ",
+        "در فاصلۀ",
+        "پیوسته",
+        "مدام",
+        "کم کم",
+        "به تدریج",
+        "کنار",
+        "خارج",
+        "بیرون از",
+        "بیرون",
+        "جدا"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "awe",
     "pronunciation": "o",
     "translates": {
-      "noun": "بهت ، ترس ، خوف ، هیبت"
+      "noun": ["بهت", "ترس", "خوف", "هیبت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "awful",
     "pronunciation": "'oful",
     "translates": {
-      "adjective": "وحشتناک ، ترسناک ، فجیع ، مخوف ، بسیار بد ، افتضاح ، مزخرف"
+      "adjective": [
+        "وحشتناک",
+        "ترسناک",
+        "فجیع",
+        "مخوف",
+        "بسیار بد",
+        "افتضاح",
+        "مزخرف"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "awfully",
     "pronunciation": "'ofuli",
     "translates": {
-      "adverb": "خیلی خیلی ، زیاد ، بسیار ، کاملاً ، افتضاح"
+      "adverb": ["خیلی خیلی", "زیاد", "بسیار", "کاملاً", "افتضاح"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "awkward",
     "pronunciation": "'okword",
     "translates": {
-      "adjective": "ناجور ، نامناسب ، نامساعد ، ناشی ، بی دست و پا ، دست و پا چلفتی ، ناراحت کننده ، آزارنده ، زشت"
+      "adjective": [
+        "ناجور",
+        "نامناسب",
+        "نامساعد",
+        "ناشی",
+        "بی دست و پا",
+        "دست و پا چلفتی",
+        "ناراحت کننده",
+        "آزارنده",
+        "زشت"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "awning",
     "pronunciation": "'oning",
     "translates": {
-      "noun": "سایبان ، چادر ، حفاظ ،‌ پناه گاه ، پناه"
+      "noun": ["سایبان", "چادر", "حفاظ", "‌ پناه گاه", "پناه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "awoke",
     "pronunciation": "e'wok",
     "translates": {
-      "past-tens": "گذشته فعل awake (بیدار شد)"
+      "past-tens": ["گذشته فعل awake (بیدار شد)"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "awoken",
     "pronunciation": "e'woken",
     "translates": {
-      "past-participle": "اسم مفعول فعل awake"
+      "past-participle": ["اسم مفعول فعل awake"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "axe",
     "pronunciation": "aks",
     "translates": {
-      "noun": "تبر ، تیشه ، کاهش هزینه"
+      "noun": ["تبر", "تیشه", "کاهش هزینه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "axle",
     "pronunciation": "'aksl",
     "translates": {
-      "noun": "محور (چرخ) ، آکسل"
+      "noun": ["محور (چرخ)", "آکسل"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "azure",
     "pronunciation": "'azher",
     "translates": {
-      "noun": "لاجورد ، (رنگ) نیلگون",
-      "adjective": "لاجوردی ، آسمان نیلگون ، آبی آسمانی"
+      "noun": ["لاجورد", "(رنگ) نیلگون"],
+      "adjective": ["لاجوردی", "آسمان نیلگون", "آبی آسمانی"]
     },
-    "subWords": []
+    "subWords": {}
   }
 ]

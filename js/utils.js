@@ -33,32 +33,26 @@ export const isString = (str) => {
   return typeof str === "string";
 };
 
-export const getIndexByStartsWith = (arr, val) => {
-  if (!isArray(arr) || !isString(val)) return -1;
-
-  let index = -1;
-  index = arr.findIndex((item) => item.startsWith(val));
-
-  return index;
-};
-
-export const getIndexByIncludes = (arr, val) => {
-  if (!isArray(arr) || !isString(val)) return -1;
-
-  let index = -1;
-  index = arr.findIndex((item) => item.includes(val));
-
-  return index;
-};
+export const textToArray = (str, spliter=",") =>
+  str
+    .split(spliter)
+    .map((item) => item.trim())
+    .filter((item) => item);
 
 export const arrayElementsToObject = (arr) =>
-  arr.reduce((obj, elm) => ((obj[elm.name] = elm.value), obj), {});
+  arr.reduce(
+    (obj, elm) => ((obj[elm.name] = textToArray(elm.value, "،")), obj),
+    {}
+  );
+
+export const getObjectFromToArray = (arr1, arr2) =>
+  arr1.reduce((obj, val, i) => ((obj[val] = arr2[i]), obj), {});
 
 export const arrayToKeyValueObject = (arr) =>
   arr.reduce(
     (obj, val, i) =>
-      i % 2 === 0 ? [...obj, { [arr[i]]: arr[i + 1] }] : [...obj],
-    []
+      i % 2 === 0 ? {...obj,  [arr[i]]: arr[i + 1] } : {...obj},
+    {}
   );
 
 export const objectTOArray = (obj) => {
