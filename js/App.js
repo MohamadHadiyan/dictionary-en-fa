@@ -4,9 +4,11 @@ import {
   arrayToKeyValueObject,
   el,
   elms,
+  getValues,
   isEmptyObject,
   newElm,
   showAlert,
+  textToArray,
 } from "./utils.js";
 import { addFieldsetOptions, getTranslatesWord } from "./FieldsetOptions.js";
 import { SearchBox } from "./Search.js";
@@ -137,9 +139,12 @@ function addWords(e) {
   const inputs = [...elms("#wordAndPronunArea input")];
   const subInputs = [...elms("#subWordInputs input")].map((elem) => elem.value);
   const word = arrayElementsToObject(inputs);
+  const subWords = subInputs.map((item, i) =>
+    i % 2 !== 0 ? textToArray(item, "،") : item
+  );
 
   word.translates = getTranslatesWord();
-  word.subWords = subInputs.length > 0 ? arrayToKeyValueObject(subInputs) : [];
+  word.subWords = subInputs.length > 0 ? arrayToKeyValueObject(subWords) : {};
 
   const isEmpty = isEmptyObject(word.translates);
   const isSubEmpty = subInputs.some((item) => item === "");

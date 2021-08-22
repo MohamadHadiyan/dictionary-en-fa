@@ -1,4 +1,11 @@
-import { el } from "./utils.js";
+import {
+  el,
+  getEntries,
+  getKeys,
+  getObjectFromToArray,
+  getValues,
+  textToArray,
+} from "./utils.js";
 import { getCurrentWord, getWords } from "./WordStore.js";
 
 export default function showTranslate() {
@@ -11,7 +18,7 @@ export default function showTranslate() {
 
 function showWords() {
   const words = getWords();
-  if(!words || words.length === 0) return;
+  if (!words || words.length === 0) return;
 
   const index = getCurrentWord();
   el("#word-index").value = index;
@@ -29,18 +36,19 @@ function showWords() {
       (item) => ` 
             <tr>
                 <td><span>${item[0]}</span></td>
-                <td class="translates"><span>${item[1]}</span></td>
+                <td class="translates"><span>${item[1].join(" ، ")}</span></td>
             </tr>`
     )
     .join("");
 
-  const subWords = words[index].subWords;
+  const subWords = getEntries(words[index].subWords);
   const subRows =
     subWords.length > 0
       ? subWords
           .map((item) => {
-            const obj = Object.entries(item)[0];
-            return `<tr class="subWordRow"><td><span>${obj[0]}</span></td><td><span>${obj[1]}</span></td></tr>`;
+            return `<tr class="subWordRow"><td><span>${
+              item[0]
+            }</span></td><td><span>${item[1].join(" ، ")}</span></td></tr>`;
           })
           .join("")
       : "";

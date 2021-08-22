@@ -3,595 +3,1237 @@
     "word": "D, d",
     "pronunciation": "dii",
     "translates": {
-      "noun": "دی (= چهارمین حرف الفبای انگلیسی )"
+      "noun": ["دی (= چهارمین حرف الفبای انگلیسی )"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dab",
     "pronunciation": "dab",
     "translates": {
-      "transitive-verb": "پاک کردن ، مالیدن ، تر کردن ، ضربه زدن ، زدن ، آهسته زدن ، کهنه را نم زدن",
-      "noun": "قطعه ، اندکی ، تکه"
+      "transitive-verb": [
+        "پاک کردن",
+        "مالیدن",
+        "تر کردن",
+        "ضربه زدن",
+        "زدن",
+        "آهسته زدن",
+        "کهنه را نم زدن"
+      ],
+      "noun": ["قطعه", "اندکی", "تکه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dad",
     "pronunciation": "dad",
     "translates": {
-      "noun": "بابا ، پدر"
+      "noun": ["بابا", "پدر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "daffodil",
     "pronunciation": "'dafodil",
     "translates": {
-      "noun": "گل نرگس ، گل زرد"
+      "noun": ["گل نرگس", "گل زرد"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dagger",
     "pronunciation": "'dager",
     "translates": {
-      "noun": "خنجر ، دشنه"
+      "noun": ["خنجر", "دشنه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "daily",
     "pronunciation": "'deyli",
     "translates": {
-      "adjective": "روزانه ، هر روز ، هر روزه ، روزی ، روزمره",
-      "noun": "روزنامه"
+      "adjective": ["روزانه", "هر روز", "هر روزه", "روزی", "روزمره"],
+      "noun": ["روزنامه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dainty",
     "pronunciation": "'deynti",
     "translates": {
-      "adjective": "خوش طعم ، مطبوع ،‌ ظریف ، خوشگل ، قشنگ ، ملوس ، خوش ریخت",
-      "noun": "گوشت یا خوراک لذیذ"
+      "adjective": [
+        "خوش طعم",
+        "مطبوع",
+        "‌ ظریف",
+        "خوشگل",
+        "قشنگ",
+        "ملوس",
+        "خوش ریخت"
+      ],
+      "noun": ["گوشت یا خوراک لذیذ"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dairy",
     "pronunciation": "'deri",
     "translates": {
-      "noun": "لبنیات فروشی ، لبنیاتی ، [ کارخانه ] لبنیات سازی"
+      "noun": ["لبنیات فروشی", "لبنیاتی", "[ کارخانه ] لبنیات سازی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "daisy",
     "pronunciation": "'deyzi",
     "translates": {
-      "noun": "گل مینا ، گل مروارید"
+      "noun": ["گل مینا", "گل مروارید"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dam",
     "pronunciation": "dam",
     "translates": {
-      "noun": "سد ، بند"
+      "noun": ["سد", "بند"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "damage",
     "pronunciation": "'damij",
     "translates": {
-      "noun": "خسارت ، آسیب ، لطمه ، خرابی ، صدمه ، ضرر ، زیان ،‌ خرج",
-      "transitive-verb": "آسیب رساندن ، خسارت وارد کردن ، لطمه زدن ، زیان زدن"
+      "noun": [
+        "خسارت",
+        "آسیب",
+        "لطمه",
+        "خرابی",
+        "صدمه",
+        "ضرر",
+        "زیان",
+        "‌ خرج"
+      ],
+      "transitive-verb": [
+        "آسیب رساندن",
+        "خسارت وارد کردن",
+        "لطمه زدن",
+        "زیان زدن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "damn",
     "pronunciation": "dam",
     "translates": {
-      "transitive-verb": "لعنت کردن ، لعن کردن ، فحش دادن ، بد و بیراه گفتن ، به باد انتقاد گرفتن",
-      "adjective": "لعنتی",
-      "noun": "فحش"
+      "transitive-verb": [
+        "لعنت کردن",
+        "لعن کردن",
+        "فحش دادن",
+        "بد و بیراه گفتن",
+        "به باد انتقاد گرفتن"
+      ],
+      "adjective": ["لعنتی"],
+      "noun": ["فحش"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "damp",
     "pronunciation": "damp",
     "translates": {
-      "noun": "رطوبت ، نم",
-      "adjective": "مرطوب ، نم دار ، نمناک",
-      "transitive-verb": "مرطوب کردن"
+      "noun": ["رطوبت", "نم"],
+      "adjective": ["مرطوب", "نم دار", "نمناک"],
+      "transitive-verb": ["مرطوب کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dance",
     "pronunciation": "dans",
     "translates": {
-      "noun": "رقص ، آهنگ رقص ، مجلس رقص",
-      "intransitive-verb": "رقصیدن ،‌ رقصاندن ، بالا و پایین رفتن",
-      "transitive-verb": "بالا و پایین انداختن"
+      "noun": ["رقص", "آهنگ رقص", "مجلس رقص"],
+      "intransitive-verb": ["رقصیدن", "‌ رقصاندن", "بالا و پایین رفتن"],
+      "transitive-verb": ["بالا و پایین انداختن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dancer",
     "pronunciation": "danser",
     "translates": {
-      "noun": "رقاص ، رقصنده"
+      "noun": ["رقاص", "رقصنده"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dandruff",
     "pronunciation": "'dandra^f",
     "translates": {
-      "noun": "شوره سر"
+      "noun": ["شوره سر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "Dane",
     "pronunciation": "deyn",
     "translates": {
-      "noun": "دانمارکی"
+      "noun": ["دانمارکی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "danger",
     "pronunciation": "'deynjer",
     "translates": {
-      "noun": "خطر"
+      "noun": ["خطر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dangerous",
     "pronunciation": "'deynjeres",
     "translates": {
-      "adjective": "خطرناک"
+      "adjective": ["خطرناک"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dangerously",
     "pronunciation": "'deynjeresli",
     "translates": {
-      "adverb": "به طور خطرناکی"
+      "adverb": ["به طور خطرناکی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "Danish",
     "pronunciation": "'deynish",
     "translates": {
-      "adjective": "دانمارکی",
-      "noun": "زبان دانمارکی"
+      "adjective": ["دانمارکی"],
+      "noun": ["زبان دانمارکی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dank",
     "pronunciation": "kank",
     "translates": {
-      "adjective": "مرطوب ، نمناک ، مرطوب و سرد"
+      "adjective": ["مرطوب", "نمناک", "مرطوب و سرد"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dare",
     "pronunciation": "der",
     "translates": {
-      "transitive-verb": "جرئت کردن ، به چالش طلبیدن",
-      "intransitive-verb": "جرئت داشتن ، شهامت ( کاری را ) داشتن ، به خود اجازه دادن",
-      "noun": "شهامت"
+      "transitive-verb": ["جرئت کردن", "به چالش طلبیدن"],
+      "intransitive-verb": [
+        "جرئت داشتن",
+        "شهامت ( کاری را ) داشتن",
+        "به خود اجازه دادن"
+      ],
+      "noun": ["شهامت"]
     },
-    "subWords": [
-      {
-        "How dare you...!": "چطور جرئت می کنی ...! ، چطور به خودت اجاره می دهی ...!"
-      },
-      {
-        "I dare say": "فک می کنم ، گمان می کنم ، احتمال دارد"
-      }
-    ]
+    "subWords": {
+      "How dare you...!": [
+        "چطور جرئت می کنی ...!",
+        "چطور به خودت اجاره می دهی ...!"
+      ],
+      "I dare say": ["فک می کنم", "گمان می کنم", "احتمال دارد"]
+    }
   },
   {
     "word": "dark",
     "pronunciation": "da^rk",
     "translates": {
-      "adjective": "تاریک ، [ رنگ ] تیره ، سیر ، [ چهره ] سبزه ، سیاه",
-      "noun": "تاریکی ، غروب"
+      "adjective": ["تاریک", "[ رنگ ] تیره", "سیر", "[ چهره ] سبزه", "سیاه"],
+      "noun": ["تاریکی", "غروب"]
     },
-    "subWords": [
-      {
-        "before dark": "قبل از غروب"
-      },
-      {
-        "after dark": "بعد از غروب"
-      }
-    ]
+    "subWords": {
+      "before dark": ["قبل از غروب"],
+      "after dark": ["بعد از غروب"]
+    }
   },
   {
     "word": "darken",
     "pronunciation": "da^rken",
     "translates": {
-      "intransitive-verb": "تیره شدن ، تاریک شدن",
-      "transitive-verb": "تیره کردن"
+      "intransitive-verb": ["تیره شدن", "تاریک شدن"],
+      "transitive-verb": ["تیره کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "darkness",
     "pronunciation": "da^rknes",
     "translates": {
-      "noun": "تاریکی ، تیرگی"
+      "noun": ["تاریکی", "تیرگی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "darling",
     "pronunciation": "da^rling",
     "translates": {
-      "adjective": "عزیز ، محبوب",
-      "noun": "[  در خطاب ] عزیزم"
+      "adjective": ["عزیز", "محبوب"],
+      "noun": ["[  در خطاب ] عزیزم"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "darn",
     "pronunciation": "da^rn",
     "translates": {
-      "noun": "رفو ، فحش",
-      "transitive-verb": "رفو کردن"
+      "noun": ["رفو", "فحش"],
+      "transitive-verb": ["رفو کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dart",
     "pronunciation": "da^rt",
     "translates": {
-      "intransitive-verb": "مثل تیر رفتن ، مثل برق رفتن ، پریدن",
-      "transitive-verb": "به سرعت حرکت کردن ، پراندن ، انداختن",
-      "noun": "نیزه ، پیکان ، حرکت تند ، زوبین ، تیر"
+      "intransitive-verb": ["مثل تیر رفتن", "مثل برق رفتن", "پریدن"],
+      "transitive-verb": ["به سرعت حرکت کردن", "پراندن", "انداختن"],
+      "noun": ["نیزه", "پیکان", "حرکت تند", "زوبین", "تیر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "darts",
     "pronunciation": "da^rts",
     "translates": {
-      "noun": "[ بازی ] دارت"
+      "noun": ["[ بازی ] دارت"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dash",
     "pronunciation": "dash",
     "translates": {
-      "noun": "خط تیره ، یورش ، شتاب ، کمی ، دوی سرعت",
-      "transitive-verb": "با سرعت رفتن ، با عجله رفتن ، پرتاب کردن ، خرد کردن ، شکستن",
-      "intransitive-verb": "با عجله نوشتن",
-      "interjection": "لعنت بر ...!"
+      "noun": ["خط تیره", "یورش", "شتاب", "کمی", "دوی سرعت"],
+      "transitive-verb": [
+        "با سرعت رفتن",
+        "با عجله رفتن",
+        "پرتاب کردن",
+        "خرد کردن",
+        "شکستن"
+      ],
+      "intransitive-verb": ["با عجله نوشتن"],
+      "interjection": ["لعنت بر ...!"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "date",
     "pronunciation": "deyt",
     "translates": {
-      "noun": "تاریخ ، زمان ، خرما ، نخل ، عصر ، دوره ، ملاقات ، قرار ملاقات",
-      "transitive-verb": "تاریخ گذاشتن ، تاریخ زدن ، تاریخ ( چیزی را ) تعیین کردن ، قرار ( ملاقات ) گذاشتن با"
+      "noun": [
+        "تاریخ",
+        "زمان",
+        "خرما",
+        "نخل",
+        "عصر",
+        "دوره",
+        "ملاقات",
+        "قرار ملاقات"
+      ],
+      "transitive-verb": [
+        "تاریخ گذاشتن",
+        "تاریخ زدن",
+        "تاریخ ( چیزی را ) تعیین کردن",
+        "قرار ( ملاقات ) گذاشتن با"
+      ]
     },
-    "subWords": [
-      {
-        "to date": "تا این تاریخ ، تاکنون"
-      },
-      {
-        "up to date": "نو ، امروزی ، روزآمد"
-      },
-      {
-        "what's to date today?": "امروز چندم است؟"
-      }
-    ]
+    "subWords": {
+      "to date": ["تا این تاریخ", "تاکنون"],
+      "up to date": ["نو", "امروزی", "روزآمد"],
+      "what's to date today?": ["امروز چندم است؟"]
+    }
   },
   {
     "word": "daughter",
     "pronunciation": "'doter",
     "translates": {
-      "noun": "دختر ، فرزند دختر"
+      "noun": ["دختر", "فرزند دختر"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dawdle",
     "pronunciation": "'dodel",
     "translates": {
-      "intransitive-verb": "وقت تلف کردن ، فس فس کردن ، چرت زدن ، بیهوده وقت گذراندن",
-      "noun": "اهمال کار"
+      "intransitive-verb": [
+        "وقت تلف کردن",
+        "فس فس کردن",
+        "چرت زدن",
+        "بیهوده وقت گذراندن"
+      ],
+      "noun": ["اهمال کار"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dawn",
     "pronunciation": "don",
     "translates": {
-      "noun": "سپیده دم ، پگاه ، سحر ، سحرگاه ، بامداد ، فجر",
-      "intransitive-verb": "سپیده زدن ، صبح شدن ، [ مجازی ] جوانه زدن"
+      "noun": ["سپیده دم", "پگاه", "سحر", "سحرگاه", "بامداد", "فجر"],
+      "intransitive-verb": ["سپیده زدن", "صبح شدن", "[ مجازی ] جوانه زدن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "day",
     "pronunciation": "dey",
     "translates": {
-      "noun": "روز ، شبانه روز ، [ اغلب به صورت جمع ] دوره ، زمان"
+      "noun": ["روز", "شبانه روز", "[ اغلب به صورت جمع ] دوره", "زمان"]
     },
-    "subWords": [
-      {
-        "all day long": "در تمام روز ، همهء روز"
-      },
-      {
-        "by day": "در روز ، روزها"
-      },
-      {
-        "day after day": "هر روز ، همه روزه"
-      },
-      {
-        "day in, day out": "هر روز ، پیوسته ، بی وقفه"
-      },
-      {
-        "in a few day's time": "به زودی ، در ظرف چند روز ، همین روز ها"
-      },
-      {
-        "one day": "روزی ، یک روز"
-      },
-      {
-        "the day after tomorrow": "پس فردا"
-      },
-      {
-        "the day before yesterday": "پریروز"
-      },
-      {
-        "what day is it today?": "امروز چند شنبه است؟"
-      }
-    ]
+    "subWords": {
+      "all day long": ["در تمام روز", "همهء روز"],
+      "by day": ["در روز", "روزها"],
+      "day after day": ["هر روز", "همه روزه"],
+      "day in, day out": ["هر روز", "پیوسته", "بی وقفه"],
+      "in a few day's time": ["به زودی", "در ظرف چند روز", "همین روز ها"],
+      "one day": ["روزی", "یک روز"],
+      "the day after tomorrow": ["پس فردا"],
+      "the day before yesterday": ["پریروز"],
+      "what day is it today?": ["امروز چند شنبه است؟"]
+    }
   },
   {
     "word": "daybreak",
     "pronunciation": "'deybreyk",
     "translates": {
-      "noun": "سپیده دم ، بامداد ، صبح ، سحرگاه"
+      "noun": ["سپیده دم", "بامداد", "صبح", "سحرگاه"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "daydream",
     "pronunciation": "'deydriim",
     "translates": {
-      "noun": "خیال پردازی ، رویا پردازی ، افکار پوچ",
-      "intransitive-verb": "خیال پردازی کردن"
+      "noun": ["خیال پردازی", "رویا پردازی", "افکار پوچ"],
+      "intransitive-verb": ["خیال پردازی کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "daylight",
     "pronunciation": "'deyla^yt",
     "translates": {
-      "noun": "روز ، روشنایی روز ، روز روشن"
+      "noun": ["روز", "روشنایی روز", "روز روشن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "daze",
     "pronunciation": "deyz",
     "translates": {
-      "transitive-verb": "گیج کردن ، بهت زده کردن ، خیره کردن ، ژولیده کردن",
-      "noun": "گیجی ، بهت ، خیرگی"
+      "transitive-verb": [
+        "گیج کردن",
+        "بهت زده کردن",
+        "خیره کردن",
+        "ژولیده کردن"
+      ],
+      "noun": ["گیجی", "بهت", "خیرگی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dazed",
     "pronunciation": "deyzd",
     "translates": {
-      "adjective": "گیج ، منگ ، خیره ، ژولیده"
+      "adjective": ["گیج", "منگ", "خیره", "ژولیده"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dazzle",
     "pronunciation": "'dazel",
     "translates": {
-      "transitive-verb": "[ نور ] چشم را زدن ، کور کردن ، خیره کردن",
-      "noun": "تابش یا روشنی خیره کننده"
+      "transitive-verb": ["[ نور ] چشم را زدن", "کور کردن", "خیره کردن"],
+      "noun": ["تابش یا روشنی خیره کننده"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dead",
     "pronunciation": "ded",
     "translates": {
-      "adjective": "مرده ، بی روح ، ساکت ، خاموش ، بی حس ، کامل",
-      "adverb": "کاملاً",
-      "noun": "سکوت ، سکون"
+      "adjective": ["مرده", "بی روح", "ساکت", "خاموش", "بی حس", "کامل"],
+      "adverb": ["کاملاً"],
+      "noun": ["سکوت", "سکون"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "deaden",
     "pronunciation": "'deden",
     "translates": {
-      "transitive-verb": "[ درد ] آرام کردن ، تسکین دادن ، بی حس و بی روح کردن",
-      "intransitive-verb": "بی جان شدن"
+      "transitive-verb": [
+        "[ درد ] آرام کردن",
+        "تسکین دادن",
+        "بی حس و بی روح کردن"
+      ],
+      "intransitive-verb": ["بی جان شدن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "deadly",
     "pronunciation": "'dedli",
     "translates": {
-      "adjective": "کُشنده ، مرگبار ، مهلک ، [ دشمن ] قهار ، خونی ، کینه توز ، کاری ، موثر"
+      "adjective": [
+        "کُشنده",
+        "مرگبار",
+        "مهلک",
+        "[ دشمن ] قهار",
+        "خونی",
+        "کینه توز",
+        "کاری",
+        "موثر"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "deaf",
     "pronunciation": "def",
     "translates": {
-      "adjective": "کر ، ناشنوا"
+      "adjective": ["کر", "ناشنوا"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "deafen",
     "pronunciation": "'defen",
     "translates": {
-      "transitive-verb": "کر کردن",
-      "intransitive-verb": "کر شدن"
+      "transitive-verb": ["کر کردن"],
+      "intransitive-verb": ["کر شدن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "deafness",
     "pronunciation": "'defnis",
     "translates": {
-      "noun": "ناشنوایی"
+      "noun": ["ناشنوایی"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "deal",
     "pronunciation": "dill",
     "translates": {
-      "noun": "معامله ، مصالحه ، نوبت (ورق دادن ) ، دست ، دور ، مقدار",
-      "transitive-verb": "معامله کردن ، رفتار کردن ، سر و کله زدن با ، پرداختن به ، دادن ، توضیع کردن"
+      "noun": ["معامله", "مصالحه", "نوبت (ورق دادن )", "دست", "دور", "مقدار"],
+      "transitive-verb": [
+        "معامله کردن",
+        "رفتار کردن",
+        "سر و کله زدن با",
+        "پرداختن به",
+        "دادن",
+        "توضیع کردن"
+      ]
     },
-    "subWords": [
-      {
-        "deal in something": "در کار خرید و فروش چیزی بودن"
-      },
-      {
-        "deal out": "توضیع کردن ، تقسیم کردن"
-      },
-      {
-        "deal with something": "درباره چیزی بودن ، به چیزی پرداختن"
-      },
-      {
-        "a good deal": "خیلی ، مقدار زیادی ،‌ یک معامله خوب"
-      },
-      {
-        "a great deal": "خیلی ، مقدار زیادی"
-      }
-    ]
+    "subWords": {
+      "deal in something": ["در کار خرید و فروش چیزی بودن"],
+      "deal out": ["توضیع کردن", "تقسیم کردن"],
+      "deal with something": ["درباره چیزی بودن", "به چیزی پرداختن"],
+      "a good deal": ["خیلی", "مقدار زیادی", "‌ یک معامله خوب"],
+      "a great deal": ["خیلی", "مقدار زیادی"]
+    }
   },
   {
     "word": "dealer",
     "pronunciation": "'diller",
     "translates": {
-      "noun": "فروشنده ، دلال"
+      "noun": ["فروشنده", "دلال"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dealt",
     "pronunciation": "delt",
     "translates": {
-      "past-tens": "گذشته فعل deal",
-      "auxiliary-verb": "اسم مفعول فعل deal"
+      "past-tens": ["گذشته فعل deal"],
+      "auxiliary-verb": ["اسم مفعول فعل deal"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dear",
     "pronunciation": "'diyer",
     "translates": {
-      "adjective": "عزیز ، محبوب ، [ در عنوانِ نامه ] گرامی ، گران ، پر ارزش",
-      "noun": "عزیز"
+      "adjective": [
+        "عزیز",
+        "محبوب",
+        "[ در عنوانِ نامه ] گرامی",
+        "گران",
+        "پر ارزش"
+      ],
+      "noun": ["عزیز"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "dearly",
     "pronunciation": "'diyerli",
     "translates": {
-      "adverb": "بسیار ، خیلی ، به طور عزیز"
+      "adverb": ["بسیار", "خیلی", "به طور عزیز"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "death",
     "pronunciation": "deth",
     "translates": {
-      "noun": "مرگ ، مرگ و میر ، فوت ، درگذشت ، ( عمل ) کشتن"
+      "noun": ["مرگ", "مرگ و میر", "فوت", "درگذشت", "( عمل ) کشتن"]
     },
-    "subWords": [
-      {
-        "put someone to death": "اعدام کردن ، کُشتن"
-      }
-    ]
+    "subWords": {
+      "put someone to death": ["اعدام کردن", "کُشتن"]
+    }
   },
   {
     "word": "deathly",
     "pronunciation": "'dethli",
     "translates": {
-      "adjective": "مرگبار ، مرگ گونه ، مهلک ، فانی",
-      "adverb": "مرگ وار ، شبیه به مرده ، مثل مرده"
+      "adjective": ["مرگبار", "مرگ گونه", "مهلک", "فانی"],
+      "adverb": ["مرگ وار", "شبیه به مرده", "مثل مرده"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "debate",
     "pronunciation": "di'beyt",
     "translates": {
-      "noun": "مناظره ، مذاکره ، مباحثه ، مجادله ، بحث ، بگومگو",
-      "intransitive-verb": "بحث کردن ، مذاکره کردن ، مناظره کردن ، جر و بحث کردن ، ( پیش خود ) فکر کردن"
+      "noun": ["مناظره", "مذاکره", "مباحثه", "مجادله", "بحث", "بگومگو"],
+      "intransitive-verb": [
+        "بحث کردن",
+        "مذاکره کردن",
+        "مناظره کردن",
+        "جر و بحث کردن",
+        "( پیش خود ) فکر کردن"
+      ]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "debt",
     "pronunciation": "det",
     "translates": {
-      "noun": "قرض ، بدهی ، بدهکاری ، وام ، [ مجازی ] دِین"
+      "noun": ["قرض", "بدهی", "بدهکاری", "وام", "[ مجازی ] دِین"]
     },
-    "subWords": [
-      {
-        "in debt": "مقروض"
-      }
-    ]
+    "subWords": {
+      "in debt": ["مقروض"]
+    }
   },
   {
     "word": "decade",
     "pronunciation": "'dekeyd",
     "translates": {
-      "noun": "دهه ، ده سال"
+      "noun": ["دهه", "ده سال"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "decay",
     "pronunciation": "di'key",
     "translates": {
-      "noun": "فساد ، خرابی ، گندیدگی ، پوسیدگی ، زوال ، ویرانی ، انحطاط",
-      "intransitive-verb": "فساد شدن ، خراب شدن ، گندیدن ، پوسیدن ، ویران شدن ، فرو ریختن ، ریختن",
-      "transitive-verb": "فاسد کردن ، خراب کردن ، ضایع کردن"
+      "noun": [
+        "فساد",
+        "خرابی",
+        "گندیدگی",
+        "پوسیدگی",
+        "زوال",
+        "ویرانی",
+        "انحطاط"
+      ],
+      "intransitive-verb": [
+        "فساد شدن",
+        "خراب شدن",
+        "گندیدن",
+        "پوسیدن",
+        "ویران شدن",
+        "فرو ریختن",
+        "ریختن"
+      ],
+      "transitive-verb": ["فاسد کردن", "خراب کردن", "ضایع کردن"]
     },
-    "subWords": []
+    "subWords": {}
   },
   {
     "word": "deceit",
     "pronunciation": "di'siit",
     "translates": {
-      "noun": "فریبکاری ، حقه بازی ، تقلب ، فریب ، حیله ، دروغ"
+      "noun": ["فریبکاری", "حقه بازی", "تقلب", "فریب", "حیله", "دروغ"]
     },
-    "subWords": []
+    "subWords": {}
+  },
+  {
+    "word": "deceitful",
+    "pronunciation": "di'siitful",
+    "translates": {
+      "adjective": [
+        "فریبکار",
+        "حقه باز",
+        "متقلب",
+        "مکار",
+        "پر نیرنگ",
+        "فریبکارانه",
+        "غلط انداز"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deceive",
+    "pronunciation": "di'siiv",
+    "translates": {
+      "transitive-verb": [
+        "فریب دادن",
+        "گمراه کردن",
+        "گول زدن",
+        "[ زناشویی ] خیانت کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "December",
+    "pronunciation": "di'sember",
+    "translates": {
+      "noun": ["دسامبر (= ماه دوازدهم سال فرنگی )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "decency",
+    "pronunciation": "'diisensi",
+    "translates": {
+      "noun": [
+        "ادب",
+        "نزاکت",
+        "نجابت",
+        "شایستگی",
+        "لطف",
+        "محبت",
+        "محبوبیت",
+        "بزرگواری",
+        "ضوابط اخلاقی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "decent",
+    "pronunciation": "'diisent",
+    "translates": {
+      "adjective": ["محترم", "شایسته", "نجیب", "با نزاکت", "خوب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "decently",
+    "pronunciation": "'disentli",
+    "translates": {
+      "adverb": ["به نحو شایسته ای", "محترمانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deception",
+    "pronunciation": "di'sepshen",
+    "translates": {
+      "noun": [
+        "فریب",
+        "فریبکاری",
+        "دروغ",
+        "حیله",
+        "اغفال",
+        "تقلب",
+        "نیرنگ",
+        "تزویر"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "decide",
+    "pronunciation": "di'sa^yd",
+    "translates": {
+      "transitive-verb": ["تصمیم گرفتن", "قصد کردن", "حکم کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "decimal",
+    "pronunciation": "'desima^l",
+    "translates": {
+      "adjective": ["ده دهی", "اعشاری"],
+      "noun": ["کسر اعشاری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "decision",
+    "pronunciation": "di'sizhen",
+    "translates": {
+      "noun": [
+        "تصمیم",
+        "عزم",
+        "قدرت تصمیم گیری",
+        "اراده",
+        "قاطعیت",
+        "رای",
+        "حکم"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "decisive",
+    "pronunciation": "di'sa^ysiv",
+    "translates": {
+      "adjective": ["قاطع", "مصمم", "قطعی", "قاطعانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deck",
+    "pronunciation": "dek",
+    "translates": {
+      "noun": ["عرشه", "[ اتوبوس ] طبقه", "دسته ورق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deckchair",
+    "pronunciation": "'dekcher",
+    "translates": {
+      "noun": ["صندلی ساحل", "صندلی استخر", "صندلی عرشه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "declaration",
+    "pronunciation": "dekle'reyshen",
+    "translates": {
+      "noun": [
+        "اعلام",
+        "اعلان",
+        "اظهار",
+        "ابراز",
+        "بیان",
+        "اعلامیه",
+        "بیانیه",
+        "اظهاریه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "declare",
+    "pronunciation": "di'kler",
+    "translates": {
+      "transitive-verb": [
+        "اعلام کردن",
+        "اعلان کردن",
+        "بیان کردن",
+        "اظهار داشتن",
+        "تصریح کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "decline",
+    "pronunciation": "di'kla^yn",
+    "translates": {
+      "transitive-verb": [
+        "رد کردن",
+        "عذرخواستن",
+        "خودداری کردن",
+        "کاهش یافتن",
+        "تنزل یافتن",
+        "تحلیل رفتن",
+        "سرازیر شدن"
+      ],
+      "noun": ["کاهش", "افت", "تنزل", "سقوط", "زوال", "افول"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "decomposition",
+    "pronunciation": "diika^mpo'zishen",
+    "translates": {
+      "noun": ["تجزیه", "خرابی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "decorate",
+    "pronunciation": "'dekoreyt",
+    "translates": {
+      "transitive-verb": ["تزیین کردن", "آذین بستن", "آرایش کردن", "زینت دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "decoration",
+    "pronunciation": "deko'reyshen",
+    "translates": {
+      "noun": [
+        "تزیین",
+        "آرایش",
+        "آذین",
+        "آذین بندی",
+        "دکوراسیون",
+        "نشان ( افتخار )"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "decorative",
+    "pronunciation": "'dekoretiv",
+    "translates": {
+      "adjective": ["زینتی", "تزیینی", "آذینی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "decrease",
+    "pronunciation": "'diikriis",
+    "translates": {
+      "noun": ["کاهش"],
+      "intransitive-verb": ["کم شدن", "کاهش یافتن"],
+      "transitive-verb": ["کم کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dedicate",
+    "pronunciation": "'dedi.keyt",
+    "translates": {
+      "transitive-verb": ["اهدا کردن", "اختصاص دادن", "وقف کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dedication",
+    "pronunciation": "dedi'keyshen",
+    "translates": {
+      "noun": ["فداکاری", "[ کتاب و آثار هنری ] اهدا", "تقدیم نامه", "تخصیص"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deduction",
+    "pronunciation": "di'da^kshen",
+    "translates": {
+      "noun": ["کسر", "استنتاج", "قیاس", "استنباط"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deed",
+    "pronunciation": "diid",
+    "translates": {
+      "noun": ["سند", "عمل", "کردار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deep",
+    "pronunciation": "diip",
+    "translates": {
+      "adjective": [
+        "عمیق",
+        "گود",
+        "ژرف",
+        "عمقی",
+        "سنگین",
+        "پهن",
+        "[ صدا ] بم",
+        "[ رنگ ] سیر",
+        "تند",
+        "جدی",
+        "اساسی"
+      ],
+      "adverb": ["عمیقاً"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deeply",
+    "pronunciation": "'diipli",
+    "translates": {
+      "adverb": ["عمیقاً"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deer",
+    "pronunciation": "'diyer",
+    "translates": {
+      "noun": ["گوزن", "گوزن ها", "آهوی کوهی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "defeat",
+    "pronunciation": "di'fiit",
+    "translates": {
+      "transitive-verb": ["شکست دادن", "مغلوب کردن", "ناکام کردن"],
+      "noun": ["شکست", "باخت", "هزیمت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "defect",
+    "pronunciation": "'diifekt",
+    "translates": {
+      "noun": ["نقص", "عیب", "کاستی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "defective",
+    "pronunciation": "di'fektiv",
+    "translates": {
+      "adjective": ["ناقص", "معیوب", "خراب", "نادرست"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "defend",
+    "pronunciation": "di'fend",
+    "translates": {
+      "transitive-verb": ["حفاظت کردن از", "دفاع کردن از", "حمایت کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "defense",
+    "pronunciation": "di'fens",
+    "translates": {
+      "noun": ["دفاع", "پدافند", "وسیله دفاع", "وکیل مدافع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "defensive",
+    "pronunciation": "di'fensiv",
+    "translates": {
+      "adjective": ["دفاعی", "تدافعی", "حفاظی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "defer",
+    "pronunciation": "di'fer",
+    "translates": {
+      "transitive-verb": ["عقب انداختن", "به تعویق انداختن"],
+      "intransitive-verb": ["تسلیم شدن", "احترام گذاشتن به", "تمکین کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "defiant",
+    "pronunciation": "di'fa^yent",
+    "translates": {
+      "adjective": [
+        "مبارز",
+        "جسور",
+        "نافرمان",
+        "متمرد",
+        "گستاخ",
+        "مخالف",
+        "خیره چشم",
+        "بدگمان",
+        "جسورانه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deficiency",
+    "pronunciation": "di'fishensi",
+    "translates": {
+      "noun": ["کمبود", "نقص", "عیب", "کاستی", "کسری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deficient",
+    "pronunciation": "di'fishent",
+    "translates": {
+      "adjective": ["کم", "ناکافی", "ناقص", "ناکارا", "نارسانا", "داری کمبود"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "define",
+    "pronunciation": "di'fa^yn",
+    "translates": {
+      "transitive-verb": ["تعریف کردن", "مشخص کردن", "تعیین کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "definite",
+    "pronunciation": "'definit",
+    "translates": {
+      "adjective": ["قطعی", "مشخص", "مسلم", "معین", "مصمم", "مطمئن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "definitely",
+    "pronunciation": "'definitli",
+    "translates": {
+      "adverb": ["قطعاً", "به طور قطعی", "عیناً", "یقیناً"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "definition",
+    "pronunciation": "defi'nishen",
+    "translates": {
+      "noun": ["تعریف", "شرح", "وصف", "توصیف", "تعیین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deformed",
+    "pronunciation": "di'formd",
+    "translates": {
+      "adjective": ["از شکل افتاده", "تغییر شکل داده", "بد شکل", "ناقص شده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "defraud",
+    "pronunciation": "di'frod",
+    "translates": {
+      "transitive-verb": [
+        "گول زدن",
+        "کلاه سر ( کسی ) گذاشتن",
+        "فریب دادن",
+        "کلاهبرداری کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "defrost",
+    "pronunciation": "dii'fra^st",
+    "translates": {
+      "transitive-verb": [
+        "یخ ( چیزی را ) آب کردن",
+        "برفک ( یخچال را ) آب کردن",
+        "بخار ( شیشه اتومبیل را ) پاک کردن"
+      ],
+      "intransitive-verb": ["یخ ( چیزی ) آب شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deft",
+    "pronunciation": "deft",
+    "translates": {
+      "adjective": [
+        "ماهر",
+        "استادانه",
+        "ورزیده",
+        "سریع",
+        "چابک",
+        "زرنگ",
+        "کاردان",
+        "چالاک",
+        "زبردست"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "defuse",
+    "pronunciation": "dii'fyooz",
+    "translates": {
+      "transitive-verb": [
+        "فیوز ( چیزی را ) قطع کردن یا برداشتن",
+        "[ بمب و غیره ] خنثی کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "defy",
+    "pronunciation": "di'fa^y",
+    "translates": {
+      "transitive-verb": [
+        "سرپیچی کردن",
+        "به حرف ( کسی ) گوش ندادن",
+        "نقض کردن",
+        "در برابر ( کسی ) ایستادن",
+        "به مبارزه طلبیدن",
+        "تحریک جنگ کردن",
+        "غیر ممکن ساختن",
+        "با شکست مواجه کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "degree",
+    "pronunciation": "di'grii",
+    "translates": {
+      "noun": ["درجه", "مرتبه", "حد", "رتبه", "مدرک دانشگاهی", "مدرک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dehydrate",
+    "pronunciation": "dii'ha^ydreyt",
+    "translates": {
+      "transitive-verb": [
+        "آب چیزی را گرفتن",
+        "[ مواد غذایی ] خشک کردن",
+        "[ شیمی ] آب زدایی کردن",
+        "بی آب کردن"
+      ],
+      "intransitive-verb": ["آب خود را از دست دادن", "خشک شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dejected",
+    "pronunciation": "di'jekted",
+    "translates": {
+      "adjective": [
+        "غمگین",
+        "افسرده",
+        "نژند",
+        "اندوهگین",
+        "مایوس",
+        "ناامید",
+        "محزون",
+        "دلسرد شده",
+        "پژمان",
+        "ملول",
+        "منکوب"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "delay",
+    "pronunciation": "di'ley",
+    "translates": {
+      "intransitive-verb": ["تاخیر کردن", "دیر کردن", "معطل کردن"],
+      "transitive-verb": ["به تاخیر انداختن", "عقب انداختن"],
+      "noun": ["تاخیر", "تعلل", "معطلی"]
+    },
+    "subWords": {}
   }
 ]
