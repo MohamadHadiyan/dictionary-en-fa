@@ -1,11 +1,4 @@
-import {
-  el,
-  getEntries,
-  getKeys,
-  getObjectFromToArray,
-  getValues,
-  textToArray,
-} from "./utils.js";
+import { el, getEntries } from "./utils.js";
 import { getCurrentWord, getWords } from "./WordStore.js";
 
 export default function showTranslate() {

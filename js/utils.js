@@ -39,9 +39,9 @@ export const textToArray = (str, spliter=",") =>
     .map((item) => item.trim())
     .filter((item) => item);
 
-export const arrayElementsToObject = (arr) =>
+export const arrayElementsTwoObject = (arr) =>
   arr.reduce(
-    (obj, elm) => ((obj[elm.name] = textToArray(elm.value, "،")), obj),
+    (obj, elm) => ((obj[elm.name] = elm.value), obj),
     {}
   );
 

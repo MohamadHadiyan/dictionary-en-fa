@@ -649,7 +649,7 @@
         "انحطاط"
       ],
       "intransitive-verb": [
-        "فساد شدن",
+        "فاسد شدن",
         "خراب شدن",
         "گندیدن",
         "پوسیدن",
@@ -1233,6 +1233,517 @@
       "intransitive-verb": ["تاخیر کردن", "دیر کردن", "معطل کردن"],
       "transitive-verb": ["به تاخیر انداختن", "عقب انداختن"],
       "noun": ["تاخیر", "تعلل", "معطلی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "delete",
+    "pronunciation": "di'liit",
+    "translates": {
+      "transitive-verb": ["حذف کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deletion",
+    "pronunciation": "di'liishen",
+    "translates": {
+      "noun": ["حذف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deliberate",
+    "pronunciation": "di'liberit",
+    "translates": {
+      "adjective": ["عمدی", "سنجیده", "آگاهانه", "آرام"],
+      "transitive-verb": [
+        "فکر کردن",
+        "مشورت کردن",
+        "کنکاش کردن",
+        "سنجیدن",
+        "تعمق کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deliberately",
+    "pronunciation": "di'liberiti",
+    "translates": {
+      "adverb": ["عمداً", "تعمداً", "آگاهانه", "با متانت", "به آرامی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deliberation",
+    "pronunciation": "dilibe'reyshen",
+    "translates": {
+      "noun": [
+        "تعمق",
+        "تفکر",
+        "بحث",
+        "مشورت",
+        "متانت",
+        "بررسی",
+        "سنجش",
+        "اندیشه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "delicate",
+    "pronunciation": "'delikit",
+    "translates": {
+      "adjective": [
+        "ظریف",
+        "لطیف",
+        "نرم",
+        "حساس",
+        "شکننده",
+        "ضعیف",
+        "بی بُنیه",
+        "با ملاحظه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "delicately",
+    "pronunciation": "'delikitli",
+    "translates": {
+      "adverb": ["با ظرافت", "با دقت", "با ملاحظه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "delicious",
+    "pronunciation": "di'lishes",
+    "translates": {
+      "adjective": ["خوشمزه", "لذیذ", "خوش طعم", "مطبوع", "زیبا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "delight",
+    "pronunciation": "di'la^yt",
+    "translates": {
+      "noun": [
+        "لذت",
+        "شادی",
+        "شادمانی",
+        "خوشی",
+        "شوق",
+        "مایه شادی",
+        "مایه نشاط"
+      ],
+      "transitive-verb": ["شاد کردن", "لذت بردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "delightful",
+    "pronunciation": "di'la^ytful",
+    "translates": {
+      "adjective": ["لذت بخش", "شاد", "خوشایند", "دلپذیر", "قشنگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "delinquency",
+    "pronunciation": "di'linkwensi",
+    "translates": {
+      "noun": ["بزهکاری", "تخلف", "کوتاهی", "قصور", "بزه", "خلاف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "delinquent",
+    "pronunciation": "di'linkwent",
+    "translates": {
+      "adjective": ["متخلف", "بزهکار", "خلاف"],
+      "noun": ["متخلف", "بزهکار", "خاطی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deliver",
+    "pronunciation": "di'liver",
+    "translates": {
+      "transitive-verb": [
+        "رساندن",
+        "تحویل دادن",
+        "دادن",
+        "تسلیم کردن",
+        "[ سخنرانی و غیره ] ایراد کردن",
+        "زایاندن",
+        "زدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "delivery",
+    "pronunciation": "di'liveri",
+    "translates": {
+      "noun": [
+        "تحویل",
+        "تحویل نامه و محموله های پستی",
+        "بیان",
+        "طرز بیان",
+        "زایمان",
+        "نجات",
+        "رهایی",
+        "تسلیم"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "delude",
+    "pronunciation": "di'lood",
+    "translates": {
+      "transitive-verb": [
+        "گول زدن",
+        "فریب دادن",
+        "اغفال کردن",
+        "گمراه کردن",
+        "فریفتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "delusion",
+    "pronunciation": "di'loozhen",
+    "translates": {
+      "noun": ["وهم", "توهم", "فریب", "اغفال", "پندار بیهوده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "demand",
+    "pronunciation": "di'ma^nd",
+    "translates": {
+      "noun": ["درخواست", "تقاظا", "مطالبه", "خواست", "طلب"],
+      "transitive-verb": ["خواستن", "لازم داشتن", "مطالبه کردن", "تقاظا کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "demo",
+    "pronunciation": "'demo",
+    "translates": {
+      "noun": ["نسخه نمایشی", "[ عامیانه ] تظاهرات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "democracy",
+    "pronunciation": "di'ma^kresi",
+    "translates": {
+      "noun": ["دموکراسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "democrat",
+    "pronunciation": "'demo.krat",
+    "translates": {
+      "noun": ["( آدم ) دموکرات", "طرفدار دموکراسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "democratic",
+    "pronunciation": "demo'kratik",
+    "translates": {
+      "adjective": ["دموکراتیک", "مردمی", "خلقی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "demolish",
+    "pronunciation": "di'ma^lish",
+    "translates": {
+      "transitive-verb": ["خراب کردن", "درهم کوبیدن", "ویران کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "demolition",
+    "pronunciation": "demo'lishen",
+    "translates": {
+      "noun": ["تخریب", "انهدام", "ویرانی", "[ عقیده ] نفی", "ابطال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "demonstrate",
+    "pronunciation": "'demonstreyt",
+    "translates": {
+      "transitive-verb": [
+        "اثبات کردن",
+        "ثابت کردن",
+        "نشان دادن",
+        "نمایش دادن",
+        "آشکار ساختن"
+      ],
+      "intransitive-verb": ["در تظاهرات شرکت کردن", "تظاهرات کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "demonstration",
+    "pronunciation": "demons'treyshen",
+    "translates": {
+      "noun": ["تظاهرات", "راهپیمایی", "نمایش", "اثبات", "نشان دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "demonstrative",
+    "pronunciation": "di'ma^nstretiv",
+    "translates": {
+      "adjective": ["احساساتی", "گرم", "نمایشی", "اثبات کننده"],
+      "noun": ["صفت اشاره", "ضمیر اشاره", "اسم اشاره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "demonstrator",
+    "pronunciation": "'demon.streyter",
+    "translates": {
+      "noun": ["نشان دهنده", "اثبات کننده", "[ به صورت جمع ] تظاهرکنندگان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "den",
+    "pronunciation": "den",
+    "translates": {
+      "noun": ["لانه", "کنام", "مخفیگاه", "کمینگاه", "پاتوق", "گوشه دنج"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "denial",
+    "pronunciation": "di'na^ya^l",
+    "translates": {
+      "noun": ["تکذیب", "انکار", "حاشا", "رد", "عدم پذیرش", "محرومیت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "denim",
+    "pronunciation": "'denim",
+    "translates": {
+      "noun": ["پارچه جین"],
+      "adjective": ["جین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "denims",
+    "pronunciation": "'denimz",
+    "translates": {
+      "noun": ["شلوار جین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "denomination",
+    "pronunciation": "dina^mi'neyshen",
+    "translates": {
+      "noun": ["نام گذاری", "نام", "فرقه ( مذهبی )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "denounce",
+    "pronunciation": "di'naons",
+    "translates": {
+      "transitive-verb": [
+        "محکوم کردن",
+        "به باد انتقاد گرفتن",
+        "متهم کردن",
+        "لغو کردن",
+        "باطل اعلام کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dense",
+    "pronunciation": "dens",
+    "translates": {
+      "adjective": ["غلیظ", "فشرده", "متراکم", "انبوه", "چگال", "مشکل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "densely",
+    "pronunciation": "'densli",
+    "translates": {
+      "adverb": ["به طور متراکم", "با تراکم زیاد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "density",
+    "pronunciation": "'densiti",
+    "translates": {
+      "noun": ["فشردگی", "تراکم", "انبوهی", "چگالی", "غلظت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dent",
+    "pronunciation": "dent",
+    "translates": {
+      "noun": [
+        "فرورفتگی",
+        "قُرشدگی",
+        "گودی",
+        "تورفتگی",
+        "[ مجازی ] سوراخ",
+        "چاله"
+      ],
+      "transitive-verb": ["قُر کردن"],
+      "intransitive-verb": ["قُر شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dental",
+    "pronunciation": "'denta^l",
+    "translates": {
+      "adjective": ["دندانی", "مربوط به دندان سازی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dentist",
+    "pronunciation": "'dentist",
+    "translates": {
+      "noun": ["دندان پزشک", "دندان ساز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dentures",
+    "pronunciation": "'dencherz",
+    "translates": {
+      "noun": ["دندان مصنوعی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deny",
+    "pronunciation": "di'na^y",
+    "translates": {
+      "transitive-verb": [
+        "تکذیب کردن",
+        "انکار کردن",
+        "منکر شدن",
+        "رد کردن",
+        "حاشا کردن",
+        "دریغ کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deodorant",
+    "pronunciation": "dii'oderent",
+    "translates": {
+      "noun": ["ضد بو", "اسپره ( بدن )", "دئودورانت", "خوشبو کننده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "depart",
+    "pronunciation": "di'pa^rt",
+    "translates": {
+      "transitive-verb": ["حرکت کردن", "راهی شدن", "رفتن", "دور شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "department",
+    "pronunciation": "di'pa^rtment",
+    "translates": {
+      "noun": ["وزارتخانه", "اداره", "[ بیمارستان ] بخش", "[ دانشگاه ] گروه"]
+    },
+    "subWords": {
+      "department store": ["فروشگاه بزرگ"]
+    }
+  },
+  {
+    "word": "departure",
+    "pronunciation": "di'pa^rcher",
+    "translates": {
+      "noun": ["عزیمت", "حرکت", "رفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "depend",
+    "pronunciation": "di'pend",
+    "translates": {
+      "intransitive-verb": [
+        "وابسته بودن",
+        "روی ( کسی ) حساب کردن",
+        "به ( کسی ) اعتماد کردن"
+      ]
+    },
+    "subWords": {
+      "it ( or that ) depends": ["بستگی دارد", "حالا تا ببینم"],
+      "depend on ( or upon )": [
+        "وابسته بودن به",
+        "نیازمند بودن",
+        "اعتماد کردن به"
+      ]
+    }
+  },
+  {
+    "word": "dependable",
+    "pronunciation": "di'pendebel",
+    "translates": {
+      "adjective": ["مطمئن", "قابل اعتماد", "قابل اطمینان", "مورد اعتماد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dependence",
+    "pronunciation": "di'pendens",
+    "translates": {
+      "adjective": ["وابستگی", "اتکا", "اعتماد", "اعتیاد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dependent",
+    "pronunciation": "di'pendent",
+    "translates": {
+      "adjective": ["وابسته", "متکی به", "معتاد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deplorable",
+    "pronunciation": "di'plorebel",
+    "translates": {
+      "adjective": ["اسفناک", "تاسف آور", "رقت انگیز", "اسف انگیز", "مایه تاسف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deport",
+    "pronunciation": "di'port",
+    "translates": {
+      "transitive-verb": ["( از کشور ) اخراج کردن", "تبعید کردن", "رفتار کردن"]
     },
     "subWords": {}
   }
