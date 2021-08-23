@@ -1,12 +1,25 @@
 import FarsiType from "./FarsiType.js";
-import { arrayElementsToObject, el, newElm } from "./utils.js";
+import {
+  arrayElementsTwoObject,
+  el,
+  getKeys,
+  getObjectFromToArray,
+  getValues,
+  newElm,
+  textToArray,
+} from "./utils.js";
 
 export const translateInputs = [];
 
 export const getTranslatesWord = () => {
-  const elems = arrayElementsToObject(translateInputs);
+  const elems = arrayElementsTwoObject(translateInputs);
+  const values = getValues(elems).map((item) => textToArray(item, "،"));
+  const keys = getKeys(elems);
+  const translates = getObjectFromToArray(keys, values);
+
   translateInputs.splice(0);
-  return elems;
+
+  return translates;
 };
 
 const addInput = (name) => {

@@ -1,10 +1,9 @@
 import FarsiType from "./FarsiType.js";
 import {
-  arrayElementsToObject,
+  arrayElementsTwoObject,
   arrayToKeyValueObject,
   el,
   elms,
-  getValues,
   isEmptyObject,
   newElm,
   showAlert,
@@ -138,7 +137,8 @@ function addWords(e) {
 
   const inputs = [...elms("#wordAndPronunArea input")];
   const subInputs = [...elms("#subWordInputs input")].map((elem) => elem.value);
-  const word = arrayElementsToObject(inputs);
+
+  const word = arrayElementsTwoObject(inputs);
   const subWords = subInputs.map((item, i) =>
     i % 2 !== 0 ? textToArray(item, "،") : item
   );
