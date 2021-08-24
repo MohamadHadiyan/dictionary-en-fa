@@ -1746,5 +1746,575 @@
       "transitive-verb": ["( از کشور ) اخراج کردن", "تبعید کردن", "رفتار کردن"]
     },
     "subWords": {}
+  },
+  {
+    "word": "deposit",
+    "pronunciation": "di'pa^zit",
+    "translates": {
+      "noun": [
+        "سپرده",
+        "امانت",
+        "ودیعه",
+        "پرداخت",
+        "پیش پرداخت",
+        "وثیقه",
+        "رسوب",
+        "ته نشین"
+      ],
+      "transitive-verb": [
+        "گذاشتن",
+        "قرار دادن",
+        "واریز کردن",
+        "سپردن",
+        "به امانت گذاشتن ( نزدِ )",
+        "[ رسوب",
+        "خاک ] برجای گذاشتن",
+        "ته نشین کردن"
+      ],
+      "intransitive-verb": ["رسوب کردن", "ته نشین شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "depot",
+    "pronunciation": "'depo",
+    "translates": {
+      "noun": ["انبار", "[ در آمریکا", "اتوبوس و قطار ] ایستگاه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "depress",
+    "pronunciation": "di'pres",
+    "translates": {
+      "transitive-verb": [
+        "فشار دادن",
+        "پایین آوردن",
+        "افسرده کردن",
+        "دلتنگ کردن",
+        "کم بها کردن",
+        "از ارزش انداختن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "depression",
+    "pronunciation": "di'preshen",
+    "translates": {
+      "noun": [
+        "[ روانشناسی ] افسردگی",
+        "رکود اقتصادی",
+        "فشار",
+        "کسادی",
+        "[ هواشناسی ] فروبار"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deprive",
+    "pronunciation": "di'pra^yv",
+    "translates": {
+      "transitive-verb": [
+        "محروم کردن",
+        "بی نصیب کردن",
+        "بی بهره کردن",
+        "سلب کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "depth",
+    "pronunciation": "depth",
+    "translates": {
+      "noun": ["عمق", "ژرفا", "گودی", "قعر"]
+    },
+    "subWords": {
+      "in depth": ["به طور مفصل", "به دقت"]
+    }
+  },
+  {
+    "word": "deputy",
+    "pronunciation": "'depyuti",
+    "translates": {
+      "noun": ["جانشین", "قائم مقام", "نایب", "معاون", "نماینده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "derange",
+    "pronunciation": "di'reynj",
+    "translates": {
+      "transitive-verb": ["آشفته کردن", "دیوانه کردن", "برهم زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "derive",
+    "pronunciation": "di'ra^yv",
+    "translates": {
+      "transitive-verb": ["به دست آوردن", "مشتق کردن", "نتیجه گرفتن"],
+      "intransitive-verb": ["مشتق شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "descend",
+    "pronunciation": "di'send",
+    "translates": {
+      "intransitive-verb": [
+        "فرود آمدن",
+        "پایین آمدن",
+        "سرازیر شدن",
+        "نازل شدن",
+        "به ارث رسیدن"
+      ],
+      "transitive-verb": ["فرو رفتن", "پایین رفتن", "نزول کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "descendant",
+    "pronunciation": "di'sendent",
+    "translates": {
+      "noun": ["نسل", "فرزند", "خلف", "تبار", "زاده اولاد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "descent",
+    "pronunciation": "di'sent",
+    "translates": {
+      "noun": [
+        "فرود",
+        "سراشیبی",
+        "سرازیری",
+        "سقوط",
+        "تنزل",
+        "نزول",
+        "هبوط",
+        "تبار",
+        "نسب",
+        "نژاد"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "describe",
+    "pronunciation": "dis'kra^yb",
+    "translates": {
+      "transitive-verb": [
+        "توصیف کردن",
+        "وصف کردن",
+        "شرح دادن",
+        "تعریف کردن",
+        "رسم کردن",
+        "کشیدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "description",
+    "pronunciation": "dis'kripshen",
+    "translates": {
+      "noun": ["شرح", "وصف", "توصیف", "تعریف", "تشریح", "نوع", "جور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "descriptive",
+    "pronunciation": "dis'kriptiv",
+    "translates": {
+      "adjective": ["توصیفی", "تشریحی", "وصفی", "ترسیمی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "desert",
+    "pronunciation": "'dezert , di'zert",
+    "translates": {
+      "noun": ["بیابان", "صحرا", "کویر", "دشت"],
+      "transitive-verb": [
+        "( از جایی ) رفتن",
+        "رها کردن",
+        "ول کردن",
+        "ترک کردن"
+      ],
+      "adjective": ["بیابانی", "کویری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deserted",
+    "pronunciation": "di'zertid",
+    "translates": {
+      "adjective": ["خلوت", "خالی از سکنه", "متروکه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deserve",
+    "pronunciation": "di'zerv",
+    "translates": {
+      "transitive-verb": [
+        "استحقاق داشتن",
+        "شایستگی داشتن",
+        "سزاوار ( چیزی ) بودن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "design",
+    "pronunciation": "di'za^yn",
+    "translates": {
+      "noun": ["طرح", "طراحی", "نقشه", "زمینه", "قصد", "نیت"],
+      "transitive-verb": [
+        "طراحی کردن",
+        "طرح ریزی کردن",
+        "در نظر گرفتن",
+        "قصد کردن",
+        "تخصیص دادن به"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "designer",
+    "pronunciation": "di'za^yner",
+    "translates": {
+      "noun": ["طراح"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "desire",
+    "pronunciation": "di'za^yer",
+    "translates": {
+      "noun": [
+        "میل",
+        "اشتیاق",
+        "تمایل",
+        "آرزو",
+        "خواست",
+        "[ در معنای جنسی ] عشق"
+      ],
+      "transitive-verb": [
+        "آرزو کردن",
+        "آرزومند ( چیزی ) بودن",
+        "خواستن",
+        "میل داشتن",
+        "تمایل داشتن",
+        "عاشق ( کسی ) بودن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "desk",
+    "pronunciation": "desk",
+    "translates": {
+      "noun": ["میز", "میز تحریر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "desolate",
+    "pronunciation": "'desolit",
+    "translates": {
+      "adjective": [
+        "متروکه",
+        "مخروبه",
+        "ویرانه",
+        "خالی از سکنه",
+        "ویران",
+        "خراب",
+        "غمگین",
+        "تنها",
+        "بیچاره"
+      ],
+      "transitive-verb": ["ویران کردن", "مخروبه کردن", "غمگین کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "despair",
+    "pronunciation": "dis'per",
+    "translates": {
+      "noun": ["ناامیدی", "یاس"],
+      "intransitive-verb": ["ناامید شدن", "مایوس شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "desperate",
+    "pronunciation": "'desperit",
+    "translates": {
+      "adjective": [
+        "مستاصل",
+        "ناامید",
+        "درمانده",
+        "از جان گذشته",
+        "ناچار",
+        "محتاج",
+        "نیازمند",
+        "نومید"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "desperately",
+    "pronunciation": "'desperitli",
+    "translates": {
+      "adverb": ["از فرط استیصال", "ناامیدانه", "جداً", "زیاد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "desperation",
+    "pronunciation": "despe'reyshen",
+    "translates": {
+      "noun": ["استیصال", "نومیدی", "ناچاری", "درماندگی", "بیچارگی", "لاعلاجی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "despise",
+    "pronunciation": "dis'pa^yz",
+    "translates": {
+      "transitive-verb": [
+        "مورد تنفر قرار دادن",
+        "متنفر بودن از",
+        "تحقیر کردن",
+        "خوار شمردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "despite",
+    "pronunciation": "dis'pa^yt",
+    "translates": {
+      "preposition": [
+        "به رغمِ",
+        "با وجودِ",
+        "باوجود اینکه",
+        "بر خلافِ",
+        "علیرغم"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dessert",
+    "pronunciation": "di'zert",
+    "translates": {
+      "noun": ["دِسِر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dessertspoon",
+    "pronunciation": "di'zertspoon",
+    "translates": {
+      "noun": ["قاشق مرباخوری", "قاشق دسر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "destination",
+    "pronunciation": "desti'neyshen",
+    "translates": {
+      "noun": ["مقصد", "هدف", "غایت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "destiny",
+    "pronunciation": "'destini",
+    "translates": {
+      "noun": ["تقدیر", "سرنوشت", "قسمت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "destitute",
+    "pronunciation": "'destityoot",
+    "translates": {
+      "adjective": [
+        "فقیر",
+        "تهی دست",
+        "نیازمند",
+        "مستضعف",
+        "خالی",
+        "عاری",
+        "فاقدِ"
+      ],
+      "noun": ["بینوا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "destroy",
+    "pronunciation": "dis'troy",
+    "translates": {
+      "transitive-verb": [
+        "خراب کردن",
+        "نابود کردن",
+        "از بین بردن",
+        "ویران کردن",
+        "منهدم کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "destruction",
+    "pronunciation": "dis'tra^kshen",
+    "translates": {
+      "noun": ["خرابی", "تخریب", "ویرانی", "انهدام"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "detach",
+    "pronunciation": "di'tach",
+    "translates": {
+      "transitive-verb": ["باز کردن", "جدا کردن", "ترک کردن", "فرستادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "detached",
+    "pronunciation": "di'tacht",
+    "translates": {
+      "adjective": [
+        "جدا",
+        "مجزا",
+        "بی طرف",
+        "بی طرفانه",
+        "مستقل",
+        "منفصل",
+        "بی تفاوت",
+        "بی اعتنا"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "detail",
+    "pronunciation": "'diiteyl",
+    "translates": {
+      "noun": ["جزئیات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "detain",
+    "pronunciation": "di'teyn",
+    "translates": {
+      "transitive-verb": ["معطل کردن", "باز داشتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "detect",
+    "pronunciation": "di'tekt",
+    "translates": {
+      "transitive-verb": [
+        "یافتن",
+        "پیدا کردن",
+        "پی بردن به",
+        "متوجه چیزی شدن",
+        "شناسایی کردن",
+        "کشف کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "detective",
+    "pronunciation": "di'tektiv",
+    "translates": {
+      "noun": ["کارآگاه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "detention",
+    "pronunciation": "di'tenshen",
+    "translates": {
+      "noun": ["بازداشت", "توقیف", "حبس", "زندان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deter",
+    "pronunciation": "di'ter",
+    "translates": {
+      "transitive-verb": [
+        "منصرف کردن",
+        "مانع شدن",
+        "بازداشتن",
+        "ترساندن",
+        "دلسرد کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "detergent",
+    "pronunciation": "di'terjent",
+    "translates": {
+      "noun": ["ماده پاک کننده", "مواد شوینده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deteriorate",
+    "pronunciation": "di'tiriyereyt",
+    "translates": {
+      "intransitive-verb": ["بدتر شدن", "وخیم تر شدن", "خراب شدن", "فاسد شدن"],
+      "transitive-verb": ["بدتر کردن", "وخیم تر کردن", "خراب کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deterioration",
+    "pronunciation": "ditiriyo'reyshen",
+    "translates": {
+      "noun": ["وخامت", "تیرگی ( روابط )", "زوال", "بدتر شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "determine",
+    "pronunciation": "di'termin",
+    "translates": {
+      "transitive-verb": ["معین کردن", "تعیین کردن", "مشخص کردن", "تصمیم گرفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "determined",
+    "pronunciation": "di'termind",
+    "translates": {
+      "adjective": ["مصمم", "با اراده", "قاطع", "مشخص", "معین", "قاطعانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "deterrent",
+    "pronunciation": "di'terent",
+    "translates": {
+      "adjective": ["بازدارنده"],
+      "noun": ["عامل بازدارنده", "مانع شونده"]
+    },
+    "subWords": {}
   }
 ]

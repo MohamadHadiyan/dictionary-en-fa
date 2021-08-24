@@ -39,13 +39,11 @@ const persianSearch = (wordsObj, value) => {
 
   if (index === -1) {
     index = wordsObj.findIndex((item) =>
-      getValues(item.subWords).some((elm) => {
-        console.log(getValues(elm));
-        return getValues(elm)[0].includes(value);
-      })
+      getValues(item.subWords).some((elm) =>
+        getValues(elm).some((item) => item.includes(value))
+      )
     );
   }
-  console.log(index);
 
   return index;
 };
@@ -64,10 +62,12 @@ export const SearchBox = () => {
     const words = getWords();
     let index = -1;
 
-    if (!isRTL(value)) {
-      index = englishSearch(words, value);
-    } else {
+    if (isRTL(value)) {
+      e.target.style = "direction:rtl;font-family:IRANSansWeb, Lato;";
       index = persianSearch(words, value);
+    } else {
+      e.target.style.direction = "ltr";
+      index = englishSearch(words, value);
     }
 
     if (index === -1) {
@@ -87,7 +87,10 @@ export const SearchBox = () => {
   );
 
   search.placeholder = "Search...";
-  search.onblur = (e) => (e.target.value ? undefined : checkClasses(e));
+  search.onblur = (e) => {
+    e.target.value ? undefined : checkClasses(e);
+    e.target.value ? undefined : (e.target.style.direction = "ltr");
+  };
 
   return search;
 };
