@@ -64,7 +64,7 @@
       "adjective": [
         "خوش طعم",
         "مطبوع",
-        "‌ ظریف",
+        "‌ظریف",
         "خوشگل",
         "قشنگ",
         "ملوس",
@@ -2314,6 +2314,482 @@
     "translates": {
       "adjective": ["بازدارنده"],
       "noun": ["عامل بازدارنده", "مانع شونده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "detest",
+    "pronunciation": "di'test",
+    "translates": {
+      "transitive-verb": ["متنفر بودن", "بیزار بودن از"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "detour",
+    "pronunciation": "'diitur",
+    "translates": {
+      "noun": ["راه فرعی", "مسیر انحرافی", "راه غیر مستقیم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "devastate",
+    "pronunciation": "'devasteyt",
+    "translates": {
+      "transitive-verb": ["ویران کردن", "تخریب کردن", "تاراج کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "devastation",
+    "pronunciation": "devas'teyshen",
+    "translates": {
+      "noun": ["ویرانی", "خرابی", "تباهی", "نابودی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "develop",
+    "pronunciation": "di'velop",
+    "translates": {
+      "transitive-verb": [
+        "رشد کردن",
+        "توسعه یافتن",
+        "گسترش دادن",
+        "بسط دادن",
+        "[ فیلم ] ظاهر کردن",
+        "بهتر کردن",
+        "بهبود بخشیدن",
+        "[ گیاه ] روییدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "development",
+    "pronunciation": "di'velopment",
+    "translates": {
+      "noun": [
+        "رشد",
+        "توسعه",
+        "عمران",
+        "پیشرفت",
+        "ساختمان سازی",
+        "[ فیلم ] ظهور",
+        "تحول"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "device",
+    "pronunciation": "di'va^ys",
+    "translates": {
+      "noun": ["دستگاه", "ابزار", "وسیله", "حقه", "ترفند", "تمهید", "تدبیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "devil",
+    "pronunciation": "'devil",
+    "translates": {
+      "noun": ["شیطان", "ابلیس", "عفریت", "روح پلید", "دیو"]
+    },
+    "subWords": {
+      "poor devil": ["طفلک بیچاره"]
+    }
+  },
+  {
+    "word": "devilish",
+    "pronunciation": "'devilish",
+    "translates": {
+      "adjective": ["شیطانی", "اهریمنی", "بسیار بد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "devise",
+    "pronunciation": "di'va^yz",
+    "translates": {
+      "transitive-verb": [
+        "ابداع کردن",
+        "اختراع کردن",
+        "ساختن",
+        "تعبیه کردن",
+        "درست کردن",
+        "تدبیر کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "devoted",
+    "pronunciation": "di'votid",
+    "translates": {
+      "adjective": ["وفادار", "صادق", "فداکار", "شیفته", "عاشق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "devotion",
+    "pronunciation": "di'voshen",
+    "translates": {
+      "noun": ["صرف", "ایثار", "ایمان", "زهد", "پارسایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "devour",
+    "pronunciation": "di'vaor",
+    "translates": {
+      "transitive-verb": ["بلعیدن", "خوردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dexterity",
+    "pronunciation": "deks'teriti",
+    "translates": {
+      "noun": ["مهارت", "چالاکی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "diabetes",
+    "pronunciation": "da^ya^biitiz",
+    "translates": {
+      "noun": ["بیماری قند", "دیابت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "diabetic",
+    "pronunciation": "da^ya^betik",
+    "translates": {
+      "adjective": ["[ مربوط به ] بیماری قند"],
+      "noun": ["بیمار مبتلا به مرض قند", "بیمار قندی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dial",
+    "pronunciation": "'da^ya^l",
+    "translates": {
+      "noun": ["صفحه", "صفحه ساعت", "صفحه رادیو", "شماره گیر ( تلفن )"],
+      "transitive-verb": ["شماره گرفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dialect",
+    "pronunciation": "'da^ya^lekt",
+    "translates": {
+      "noun": ["لهجه", "گویش", "زبان محلی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dialogue",
+    "pronunciation": "'da^ya^la^g",
+    "translates": {
+      "noun": ["مکالمه", "گفتگو", "گفت و شنود", "تبادل نظر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "diameter",
+    "pronunciation": "da^y'miter",
+    "translates": {
+      "noun": ["قٌطر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "diamond",
+    "pronunciation": "'da^ya^mond",
+    "translates": {
+      "noun": ["الماس", "لوزی", "[ بازی ورق ] خشت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "diary",
+    "pronunciation": "'da^yeri",
+    "translates": {
+      "noun": ["دفتر یادداشت", "سر رسیدنامه", "دفتر خاطرات"]
+    },
+    "subWords": {
+      "keep a diary": ["خاطرات خود را نوشتن"]
+    }
+  },
+  {
+    "word": "dice",
+    "pronunciation": "da^ys",
+    "translates": {
+      "noun": ["تاس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dictate",
+    "pronunciation": "dik'teyt",
+    "translates": {
+      "transitive-verb": ["دیکته کردن", "تحمیل کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dictation",
+    "pronunciation": "dik'teyshen",
+    "translates": {
+      "noun": ["املا", "[ مجازی ] دیکته", "دستور", "حکم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dictator",
+    "pronunciation": "dik'teyter",
+    "translates": {
+      "noun": ["دیکتاتور", "خودکامه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dictatorship",
+    "pronunciation": "dik'teytership",
+    "translates": {
+      "noun": ["استبداد", "دیکتاتوری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dictionary",
+    "pronunciation": "'diksheneri",
+    "translates": {
+      "noun": ["فرهنگ", "واژه نامه", "فرهنگ لغت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "did",
+    "pronunciation": "did",
+    "translates": {
+      "past-tens": ["گذشته فعل do ( انجام داد )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "die",
+    "pronunciation": "da^y",
+    "translates": {
+      "intransitive-verb": [
+        "مردن",
+        "از بین رفتن",
+        "جان دادن",
+        "فوت کردن",
+        "[ مجازی ] هلاک بودن",
+        "دل ( کسی ) لک زدن"
+      ],
+      "noun": ["قالب", "مُهر", "تاس"]
+    },
+    "subWords": {
+      "die down": ["فروکش کردن", "خوابیدن", "محو شدن"],
+      "die for": ["مردن به خاطرِ"],
+      "die of": ["به علت ( چیزی ) مردن", "از ( چیزی ) مردن"]
+    }
+  },
+  {
+    "word": "diesel engine",
+    "pronunciation": "'diizel enjin",
+    "translates": {
+      "noun": ["موتور دیزل", "دیزل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "diet",
+    "pronunciation": "'da^yet",
+    "translates": {
+      "noun": ["غذای روزمره", "غذا", "رژیم غذایی روزانه", "مقدار بیش از اندازه"]
+    },
+    "subWords": {
+      "be on a diet": ["رژیم داشتن"],
+      "go on a diet": ["رژیم گرفتن"]
+    }
+  },
+  {
+    "word": "differ",
+    "pronunciation": "'difer",
+    "translates": {
+      "intransitive-verb": ["فرق داشتن", "تفاوت داشتن", "اختلاف نظر داشتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "difference",
+    "pronunciation": "'diferns",
+    "translates": {
+      "noun": ["فرق", "تفاوت", "تمایز", "اختلاف", "تفاضل"]
+    },
+    "subWords": {
+      "make a difference": ["تاثیر داشتن", "موثر بودن"],
+      "make a difference between": ["فرق گذاشتن بین", "اختلاف قائل شدن بین"],
+      "make no defference": ["هیچ فرقی نکردن"],
+      "make no any difference": ["هیچ اهمیتی ندادن"]
+    }
+  },
+  {
+    "word": "different",
+    "pronunciation": "'difrent",
+    "translates": {
+      "adjective": ["متفاوت", "مختلف", "گوناگون", "متنوع", "دیگر", "تازه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "differently",
+    "pronunciation": "'difrentli",
+    "translates": {
+      "adverb": ["به گونه ای دیگر", "به طور متفاوت", "به طرز دیگر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "difficult",
+    "pronunciation": "'difika^lt",
+    "translates": {
+      "adjective": ["مشکل", "دشوار", "سخت", "پر توقع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "difficulty",
+    "pronunciation": "'difika^lti",
+    "translates": {
+      "noun": ["مشکل", "اشکال", "دشواری", "سختی", "دردسر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dig",
+    "pronunciation": "dig",
+    "translates": {
+      "transitive-verb": [
+        "کندن",
+        "حفر کردن",
+        "زمین کندن",
+        "کاوش کردن",
+        "[ عامیانه ] سر در آوردن",
+        "فهمیدن"
+      ],
+      "noun": ["حفاری", "حفر", "کاوش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "digest",
+    "pronunciation": "'da^yjest , di'jest",
+    "translates": {
+      "noun": ["خلاصه"],
+      "transitive-verb": ["هضم کردن"],
+      "intransitive-verb": ["هضم شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "digestion",
+    "pronunciation": "di'jeschen",
+    "translates": {
+      "noun": ["هضم", "گوارش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "digestive",
+    "pronunciation": "di'jestiv",
+    "translates": {
+      "adjective": ["گوارشی", "[ مربوط به ] گوارش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "digit",
+    "pronunciation": "'dijit",
+    "translates": {
+      "noun": ["[ ریاضیات ] رقم", "عدد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "digital",
+    "pronunciation": "'dijita^l",
+    "translates": {
+      "adjective": ["رقمی", "عددی", "شماره ای", "انگشتی", "دیجیتال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dignified",
+    "pronunciation": "'dignifa^yd",
+    "translates": {
+      "adjective": [
+        "موقر",
+        "با وقار",
+        "متین",
+        "بلند مرتبه",
+        "موقرانه",
+        "با متانت",
+        "محترمانه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dignity",
+    "pronunciation": "'digniti",
+    "translates": {
+      "noun": ["ارزش", "اعتبار", "شان", "وقار", "رتبه", "مقام"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dike",
+    "pronunciation": "da^yk",
+    "translates": {
+      "noun": ["دیواره", "سد", "بند", "خاکریز", "جوی", "مانع"],
+      "transitive-verb": ["جوی ساختن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dilapidated",
+    "pronunciation": "di'lapideytid",
+    "translates": {
+      "adjective": ["درب و داغون", "قراضه", "اوراق", "ویران", "مخروب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dilute",
+    "pronunciation": "da^y'lyoot",
+    "translates": {
+      "transitive-verb": [
+        "رقیق کردن",
+        "آب ( در چیزی ) ریختن",
+        "شُل کردن",
+        "آبکی کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dim",
+    "pronunciation": "dim",
+    "translates": {
+      "adjective": ["تار", "تیره", "تاریک", "کم نور", "[ نور ] ضعیف", "مبهم"],
+      "transitive-verb": ["تار کردن", "تاریک کردن", "[ نور ] کم کردن"],
+      "intransitive-verb": ["تار شدن", "تاریک شدن", "[ نور ] کم شدن"]
     },
     "subWords": {}
   }
