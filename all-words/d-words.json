@@ -2792,5 +2792,486 @@
       "intransitive-verb": ["تار شدن", "تاریک شدن", "[ نور ] کم شدن"]
     },
     "subWords": {}
+  },
+  {
+    "word": "dimension",
+    "pronunciation": "di'bmnshen",
+    "translates": {
+      "noun": ["بُعد", "اندازه", "ابعاد", "جنبه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "diminish",
+    "pronunciation": "di'minish",
+    "translates": {
+      "transitive-verb": ["کم کردن", "کاستن", "کاهش دادن", "کوچک جلو دادن"],
+      "intransitive-verb": ["کم شدن", "کاهش یافتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dine",
+    "pronunciation": "da^yn",
+    "translates": {
+      "transitive-verb": ["شام خوردن", "ناهار خوردن", "مهمانی دادن برای"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dinghy",
+    "pronunciation": "'dingi",
+    "translates": {
+      "noun": ["قایق", "قایق تفریحی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dining room",
+    "pronunciation": "'da^yning rum",
+    "translates": {
+      "noun": ["( اتاق )‌ نهار خوری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dinner",
+    "pronunciation": "'diner",
+    "translates": {
+      "noun": ["شام", "نهار", "غذا", "مهمانی", "ضیافت شام"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dinosaur",
+    "pronunciation": "'da^ynesor",
+    "translates": {
+      "noun": ["دایناسور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dip",
+    "pronunciation": "dip",
+    "translates": {
+      "noun": ["آب تنی", "شیب"],
+      "transitive-verb": [
+        "فرو کردن",
+        "( در چیزی ) فرو بردن",
+        "زدن",
+        "تمعید دادن"
+      ],
+      "intransitive-verb": ["فرود آمدن", "فرو رفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "diploma",
+    "pronunciation": "di'ploma^",
+    "translates": {
+      "noun": ["دیپلم", "فوق دیپلم", "مدرک تحصیلی", "دانشنامه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "diplomacy",
+    "pronunciation": "di'plomasi",
+    "translates": {
+      "noun": ["دیپلماسی", "مذاکره", "سیاست"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "diplomat",
+    "pronunciation": "'diplomat",
+    "translates": {
+      "noun": [
+        "دیپلمات",
+        "نماینده سیاسی",
+        "سیاستمدار",
+        "آدم با تدبیر",
+        "کاردان"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "diplomatic",
+    "pronunciation": "diplo'matik",
+    "translates": {
+      "adjective": ["دیپلماتیک", "سیاسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "direct",
+    "pronunciation": "da^y'rekt",
+    "translates": {
+      "adjective": ["مستقیم", "درست", "دقیق", "بی واسطه"],
+      "adverb": ["مستقیماً"],
+      "transitive-verb": [
+        "هدایت کردن",
+        "راهنمایی کردن",
+        "فرستادن",
+        "کارگردانی کردن",
+        "دستور دادن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "direction",
+    "pronunciation": "da^y'rekshen",
+    "translates": {
+      "noun": [
+        "جهت",
+        "طرف",
+        "مسیر",
+        "سمت",
+        "هدایت",
+        "مدیریت",
+        "[ سینما ] کارگردانی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "directions",
+    "pronunciation": "da^y'rekshenz",
+    "translates": {
+      "noun": ["دستورعمل", "راهنمایی", "نشانی", "آدرس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "directly",
+    "pronunciation": "da^yrektli",
+    "translates": {
+      "adverb": ["مستقیماً", "درست", "کاملاً", "فوری", "الان"],
+      "conjunction": ["به محض اینکه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "director",
+    "pronunciation": "da^y'rekter",
+    "translates": {
+      "noun": ["کارگردان", "مدیر", "سرپرست", "مسئول"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "directory",
+    "pronunciation": "da^y'rekteri",
+    "translates": {
+      "noun": ["دفتر راهنما", "فهرست راهنما", "دفتر راهنمای تلفن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dirt",
+    "pronunciation": "dert",
+    "translates": {
+      "noun": ["خاک", "گِل", "کثافت", "چرکی", "حرف های رکیک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dirty",
+    "pronunciation": "'derti",
+    "translates": {
+      "adjective": ["کثیف", "پلید", "رکیک", "هرزه", "[ رنگ ] کدر"],
+      "adverb": ["[ عامیانه ] خیلی"],
+      "transitive-verb": ["کثیف کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disable",
+    "pronunciation": "dis'eybel",
+    "translates": {
+      "transitive-verb": [
+        "از کار انداختن",
+        "معلول کردن",
+        "ناتوان کردن",
+        "غیر فعال کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disadvantage",
+    "pronunciation": "disad'va^ntij",
+    "translates": {
+      "noun": ["عیب", "نقص", "نقطه ضعف", "ضرر", "اشکال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disagree",
+    "pronunciation": "disa'grii",
+    "translates": {
+      "intransitive-verb": [
+        "مخالف بودن",
+        "تضاد داشتن",
+        "[ غذا",
+        "آب و هوا و غیر ] نساختن به"
+      ],
+      "transitive-verb": ["مخالفت کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disagreeable",
+    "pronunciation": "dise'griyebel",
+    "translates": {
+      "adjective": [
+        "بد اخلاق",
+        "ناخوشایند",
+        "ناپسند",
+        "نامطبوع",
+        "ناگوارا",
+        "مغایر",
+        "ناسازگار"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disagreement",
+    "pronunciation": "disa'griiment",
+    "translates": {
+      "noun": ["اختلاف", "مخالفت", "تضاد", "عدم توافق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disappear",
+    "pronunciation": "disa'piyer",
+    "translates": {
+      "intransitive-verb": ["ناپدید شدن", "گم شدن", "رفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disappearance",
+    "pronunciation": "disa'piyerens",
+    "translates": {
+      "noun": ["ناپدیدی", "ناپدید شدن", "گم شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disappoint",
+    "pronunciation": "disa'poynt",
+    "translates": {
+      "transitive-verb": [
+        "مایوس کردن",
+        "ناامید کردن",
+        "دلسرد کردن",
+        "[ نقشه و محاسبه و غیره ] بر هم زدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disappointment",
+    "pronunciation": "disa'poyntment",
+    "translates": {
+      "noun": [
+        "دلسردی",
+        "ناکامی",
+        "ناامیدی",
+        "شکست",
+        "سرخوردگی",
+        "دلخوری",
+        "ناراحتی",
+        "تاسف"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disapproval",
+    "pronunciation": "disa'proova^l",
+    "translates": {
+      "noun": ["مخالفت", "عدم تایید", "نارضایی", "رد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disapprove",
+    "pronunciation": "disa'proov",
+    "translates": {
+      "transitive-verb": ["مخالفت کردن با", "تایید نکردن", "رد کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disaster",
+    "pronunciation": "di'za^ster",
+    "translates": {
+      "noun": ["فاجعه", "مصیبت", "بلا", "بدبختی", "سانحه", "واقعه ناگوار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disastrous",
+    "pronunciation": "di'za^stres",
+    "translates": {
+      "adjective": ["فاجعه آمیز", "مصیبت بار", "فجیع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disc",
+    "pronunciation": "disk",
+    "translates": {
+      "noun": ["صفحه گرد", "صفحه ( گرامافون )", "دیسک", "قرص"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "discard",
+    "pronunciation": "dis'ka^rd",
+    "translates": {
+      "transitive-verb": [
+        "دور انداختن",
+        "کنار گذاشتن",
+        "دست کشیدن از",
+        "ول کردن",
+        "[ بازی ورق ] انداختن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "discern",
+    "pronunciation": "di'sern",
+    "translates": {
+      "transitive-verb": ["تشخیص دادن", "تمیز دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "discharge",
+    "pronunciation": "dis'cha^rj",
+    "translates": {
+      "transitive-verb": [
+        "تخلیه کردن",
+        "خالی کردن",
+        "بیرون دادن",
+        "شلیک کردن",
+        "مرخص کردن",
+        "اخراج کردن",
+        "بازپرداخت کردن",
+        "[ وظیفه ] انجام دادن"
+      ],
+      "noun": ["تخلیه", "بازپرداخت", "اخراج", "ترشح", "بده", "انفصال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disciple",
+    "pronunciation": "di'sa^ypel",
+    "translates": {
+      "noun": ["مرید", "پیرو", "شاگرد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "discipline",
+    "pronunciation": "'disiplin",
+    "translates": {
+      "noun": ["انظباط", "نظم", "تادیب", "انتظام", "رشته ( تحصیلی )"],
+      "transitive-verb": ["نظم برقرار کردن", "منضبط کردن", "ادب کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disclose",
+    "pronunciation": "dis'kloz",
+    "translates": {
+      "transitive-verb": ["آشکار کردن", "فاش کردن", "باز کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disclosure",
+    "pronunciation": "dis'klozher",
+    "translates": {
+      "noun": ["افشا", "فاش سازی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disco",
+    "pronunciation": "'disko",
+    "translates": {
+      "noun": ["دیسکو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "discolor",
+    "pronunciation": "dis'ka^ler",
+    "translates": {
+      "intransitive-verb": [
+        "تغییر رنگ دادن",
+        "رنگ ( چیزی ) خراب شدن",
+        "رنگ ( چیزی ) رفتن"
+      ],
+      "transitive-verb": ["رنگ ( چیزی را ) تغییر دادن", "بی رنگ کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "discomfort",
+    "pronunciation": "dis'ka^mfort",
+    "translates": {
+      "noun": ["درد", "ناراحتی", "نگرانی", "رنج"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disconnect",
+    "pronunciation": "diska^'nekt",
+    "translates": {
+      "transitive-verb": ["قطع کردن", "جدا کردن", "از برق کشیدن"],
+      "intransitive-verb": ["قطع شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "discord",
+    "pronunciation": "'diskord",
+    "translates": {
+      "noun": [
+        "اختلاف",
+        "ناسازگاری",
+        "نفاق",
+        "نزاع",
+        "عدم توافق",
+        "[ موسقی ] ناهمخوانی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "discordant",
+    "pronunciation": "dis'kordent",
+    "translates": {
+      "adjective": ["متضاد", "مغایر", "ناموزون", "ناسازگار", "گوش خراش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "discount",
+    "pronunciation": "'diskaont",
+    "translates": {
+      "noun": ["تخفیف"],
+      "transitive-verb": ["تخفیف دادن", "کاستن", "باور نکردن"]
+    },
+    "subWords": {}
   }
 ]
