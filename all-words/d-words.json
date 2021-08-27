@@ -3273,5 +3273,496 @@
       "transitive-verb": ["تخفیف دادن", "کاستن", "باور نکردن"]
     },
     "subWords": {}
+  },
+  {
+    "word": "discourage",
+    "pronunciation": "dis'ka^rij",
+    "translates": {
+      "transitive-verb": ["دلسرد کردن", "سست کردن", "جلوگیری کردن از"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "discouragement",
+    "pronunciation": "dis'ka^rijment",
+    "translates": {
+      "noun": ["دلسردی", "یاس", "ناامیدی", "فتور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "discover",
+    "pronunciation": "dis'ka^ver",
+    "translates": {
+      "transitive-verb": ["کشف کردن", "یافتن", "پیدا کردن", "پی بردن", "فهمیدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "discoverer",
+    "pronunciation": "dis'ka^verer",
+    "translates": {
+      "noun": ["کاشف", "یابنده", "پی برنده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "discovery",
+    "pronunciation": "dis'ka^veri",
+    "translates": {
+      "noun": ["کشف", "اکتشاف", "کشفیات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "discreet",
+    "pronunciation": "dis'kriit",
+    "translates": {
+      "adjective": ["محتاط", "بااحتیاط", "باملاحظه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "discretion",
+    "pronunciation": "dis'kreshen",
+    "translates": {
+      "noun": ["احتیاط", "ملاحظه", "اختیار", "صلاحدید", "بصیرت", "نظر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "discriminate",
+    "pronunciation": "dis'krimineyt",
+    "translates": {
+      "transitive-verb": [
+        "تمیز دادن",
+        "تشخیص دادن",
+        "فرق گذاشتن",
+        "تبعیض قائل شدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "discrimination",
+    "pronunciation": "dis'krimineyshen",
+    "translates": {
+      "noun": ["تبعیض", "تمیز", "فرق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "discus",
+    "pronunciation": "'diskes",
+    "translates": {
+      "noun": ["[ ورزش ] دیسک", "صفحه مدور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "discuss",
+    "pronunciation": "dis'ka^s",
+    "translates": {
+      "transitive-verb": ["بحث کردن", "صحبت کردن درباره", "گفتگو کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "discussion",
+    "pronunciation": "dis'ka^shen",
+    "translates": {
+      "noun": ["بحث", "مذاکره", "گفتگو", "تبادل نظر", "مباحثه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disdain",
+    "pronunciation": "dis'deyn",
+    "translates": {
+      "transitive-verb": ["تحقیر کردن", "خوار شمردن"],
+      "noun": ["تحقیر", "عار", "اهانت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disease",
+    "pronunciation": "di'ziiz",
+    "translates": {
+      "noun": ["بیماری", "مرض"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "diseased",
+    "pronunciation": "di'ziizd",
+    "translates": {
+      "adjective": ["بیمار", "مریض", "بیمارگون", "خراب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disembark",
+    "pronunciation": "disim'ba^rk",
+    "translates": {
+      "intransitive-verb": ["پیاده شدن"],
+      "transitive-verb": ["پیاده کردن", "از کشتی در آوردن", "تخلیه کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disentangle",
+    "pronunciation": "disin'tangel",
+    "translates": {
+      "transitive-verb": ["از هم باز کردن", "از گیر در آوردن", "رها کردن"],
+      "intransitive-verb": ["از هم باز شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disgrace",
+    "pronunciation": "dis'greys",
+    "translates": {
+      "transitive-verb": ["بی آبرو کردن", "بدنام کردن", "خوار کردن"],
+      "noun": ["بی آبرویی", "رسوایی", "ننگ", "فضاحت", "عار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disgraceful",
+    "pronunciation": "dis'greysful",
+    "translates": {
+      "adjective": ["زشت", "ننگین", "شرم آور", "نامطبوع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disguise",
+    "pronunciation": "dis'ga^yz",
+    "translates": {
+      "noun": ["تغییر قیافه", "لباس مبدل"],
+      "transitive-verb": [
+        "[ قیافه",
+        "لباس و غیره ] تغییر دادن",
+        "( خود را ) به شکل دیگری در آوردن",
+        "پنهان کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disgust",
+    "pronunciation": "dis'ga^st",
+    "translates": {
+      "noun": ["نفرت", "تنفر", "انزجار", "بیزاری", "چِندِش"],
+      "transitive-verb": [
+        "متنفر کردن",
+        "منزجر کردن",
+        "بیزار کردن",
+        "حال ( کسی ) را به هم زدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dish",
+    "pronunciation": "dish",
+    "translates": {
+      "noun": [
+        "دیس",
+        "بشقابِ توگود",
+        "ظرف",
+        "غذا",
+        "آنتن بشقابی",
+        "[ عامیانه ] تیکه",
+        "جیگر"
+      ],
+      "transitive-verb": ["[ غذا ] کشیدن", "سرو کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dishearten",
+    "pronunciation": "dis'ha^rten",
+    "translates": {
+      "transitive-verb": ["مایوس کردن", "ناامید کردن", "دلسرد کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disheveled",
+    "pronunciation": "di'sheveld",
+    "translates": {
+      "adjective": ["ژولیده", "آشفته", "نامرتب", "به هم ریخته", "پریشان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dishonest",
+    "pronunciation": "dis'a^nist",
+    "translates": {
+      "adjective": ["نادرست", "متقلب", "حقه باز", "فریبکار", "دغل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dishonesty",
+    "pronunciation": "dis'a^nisti",
+    "translates": {
+      "noun": ["نادرستی", "تقلب", "فریبکاری", "ریاکاری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dishonor",
+    "pronunciation": "dis'a^ner",
+    "translates": {
+      "noun": ["بد نامی", "بی آبرویی", "ننگ", "رسوایی", "آبرو ریزی"],
+      "transitive-verb": [
+        "بدنام کردن",
+        "آبروی ( کسی را ) بردن",
+        "بی احترامی کردن به",
+        "ننگین کردن",
+        "تجاوز کردن به عصمت"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dishwasher",
+    "pronunciation": "'dishwa^sher",
+    "translates": {
+      "noun": ["ماشین ظرف شویی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disinfectant",
+    "pronunciation": "disin'fektent",
+    "translates": {
+      "noun": ["ماده ضدعفونی"],
+      "adjective": ["ضدعفونی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disinterested",
+    "pronunciation": "dis'intristid",
+    "translates": {
+      "adjective": ["بی طرف", "بی غرض", "بی علاقه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dislike",
+    "pronunciation": "dis'la^yk",
+    "translates": {
+      "transitive-verb": ["دوست نداشتن", "خوش نیامدن از", "بد آمدن از"],
+      "noun": ["احساس بد آمدن", "بیزاری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dislocate",
+    "pronunciation": "dis'lokeyt",
+    "translates": {
+      "transitive-verb": ["[ استخوان ] در رفتن", "مختل کردن", "جابجا کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disloyal",
+    "pronunciation": "dis'loya^l",
+    "translates": {
+      "adjective": ["خائن", "بی وفا", "ناسپاس", "سست پیمان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disloyalty",
+    "pronunciation": "dis'loya^lti",
+    "translates": {
+      "noun": ["خیانت", "بی وفایی", "نا سپاسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dismal",
+    "pronunciation": "dis'ma^l",
+    "translates": {
+      "adjective": ["غمگین", "افسرده", "غم انگیز", "دلتنگ کننده", "ملالت انگیز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dismay",
+    "pronunciation": "dis'mey",
+    "translates": {
+      "noun": ["ترس", "وحشت", "دلهره", "نگرانی", "بی میلی"],
+      "transitive-verb": ["ترساندن", "شگفت زده کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dismiss",
+    "pronunciation": "dis'mis",
+    "translates": {
+      "transitive-verb": [
+        "اخراج کردن",
+        "بر کنار کردن",
+        "مرخص کردن",
+        "رها کردن",
+        "منفصل کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dismissal",
+    "pronunciation": "dis'misa^l",
+    "translates": {
+      "noun": ["اخراج", "عزل", "برکناری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dismount",
+    "pronunciation": "dis'maont",
+    "translates": {
+      "intransitive-verb": ["پیاده شدن", "پایین آمدن"],
+      "transitive-verb": ["پیاده کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disobedience",
+    "pronunciation": "diso'biidiyens",
+    "translates": {
+      "noun": ["نافرمانی", "سرپیچی", "تمرد", "سرکشی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disobedient",
+    "pronunciation": "diso'biidiyent",
+    "translates": {
+      "adjective": ["سرکش", "نافرمان", "حرف نشنو", "متمرد", "نامطیع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disobey",
+    "pronunciation": "diso'bey",
+    "translates": {
+      "transitive-verb": ["نافرمانی کردن", "سرپیچی کردن", "اطاعت نکردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disorder",
+    "pronunciation": "dis'order",
+    "translates": {
+      "noun": ["بی نظمی", "آشفتگی", "آشوب", "اختلال", "شورش", "بیماری"],
+      "transitive-verb": ["به هم ریختن", "نظم ( چیزی را ) بر هم زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disorderly",
+    "pronunciation": "dis'orderli",
+    "translates": {
+      "adjective": ["آشفته", "به هم ریخته", "اخلال گر"],
+      "adverb": ["بی نظم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disorganize",
+    "pronunciation": "dis'organa^yz",
+    "translates": {
+      "transitive-verb": [
+        "مختل کردن",
+        "به هم ریختن",
+        "آشفته کردن",
+        "خراب کردن",
+        "به هم زدن",
+        "درهم و برهم کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disparage",
+    "pronunciation": "dis'parij",
+    "translates": {
+      "transitive-verb": [
+        "بی اجرا کردن",
+        "کوچک شمردن",
+        "بی اعتبار کردن",
+        "کم گرفتن",
+        "پست کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dispatch",
+    "pronunciation": "dis'pach",
+    "translates": {
+      "noun": ["اعزام", "ارسال", "گزارش", "مخابره", "خبر", "سرعت"],
+      "transitive-verb": [
+        "فرستادن",
+        "اعزام کردن",
+        "ارسال کردن",
+        "گسیل کردن",
+        "کشتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dispense",
+    "pronunciation": "dis'pens",
+    "translates": {
+      "transitive-verb": ["توزیع کردن", "اجرا کردن", "باطل کردن", "بخشیدن"]
+    },
+    "subWords": {
+      "dispense with": ["صرف نظر کردن‌ از", "( چیزی یا کسی ) را کنار گذاشتن"]
+    }
+  },
+  {
+    "word": "dispenser",
+    "pronunciation": "dis'penser",
+    "translates": {
+      "noun": ["دارو ساز", "دستگاه توزیع ( کننده )", "تلگراف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dispersal",
+    "pronunciation": "dis'persa^l",
+    "translates": {
+      "noun": ["پخش", "پراکندگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disperse",
+    "pronunciation": "dis'pers",
+    "translates": {
+      "transitive-verb": ["متفرق کردن", "پراکنده کردن", "پخش کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "displace",
+    "pronunciation": "dis'pleys",
+    "translates": {
+      "transitive-verb": [
+        "جابجا کردن",
+        "جای ( چیزی را ) تغییر دادن",
+        "جای ( کسی یا چیزی را ) گرفتن"
+      ]
+    },
+    "subWords": {}
   }
 ]
