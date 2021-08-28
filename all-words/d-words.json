@@ -3764,5 +3764,912 @@
       ]
     },
     "subWords": {}
+  },
+  {
+    "word": "display",
+    "pronunciation": "dis'pley",
+    "translates": {
+      "noun": ["نمایش", "نمایشگاه", "ابراز", "بروز", "ظهور"],
+      "transitive-verb": ["نشان دادن", "به نمایش گذاشتن"]
+    },
+    "subWords": {
+      "on display": ["در معرض نمایش"]
+    }
+  },
+  {
+    "word": "displease",
+    "pronunciation": "dis'pliiz",
+    "translates": {
+      "transitive-verb": [
+        "رنجاندن",
+        "آزردن",
+        "دلخور کردن",
+        "دلگیر کردن",
+        "خوشایند نبودن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "displeasure",
+    "pronunciation": "dis'pezher",
+    "translates": {
+      "noun": ["نارضایتی", "ناخوشنودی", "رنجش", "کدورت", "عصبانیت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disposal",
+    "pronunciation": "dis'poza^l",
+    "translates": {
+      "noun": ["[ زباله و غیره ] انهدام", "دورریزی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dispose",
+    "pronunciation": "dis'poz",
+    "translates": {
+      "transitive-verb": ["دور ریختن", "مرتب کردن", "چیدن"]
+    },
+    "subWords": {
+      "dispose of something": ["از شر چیزی خلاص شدن", "از دست چیزی راحت شدن"]
+    }
+  },
+  {
+    "word": "disposition",
+    "pronunciation": "dispo'zishen",
+    "translates": {
+      "noun": [
+        "نظم",
+        "خلق و خو",
+        "طبع",
+        "وضع",
+        "مشرب",
+        "خواست",
+        "حالت",
+        "تمایل",
+        "میل",
+        "گرایش",
+        "آمادگی",
+        "سرشت",
+        "طبیعت",
+        "مزاج"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dispute",
+    "pronunciation": "dis'pyoot",
+    "translates": {
+      "noun": ["بحث", "مشاجره", "نزاع", "اختلاف نظر"],
+      "transitive-verb": ["بحث کردن", "جر و بحث کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disqualify",
+    "pronunciation": "dis'kwa^lifa^y",
+    "translates": {
+      "transitive-verb": ["سلب صلاحیت کردن از", "شایسته ندانستن", "مردود کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disregard",
+    "pronunciation": "disri'ga^rd",
+    "translates": {
+      "transitive-verb": [
+        "نادیده گرفتن",
+        "اعتنا نکردن",
+        "توجه نکردن",
+        "[ قانون و غیره ] رعایت نکردن"
+      ],
+      "noun": ["بی توجهی", "بی اعتنایی", "سردی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disreputable",
+    "pronunciation": "dis'repyutebel",
+    "translates": {
+      "adjective": ["شرم آور", "بدنام", "زننده", "بی اعتبار", "مایه رسوایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dissatisfaction",
+    "pronunciation": "disatis'fakshen",
+    "translates": {
+      "noun": ["نارضایی", "نارضایتی", "ناخوشنودی", "ناخرسندی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dissatisfied",
+    "pronunciation": "di'satisfa^yd",
+    "translates": {
+      "adjective": ["ناراضی", "ناخوشنود", "ناخرسند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dissolve",
+    "pronunciation": "di'za^lv",
+    "translates": {
+      "transitive-verb": ["حل کردن", "فسخ کردن", "منحل کردن", "آب کردن"],
+      "intransitive-verb": ["حل شدن", "منحل شدن"],
+      "noun": ["محلول شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dissuade",
+    "pronunciation": "di'sweyd",
+    "translates": {
+      "transitive-verb": [
+        "منصرف کردن",
+        "متقاعد کردن",
+        "دلسرد کردن",
+        "باز داشتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "distance",
+    "pronunciation": "'distans",
+    "translates": {
+      "noun": ["مسافت", "فاصله", "دوری", "دوره", "مدت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "distant",
+    "pronunciation": "'distant",
+    "translates": {
+      "adjective": ["دور", "دور دست", "سرد", "دیر آشنا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "distaste",
+    "pronunciation": "dis'teyst",
+    "translates": {
+      "noun": [
+        "بی میلی",
+        "اکراه",
+        "بی علاقگی",
+        "بی رغبتی",
+        "نفرت",
+        "تنفر",
+        "بیزاری",
+        "آزردن"
+      ],
+      "transitive-verb": ["لکه دار کردن", "بد آمدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "distill",
+    "pronunciation": "dis'til",
+    "translates": {
+      "transitive-verb": ["تقطیر کردن", "عرق گرفتن از", "چکاندن"],
+      "intransitive-verb": ["تقطیر شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "distinct",
+    "pronunciation": "di'stinkt",
+    "translates": {
+      "adjective": ["واضح", "روشن", "متمایز", "مجزا", "متفاوت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "distinction",
+    "pronunciation": "dis'tinkshen",
+    "translates": {
+      "noun": ["تمایز", "تفاوت", "برتری", "امتیاز", "تشخیص", "فرق", "تمیز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "distinctly",
+    "pronunciation": "dis'tinktly",
+    "translates": {
+      "adverb": ["به وضوح", "آشکارا", "مشخصاً"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "distinguish",
+    "pronunciation": "dis'tingwish",
+    "translates": {
+      "transitive-verb": ["تشخیص دادن", "متمایز کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "distort",
+    "pronunciation": "dis'tort",
+    "translates": {
+      "transitive-verb": ["از شکل انداختن", "بدقواره کردن", "تحریف کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "distract",
+    "pronunciation": "dis'trakt",
+    "translates": {
+      "transitive-verb": [
+        "حواس ( کسی را ) پرت کردن",
+        "توجه ( کسی را ) منحرف کردن",
+        "پریشان کردن",
+        "آشفته کردن",
+        "سرگرم کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "distraction",
+    "pronunciation": "dis'trakshen",
+    "translates": {
+      "noun": ["هواس پرتی", "سرگرمی", "پریشانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "distress",
+    "pronunciation": "dis'tres",
+    "translates": {
+      "noun": [
+        "اندوه",
+        "غم",
+        "غصه",
+        "افسردگی",
+        "پریشانی",
+        "درد",
+        "رنج",
+        "سختی",
+        "تنگدستی",
+        "محنت"
+      ],
+      "transitive-verb": ["غصه دار کردن", "اندوهگین کردن", "محنت زده کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "distribute",
+    "pronunciation": "dis'tribyoot",
+    "translates": {
+      "transitive-verb": ["توزیع کردن", "پخش کردن", "تقسیم کردن", "تعمیم دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "distribution",
+    "pronunciation": "distri'byooshen",
+    "translates": {
+      "noun": ["توزیع", "پخش", "تقسیم", "پراکندگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "distributor",
+    "pronunciation": "dis'tribyuter",
+    "translates": {
+      "noun": ["توزیع کننده", "پخش کننده", "عامل فروش", "[ اتومبیل ] دِلکو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "district",
+    "pronunciation": "'distrikt",
+    "translates": {
+      "noun": ["منطقه", "ناحیه", "بخش", "حوزه", "محله"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "distrust",
+    "pronunciation": "dis'tra^st",
+    "translates": {
+      "noun": ["بد گمانی", "سوءِ ظن", "بی اعتمادی"],
+      "transitive-verb": [
+        "اعتماد نداشتن به",
+        "بد گمان بودن به",
+        "سوءِ ظن داشتن به"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "distrustful",
+    "pronunciation": "dis'tra^stful",
+    "translates": {
+      "adjective": ["بد گمان", "بی اعتماد", "ظنین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disturb",
+    "pronunciation": "dis'terb",
+    "translates": {
+      "transitive-verb": [
+        "مزاحم شدن",
+        "آرامش ( کسی را ) به هم زدن",
+        "به هم ریختن",
+        "به هم زدن",
+        "مختل کردن",
+        "مشوش کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disturbance",
+    "pronunciation": "dis'terbens",
+    "translates": {
+      "noun": [
+        "شورش",
+        "آشوب",
+        "اغتشاش",
+        "ناآرامی",
+        "مزاحمت",
+        "[ روان شناسی ] اختلال",
+        "ناراحتی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "disused",
+    "pronunciation": "dis'yoozd",
+    "translates": {
+      "adjective": ["متروک", "منسوخ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ditch",
+    "pronunciation": "dich",
+    "translates": {
+      "noun": ["جوی", "خندق", "راه آب", "حفره", "گودال"],
+      "transitive-verb": ["جوی کندن", "جوی کشیدن", "گودال کندن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "divan",
+    "pronunciation": "di'van",
+    "translates": {
+      "noun": ["نیمکت", "کاناپه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dive",
+    "pronunciation": "da^yv",
+    "translates": {
+      "intransitive-verb": ["شیرجه زدن", "در آب فرورفتن", "زیر آب رفتن"],
+      "noun": ["شیرجه", "غوطه", "هجوم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "diver",
+    "pronunciation": "'da^yver",
+    "translates": {
+      "noun": ["غواص"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "diverse",
+    "pronunciation": "da^y'vers",
+    "translates": {
+      "adjective": ["گوناگون", "متنوع", "متفاوت", "مختلف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "diversity",
+    "pronunciation": "da^y'versiti",
+    "translates": {
+      "noun": ["تنوع", "گوناگونی", "اختلاف", "تفاوت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "divert",
+    "pronunciation": "da^y'vert",
+    "translates": {
+      "transitive-verb": ["منحرف کردن", "برگرداندن", "تغییر دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "divide",
+    "pronunciation": "di'va^yd",
+    "translates": {
+      "transitive-verb": ["قسمت کردن", "جدا کردن", "تقسیم کردن"],
+      "intransitive-verb": ["تقسیم شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "divine",
+    "pronunciation": "di'va^yn",
+    "translates": {
+      "adjective": ["خدایی", "الهی"],
+      "transitive-verb": ["حدس زدن", "پیشگویی کردن", "غیب گویی کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "diving",
+    "pronunciation": "da^yving",
+    "translates": {
+      "noun": ["شیرجه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "diving board",
+    "pronunciation": "'da^yving.bord",
+    "translates": {
+      "noun": ["تخته پرش", "تخته شیرجه", "دایو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "division",
+    "pronunciation": "di'vizhen",
+    "translates": {
+      "noun": [
+        "تقسیم",
+        "قسمت",
+        "سهم",
+        "بخش",
+        "[ نظامی ] لشگر",
+        "تفرقه",
+        "اختلاف"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "divorce",
+    "pronunciation": "di'vors",
+    "translates": {
+      "noun": ["طلاق", "جدایی"],
+      "transitive-verb": ["طلاق دادن", "طلاق گرفتن از"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dizzy",
+    "pronunciation": "'dizi",
+    "translates": {
+      "adjective": ["سرگیجه آور", "گیج", "منگ", "[ عامیانه ] احمق"],
+      "intransitive-verb": ["گیج شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "do",
+    "pronunciation": "doo",
+    "translates": {
+      "auxiliary-verb": ["فعل معین با کارکرد های دستوری گوناگون"],
+      "transitive-verb": [
+        "انجام دادن",
+        "کردن",
+        "تمام کردن",
+        "تهیه کردن",
+        "درست کردن",
+        "خواندن",
+        "شستن",
+        "تمیز کردن",
+        "مرتب کردن",
+        "پختن",
+        "طی کردن",
+        "گذراندن",
+        "اتفاق افتادن",
+        "کافی بودن",
+        "مناسب بودن",
+        "مفید بودن"
+      ]
+    },
+    "subWords": {
+      "could do with something": ["به چیزی احتیاج داشتن"],
+      "do away with something": ["از شر چیزی خلاص شدن", "از دست چیزی راحت شدن"],
+      "do ever": ["مرمت کردن", "دستی به سر و روی خانه کشیدن"],
+      "do with": ["با ( چیزی ) کاری انجام دادن", "بلایی سر ( چیزی ) آوردن"],
+      "do without ( something )": [
+        "بی نیاز بودن از",
+        "بدون ( چیزی ) سر کردن",
+        "قید ( چیزی را ) زدن",
+        "از خیر ( چیزی ) گذشتن"
+      ],
+      "it ( or that ) won't do": ["فایده نداره"]
+    }
+  },
+  {
+    "word": "dock",
+    "pronunciation": "da^k",
+    "translates": {
+      "noun": [
+        "بارانداز",
+        "تعمیرگاه کشتی",
+        "کارگاه کشتی سازی",
+        "[ دادگاه ] جایگاه متهم"
+      ],
+      "intransitive-verb": ["[ کشتی ] وارد بارانداز شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "docker",
+    "pronunciation": "'da^ker",
+    "translates": {
+      "noun": ["کارگر بارانداز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dockyard",
+    "pronunciation": "'da^kya^rd",
+    "translates": {
+      "noun": ["کارگاهِ کشتی سازی", "تعمیرگاه کشتی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "doctor",
+    "pronunciation": "'da^kter",
+    "translates": {
+      "noun": [
+        "دکتر (= دارای درجه دانشگاهی دکتری )",
+        "پزشک",
+        "طبیب",
+        "دکتر",
+        "[ عامیانه ] تعمیرکار"
+      ],
+      "transitive-verb": [
+        "[ عامیانه ] دوا درمان کردن",
+        "مداوا کردن",
+        "[ عامیانه ] تعمیر کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "document",
+    "pronunciation": "'da^kyument",
+    "translates": {
+      "noun": ["سند", "مدرک", "اوراق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "documentary",
+    "pronunciation": "da^kyu'mentri",
+    "translates": {
+      "adjective": ["مستند", "مستدل", "موثق", "[ اقتصاد ] اسنادی"],
+      "noun": ["فیلم مستند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dodge",
+    "pronunciation": "da^j",
+    "translates": {
+      "transitive-verb": [
+        "جاخالی دادن",
+        "در رفتن",
+        "دویدن",
+        "طفره رفتن",
+        "از زیر (‌ چیزی ) در رفتن",
+        "گول زدن"
+      ],
+      "noun": ["جاخالی", "پرش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "does",
+    "pronunciation": "da^z",
+    "translates": {
+      "transitive-verb": ["صورت صرف شده فعل do برای سوم شخص مفرد ( میکند )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "doesn't",
+    "pronunciation": "da^zent",
+    "translates": {
+      "auxiliary-verb": ["برابر است با does not ( نمیکند )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dog",
+    "pronunciation": "da^g",
+    "translates": {
+      "noun": ["سگ", "سگ نر", "گرگ نر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "doll",
+    "pronunciation": "da^l",
+    "translates": {
+      "noun": ["عروسک", "[ عامیانه ] تیکه", "لعبت", "دخترک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dollar",
+    "pronunciation": "'da^ler",
+    "translates": {
+      "noun": ["دلار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dolphin",
+    "pronunciation": "'da^lfin",
+    "translates": {
+      "noun": ["دلفین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dome",
+    "pronunciation": "dom",
+    "translates": {
+      "noun": ["گنبد", "قله", "قبه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "domestic",
+    "pronunciation": "da^'mestik",
+    "translates": {
+      "adjective": ["خانگی", "خانوادگی", "خانه دار"],
+      "noun": ["نظافتچی", "کارگر", "اهلی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dominate",
+    "pronunciation": "'da^mineyt",
+    "translates": {
+      "transitive-verb": ["مسلط بودن", "تسلط داشتن", "غالب بودن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "domination",
+    "pronunciation": "da^mi'neyshen",
+    "translates": {
+      "noun": ["سلطه", "تسلط", "استیلا", "نفوذ", "غلبه", "چیرگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dominion",
+    "pronunciation": "da^'miniyen",
+    "translates": {
+      "noun": ["حاکمیت", "سلطه", "قلمرو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "domino",
+    "pronunciation": "'da^mino",
+    "translates": {
+      "noun": ["مهره یا تخته دومینو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "done",
+    "pronunciation": "da^n",
+    "translates": {
+      "past-participle": ["اسم مفعول فعل do"],
+      "adjective": ["انجام شده", "وقوع یافته", "پخته", "خوب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "donkey",
+    "pronunciation": "'da^nki",
+    "translates": {
+      "noun": ["الاغ", "خر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "don't",
+    "pronunciation": "dont",
+    "translates": {
+      "auxiliary-verb": ["برابر است با do not ( نکردن", "انجام ندادن )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "doom",
+    "pronunciation": "doom",
+    "translates": {
+      "noun": ["محشر", "تقدیر", "سرنوشت شوم", "نابودی", "هلاکت"],
+      "transitive-verb": ["محکوم کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "door",
+    "pronunciation": "dor",
+    "translates": {
+      "noun": ["در", "درگاه", "درب"]
+    },
+    "subWords": {
+      "from door to door": ["خانه به خانه", "دقیقاً از یک جا به جای دیگر"],
+      "next door to": ["خانه بغلی", "اتاق بغلی"],
+      "out of door": ["در هوای آزاد"]
+    }
+  },
+  {
+    "word": "doorway",
+    "pronunciation": "'dorwey",
+    "translates": {
+      "noun": ["در", "دَم در", "درگاه", "راهرو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dope",
+    "pronunciation": "dop",
+    "translates": {
+      "noun": ["ماده مخدر", "داروی محرک"],
+      "transitive-verb": ["داروی محرک دادن به"],
+      "intransitive-verb": ["دوپینگ کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dormant",
+    "pronunciation": "'dorment",
+    "translates": {
+      "noun": [
+        "غیر فعال",
+        "خفته",
+        "خاموش",
+        "خوابیده",
+        "ساکت",
+        "نهفته",
+        "پنهان",
+        "مسکوت"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dormitory",
+    "pronunciation": "'dormitri",
+    "translates": {
+      "noun": ["خوابگاه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dose",
+    "pronunciation": "dos",
+    "translates": {
+      "noun": ["[ دارو ] مقدار خوراک", "مقدار مصرف", "وعده", "دُز"],
+      "transitive-verb": ["[ دارو ] خوراندن", "دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dot",
+    "pronunciation": "da^t",
+    "translates": {
+      "noun": ["نقطه", "خال", "لکه", "قطره"]
+    },
+    "subWords": {
+      "dots and dashes": ["[ تلگراف ] خط و نقطه"],
+      "on the dot": ["درست سر وقت"]
+    }
+  },
+  {
+    "word": "double",
+    "pronunciation": "'da^bel",
+    "translates": {
+      "adjective": [
+        "دوبرابر",
+        "دوتایی",
+        "مضاعف",
+        "برابر",
+        "دو",
+        "دوتا",
+        "دونفره",
+        "شبیه",
+        "لنگه"
+      ],
+      "adverb": ["دوبرابر"],
+      "transitive-verb": ["دوبرابر کردن", "تا کردن", "تا زدن"],
+      "intransitive-verb": ["دوبرابر شدن", "تا خوردن"]
+    },
+    "subWords": {
+      "double something back": ["چیزی را دولا کردن"],
+      "double up": ["[ از خنده یا درد ] به خود پیچیدن"]
+    }
+  },
+  {
+    "word": "double-decker",
+    "pronunciation": "da^bel 'deker",
+    "translates": {
+      "noun": ["اتوبوس دو طبقه", "ساندویچ دو لایه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "doubt",
+    "pronunciation": "daot",
+    "translates": {
+      "noun": ["شک", "تردید", "شبه", "گمان"],
+      "transitive-verb": ["شک کردن", "تردید کردن"],
+      "intransitive-verb": ["شک داشتن", "تردید داشتن", "مطمئن نبودن"]
+    },
+    "subWords": {
+      "in doubt": ["مردد", "نامطمئن"],
+      "no doubt": ["بدون شک"],
+      "without doubt": ["بدون شک", "یقیناً"]
+    }
+  },
+  {
+    "word": "doubtful",
+    "pronunciation": "'daotful",
+    "translates": {
+      "adjective": ["مردد", "دودل", "مشکوک", "مبهم", "نامطمئن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "doubtless",
+    "pronunciation": "'daotlis",
+    "translates": {
+      "adverb": [
+        "بی شک",
+        "حتماً",
+        "قطعاً",
+        "به احتمال قوی",
+        "احتمالاً",
+        "بی تردید",
+        "مسلم"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dough",
+    "pronunciation": "do",
+    "translates": {
+      "noun": ["خمیر", "مایه", "[ عامیانه ] پول", "پول و پَله", "مایه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "doughnut",
+    "pronunciation": "'dona^t",
+    "translates": {
+      "noun": ["دونات"]
+    },
+    "subWords": {}
   }
 ]
