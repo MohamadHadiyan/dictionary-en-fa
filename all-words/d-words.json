@@ -4671,5 +4671,419 @@
       "noun": ["دونات"]
     },
     "subWords": {}
+  },
+  {
+    "word": "dove",
+    "pronunciation": "da^v",
+    "translates": {
+      "noun": ["کبوتر", "کبوتر صلح", "قُمری"],
+      "past-tens": ["گذشته فعل dive (شیرجه زد)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dovecote",
+    "pronunciation": "'da^vkot",
+    "translates": {
+      "noun": ["لانه کبوتر", "کبوتر خانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "down",
+    "pronunciation": "daon",
+    "translates": {
+      "adverb": [
+        "پایین",
+        "به پایین",
+        "به طرف پایین",
+        "پایینِ",
+        "زیر",
+        "زمین",
+        "به زمین"
+      ],
+      "adjective": ["پایین", "افتاده", "پنچر"],
+      "preposition": ["زیر"],
+      "noun": ["پایین", "پَرِ نرم", "موی نرم", "کرک"]
+    },
+    "subWords": {
+      "down with": ["مرگ بر", "مرده باد"]
+    }
+  },
+  {
+    "word": "downcast",
+    "pronunciation": "'daonka^st",
+    "translates": {
+      "adjective": ["افسرده", "اندوهگین", "غمگین"],
+      "noun": ["ویرانی", "سربزیری", "دل افسردگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "downhearted",
+    "pronunciation": "daon'ha^rtid",
+    "translates": {
+      "adjective": ["افسرده", "غمگین", "اندوهگین", "دل شکسته", "ناامید"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "downhill",
+    "pronunciation": "daon'hil",
+    "translates": {
+      "adverb": ["در سرازیری", "در سراشیبی"],
+      "noun": ["سرازیری", "سراشیبی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "downpour",
+    "pronunciation": "'daonpor",
+    "translates": {
+      "noun": [
+        "رگبار",
+        "بارندگی شدید",
+        "بارندگی زیاد",
+        "فرو ریزی",
+        "بارش متوالی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "downstairs",
+    "pronunciation": "daon'sterz",
+    "translates": {
+      "noun": ["طبقه پایین"],
+      "adjective": ["واقع در طبقه زیر", "طبقه پایین"],
+      "adverb": ["پایین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "downward",
+    "pronunciation": "'daonword",
+    "translates": {
+      "adjective": ["سرازیر", "رو به پایین", "نزولی"],
+      "adverb": ["به طرف پایین", "رو به پایین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "doze",
+    "pronunciation": "",
+    "translates": {
+      "intransitive-verb": ["چُرت زدن"],
+      "noun": ["چُرت"]
+    },
+    "subWords": {
+      "doze of": ["خواب رفتن", "کسی را خواب بردن"]
+    }
+  },
+  {
+    "word": "dozen",
+    "pronunciation": "'da^zen",
+    "translates": {
+      "noun": ["دوجین", "دوازده عدد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Dr.",
+    "pronunciation": "'da^kter",
+    "translates": {
+      "noun": ["دکتر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drag",
+    "pronunciation": "drag",
+    "translates": {
+      "intransitive-verb": [
+        "کشیدن",
+        "کشاندن",
+        "روی زمین کشیدن",
+        "به کندی راه رفتن",
+        "طولانی شدن"
+      ],
+      "noun": ["مزاحم", "اسباب زحمت", "مایه دردسر", "سربار", "پُک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dragon",
+    "pronunciation": "'dragen",
+    "translates": {
+      "noun": ["اژدها"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drain",
+    "pronunciation": "dreyn",
+    "translates": {
+      "transitive-verb": [
+        "خشک کردن",
+        "خشکاندن",
+        "[ مایعات ] کشیدن",
+        "زه کشی کردن",
+        "سر کشیدن",
+        "خالی کردن"
+      ],
+      "noun": [
+        "زه کشی",
+        "زهاب",
+        "لوله فاضلاب",
+        "[ به صورت جمع ] فاضلاب",
+        "دهانه فاضلاب"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drama",
+    "pronunciation": "'dra^ma",
+    "translates": {
+      "noun": ["درام", "نمایش", "نمایش نامه", "نمایش نامه نویسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dramatic",
+    "pronunciation": "dra'matik",
+    "translates": {
+      "adjective": ["تئاتری", "نمایشی", "مهیج"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dramatically",
+    "pronunciation": "dra'matikli",
+    "translates": {
+      "adverb": ["به طور چشمگیری", "به طور نمایشی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dramatist",
+    "pronunciation": "'dramatist",
+    "translates": {
+      "noun": ["نمایش نامه نویس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drank",
+    "pronunciation": "drank",
+    "translates": {
+      "past-tens": ["گذشته فعل drink ( نوشید )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "draper",
+    "pronunciation": "'dreyper",
+    "translates": {
+      "noun": ["بزاز", "پارچه فروش", "( مغازه ) بزازی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "draught",
+    "pronunciation": "dra^ft",
+    "translates": {
+      "noun": ["کوران", "جریان هوای خنک", "باد", "قُلپ", "جرعه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "draw",
+    "pronunciation": "dro",
+    "translates": {
+      "noun": ["قرعه کشی", "[ مسابقه ] مساوی", "نتیجه مساوی"],
+      "transitive-verb": [
+        "کشیدن",
+        "بیرون کشیدن",
+        "در آوردن",
+        "رسم کردن",
+        "ترسیم کردن",
+        "نقاشی کردن",
+        "توصیف کردن",
+        "تصویر کردن",
+        "[ از حساب بانکی ] برداشت کردن",
+        "[ چک یا حواله ] صادر کردن",
+        "قرعه کشی کردن"
+      ]
+    },
+    "subWords": {
+      "draw back": ["عقب کشیدن"],
+      "draw in": ["[ روز ] کوتاه شدن", "[ اتومبیل و غیره ] کنار زدن"],
+      "draw money out": ["پول از حساب برداشتن", "برداشت کردن"],
+      "draw near": ["نزدیک تر شدن"],
+      "draw somebody out": ["کسی را به حرف وا داشتن"],
+      "draw up": ["[ قطار و غیره ] ایستادن", "توقف کردن"]
+    }
+  },
+  {
+    "word": "drawback",
+    "pronunciation": "'drobak",
+    "translates": {
+      "noun": ["عیب", "ایراد", "اشکال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drawer",
+    "pronunciation": "dror , 'dro-er",
+    "translates": {
+      "noun": ["کشو", "[ چک و حواله ] صادر کننده", "برات کش", "نقاش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drawing",
+    "pronunciation": "'dro-ing",
+    "translates": {
+      "noun": [
+        "نقاشی",
+        "طراحی",
+        "ترسیم",
+        "تصویر",
+        "طرح",
+        "رسم",
+        "نقشه کشی",
+        "قرعه کشی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drawing board",
+    "pronunciation": "'dro-ing bord",
+    "translates": {
+      "noun": ["تخته رسم", "تخته شاسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drawing pin",
+    "pronunciation": "'dro-ing pin",
+    "translates": {
+      "noun": ["پونز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drawing room",
+    "pronunciation": "'dro-ing rum",
+    "translates": {
+      "noun": ["اتاق پذیرایی", "مهمان خانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drawn",
+    "pronunciation": "dron",
+    "translates": {
+      "past-participle": ["اسم مفعول فعل draw ( کشیده شده )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dread",
+    "pronunciation": "dred",
+    "translates": {
+      "noun": ["وحشت", "ترس", "بیم", "خوف", "هراس", "دلهره", "نگرانی"],
+      "transitive-verb": ["ترسیدن از", "وحشت داشتن از", "وحشت کردن از"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dreadful",
+    "pronunciation": "'dredful",
+    "translates": {
+      "adjective": [
+        "وحشتناک",
+        "وحشت آور",
+        "هولناک",
+        "ترسناک",
+        "خوفناک",
+        "مهیب",
+        "مخوف",
+        "افتضاح",
+        "خیلی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dreadfully",
+    "pronunciation": "'dredfuli",
+    "translates": {
+      "adverb": ["به طرز وحشتناکی", "خیلی", "زیاد", "بسیار", "فوق العاده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dream",
+    "pronunciation": "driim",
+    "translates": {
+      "noun": ["رویا", "خواب", "عالم رویا", "عالم خواب", "خیال", "آرزو"],
+      "intransitive-verb": [
+        "خواب دیدن",
+        "در خواب دیدن",
+        "تصور کردن",
+        "خیال کردن",
+        "فکر کردن",
+        "آرزو کردن",
+        "دچار توهم شدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dreamt",
+    "pronunciation": "dremt",
+    "translates": {
+      "past-tens": ["گذشته فعل dream ( خواب دید )"],
+      "past-participle": ["اسم مفعول فعل dream"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dreamy",
+    "pronunciation": "'driimi",
+    "translates": {
+      "adjective": ["رویایی", "خیالی", "تخیلی", "خیالباف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dress",
+    "pronunciation": "dres",
+    "translates": {
+      "noun": ["پیراهن ( زنانه )", "لباس"],
+      "adjective": ["[ پارچه ] لباسی", "پیراهنی", "[ لباس ] رسمی"],
+      "intransitive-verb": [
+        "لباس پوشیدن",
+        "لباس پوشاندن",
+        "لباس رسمی پوشیدن",
+        "[ زخم ] پانسمان کردن",
+        "بستن",
+        "[ مو ] آرایش کردن",
+        "آماده کردن",
+        "تزیین کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dresser",
+    "pronunciation": "'dreser",
+    "translates": {
+      "noun": ["کمد", "میز آرایش", "میز توالت", "قفسه آشپزخانه", "کابینت"]
+    },
+    "subWords": {}
   }
 ]
