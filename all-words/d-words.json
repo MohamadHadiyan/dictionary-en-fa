@@ -5085,5 +5085,448 @@
       "noun": ["کمد", "میز آرایش", "میز توالت", "قفسه آشپزخانه", "کابینت"]
     },
     "subWords": {}
+  },
+  {
+    "word": "dressing",
+    "pronunciation": "'dresing",
+    "translates": {
+      "noun": ["لباس پوشیدن", "پانسمان", "سُس", "[ سنگ یا چوب ] تراش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dressing gown",
+    "pronunciation": "'dresing gaon",
+    "translates": {
+      "noun": ["لباس خواب", "لباس خانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dressing room",
+    "pronunciation": "'dresing rum",
+    "translates": {
+      "noun": ["رختکن", "اتاق پرو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drew",
+    "pronunciation": "droo",
+    "translates": {
+      "past-tens": ["گذشته فعل draw ( کشید )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dribble",
+    "pronunciation": "'dribel",
+    "translates": {
+      "transitive-verb": [
+        "آب دهان ( کسی )  ریختن یا چکیدن",
+        "از گوشه لبان ( کسی ) آب چکیدن",
+        "چکاندن",
+        "چکه چکه ریختن",
+        "[ فوتبال و غیره ] دریبل کردن",
+        "دریبل زدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drier",
+    "pronunciation": "'dra^yer",
+    "translates": {
+      "noun": ["[ در ترکیب ] خشک کن", "خشک کننده", "سشوار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drift",
+    "pronunciation": "drift",
+    "translates": {
+      "noun": [
+        "راندگی",
+        "حرکت",
+        "توده",
+        "منظور",
+        "تمایل",
+        "گرایش",
+        "انحراف",
+        "صبر و انتظار"
+      ],
+      "intransitive-verb": [
+        "( با آب یا باد ) رانده شدن",
+        "کشیده شدن",
+        "راندن",
+        "بردن",
+        "منحرف شدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drill",
+    "pronunciation": "dril",
+    "translates": {
+      "noun": ["مته", "تمرین", "[ نظامی ] مشق"],
+      "transitive-verb": [
+        "( با مته ) سوراخ کردن",
+        "حفاری کردن",
+        "حفر کردن",
+        "کندن",
+        "آموزش دادن",
+        "تعلیم دادن",
+        "تمرین دادن",
+        "مشق دادن",
+        "تمرین کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drily",
+    "pronunciation": "'dra^yli",
+    "translates": {
+      "adverb": ["با سردی", "با خشکی", "با بی اعتنایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drink",
+    "pronunciation": "drink",
+    "translates": {
+      "noun": ["آشامیدنی", "نوشابه", "نوشیدنی", "مشروب"],
+      "transitive-verb": ["نوشیدن", "خوردن", "آشامیدن"],
+      "intransitive-verb": ["مشروب خوردن"]
+    },
+    "subWords": {
+      "drink to somebody": ["به سلامتی کسی نوشیدن"],
+      "drink up": ["سر کشیدن", "ته ( چیزی ) را بالا آوردن"]
+    }
+  },
+  {
+    "word": "drinker",
+    "pronunciation": "'drinker",
+    "translates": {
+      "noun": ["مشروب خور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drip",
+    "pronunciation": "drip",
+    "translates": {
+      "intransitive-verb": ["چکه کردن", "چکیدن"],
+      "transitive-verb": ["چکاندن"],
+      "noun": ["چکه", "قطره", "چِک چِک", "[ پزشکی ] سِرم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drive",
+    "pronunciation": "dra^yv",
+    "translates": {
+      "transitive-verb": [
+        "راندن",
+        "رانندگی کردن",
+        "با ماشین رفتن",
+        "با ماشین آمدن",
+        "هدایت کردن"
+      ],
+      "noun": ["رانندگی", "سواری", "راه ورودی اتومبیل"]
+    },
+    "subWords": {
+      "drive up": ["[ اتومبیل ] نزدیک آمدن و ایستادن"]
+    }
+  },
+  {
+    "word": "driven",
+    "pronunciation": "'driven",
+    "translates": {
+      "past-participle": ["اسم مفعول فعل drive ( رانده )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "driver",
+    "pronunciation": "'dra^yver",
+    "translates": {
+      "noun": ["راننده", "محرک"]
+    },
+    "subWords": {
+      "racing-driver": ["قهرمان اتومبیل رانی"]
+    }
+  },
+  {
+    "word": "driving",
+    "pronunciation": "'dra^yving",
+    "translates": {
+      "noun": ["رانندگی"],
+      "adjective": ["محرک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "driving license",
+    "pronunciation": "'dra^yving la^ysens",
+    "translates": {
+      "noun": ["گواهینامه رانندگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "driving school",
+    "pronunciation": "'dra^yving skool",
+    "translates": {
+      "noun": ["آموزشگاه رانندگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "driving test",
+    "pronunciation": "'dra^yving test",
+    "translates": {
+      "noun": ["امتحان رانندگی", "آزمایش رانندگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drizzle",
+    "pronunciation": "'drizel",
+    "translates": {
+      "intransitive-verb": ["نم نم باریدن", "ریز باریدن"],
+      "noun": ["نم نم باران", "باران ریز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dromedary",
+    "pronunciation": "'dra^mederi",
+    "translates": {
+      "noun": ["شتر جمازه", "شتر یک کوهانه", "آدم احمق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "droop",
+    "pronunciation": "droop",
+    "translates": {
+      "intransitive-verb": [
+        "خم شدن",
+        "افتادن",
+        "پژمرده شدن",
+        "پلاسیدن",
+        "افسرده و مایوس شدن",
+        "آب از دهان تراوش شدن"
+      ],
+      "noun": ["سستی", "خمیدگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drop",
+    "pronunciation": "dra^p",
+    "translates": {
+      "noun": ["قطره", "چکه", "ذره", "ریزه", "خرده", "اُفت", "کاهش", "سقوط"],
+      "intransitive-verb": [
+        "چکیدن",
+        "چکاندن",
+        "افتادن",
+        "ریختن",
+        "پریدن",
+        "کاهش یافتن"
+      ],
+      "transitive-verb": ["رها کردن", "کنار گذاشتن", "انداختن", "پیاده کردن"]
+    },
+    "subWords": {
+      "drop behind": ["عقب افتادن"],
+      "drop in": ["( به کسی ) سر زدن"],
+      "drop off": ["خواب رفتن", "کسی را خواب بردن"],
+      "drop out": ["ول کردن", "نیمه کاره رها کردن"],
+      "drop somebody a line": ["یادداشت برای کسی فرستادن"]
+    }
+  },
+  {
+    "word": "drought",
+    "pronunciation": "draot",
+    "translates": {
+      "noun": ["خشکسالی", "خشکی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drove",
+    "pronunciation": "drov",
+    "translates": {
+      "past-tens": ["گذشته فعل drive ( رانندگی کرد )"],
+      "noun": ["رمه", "گله", "محل عبور احشام"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drown",
+    "pronunciation": "draon",
+    "translates": {
+      "transitive-verb": [
+        "غرق کردن",
+        "در آب غرق کردن",
+        "غرق ( چیزی ) کردن",
+        "محو کردن"
+      ],
+      "intransitive-verb": ["غرق شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drowsy",
+    "pronunciation": "'draozi",
+    "translates": {
+      "adjective": ["خواب آلو ( ده )", "خواب آور", "خواب آلود", "کسل کننده"],
+      "noun": ["چرت زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drudgery",
+    "pronunciation": "'dra^jeri",
+    "translates": {
+      "noun": ["خرحمالی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drug",
+    "pronunciation": "dra^g",
+    "translates": {
+      "noun": ["دارو"],
+      "transitive-verb": ["دارو زدن به", "دارو ریختن توی", "دارو دادن به"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drug addict",
+    "pronunciation": "'dra^g adikt",
+    "translates": {
+      "noun": ["معتاد ( به مواد مخدر )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drugstore",
+    "pronunciation": "'dra^gstor",
+    "translates": {
+      "noun": ["داروخانه", "دراگ استور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drum",
+    "pronunciation": "dra^m",
+    "translates": {
+      "noun": [
+        "طبل",
+        "کوس",
+        "دهل",
+        "ضرب",
+        "صدای ضربات",
+        "بشکه",
+        "ظرف استوانه ای شکل"
+      ],
+      "intransitive-verb": ["طبل زدن", "ضرب زدن", "ضرب گرفتن", "رِنگ گرفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drummer",
+    "pronunciation": "dra^mer",
+    "translates": {
+      "noun": ["طبل زدن", "طبال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drunk",
+    "pronunciation": "dra^nk",
+    "translates": {
+      "adjective": ["مست", "خورده", "سرمست"],
+      "past-participle": ["اسم مفعول فعل drink"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drunkard",
+    "pronunciation": "'dra^nkerd",
+    "translates": {
+      "noun": ["باده گسار", "میخواره", "آدم مست"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drunken",
+    "pronunciation": "'dra^nken",
+    "translates": {
+      "adjective": ["مست"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "drunkenness",
+    "pronunciation": "'dra^nken.nis",
+    "translates": {
+      "noun": ["باده گساری", "عرق خوری", "مستی", "نشئه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dry",
+    "pronunciation": "dra^y",
+    "translates": {
+      "adjective": ["خشک", "بی آب", "کم باران", "بی روح", "سرد"],
+      "transitive-verb": ["خشک کردن"],
+      "intransitive-verb": [
+        "خشک شدن",
+        "تمام شدن",
+        "ته کشیدن",
+        "فراموش کردن",
+        "تشنه شدن"
+      ]
+    },
+    "subWords": {
+      "dry out": ["خشک شدن"],
+      "dry up": ["خشک کردن", "خشک شدن"]
+    }
+  },
+  {
+    "word": "dry-clean",
+    "pronunciation": "dra^y 'kiliin",
+    "translates": {
+      "transitive-verb": ["خشک شویی کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dry-cleaning",
+    "pronunciation": "dra^y 'kiliinig",
+    "translates": {
+      "noun": ["خشک شویی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dryer",
+    "pronunciation": "dra^yer",
+    "translates": {
+      "noun": ["[ در ترکیب ] _خشک کن", "سشوار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dryly",
+    "pronunciation": "'dra^yli",
+    "translates": {
+      "adverb": ["با سردی", "با خشکی", "با بی اعتنایی"]
+    },
+    "subWords": {}
   }
 ]
