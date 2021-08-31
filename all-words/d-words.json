@@ -5528,5 +5528,437 @@
       "adverb": ["با سردی", "با خشکی", "با بی اعتنایی"]
     },
     "subWords": {}
+  },
+  {
+    "word": "dryness",
+    "pronunciation": "'dra^nis",
+    "translates": {
+      "noun": ["خشکی", "کم بارانی", "بی تفاوتی", "سردی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dub",
+    "pronunciation": "da^b",
+    "translates": {
+      "transitive-verb": ["دوبله کردن", "فیلم را دوبله کردن", "تفویض مقام کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dubbing",
+    "pronunciation": "'da^bing",
+    "translates": {
+      "noun": ["دوبلاژ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "duck",
+    "pronunciation": "da^k",
+    "translates": {
+      "noun": ["اردک", "مرغابی"],
+      "transitive-verb": ["پس کشیدن", "قایم کردن", "دزدیدن"],
+      "intransitive-verb": ["قایم شدن", "جاخالی دادن", "زیر آب رفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "duckling",
+    "pronunciation": "'da^kling",
+    "translates": {
+      "noun": ["جوجه اردک", "جوجه مرغابی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "due",
+    "pronunciation": "dyoo",
+    "translates": {
+      "adjective": [
+        "ناشی از",
+        "مقتضی",
+        "قابل پرداخت",
+        "موعد",
+        "سرسید",
+        "مقرر",
+        "معین",
+        "حق",
+        "حق مطلب"
+      ]
+    },
+    "subWords": {
+      "be due for": ["موقع چیزی بودن"],
+      "due to": ["در نتیجه", "به خاطرِ"]
+    }
+  },
+  {
+    "word": "duel",
+    "pronunciation": "'dyoo-el",
+    "translates": {
+      "noun": ["دوئل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "duet",
+    "pronunciation": "dyoo-et",
+    "translates": {
+      "noun": ["دوئت (= قطعه ای موسیقایی برای دو اجرا کننده )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dug",
+    "pronunciation": "da^g",
+    "translates": {
+      "past-tens": ["گذشته فعل dig ( حفر شده )"],
+      "past-participle": ["اسم مفعول فعل dig"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "duke",
+    "pronunciation": "dyook",
+    "translates": {
+      "noun": ["دوک (= لقب موروثی اعیان انگلیس )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dull",
+    "pronunciation": "da^l",
+    "translates": {
+      "adjective": [
+        "تیره",
+        "کدر",
+        "مات",
+        "[ صدا ] خفه",
+        "گرفته",
+        "بم",
+        "[ حواس ] ضعیف",
+        "[ درد ]‌ خفیف",
+        "کسل کننده",
+        "کند"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "duly",
+    "pronunciation": "'dyooli",
+    "translates": {
+      "adverb": ["به موقع", "سر وقت", "به قدر لازم", "چنانکه باید و شاید"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dumb",
+    "pronunciation": "da^m",
+    "translates": {
+      "adjective": ["لال", "گنگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dumb waiter",
+    "pronunciation": "da^m 'weyter",
+    "translates": {
+      "noun": ["میز گردان", "[ رستوران ] آسانسور غذا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dummy",
+    "pronunciation": "'da^mi",
+    "translates": {
+      "noun": ["مانکن", "مدل", "چیز بدلی", "[ کتاب و غیره ] ماکت"],
+      "adjective": ["ساختگی", "مصنوعی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dump",
+    "pronunciation": "da^mp",
+    "translates": {
+      "noun": ["زباله دانی"],
+      "transitive-verb": ["ریختن", "خالی کردن"],
+      "intransitive-verb": ["آشغال ریختن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dune",
+    "pronunciation": "dyoon",
+    "translates": {
+      "noun": ["تپه شنی", "تلماسه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dung",
+    "pronunciation": "da^ng",
+    "translates": {
+      "noun": ["تپاله", "پِهن", "سرگین", "کود", "پشکل", "مدفوع حیوانات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dungarees",
+    "pronunciation": "da^nga'riiz",
+    "translates": {
+      "noun": ["لباس کار", "شلوار پیش سینه دار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dungeon",
+    "pronunciation": "'da^njen",
+    "translates": {
+      "noun": ["سیاه چال", "زندان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "duplicate",
+    "pronunciation": "'dyooplikit",
+    "translates": {
+      "noun": [
+        "مشابه",
+        "تکراری",
+        "دوتایی",
+        "دوبرگه ای",
+        "لنگه",
+        "جفت",
+        "رونوشت",
+        "کپی"
+      ],
+      "transitive-verb": ["دو نسخه کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "duplicator",
+    "pronunciation": "'dyooplikeyter",
+    "translates": {
+      "noun": ["دستگاه پلی کپی", "دستگاه فتو کپی", "ماشین نسخه برداری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "duration",
+    "pronunciation": "dyu'reyshen",
+    "translates": {
+      "noun": ["مدت", "زمان", "طیِ", "طولِ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "during",
+    "pronunciation": "'dyooring",
+    "translates": {
+      "preposition": [
+        "در طولِ",
+        "در خلالِ",
+        "در ظرفِ",
+        "در طول مدتِ",
+        "در حینِ",
+        "طی",
+        "در طیِ"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dusk",
+    "pronunciation": "da^sk",
+    "translates": {
+      "noun": ["شفق", "غروب", "هنگام غروب"],
+      "adjective": ["هوای گرگ و میش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dusky",
+    "pronunciation": "'da^ski",
+    "translates": {
+      "noun": ["[ رنگ ] تیره", "سیر", "پر رنگ", "تاریک", "کم نور", "مبهم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dust",
+    "pronunciation": "da^st",
+    "translates": {
+      "noun": ["گرد و خاک", "غبار"],
+      "transitive-verb": ["گردگیری کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dustbin",
+    "pronunciation": "'da^stbin",
+    "translates": {
+      "noun": ["سطل زباله", "زباله دانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "duster",
+    "pronunciation": "'da^ster",
+    "translates": {
+      "noun": ["دسمالِ گردگیری", "گردگیر", "تخته پاک کن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dust jacket",
+    "pronunciation": "'da^st jakit",
+    "translates": {
+      "noun": ["روکش کتاب", "جلد کاغذی روی کتاب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dustman",
+    "pronunciation": "'da^stman",
+    "translates": {
+      "noun": ["رفتگر", "خاکروبه بر", "مامور تنظیف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dustpan",
+    "pronunciation": "'da^stpan",
+    "translates": {
+      "noun": ["خاک انداز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dustsheet",
+    "pronunciation": "'da^st-shiit",
+    "translates": {
+      "noun": ["[ مبل و اثاثیه ] ملافه روکش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dusty",
+    "pronunciation": "'da^sti",
+    "translates": {
+      "adjective": ["گردگرفته", "گرد و خاکی", "غباری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Dutch",
+    "pronunciation": "da^ch",
+    "translates": {
+      "adjective": ["هلندی"],
+      "noun": ["زبان هلندی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Dutchman",
+    "pronunciation": "'da^chman",
+    "translates": {
+      "noun": ["هلندی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dutiful",
+    "pronunciation": "'dyootiful",
+    "translates": {
+      "adjective": ["وظیفه شناس", "مطیع", "سربراه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "duty",
+    "pronunciation": "'dyooti",
+    "translates": {
+      "noun": ["وظیفه", "کار", "تکلیف", "خدمت", "وظیفه شناسی", "عوارض"]
+    },
+    "subWords": {
+      "be off duty": ["سر پست نبودن", "سر کار نبودن", "کشیک نبودن"],
+      "be on duty": ["سر پست بودن", "سر کار بودن", "کشیک بودن"],
+      "customs duties": ["عوارض گمرکی"],
+      "duty-free": ["معاف از مالیات"]
+    }
+  },
+  {
+    "word": "dwarf",
+    "pronunciation": "dwa^rf",
+    "translates": {
+      "noun": ["کوتوله", "جن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dwell",
+    "pronunciation": "dwel",
+    "translates": {
+      "transitive-verb": [
+        "سکنی گزیدن",
+        "ساکن شدن",
+        "اقامت کردن",
+        "زندگی کردن",
+        "شرح و بسط دادن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dwelt",
+    "pronunciation": "",
+    "translates": {
+      "past-tens": ["گذشته فعل dwell ( ساکن شد )"],
+      "past-participle": ["اسم مفعول فعل dwell"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dye",
+    "pronunciation": "da^y",
+    "translates": {
+      "transitive-verb": ["رنگ کردن"],
+      "noun": ["رنگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dynamic",
+    "pronunciation": "da^y'namik",
+    "translates": {
+      "adjective": ["پویا", "پر انرژی", "پر جنب و جوش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dynamism",
+    "pronunciation": "'da^ynamizem",
+    "translates": {
+      "noun": ["پویای", "پویش", "تحرک", "دینامیسم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dynamite",
+    "pronunciation": "'da^ynama^yt",
+    "translates": {
+      "noun": ["دینامیت", "چیز مخرب یا خطرناک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "dynamo",
+    "pronunciation": "'da^ynamo",
+    "translates": {
+      "noun": ["دینام"]
+    },
+    "subWords": {}
   }
 ]
