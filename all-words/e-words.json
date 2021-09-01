@@ -1,0 +1,465 @@
+[
+  {
+    "word": "E, e",
+    "pronunciation": "ii",
+    "translates": {
+      "noun": ["ای (= پنجمین حرف الفبای انگلیسی )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "each",
+    "pronunciation": "iich",
+    "translates": {
+      "adjective": ["هر", "هر یک", "هر کدام"],
+      "pronoun": ["هر یک", "به هر کدام"],
+      "adverb": ["یکی", "هر یکی", "دانه ای"]
+    },
+    "subWords": {
+      "each other": ["یکدیگر", "همدیگر"]
+    }
+  },
+  {
+    "word": "eager",
+    "pronunciation": "'iiger",
+    "translates": {
+      "adjective": ["مشتاق", "علاقه مند", "بی قرار", "چشم انتظار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eagerly",
+    "pronunciation": "'iigerli",
+    "translates": {
+      "adverb": ["مشتاقانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eagerness",
+    "pronunciation": "'iigernis",
+    "translates": {
+      "noun": ["اشتیاق", "علاقه", "شور و شوق", "ذوق و شوق", "خواست"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eagle",
+    "pronunciation": "'iigel",
+    "translates": {
+      "noun": ["عقاب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ear",
+    "pronunciation": "'iyer",
+    "translates": {
+      "noun": ["گوش", "توجه", "خوشه", "سنبله"]
+    },
+    "subWords": {
+      "play by ear": [
+        "[ موسقی ] بدون نت اجرا کردن",
+        "از بر اجرا کردن",
+        "گوشی زدن"
+      ]
+    }
+  },
+  {
+    "word": "earache",
+    "pronunciation": "'iyereyk",
+    "translates": {
+      "noun": ["گوش درد", "درد گوش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "earl",
+    "pronunciation": "erl",
+    "translates": {
+      "noun": ["اِرل", "کُنت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "early",
+    "pronunciation": "'erli",
+    "translates": {
+      "adjective": [
+        "زود",
+        "زودتر",
+        "اوایل",
+        "اولیه",
+        "پیشین",
+        "زودرس",
+        "پیش رس"
+      ],
+      "adverb": ["در اوایل", "در ابتدا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "earn",
+    "pronunciation": "ern",
+    "translates": {
+      "transitive-verb": [
+        "درآمد داشتن",
+        "به دست آوردن",
+        "کسب کردن",
+        "به بار آوردن",
+        "استحقاق داشتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "earnest",
+    "pronunciation": "'ernist",
+    "translates": {
+      "adjective": ["جدی", "مشتاق", "دلگرم"],
+      "noun": ["بیعانه", "وثیقه"]
+    },
+    "subWords": {
+      "in earnest": ["جدی", "صادق", "به شدت"]
+    }
+  },
+  {
+    "word": "earnestly",
+    "pronunciation": "'ernistli",
+    "translates": {
+      "adverb": ["جداً", "با جدیت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "earnings",
+    "pronunciation": "'erningz",
+    "translates": {
+      "noun": ["درآمد", "عایدات", "عواید", "دخل", "سود", "نفع", "منفعت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "earphone",
+    "pronunciation": "'iyerfon",
+    "translates": {
+      "noun": ["هدفون", "گوشی تلفن", "سمعک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "earring",
+    "pronunciation": "iyering",
+    "translates": {
+      "noun": ["گوشواره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "earshot",
+    "pronunciation": "'iyersha^t",
+    "translates": {
+      "noun": ["گوش رس", "صدا رس", "گوش شنوا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "earth",
+    "pronunciation": "erth",
+    "translates": {
+      "noun": ["زمین", "خاک", "خشکی", "کره زمین", "[ برق ] اتصال زمین"],
+      "transitive-verb": ["با خاک پوشاندن", "[ برق ] به زمین وصل کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Earth",
+    "pronunciation": "erth",
+    "translates": {
+      "noun": ["کره زمین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "earthenware",
+    "pronunciation": "'erthenwer",
+    "translates": {
+      "noun": [
+        "ظروف سفالی",
+        "ظروف سرامیکی",
+        "ظروف گِلی",
+        "سفال",
+        "سفالین",
+        "سفالینه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "earthquake",
+    "pronunciation": "'erthkweyk",
+    "translates": {
+      "noun": ["زمین لرزه", "زلزله"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "earthworm",
+    "pronunciation": "'erthwerm",
+    "translates": {
+      "noun": ["کرم خاکی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ease",
+    "pronunciation": "'iiz",
+    "translates": {
+      "noun": ["آسایش", "آسانی", "سهولت", "سادگی"],
+      "transitive-verb": ["راحت کردن", "آرام کردن", "تسکین دادن"],
+      "intransitive-verb": ["آرام شدن", "شل شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "easel",
+    "pronunciation": "'iizel",
+    "translates": {
+      "noun": ["سه پایه", "قاب", "سه پایه نقاشی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "easily",
+    "pronunciation": "'iizili",
+    "translates": {
+      "adverb": ["به آسانی", "به راحتی", "خیلی راحت", "به سادگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "easiness",
+    "pronunciation": "'iizinis",
+    "translates": {
+      "noun": ["آسانی", "سهولت", "سادگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "east",
+    "pronunciation": "'iist",
+    "translates": {
+      "noun": ["شرق", "مشرق", "خاور"],
+      "adjective": ["شرقی"],
+      "adverb": ["به سوی شرق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "East , the",
+    "pronunciation": "'iist",
+    "translates": {
+      "noun": ["مشرق", "مشرق زمین", "شرق", "شرق آمریکا", "بلوک شرق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Easter",
+    "pronunciation": "'iister",
+    "translates": {
+      "noun": ["عید پاک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "easterly",
+    "pronunciation": "'iisterli",
+    "translates": {
+      "adjective": ["شرقی", "شرق"],
+      "noun": ["باد شرقی"],
+      "adverb": ["از طرف شرق", "به سوی شرق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eastern",
+    "pronunciation": "'iistern",
+    "translates": {
+      "adjective": ["شرقی", "خاوری", "شرق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eastward",
+    "pronunciation": "'iistword",
+    "translates": {
+      "adjective": ["شرقی", "رو به شرق"],
+      "adverb": ["به سوی شرق", "به طرف مشرق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "easy",
+    "pronunciation": "'iizi",
+    "translates": {
+      "adjective": ["آسان", "ساده", "راحت", "سهل", "آسوده", "بی دردسر"],
+      "adverb": ["آهسته", "یواش", "با احتیاط", "آسان"]
+    },
+    "subWords": {
+      "take things ( or it ) easy": ["سخت نگرفتن"]
+    }
+  },
+  {
+    "word": "eat",
+    "pronunciation": "iit",
+    "translates": {
+      "transitive-verb": ["خوردن", "غذا خوردن", "تغذیه کردن از"]
+    },
+    "subWords": {
+      "eat up": ["[ غذا ] تمام کردن", "تا آخر خوردن"]
+    }
+  },
+  {
+    "word": "eatable",
+    "pronunciation": "'iitebel",
+    "translates": {
+      "adjective": ["خوردنی", "قابل خودن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eaten",
+    "pronunciation": "'iiten",
+    "translates": {
+      "past-participle": ["اسم مفعول فعل eat"],
+      "adjective": ["خورده", "خورده شده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eater",
+    "pronunciation": "'iiter",
+    "translates": {
+      "noun": ["[ در ترکیب ] _خور"],
+      "transitive-verb": ["خوردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ebb",
+    "pronunciation": "eb",
+    "translates": {
+      "noun": ["جزر", "فروکِشنده", "فروکش", "مد"],
+      "transitive-verb": ["فروکش کردن", "افول کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eccentric",
+    "pronunciation": "ik'sentrik",
+    "translates": {
+      "adjective": [
+        "غیر عادی",
+        "نامتعارف",
+        "[ ریاضیات ] خارج از مرکز",
+        "مختلف المرکز"
+      ],
+      "noun": ["آدم غیر عادی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "echo",
+    "pronunciation": "'eko",
+    "translates": {
+      "noun": ["پژواک", "انعکاس صدا", "بازتاب", "طنین", "مقلد", "رد", "اثر"],
+      "intransitive-verb": ["صدای ( چیزی ) پیچیدن در", "منعکس شدن"],
+      "transitive-verb": ["منعکس کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eclipse",
+    "pronunciation": "i'klips",
+    "translates": {
+      "noun": ["ماه گرفتگی", "خورشید گرفتگی", "خسوف", "کسوف", "افول"],
+      "transitive-verb": ["تحت الشعاع قرار دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ecology",
+    "pronunciation": "i'ka^loji",
+    "translates": {
+      "noun": ["بوم شناسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "economical",
+    "pronunciation": "iika^'na^mika^l",
+    "translates": {
+      "adjective": ["باصرفه", "مقرون به صرفه", "اقتصادی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "economically",
+    "pronunciation": "iika^'na^mika^li",
+    "translates": {
+      "adverb": ["از لحاظ اقتصادی", "مقتصدانه", "باصرفه جویی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "economize",
+    "pronunciation": "i'ka^na^ma^yz",
+    "translates": {
+      "intransitive-verb": ["صرفه جویی کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "economy",
+    "pronunciation": "i'ka^na^mi",
+    "translates": {
+      "noun": ["اقتصاد", "صرفه جویی"],
+      "adjective": ["مقتصدانه", "باصرفه", "اقتصادی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eddy",
+    "pronunciation": "'edi",
+    "translates": {
+      "noun": ["چرخش", "گرداب", "گردباد", "تنوره", "ستون", "جریان مخالف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "edge",
+    "pronunciation": "ej",
+    "translates": {
+      "noun": [
+        "لبه",
+        "لب",
+        "دَم",
+        "پهلو",
+        "کنار",
+        "حاشیه",
+        "اثر",
+        "نفوذ",
+        "[ مجازی ] مرز"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "edible",
+    "pronunciation": "'edibel",
+    "translates": {
+      "adjective": ["خوراکی", "خوردنی", "قابل خوردن"]
+    },
+    "subWords": {}
+  }
+]
