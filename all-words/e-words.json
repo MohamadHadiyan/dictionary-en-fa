@@ -461,5 +461,497 @@
       "adjective": ["خوراکی", "خوردنی", "قابل خوردن"]
     },
     "subWords": {}
+  },
+  {
+    "word": "edit",
+    "pronunciation": "'edit",
+    "translates": {
+      "transitive-verb": ["ویرایش کردن", "ویراستن", "نشر کردن"],
+      "noun": ["ویرایش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "edition",
+    "pronunciation": "i'dishen",
+    "translates": {
+      "noun": ["چاپ", "نشر", "نسخه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "editor",
+    "pronunciation": "'editer",
+    "translates": {
+      "noun": ["سردبیر", "ویرایشگر", "ویراستار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "editorial",
+    "pronunciation": "edi'toriya^l",
+    "translates": {
+      "adjective": ["[ مربوط به ] سردبیری", "ویرایشی"],
+      "noun": ["سرمقاله"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "educate",
+    "pronunciation": "'ejukeyt",
+    "translates": {
+      "transitive-verb": ["آموزش دادن", "تربیت کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "education",
+    "pronunciation": "eju'keyshen",
+    "translates": {
+      "noun": ["آموزش و پرورش", "آموزش", "تربیت", "تحصیلات", "تحصیل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eel",
+    "pronunciation": "iil",
+    "translates": {
+      "noun": ["مارماهی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "effect",
+    "pronunciation": "i'fekt",
+    "translates": {
+      "noun": ["اثر", "تاثیر", "نتیجه", "حاصل", "معلول", "معنی"]
+    },
+    "subWords": {
+      "have an effect on something": [
+        "بر چیزی اثر گذاشتن",
+        "روی چیزی اثر داشتن"
+      ]
+    }
+  },
+  {
+    "word": "effective",
+    "pronunciation": "i'fektiv",
+    "translates": {
+      "adjective": ["موثر", "ثمربخش", "تاثیر گذار", "نتیجه بخش", "چشمگیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "effectively",
+    "pronunciation": "i'fektivli",
+    "translates": {
+      "adverb": ["به طور موثری", "در واقع", "عملاً"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "efficiency",
+    "pronunciation": "i'fishenci",
+    "translates": {
+      "noun": ["بهره وری", "بازده", "کارایی", "راندمان", "کفایت", "لیاقت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "efficient",
+    "pronunciation": "i'fishent",
+    "translates": {
+      "adjective": ["موثر", "کارآ", "کارآمد", "لایق", "قابل", "باکفایت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "efficiently",
+    "pronunciation": "i'fishentli",
+    "translates": {
+      "adverb": ["بهتر", "کارآمدتر", "باکارآیی", "به طور کارآمد", "بالیاقت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "effort",
+    "pronunciation": "'efort",
+    "translates": {
+      "noun": ["سعی", "کوشش", "تلاش", "سخت کوشی", "کار سخت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "effortless",
+    "pronunciation": "'efortlis",
+    "translates": {
+      "adjective": ["بی زحمت", "بدون دردسر", "ساده", "آسان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "e.g.",
+    "pronunciation": "ii'jii",
+    "translates": {
+      "adverb": ["مثلاً", "برای مثال", "به عنوان مثال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "egg",
+    "pronunciation": "eg",
+    "translates": {
+      "noun": ["[ پرنده و غیره ] تخم", "تخم مرغ", "[ زیست شناسی ] تخمک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Egypt",
+    "pronunciation": "'iijipt",
+    "translates": {
+      "noun": ["مصر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Egyptian",
+    "pronunciation": "i'jipshen",
+    "translates": {
+      "adjective": ["مصری", "[ مربوط به ] مصر"],
+      "noun": ["اهل مصر", "مصری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eiderdown",
+    "pronunciation": "'a^yderdaon",
+    "translates": {
+      "noun": ["لحاف پَر", "لحاف", "پَر قو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eight",
+    "pronunciation": "eyt",
+    "translates": {
+      "adjective": ["هشت ( تا )"],
+      "noun": ["عدد هشت ( 8 )", "شماره هشت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eighteen",
+    "pronunciation": "ey'tiin",
+    "translates": {
+      "adjective": ["هیجده ( تا )"],
+      "noun": ["عدد هیجده ( 18 )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eighteenth",
+    "pronunciation": "ey'tiinth",
+    "translates": {
+      "noun": ["یک هیجدهم"],
+      "adjective": ["هیجدهم", "هیجدهمین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eightieth",
+    "pronunciation": "'eytiyeth",
+    "translates": {
+      "noun": ["یک هشتادم"],
+      "adjective": ["هشتادم", "هشتادمین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eighty",
+    "pronunciation": "'eyti",
+    "translates": {
+      "adjective": ["هشتاد ( تا )"],
+      "noun": ["عدد هشتاد ( 80 ) شماره هشتاد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "either",
+    "pronunciation": "'a^ydher",
+    "translates": {
+      "adjective": ["یا", "هر یک ( از دو )", "هر کدام", "هر"],
+      "pronoun": ["یا", "هر یک", "هر"]
+    },
+    "subWords": {
+      "either... or": ["یا... یا...", "هم...هم..."]
+    }
+  },
+  {
+    "word": "elastic",
+    "pronunciation": "i'lastik",
+    "translates": {
+      "adjective": ["کشسان", "قابل ارتجاع"],
+      "noun": ["کِش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "elbow",
+    "pronunciation": "'elbo",
+    "translates": {
+      "noun": ["آرنج", "زانویی"],
+      "transitive-verb": ["( راه خود را ) به زور باز کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "elder",
+    "pronunciation": "'elder",
+    "translates": {
+      "adjective": ["بزرگتر", "بزرگ", "ارشد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "elderly",
+    "pronunciation": "'elderli",
+    "translates": {
+      "adjective": ["مسن", "سالخورده", "قدیمی", "کهنه کار", "از کار افتاه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eldest",
+    "pronunciation": "'eldist",
+    "translates": {
+      "adjective": ["بزرگترین", "ارشد", "مسن ترین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "elect",
+    "pronunciation": "i'lekt",
+    "translates": {
+      "adjective": ["منتخب", "برگزیده", "ممتاز"],
+      "noun": ["منتخب"],
+      "transitive-verb": ["[ با رای ] انتخاب کردن", "تصمیم گرفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "election",
+    "pronunciation": "e'lekshen",
+    "translates": {
+      "noun": ["انتخابات", "رای گیری", "انتخاب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "elector",
+    "pronunciation": "i'lekter",
+    "translates": {
+      "noun": ["رای دهنده", "انتخاب کننده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "electric",
+    "pronunciation": "i'lektrik",
+    "translates": {
+      "adjective": [
+        "برقی",
+        "الکتریکی",
+        "برق",
+        "هیجان آور",
+        "مهیج",
+        "متشنج",
+        "هیجان زده"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "electrical",
+    "pronunciation": "i'lektrika^l",
+    "translates": {
+      "adjective": ["برقی", "الکتریکی", "برق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "electrically",
+    "pronunciation": "i'lektrikli",
+    "translates": {
+      "adverb": ["برقی", "الکتریکی", "با برق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "electrician",
+    "pronunciation": "ilek'trishen",
+    "translates": {
+      "noun": ["برق کار", "تعمیر کار برق", "تکنیسین برق", "متخصص برق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "electricity",
+    "pronunciation": "ilek'trisiti",
+    "translates": {
+      "noun": ["برق", "الکتریسیته", "هیجان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "electrify",
+    "pronunciation": "i'lektrifa^y",
+    "translates": {
+      "transitive-verb": ["به برق وصل کردن", "برق دار کردن", "به هیجان آوردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "electrocute",
+    "pronunciation": "ilektrokyoot",
+    "translates": {
+      "transitive-verb": [
+        "با برق کُشتن",
+        "با برق اعدام کردن",
+        "( کسی را ) برق گرفتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "electromagnet",
+    "pronunciation": "ilektor'magnit",
+    "translates": {
+      "noun": [
+        "آهن ربای برقی",
+        "آهن ربای الکتریکی",
+        "الکترومغناطیس",
+        "مغناطیس برقی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "electronic",
+    "pronunciation": "ilek'ta^rnik",
+    "translates": {
+      "adjective": [
+        "الکترونی",
+        "الکترونیکی",
+        "[ مربوط به ] الکترونیک",
+        "کامپیوتری"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "elegance",
+    "pronunciation": "'eligens",
+    "translates": {
+      "noun": ["آراستگی", "ظرافت", "زیبایی", "لطافت", "وقار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "elegant",
+    "pronunciation": "'eligent",
+    "translates": {
+      "adjective": ["برازنده", "آراسته", "شیک", "زیبا", "ظریف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "element",
+    "pronunciation": "'eliment",
+    "translates": {
+      "noun": ["عنصر", "عامل", "رکن", "جزء", "قسمت", "ذره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "elementary",
+    "pronunciation": "eli'mentri",
+    "translates": {
+      "adjective": ["مقدماتی", "ابتدایی", "پایه", "ساده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "elephant",
+    "pronunciation": "'elifent",
+    "translates": {
+      "noun": ["فیل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "elevate",
+    "pronunciation": "'eliveyt",
+    "translates": {
+      "transitive-verb": ["بالا بردن", "بلند کردن", "ارتقا دادن", "ترفیع دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "elevator",
+    "pronunciation": "'eliveyter",
+    "translates": {
+      "noun": ["آسانسور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eleven",
+    "pronunciation": "i'leven",
+    "translates": {
+      "adjective": ["یازده ( تا )"],
+      "noun": [
+        "عدد یازده ( 11 )",
+        "شماره یازده",
+        "[ فوتبال",
+        "هاکی و غیره ] تیم یازده نفره",
+        "تیم"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eleventh",
+    "pronunciation": "i'leventh",
+    "translates": {
+      "noun": ["یک یازدهم"],
+      "adjective": ["یازدهمین", "یازدهم"]
+    },
+    "subWords": {
+      "at the eleventh hour": ["در آخرین لحظه", "در لحظه آخر"]
+    }
+  },
+  {
+    "word": "eliminate",
+    "pronunciation": "i'limineyt",
+    "translates": {
+      "transitive-verb": [
+        "حذف کردن",
+        "از دور خارج کردن",
+        "برطرف کردن",
+        "رفع کردن",
+        "دفع کردن",
+        "زدودن",
+        "کُشتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "elimination",
+    "pronunciation": "ilimi'neyshen",
+    "translates": {
+      "noun": ["حذف", "رفع", "دفع", "محو", "ریشه کنی"]
+    },
+    "subWords": {}
   }
 ]
