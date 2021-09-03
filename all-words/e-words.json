@@ -953,5 +953,507 @@
       "noun": ["حذف", "رفع", "دفع", "محو", "ریشه کنی"]
     },
     "subWords": {}
+  },
+  {
+    "word": "eloquent",
+    "pronunciation": "'elokwent",
+    "translates": {
+      "adjective": [
+        "شیوا",
+        "سخنور",
+        "فضیح",
+        "بلیع",
+        "روان",
+        "زبان آور",
+        "سلیس",
+        "خوش زبان",
+        "گویا",
+        "نشانگر",
+        "بیانگر"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "else",
+    "pronunciation": "els",
+    "translates": {
+      "adverb": ["دیگر"]
+    },
+    "subWords": {
+      "or else": ["وگرنه", "والآ", "اگرنه"]
+    }
+  },
+  {
+    "word": "elsewhere",
+    "pronunciation": "els'wer",
+    "translates": {
+      "adverb": ["جای دیگر", "در جای دیگر", "جاهای دیگر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "elude",
+    "pronunciation": "i'lood",
+    "translates": {
+      "transitive-verb": [
+        "از دست ( کسی یا چیزی ) فرار کردن",
+        "گریختن",
+        "در رفتن",
+        "نجات یافتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "emancipate",
+    "pronunciation": "i'mansipeyt",
+    "translates": {
+      "transitive-verb": ["آزاد کردن", "رهایی بخشیدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "emancipation",
+    "pronunciation": "i'mansipeyshen",
+    "translates": {
+      "noun": ["آزادی", "آزاد سازی", "رهایی", "نجات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "embankment",
+    "pronunciation": "im'bankment",
+    "translates": {
+      "noun": ["خاکریز", "پشته", "دیواره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "embark",
+    "pronunciation": "im'ba^rk",
+    "translates": {
+      "intransitive-verb": ["[کشتی ] سوار شدن"],
+      "transitive-verb": [
+        "سوار کردن",
+        "بار زدن",
+        "مبادرت کردن به",
+        "آغاز کردن",
+        "در پیش گرفتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "embarkation",
+    "pronunciation": "emba^r'keyshen",
+    "translates": {
+      "noun": ["بارگیری", "مسافربری", "مسافرگیری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "embarrass",
+    "pronunciation": "im'bares",
+    "translates": {
+      "transitive-verb": [
+        "ناراحت کردن",
+        "نگران کردن",
+        "دست پاچه کردن",
+        "شرمنده کردن",
+        "جلوی ( چیزی را ) گرفتن"
+      ],
+      "intransitive-verb": ["خجالت کشیدن", "شرمسار شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "embarrassment",
+    "pronunciation": "im'baresment",
+    "translates": {
+      "noun": [
+        "ناراحتی",
+        "نگرانی",
+        "گرفتاری",
+        "مایه ننگ",
+        "مایه دردسر",
+        "خجالت"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "embassy",
+    "pronunciation": "'embesi",
+    "translates": {
+      "noun": ["سفارت", "سفارت خانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "embed",
+    "pronunciation": "im'bed",
+    "translates": {
+      "transitive-verb": [
+        "کار گذاشتن",
+        "جاسازی کردن",
+        "فرو کردن",
+        "جایگزین کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ember",
+    "pronunciation": "'ember",
+    "translates": {
+      "noun": ["بقایای آتش", "خاکستر گرم", "( چوب یا زغال ) نیم سوز", "اخگر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "embrace",
+    "pronunciation": "im'breys",
+    "translates": {
+      "transitive-verb": [
+        "بغل کردن",
+        "در آغوش گرفتن",
+        "پذیرفتن",
+        "[ فرصت ] غنیمت شمردن",
+        "در بر گرفتن"
+      ],
+      "noun": ["بغل", "آغوش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "embroider",
+    "pronunciation": "im'broyder",
+    "translates": {
+      "transitive-verb": [
+        "گلدوزی کردن",
+        "سوزن دوزی کردن",
+        "قلاب دوزی کردن",
+        "شاخ و برگ دادن",
+        "آب و تاب دادن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "embroidery",
+    "pronunciation": "im'broyderi",
+    "translates": {
+      "noun": ["گلدوزی", "سوزن دوزی", "قلاب دوزی", "مبالغه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "emerald",
+    "pronunciation": "'emera^ld",
+    "translates": {
+      "noun": ["زمرد", "( رنگ ) سبز"],
+      "adjective": ["سبز روشن", "سبز زمردی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "emerge",
+    "pronunciation": "i'merj",
+    "translates": {
+      "intransitive-verb": [
+        "بیرون آمدن",
+        "نمایان شدن",
+        "پدیدار شدن",
+        "ظاهر شدن",
+        "معلوم شدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "emergency",
+    "pronunciation": "i'merjensi",
+    "translates": {
+      "noun": ["وضع اضطراری", "اورژانس"],
+      "adjective": ["اضطراری"]
+    },
+    "subWords": {
+      "in an emergency": ["در مواقع اضطراری", "در وضعیت اضطراری"],
+      "emergency exit": ["درِ خروجی اضطراری"]
+    }
+  },
+  {
+    "word": "emigrant",
+    "pronunciation": "'emigrent",
+    "translates": {
+      "noun": ["مهاجر", "کوچ کننده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "emigrate",
+    "pronunciation": "'emigreyt",
+    "translates": {
+      "intransitive-verb": ["مهاجرت کردن", "جلای وطن کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "emigration",
+    "pronunciation": "emi'greyshen",
+    "translates": {
+      "noun": ["مهاجرت", "برون کوچی", "کوچ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "emotion",
+    "pronunciation": "i'moshen",
+    "translates": {
+      "noun": ["عاطفه", "احساس", "احساسات", "هیجان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "emotional",
+    "pronunciation": "i'moshena^l",
+    "translates": {
+      "adjective": ["عاطفی", "پر احساس", "هیجانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "emperor",
+    "pronunciation": "'emperer",
+    "translates": {
+      "noun": ["امپراتور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "emphasis",
+    "pronunciation": "'emfesis",
+    "translates": {
+      "noun": ["[ زبان شناسی ] تکیه", "تاکید", "اهمیت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "emphasize",
+    "pronunciation": "'emfesa^yz",
+    "translates": {
+      "transitive-verb": [
+        "[ زبان شناسی ] تکیه گذاشتن روی",
+        "تکیه کردن روی",
+        "تاکید کردن",
+        "اهمیت دادن",
+        "با قوت تلفظ کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "emphatic",
+    "pronunciation": "im'fatik",
+    "translates": {
+      "adjective": ["قوی", "محکم", "راسخ", "موکد", "با قوت تلفظ شده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "emphatically",
+    "pronunciation": "im'fatikli",
+    "translates": {
+      "adverb": ["با تکیه", "با تاکید", "با قاطعیت", "آشکارا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "empire",
+    "pronunciation": "'empa^yr",
+    "translates": {
+      "noun": ["امپراتوری", "فرمانروایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "employ",
+    "pronunciation": "im'ploy",
+    "translates": {
+      "transitive-verb": ["استخدام کردن", "به کار بردن", "به کار گماشتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "employee",
+    "pronunciation": "im'ployii",
+    "translates": {
+      "noun": ["کارمند", "کارگر", "مستخدم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "employer",
+    "pronunciation": "im'ployer",
+    "translates": {
+      "noun": ["کارفرما", "استخدام کننده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "employment",
+    "pronunciation": "im'ployment",
+    "translates": {
+      "noun": ["استخدام", "اشتغال", "کار", "شغل"]
+    },
+    "subWords": {
+      "be in employment": ["شاغل بودن"],
+      "be out of employment": ["بیکار بودن"]
+    }
+  },
+  {
+    "word": "empress",
+    "pronunciation": "'empris",
+    "translates": {
+      "noun": ["ملکه", "شهبانو", "امپراتریس", "زن امپراتور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "empty",
+    "pronunciation": "'empti",
+    "translates": {
+      "adjective": [
+        "خالی",
+        "تهی",
+        "پوچ",
+        "توخالی",
+        "بی محتوا",
+        "خلوت",
+        "فاقدِ",
+        "بدونِ"
+      ],
+      "transitive-verb": ["خالی کردن", "خارج کردن"],
+      "intransitive-verb": ["خالی شدن", "تهی شدن", "خارج شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "emulsion",
+    "pronunciation": "i'ma^lshen",
+    "translates": {
+      "noun": ["امولسیون", "[ فیلم عکاسی ] لایه حساس", "رنگ پلاستیک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enable",
+    "pronunciation": "i'neybel",
+    "translates": {
+      "transitive-verb": [
+        "قادر ساختن",
+        "فعال کردن",
+        "امکان دادن به",
+        "میسر ساختن",
+        "اجازه دادن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enamel",
+    "pronunciation": "e'namel",
+    "translates": {
+      "noun": ["لعاب", "مینا (ی دندان )"],
+      "transitive-verb": ["لعاب دادن", "مینا ساختن", "مینا کاری کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enchant",
+    "pronunciation": "in'cha^nt",
+    "translates": {
+      "transitive-verb": [
+        "شاد کردن",
+        "شادمان کردن",
+        "خرسند کردن",
+        "مسحور کردن",
+        "مجذوب کردن",
+        "جادو کردن",
+        "طلسم کردن",
+        "به دام عشق انداختن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enchantment",
+    "pronunciation": "in'cha^ntment",
+    "translates": {
+      "noun": ["سِحر", "جادو", "افسون", "زیبایی", "جذبه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "encircle",
+    "pronunciation": "in'sekel",
+    "translates": {
+      "transitive-verb": [
+        "محاصره کردن",
+        "احاطه کردن",
+        "حلقه زدن",
+        "( جایی را ) دور زدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enclose",
+    "pronunciation": "in'kloz",
+    "translates": {
+      "transitive-verb": ["محصور کردن", "ضمیمه کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enclosure",
+    "pronunciation": "in'klozher",
+    "translates": {
+      "noun": [
+        "محصور کردن",
+        "دیوار کشی",
+        "محوطه",
+        "محفظه",
+        "حصار",
+        "زمین محصور",
+        "پیوست",
+        "ضمیمه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "encore",
+    "pronunciation": "'a^nkor",
+    "translates": {
+      "interjection": ["[ در اجرای نمایش و غیره ] دوباره! دوباره!"],
+      "noun": ["فراخوانی به صحنه", "تکرار برنامه"],
+      "transitive-verb": ["دوباره به نواز دعوت کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "encourage",
+    "pronunciation": "in'ka^rij",
+    "translates": {
+      "transitive-verb": [
+        "تشویق کردن",
+        "حمایت کردن",
+        "دلگرم کردن",
+        "ترغیب کردن"
+      ]
+    },
+    "subWords": {}
   }
 ]
