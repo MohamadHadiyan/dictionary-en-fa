@@ -1455,5 +1455,487 @@
       ]
     },
     "subWords": {}
+  },
+  {
+    "word": "encouragement",
+    "pronunciation": "in'ka^rijment",
+    "translates": {
+      "noun": ["تشویق", "ترغیب", "پشت گرمی", "حمایت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "encyclopedia",
+    "pronunciation": "insa^yklo'piidya^",
+    "translates": {
+      "noun": ["دانشنامه", "دائره المعارف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "end",
+    "pronunciation": "end",
+    "translates": {
+      "noun": [
+        "پایان",
+        "انتها",
+        "آخر",
+        "ختم",
+        "خاتمه",
+        "ته",
+        "سر",
+        "اواخر",
+        "سرانجام",
+        "اتمام",
+        "طرف",
+        "مرگ",
+        "هدف",
+        "منظور"
+      ],
+      "intransitive-verb": ["تمام شدن", "به پایان رسیدن", "ختم شدن به"],
+      "transitive-verb": ["تمام کردن به پایان رساندن", "خاتمه دادن"]
+    },
+    "subWords": {
+      "be at an end": ["تمام شدن", "به آخر رسیدن"],
+      "come to an end": ["پایان یافتن", "خاتمه پیدا کردن"],
+      "in the end": ["سرانجام", "بلاخره"],
+      "make ends meet": ["زندگی را اداره کردن", "خرج زندگی را تامین کردن"],
+      "on end": ["پیوسته", "بی وقفه"],
+      "put an end to something": ["به چیزی خاتمه دادن", "مانع چیزی شدن"],
+      "end up": ["کار ( کسی ) به جایی کشیدن"],
+      "end up in": ["سر از ( جایی ) در آوردن"]
+    }
+  },
+  {
+    "word": "endanger",
+    "pronunciation": "in'deynjer",
+    "translates": {
+      "transitive-verb": ["به خطر انداختن", "به مخاطره انداختن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ending",
+    "pronunciation": "'ending",
+    "translates": {
+      "noun": ["پایان", "خاتمه", "سرانجام", "فرجام"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "endless",
+    "pronunciation": "'endlis",
+    "translates": {
+      "adjective": ["بی پایان", "بی انتها", "بی حد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "endlessly",
+    "pronunciation": "'endlisli",
+    "translates": {
+      "adverb": ["بی وقفه", "مدام", "یک ریز", "لاینقطع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "endurance",
+    "pronunciation": "in'dyurens",
+    "translates": {
+      "noun": [
+        "تحمل",
+        "بردباری",
+        "پایداری",
+        "استقامت",
+        "تداوم",
+        "دوام",
+        "دیرپایی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "endure",
+    "pronunciation": "in'dyur",
+    "translates": {
+      "transitive-verb": [
+        "تحمل کردن",
+        "بردباری کردن",
+        "سختی کشیدن",
+        "تاب آوردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enemy",
+    "pronunciation": "'enemi",
+    "translates": {
+      "noun": ["دشمن"]
+    },
+    "subWords": {
+      "make an enemy": ["دشمن تراشیدن", "دشمن درست کردن"]
+    }
+  },
+  {
+    "word": "energetic",
+    "pronunciation": "ener'jetik",
+    "translates": {
+      "adjective": ["فعال", "پر انرژی", "پرتحرک", "موثر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "energy",
+    "pronunciation": "'enerji",
+    "translates": {
+      "noun": ["انرژی", "نیرو", "توان", "قدرت", "قوت", "تحرک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "engage",
+    "pronunciation": "in'geyj",
+    "translates": {
+      "transitive-verb": [
+        "استخدام کردن",
+        "جلب کردن",
+        "مشغول کردن",
+        "متعهد کردن",
+        "( کلاج را ) ول کردن",
+        "[ دنده ] زدن توی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "engagement",
+    "pronunciation": "in'geyjment",
+    "translates": {
+      "noun": ["نامزدی", "کار", "اشتغال", "قرارداد", "تعهد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "engine",
+    "pronunciation": "'enjin",
+    "translates": {
+      "noun": ["موتور", "لوکوموتیو", "ماشین آتش نشانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "engineer",
+    "pronunciation": "enji'niyer",
+    "translates": {
+      "noun": ["مهندس", "مکانیک", "تعمیرکار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "engineering",
+    "pronunciation": "enji'niyering",
+    "translates": {
+      "noun": ["مهندسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "engineers",
+    "pronunciation": "inji'niyerz",
+    "translates": {
+      "noun": ["مهندسین", "[ نظامی ] رسته مهندسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "England",
+    "pronunciation": "'ingland",
+    "translates": {
+      "noun": ["انگلستان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "English",
+    "pronunciation": "'inglish",
+    "translates": {
+      "adjective": ["انگلیسی"],
+      "noun": ["زبان انگلیسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Englishman",
+    "pronunciation": "'inglishman",
+    "translates": {
+      "noun": ["انگلیسی", "اهل انگلیس", "مرد انگلیسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Englishwoman",
+    "pronunciation": "in'glishwuman",
+    "translates": {
+      "noun": ["زن انگلیسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "engraving",
+    "pronunciation": "in'greyving",
+    "translates": {
+      "noun": ["حکاکی", "کنده کاری", "گراور سازی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enjoy",
+    "pronunciation": "in'joy",
+    "translates": {
+      "transitive-verb": [
+        "لذت بردن",
+        "حظ کردن",
+        "خوش آمدن از",
+        "برخوردار بودن از",
+        "دارا بودن"
+      ]
+    },
+    "subWords": {
+      "enjoy oneself": ["لذت بردن", "خوش گذراندن"]
+    }
+  },
+  {
+    "word": "enjoyable",
+    "pronunciation": "in'joyebel",
+    "translates": {
+      "adjective": ["لذت بخش", "مطبوع", "خوشایند", "دلپذیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enjoyment",
+    "pronunciation": "in'joyment",
+    "translates": {
+      "noun": ["لذت", "خوشنودی", "تفریح", "برخورداری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enlarge",
+    "pronunciation": "in'la^rj",
+    "translates": {
+      "transitive-verb": ["بزرگ کردن", "بزرگتر کردن", "توسعه دادن"],
+      "intransitive-verb": ["بزرگ شدن", "بزرگتر شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enlargement",
+    "pronunciation": "in'la^rjment",
+    "translates": {
+      "noun": ["توسعه", "گسترش", "[ عکاسی ] آگراندیسمان", "عکس بزرگ شده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enlist",
+    "pronunciation": "in'list",
+    "translates": {
+      "intransitive-verb": ["وارد ارتش شدن"],
+      "transitive-verb": ["وارد ارتش کردن", "کمک طلب کردن از", "نام نویسی کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enormous",
+    "pronunciation": "i'normes",
+    "translates": {
+      "adjective": ["عظیم", "بزرگ", "کلان", "هنگفت", "مفصل", "فوق العاده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enormously",
+    "pronunciation": "i'normesli",
+    "translates": {
+      "adverb": ["بسیار", "بسیار زیاد", "فوق العاده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enough",
+    "pronunciation": "i'na^f",
+    "translates": {
+      "adjective": ["کافی", "به اندازه کافی", "به قدر کافی", "به تعداد کافی"],
+      "adverb": ["کافی", "بس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enquire",
+    "pronunciation": "in'kwa^yr",
+    "translates": {
+      "transitive-verb": [
+        "پرسیدن",
+        "جویا شدن",
+        "تحقیق کردن",
+        "پرس و جو کردن",
+        "سراغ گرفتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enquiry",
+    "pronunciation": "in'kwa^yri",
+    "translates": {
+      "noun": ["پرسش", "پرس و جو", "کند و کاو", "استعلام", "تحقیق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enrage",
+    "pronunciation": "in'reyj",
+    "translates": {
+      "transitive-verb": ["عصبانی کردن", "خشمگین کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enrich",
+    "pronunciation": "in'rich",
+    "translates": {
+      "transitive-verb": [
+        "ثروتمند کردن",
+        "غنی کردن",
+        "غنا بخشیدن به",
+        "توانگر کردن",
+        "پر بار کردن",
+        "بارور کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enrol",
+    "pronunciation": "in'rol",
+    "translates": {
+      "transitive-verb": [
+        "ثبت نام کردن",
+        "نام نویسی کردن",
+        "اسم نویسی کردن",
+        "عضویت دادن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ensure",
+    "pronunciation": "in'shor",
+    "translates": {
+      "transitive-verb": [
+        "تضمین کردن",
+        "مطمئن ساختن",
+        "حتمی کردن",
+        "در اختیار گذاشتن",
+        "اطمینان حاصل کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "entangle",
+    "pronunciation": "in'tangel",
+    "translates": {
+      "transitive-verb": [
+        "گیر انداختن",
+        "گرفتار کردن",
+        "درگیر کردن",
+        "به مخمصه انداختن",
+        "آشفته کردن",
+        "پیچیده کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enter",
+    "pronunciation": "'enter",
+    "translates": {
+      "intransitive-verb": ["وارد شدن", "داخل شدن", "نوشتن"],
+      "transitive-verb": [
+        "وارد کردن",
+        "ثبت کردن",
+        "نام نویسی کردن برای",
+        "شرکت کردن در"
+      ]
+    },
+    "subWords": {
+      "enter for": ["( برای چیزی ) اسم نوشتن"]
+    }
+  },
+  {
+    "word": "enterprise",
+    "pronunciation": "'enterpra^yz",
+    "translates": {
+      "noun": [
+        "کار",
+        "اقدام",
+        "عمل",
+        "جسارت",
+        "بنگاه",
+        "شرکت",
+        "پروژه",
+        "سرمایه گذاری",
+        "تشکیلات اقتصادی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enterprising",
+    "pronunciation": "'enterpra^yzing",
+    "translates": {
+      "adjective": ["متهور", "جسور", "جسورانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "entertain",
+    "pronunciation": "enter'teyn",
+    "translates": {
+      "transitive-verb": [
+        "سرگرم کردن",
+        "پذیرایی کردن",
+        "مهمان کردن",
+        "مهمانی دادن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "entertainment",
+    "pronunciation": "enter'teynment",
+    "translates": {
+      "noun": ["سرگرمی", "تفریح", "مهمانی", "پذیرایی", "وسیله تفریح", "نمایش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enthusiasm",
+    "pronunciation": "in'thyooziyazem",
+    "translates": {
+      "noun": ["اشتیاق", "شور و شوق", "علاقه", "جدیت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enthusiast",
+    "pronunciation": "in'thyooziyast",
+    "translates": {
+      "noun": ["آدم پر شور و شوق", "علاقه مند"]
+    },
+    "subWords": {}
   }
 ]
