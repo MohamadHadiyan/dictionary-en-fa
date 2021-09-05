@@ -1937,5 +1937,531 @@
       "noun": ["آدم پر شور و شوق", "علاقه مند"]
     },
     "subWords": {}
+  },
+  {
+    "word": "enthusiastic",
+    "pronunciation": "inthyoozi'yastik",
+    "translates": {
+      "adjective": ["پرشور و شوق", "مشتاق", "علاقه مند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "enthusiastically",
+    "pronunciation": "inthyoozi'yastikli",
+    "translates": {
+      "adverb": ["باشور و شوق", "با علاقه مندی", "با احساس", "با اشتیاق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "entice",
+    "pronunciation": "in'ta^ys",
+    "translates": {
+      "transitive-verb": [
+        "اغوا کردن",
+        "وسوسه کردن",
+        "ترغیب کردن",
+        "جلب کردن",
+        "فریفتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "entire",
+    "pronunciation": "in'ta^yer",
+    "translates": {
+      "adjective": ["کامل", "تمام", "همه", "کل", "سرتاسر", "صِرف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "entirely",
+    "pronunciation": "in'ta^yerli",
+    "translates": {
+      "adverb": ["کاملاً", "به طور کامل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "entitle",
+    "pronunciation": "in'ta^ytel",
+    "translates": {
+      "transitive-verb": [
+        "[ کتاب",
+        "فیلم و غیره ] اسم گذاشتن روی",
+        "لقب دادن",
+        "حق ( چیزی را ) دادن به"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "entrance",
+    "pronunciation": "'entrens",
+    "translates": {
+      "noun": ["در", "مدخل", "ورودی", "راه ورود", "ورود"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "entrant",
+    "pronunciation": "'entrent",
+    "translates": {
+      "noun": ["شرکت کننده", "داوطلب", "متقاضی", "رقیب", "تازه وارد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "entrust",
+    "pronunciation": "in'tra^st",
+    "translates": {
+      "transitive-verb": [
+        "واگذار کردن",
+        "محول کردن",
+        "به عهده کسی گذاشتن",
+        "سپردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "entry",
+    "pronunciation": "'entri",
+    "translates": {
+      "noun": [
+        "ورود",
+        "اجازه ورود",
+        "مدخل",
+        "شرکت کننده",
+        "تعداد شرکت کنندگان",
+        "ثبت"
+      ]
+    },
+    "subWords": {
+      "No Entry": ["[ خیابان ] ورود ممنوع"]
+    }
+  },
+  {
+    "word": "envelop",
+    "pronunciation": "'envelop",
+    "translates": {
+      "transitive-verb": [
+        "پیچیدن",
+        "پوشاندن",
+        "در لفافه گذاشتن",
+        "[ مجازی ] پنهان کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "envelope",
+    "pronunciation": "'envelop",
+    "translates": {
+      "noun": ["پاکت (‌ نامه )", "لفاف", "پوشش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "envious",
+    "pronunciation": "'enviyes",
+    "translates": {
+      "adjective": ["حسود"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "environment",
+    "pronunciation": "in'va^yrenment",
+    "translates": {
+      "noun": ["محیط", "محیط زیست"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "envy",
+    "pronunciation": "'envi",
+    "translates": {
+      "noun": ["حسادت", "حسد", "غبطه", "رشک"],
+      "transitive-verb": ["حسودی کردن به", "غبطه خوردن به"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "epic",
+    "pronunciation": "'epik",
+    "translates": {
+      "noun": ["حماسه"],
+      "adjective": ["حماسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "epidemic",
+    "pronunciation": "epi'demik",
+    "translates": {
+      "noun": ["بیماری همه گیر"],
+      "adjective": ["همه گیر", "مسری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "episode",
+    "pronunciation": "'episod",
+    "translates": {
+      "noun": ["حادثه", "[ نمایش و داستان ] قسمت", "بخش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "equal",
+    "pronunciation": "'iikwa^l",
+    "translates": {
+      "adjective": [
+        "برابر",
+        "مساوی",
+        "یکسان",
+        "هم سنگ",
+        "هم تراز",
+        "همتا",
+        "همگن"
+      ],
+      "transitive-verb": ["مساوی بودن با", "برابر بودن با", "برابری کردن با"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "equality",
+    "pronunciation": "i'kwa^liti",
+    "translates": {
+      "noun": ["برابری", "تساوی", "مساوات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "equally",
+    "pronunciation": "'iikwa^li",
+    "translates": {
+      "adverb": [
+        "به یک اندازه",
+        "به همان اندازه",
+        "به طور یکسان",
+        "به طور مساوی",
+        "مساوی",
+        "نیز",
+        "همچنین"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "equip",
+    "pronunciation": "i'kwip",
+    "translates": {
+      "transitive-verb": ["مجهز کردن", "تجهیز کردن", "آماده کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "equipment",
+    "pronunciation": "i'kwipment",
+    "translates": {
+      "noun": ["تجهیز", "تجهیزات", "لوازم", "وسایل", "دستگاه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "equivalent",
+    "pronunciation": "i'kwivalent",
+    "translates": {
+      "adjective": ["معادل", "برابر", "مشابه", "هم ارز", "هم ارزش"],
+      "noun": ["معادل", "برابر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "erase",
+    "pronunciation": "i'reyz",
+    "translates": {
+      "transitive-verb": ["پاک کردن", "محو کردن", "زدودن", "از بین بردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eraser",
+    "pronunciation": "i'reyzer",
+    "translates": {
+      "noun": ["پاک کن", "مداد پاک کن", "تخته پاکن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "erect",
+    "pronunciation": "i'rekt",
+    "translates": {
+      "adjective": ["راست", "استاده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "errand",
+    "pronunciation": "erend",
+    "translates": {
+      "noun": ["دستور", "فرمان", "ماموریت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "erratic",
+    "pronunciation": "i'ratik",
+    "translates": {
+      "adjective": [
+        "عجیب و غریب",
+        "غیر عادی",
+        "نامنظم",
+        "دمدمی مزاج",
+        "سرگردان"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "error",
+    "pronunciation": "'erer",
+    "translates": {
+      "noun": ["غلط", "اشتباه", "خطا", "تقصیر", "گناه", "میزان اشتباه"]
+    },
+    "subWords": {
+      "in error": ["اشتباهاً"]
+    }
+  },
+  {
+    "word": "erupt",
+    "pronunciation": "i'ra^pt",
+    "translates": {
+      "intransitive-verb": [
+        "فوران کردن",
+        "آتشفشانی کردن",
+        "( ناگهان ) ظاهر شدن",
+        "[ مجازی ] منفجر شدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eruption",
+    "pronunciation": "i'ra^pshen",
+    "translates": {
+      "noun": ["فوران", "آتشفشانی", "انفجار", "شروع", "آغاز", "شورش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "escalator",
+    "pronunciation": "'eskaleyer",
+    "translates": {
+      "noun": ["پله برقی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "escape",
+    "pronunciation": "is'keyp",
+    "translates": {
+      "intransitive-verb": [
+        "فرار کردن",
+        "گریختن",
+        "در رفتن",
+        "نجات یافتن",
+        "رهایی یافتن",
+        "خلاص شدن",
+        "در امان ماندن از",
+        "دور ماندن",
+        "نشت کردن",
+        "خارج شدن"
+      ],
+      "noun": ["فرار", "گریز", "نجات", "رهایی", "راه فرار", "نشت"]
+    },
+    "subWords": {
+      "make one's escape": ["فرار کردن", "گریختن"]
+    }
+  },
+  {
+    "word": "escort",
+    "pronunciation": "'eskort",
+    "translates": {
+      "noun": [
+        "اسکورت",
+        "محافظ",
+        "محافظان",
+        "محافظت",
+        "همراه",
+        "مشایعت",
+        "بدرقه"
+      ],
+      "transitive-verb": [
+        "اسکورت کردن",
+        "همراهی کردن",
+        "مشایعت کردن",
+        "بدرقه کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "especial",
+    "pronunciation": "is'pesha^l",
+    "translates": {
+      "adjective": ["خاص", "مخصوص", "ویژه", "استثنایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "especially",
+    "pronunciation": "is'pesha^li",
+    "translates": {
+      "adverb": ["مخصوصاً", "به ویژه", "بخصوص", "خیلی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "essay",
+    "pronunciation": "'esey",
+    "translates": {
+      "noun": ["مقاله", "انشا", "سعی", "کوشش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "essence",
+    "pronunciation": "'esens",
+    "translates": {
+      "noun": [
+        "اسانس",
+        "جوهر",
+        "ماهیت",
+        "روح",
+        "ذات",
+        "چکیده",
+        "خلاصه",
+        "اصل",
+        "اساس"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "essential",
+    "pronunciation": "i'sensha^l",
+    "translates": {
+      "adjective": [
+        "ضروری",
+        "لازم",
+        "واجب",
+        "بنیادی",
+        "اساسی",
+        "اصلی",
+        "مهم",
+        "ذاتی",
+        "فطری"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "establish",
+    "pronunciation": "is'tablish",
+    "translates": {
+      "transitive-verb": [
+        "تاسیس کردن",
+        "ایجاد کردن",
+        "مستقر کردن",
+        "برقرار کردن",
+        "ثابت کردن",
+        "دایر کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "establishment",
+    "pronunciation": "is'tablishment",
+    "translates": {
+      "noun": [
+        "تاسیس",
+        "استقرار",
+        "برقراری",
+        "برپایی",
+        "موسسه",
+        "بنگاه",
+        "مغازه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "estate",
+    "pronunciation": "is'teyt",
+    "translates": {
+      "noun": ["مِلک", "املاک", "زمین", "اموال"]
+    },
+    "subWords": {
+      "housing estate": ["شهرک"]
+    }
+  },
+  {
+    "word": "estate agent",
+    "pronunciation": "is'teyt eyjent",
+    "translates": {
+      "noun": ["مشاور املاک", "دلال معاملات مِلکی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "estate car",
+    "pronunciation": "is'teyt ka^r",
+    "translates": {
+      "noun": ["اتومبیل استیشن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "esteem",
+    "pronunciation": "is'tiim",
+    "translates": {
+      "transitive-verb": [
+        "محترم شمردن",
+        "احترام گذاشتن به",
+        "ارج نهادن به",
+        "ارزش قائل شدن برای",
+        "تصور کردن"
+      ],
+      "noun": ["احترام", "عزت", "حرمت", "ارج", "ارزش", "قرب", "اعتبار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "estimate",
+    "pronunciation": "'estimit",
+    "translates": {
+      "noun": [
+        "برآورد",
+        "تخمین",
+        "برآورد هزینه",
+        "برآورد قیمت",
+        "ارزیابی",
+        "حدس"
+      ],
+      "transitive-verb": [
+        "برآورد کردن",
+        "تخمین زدن",
+        "برآورد قیمت کردن",
+        "ارزیابی کردن",
+        "حدس زدن"
+      ]
+    },
+    "subWords": {}
   }
 ]
