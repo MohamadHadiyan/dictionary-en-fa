@@ -2463,5 +2463,424 @@
       ]
     },
     "subWords": {}
+  },
+  {
+    "word": "estimation",
+    "pronunciation": "esti'meyshen",
+    "translates": {
+      "noun": ["نظر", "ارزیابی", "برآورد", "تخمین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "estuary",
+    "pronunciation": "'eschuweri",
+    "translates": {
+      "noun": ["مصب", "خور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "etc.",
+    "pronunciation": "et 'setra^",
+    "translates": {
+      "adverb": ["و غیره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "et cetera",
+    "pronunciation": "et 'setra^",
+    "translates": {
+      "adverb": ["و غیره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eternal",
+    "pronunciation": "i'terna^l",
+    "translates": {
+      "adjective": ["ابدی و ازلی", "ابدی", "جاودان", "همیشگی", "دائمی"],
+      "noun": ["خداوند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eternally",
+    "pronunciation": "i'terna^li",
+    "translates": {
+      "adverb": ["همیشه", "همواره", "ابدی", "تا ابد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eternity",
+    "pronunciation": "i'terniti",
+    "translates": {
+      "noun": ["ابدیت و ازلیت", "ابدیت", "آخرت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Europe",
+    "pronunciation": "'yurop",
+    "translates": {
+      "noun": ["اروپا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "European",
+    "pronunciation": "yuro'piyen",
+    "translates": {
+      "adjective": ["اروپایی"],
+      "noun": ["اهل اروپا", "اروپایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "evacuate",
+    "pronunciation": "i'vakyuweyt",
+    "translates": {
+      "transitive-verb": [
+        "تخلیه کردن",
+        "خالی کردن",
+        "تهی کردن",
+        "دفع کردن",
+        "[ نظامی ] عقب نشینی کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "evade",
+    "pronunciation": "i'veyd",
+    "translates": {
+      "transitive-verb": [
+        "طفره رفتن",
+        "شانه خالی کردن از",
+        "فرار کردن از",
+        "از سر باز کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "evaporate",
+    "pronunciation": "i'vaporeyt",
+    "translates": {
+      "transitive-verb": ["تبخیر کردن", "بخار کردن"],
+      "intransitive-verb": ["تبخیر شدن", "بخار شدن", "نابود شدن", "از بین رفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "evaporation",
+    "pronunciation": "ivapo'reyshen",
+    "translates": {
+      "noun": ["تبخیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "evasion",
+    "pronunciation": "i'veyzhen",
+    "translates": {
+      "noun": ["گریز", "فرار", "طفره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eve",
+    "pronunciation": "iiv",
+    "translates": {
+      "noun": ["شبِ...", "شبِ عید", "شامگاه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "even",
+    "pronunciation": "'iiven",
+    "translates": {
+      "adverb": ["حتی", "هم"],
+      "adjective": ["صاف", "منظم", "مساوی", "[ عدد ] زوج"],
+      "noun": ["عدد زوج"]
+    },
+    "subWords": {
+      "even if": ["حتی اگر", "ولو این که"],
+      "even so": ["با این همه", "با این وجود"],
+      "be ( or get ) even with somebody": [
+        "حساب خود را با کسی تصفیه کردن",
+        "تلافی اش را سر کسی در آوردن"
+      ]
+    }
+  },
+  {
+    "word": "evening",
+    "pronunciation": "'iivning",
+    "translates": {
+      "noun": ["شب", "عصر", "غروب", "[ مجازی ] اواخر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "evenly",
+    "pronunciation": "'iivenli",
+    "translates": {
+      "adverb": ["به طور مساوی", "به طور یکنواخت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "event",
+    "pronunciation": "i'vent",
+    "translates": {
+      "noun": ["رویداد", "واقعه", "حادثه", "اتفاق", "وقوع", "مسابقه"]
+    },
+    "subWords": {
+      "in the event of an accident": ["در صورت وقوع اتفاق"]
+    }
+  },
+  {
+    "word": "eventually",
+    "pronunciation": "i'venchuwa^li",
+    "translates": {
+      "adverb": ["سرانجام", "بلاخره", "در نهایت", "عاقبت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ever",
+    "pronunciation": "'ever",
+    "translates": {
+      "adverb": [
+        "همیشه",
+        "همواره",
+        "هرگز",
+        "هیچ وقت",
+        "هیچ گاه",
+        "تا به حال",
+        "تاکنون",
+        "وقتی",
+        "روزی"
+      ]
+    },
+    "subWords": {
+      "ever since": ["از آن زمان به بعد", "از آن زمان تاکنون", "از زمانی که"],
+      "ever so": ["خیلی", "تا دلت بخواهد"],
+      "for ever": ["برای همیشه", "تا ابد"],
+      "for ever and ever": ["برای همیشه"],
+      "ever such a": ["خیلی", "تا دلت بخواهد"],
+      "more than ever": ["بیش از همیشه"]
+    }
+  },
+  {
+    "word": "evergreen",
+    "pronunciation": "'evergriin",
+    "translates": {
+      "adjective": ["همیشه سبز", "همیشه بهار"],
+      "noun": ["همیشه بهار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "every",
+    "pronunciation": "'evri",
+    "translates": {
+      "adjective": ["هر", "هر یک از"]
+    },
+    "subWords": {
+      "every now and then": ["گاهی", "گاه گاهی", "بعضی وقت ها"],
+      "every so often": ["گاه گاهی", "گاهی", "بعضی وقت ها"]
+    }
+  },
+  {
+    "word": "everybody",
+    "pronunciation": "'evriba^di",
+    "translates": {
+      "pronoun": ["هر کس", "هر کسی", "همه", "همه کس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "everything",
+    "pronunciation": "'evrithing",
+    "translates": {
+      "pronoun": ["هر چیز", "هر چیزی", "همه چیز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "everywhere",
+    "pronunciation": "'evriwer",
+    "translates": {
+      "adverb": ["همه جا", "در همه جا", "هر جایی", "هر کجا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "evidence",
+    "pronunciation": "'evidens",
+    "translates": {
+      "noun": ["مدرک", "دلیل", "گواه", "شاهد", "شهادت"],
+      "transitive-verb": [
+        "گواه بر ( چیزی ) بودن",
+        "نشان دادن",
+        "شهادت دادن",
+        "ثابت کردن"
+      ]
+    },
+    "subWords": {
+      "give evidence": ["شهادت دادن"]
+    }
+  },
+  {
+    "word": "evident",
+    "pronunciation": "'evident",
+    "translates": {
+      "adjective": ["آشکار", "مشهود", "معلوم", "واضح", "روشن", "بدیهی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "evidently",
+    "pronunciation": "'evidentli",
+    "translates": {
+      "adverb": ["ظاهراً", "آشکارا", "به وضوح", "از قرار معلوم", "مشخصاً"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "evil",
+    "pronunciation": "'iivel",
+    "translates": {
+      "adjective": ["شیطانی", "پست", "شریر", "بد", "زشت", "زننده"],
+      "noun": ["بدی", "گناه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "evolution",
+    "pronunciation": "iivo'looshen",
+    "translates": {
+      "noun": ["تکامل", "تحول", "رشد", "سیر تکاملی", "فرگشت", "تکامل تدریجی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "evolve",
+    "pronunciation": "i'va^lv",
+    "translates": {
+      "intransitive-verb": ["تکامل یافتن", "تحول یافتن", "رشد کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ewe",
+    "pronunciation": "yoo",
+    "translates": {
+      "noun": ["میش", "گوسفند ماده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exact",
+    "pronunciation": "ig'zakt",
+    "translates": {
+      "adjective": ["دقیق", "صحیح", "درست", "عینِ", "با دقت"],
+      "transitive-verb": ["مطالبه کردن", "به زور گرفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exactly",
+    "pronunciation": "ig'zaktli",
+    "translates": {
+      "adverb": ["کاملاً", "دقیقاً", "عیناً", "درست", "بله! همین طور است"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exactness",
+    "pronunciation": "ig'zaktnis",
+    "translates": {
+      "noun": ["دقت", "درستی", "صحت", "عینیت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exaggerate",
+    "pronunciation": "ig'zajereyt",
+    "translates": {
+      "intransitive-verb": [
+        "مبالغه کردن",
+        "اغراق کردن",
+        "گزافه گویی کردن",
+        "زیاده روی کردن",
+        "بزرگ کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exaggeration",
+    "pronunciation": "igzaje'reyshen",
+    "translates": {
+      "noun": ["مبالغه", "اغراق", "زیاده روی", "غلو", "گزاف گویی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exam",
+    "pronunciation": "ig'zam",
+    "translates": {
+      "noun": ["امتحان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "examination",
+    "pronunciation": "igzami'neyshen",
+    "translates": {
+      "noun": [
+        "معاینه",
+        "امتحان",
+        "بررسی",
+        "مطالعه",
+        "بازدید",
+        "وارسی",
+        "بازرسی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "examine",
+    "pronunciation": "ig'zamin",
+    "translates": {
+      "transitive-verb": [
+        "امتحان کردن",
+        "بررسی کردن",
+        "معاینه کردن",
+        "بازدید کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "examiner",
+    "pronunciation": "ig'zaminer",
+    "translates": {
+      "noun": ["ممتحن", "امتحان کننده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "example",
+    "pronunciation": "ig'zampel",
+    "translates": {
+      "noun": ["مثال", "نمونه", "مورد", "سرمشق", "عبرت"]
+    },
+    "subWords": {}
   }
 ]
