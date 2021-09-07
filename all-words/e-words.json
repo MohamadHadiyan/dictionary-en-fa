@@ -2882,5 +2882,441 @@
       "noun": ["مثال", "نمونه", "مورد", "سرمشق", "عبرت"]
     },
     "subWords": {}
+  },
+  {
+    "word": "exasperate",
+    "pronunciation": "ig'zaspereyt",
+    "translates": {
+      "transitive-verb": ["عصبانی کردن", "خشمگین کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exasperation",
+    "pronunciation": "igza^spe'reyshen",
+    "translates": {
+      "noun": ["خشم", "عصبانیت", "غضب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "excavate",
+    "pronunciation": "'ekskaveyt",
+    "translates": {
+      "transitive-verb": [
+        "حفاری کردن",
+        "حفر کردن",
+        "کندن",
+        "خاک برداری کردن",
+        "از زیر خاک بیرون آوردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exceed",
+    "pronunciation": "ik'siid",
+    "translates": {
+      "transitive-verb": [
+        "فراتر رفتن از",
+        "تجاوز کردن از",
+        "تخطی کردن از",
+        "پا فراتر گذاشتن از"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exceedingly",
+    "pronunciation": "ik'siidingli",
+    "translates": {
+      "adverb": ["فوق العاده", "بی اندازه", "بسیار", "بیش از حد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "excellent",
+    "pronunciation": "'ekselent",
+    "translates": {
+      "adjective": ["عالی", "فوق العاده", "درجه یک", "ممتاز", "بسیار خوب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "excellently",
+    "pronunciation": "'ekselentli",
+    "translates": {
+      "adverb": ["عالی", "بسیار خوب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "except",
+    "pronunciation": "ik'sept",
+    "translates": {
+      "preposition": ["جز", "بجز", "مگر", "به استثنای", "غیر از", "اما", "فقط"],
+      "conjunction": ["بجز", "مگر", "به استثنای"],
+      "adverb": ["مگر"],
+      "transitive-verb": ["مستثنا کردن", "حذف کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exception",
+    "pronunciation": "ik'sepshen",
+    "translates": {
+      "noun": ["استثنا", "مورد استثنا", "اعتراض"]
+    },
+    "subWords": {
+      "with the exception of": ["به استثنای", "بجز"]
+    }
+  },
+  {
+    "word": "exceptional",
+    "pronunciation": "",
+    "translates": {
+      "adjective": ["استثنایی", "عالی", "فوق العاده خوب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exceptionally",
+    "pronunciation": "",
+    "translates": {
+      "adverb": ["به طور استثنایی", "به طور خارق العاده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "excess",
+    "pronunciation": "ik'ses",
+    "translates": {
+      "noun": [
+        "زیاده روی",
+        "افراط",
+        "افراط کاری",
+        "مازاد",
+        "زیادی",
+        "اضافی",
+        "مبلغ اضافی"
+      ],
+      "adjective": ["اضافی", "اضافه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "excessive",
+    "pronunciation": "ik'sesiv",
+    "translates": {
+      "adjective": [
+        "بیش از حد",
+        "زیاد از حد",
+        "بیش از اندازه",
+        "مفروط",
+        "افراطی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exchange",
+    "pronunciation": "iks'cheynj",
+    "translates": {
+      "noun": [
+        "مبادله",
+        "[ ارز ] تبدیل",
+        "تبادل",
+        "تعویض",
+        "معاوضه",
+        "بورس",
+        "تلفن خانه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "excite",
+    "pronunciation": "ik'sa^yt",
+    "translates": {
+      "transitive-verb": [
+        "به هیجان آوردن",
+        "عصبی کردن",
+        "بر انگیختن",
+        "تحریک کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "excitement",
+    "pronunciation": "ik'sa^ytment",
+    "translates": {
+      "noun": ["هیجان", "برانگیختگی", "تحریک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exclaim",
+    "pronunciation": "iks'kleym",
+    "translates": {
+      "transitive-verb": [
+        "با تعجب گفتن",
+        "فریاد کشیدن",
+        "داد زدن",
+        "بانگ زدن",
+        "اعتراض کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exclamation",
+    "pronunciation": "ikskla'meyshen",
+    "translates": {
+      "noun": ["اظهار تعجب", "تعجب", "شگفتی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exclamation mark",
+    "pronunciation": "ikskla'meyshen ma^rk",
+    "translates": {
+      "noun": ["علامت تعجب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exclude",
+    "pronunciation": "iks'klood",
+    "translates": {
+      "transitive-verb": [
+        "مانع شدن",
+        "مانع ورود ( کسی یا چیزی ) شدن",
+        "محروم کردن",
+        "نادیده گرفتن",
+        "مستثنا کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exclusion",
+    "pronunciation": "iks'klooshen",
+    "translates": {
+      "noun": ["راه ندادن", "منع ورود", "ممانعت", "محرومیت", "حذف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exclusive",
+    "pronunciation": "iks'kloosiv",
+    "translates": {
+      "adjective": ["اختصاصی", "خاص", "انحصاری", "منحصر"]
+    },
+    "subWords": {
+      "exclusive": ["بجز", "به استثنای", "به غیر از"]
+    }
+  },
+  {
+    "word": "excruciating",
+    "pronunciation": "iks'krooshiyeyting",
+    "translates": {
+      "adjective": ["[ درد ] شدید", "دردناک", "مشقت بار", "طاقت فرسا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "excursion",
+    "pronunciation": "iks'kershen",
+    "translates": {
+      "noun": ["گردش", "گشت", "سیر", "سیاهت", "تور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "excuse",
+    "pronunciation": "iks'kyoos, iks'kyooz",
+    "translates": {
+      "noun": ["عذر", "بهانه", "عذر موجه", "عذر خواهی", "پوزش"],
+      "transitive-verb": [
+        "بخشیدن",
+        "عذر ( کسی را ) پذیرفتن",
+        "معذور داشتن",
+        "نادیده گرفتن"
+      ]
+    },
+    "subWords": {
+      "excuse me": ["ببخشید", "معذرت میخواهم"]
+    }
+  },
+  {
+    "word": "execute",
+    "pronunciation": "'eksikyoot",
+    "translates": {
+      "transitive-verb": ["اجرا کردن", "انجام دادن", "اعدام کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "execution",
+    "pronunciation": "eksi'kyooshen",
+    "translates": {
+      "noun": ["اعدام", "اجرا", "انجام ( دادن )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "executive",
+    "pronunciation": "ig'zekyutiv",
+    "translates": {
+      "adjective": ["اجرایی", "اداری", "مجریه", "مجری"],
+      "noun": ["مجری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exercise",
+    "pronunciation": "'eksersa^yz",
+    "translates": {
+      "noun": [
+        "ورزش",
+        "تمرین",
+        "پرورش",
+        "به کارگیری",
+        "اعمال",
+        "بهره گیری",
+        "مشق"
+      ],
+      "intransitive-verb": [
+        "ورزش کردن",
+        "تمرین کردن",
+        "پرورش دادن",
+        "تمرین دادن",
+        "اعمال کردن",
+        "استفاده کردن"
+      ]
+    },
+    "subWords": {
+      "do exercises": ["ورزش کردن", "نرمش کردن", "تمرین کردن"],
+      "take exercise": ["ورزش کردن"]
+    }
+  },
+  {
+    "word": "exercises",
+    "pronunciation": "'eksersa^yzis",
+    "translates": {
+      "noun": ["تمرینات", "[ نظامی ] مشق", "مانور", "مراسم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exert",
+    "pronunciation": "ig'zert",
+    "translates": {
+      "transitive-verb": [
+        "به کار بستن",
+        "به کار گرفتن",
+        "به کار انداختن",
+        "اعمال کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exertion",
+    "pronunciation": "ig'zershen",
+    "translates": {
+      "noun": ["تلاش", "تقلا", "اعمال زور", "جد و جهد", "زوروَرزی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exhaust",
+    "pronunciation": "ig'zost",
+    "translates": {
+      "transitive-verb": [
+        "خسته کردن",
+        "فرسوده کردن",
+        "تحلیل بردن",
+        "تمام کردن",
+        "تخلیه کردن"
+      ],
+      "noun": ["اگزوز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exhaustion",
+    "pronunciation": "ig'zoschen",
+    "translates": {
+      "noun": ["خستگی", "فرسودگی", "اتمام"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exhibit",
+    "pronunciation": "ig'zibit",
+    "translates": {
+      "noun": [
+        "[ نمایشگاه یا موزه ] شی نمایشی",
+        "کالای نمایشی",
+        "اثر نمایشی",
+        "[ در آمریکا ] نمایشگاه"
+      ],
+      "transitive-verb": [
+        "به نمایش گذاشتن",
+        "نمایش دادن",
+        "نمایشگاه بر پا کردن",
+        "نشان دادن",
+        "عرضه کردن",
+        "ارائه کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exhibition",
+    "pronunciation": "eksi'bishen",
+    "translates": {
+      "noun": ["نمایشگاه", "نمایش", "عرضه", "ارائه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exile",
+    "pronunciation": "'egza^yl",
+    "translates": {
+      "noun": ["تبعید", "تبعیدی"],
+      "transitive-verb": ["تبعید کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exist",
+    "pronunciation": "ig'zist",
+    "translates": {
+      "intransitive-verb": ["وجود داشتن", "بودن", "زندگی کردن", "زنده ماندن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "existence",
+    "pronunciation": "ig'zistens",
+    "translates": {
+      "noun": [
+        "وجود",
+        "هستی",
+        "موجودیت",
+        "زندگی",
+        "زندگانی",
+        "حیات",
+        "بقا",
+        "عالم هستی",
+        "موجود"
+      ]
+    },
+    "subWords": {
+      "come into existence": ["به وجود آمدن"]
+    }
   }
 ]
