@@ -1228,6 +1228,14 @@
     "subWords": {}
   },
   {
+    "word": "caveat",
+    "pronunciation": "'kavi.et",
+    "translates": {
+      "noun": ["هشدار", "اخطار", "پیش بینی احتیاطی"]
+    },
+    "subWords": {}
+  },
+  {
     "word": "cavern",
     "pronunciation": "'kavern",
     "translates": {
@@ -4786,6 +4794,14 @@
     "subWords": {}
   },
   {
+    "word": "computation",
+    "pronunciation": "ka^mpyoo'teyshen",
+    "translates": {
+      "noun": ["محاسبات", "محاسبه", "نتیجه شمارش"]
+    },
+    "subWords": {}
+  },
+  {
     "word": "compute",
     "pronunciation": "ka^m'pyoot",
     "translates": {
@@ -4910,7 +4926,7 @@
     "subWords": {}
   },
   {
-    "word": "consert",
+    "word": "concert",
     "pronunciation": "'ka^nsert",
     "translates": {
       "noun": ["کنسرت", "هماهنگی", "توافق"]
@@ -4924,6 +4940,14 @@
     "pronunciation": "ka^n'seshen",
     "translates": {
       "noun": ["امتیاز", "اعطا", "حق بهره برداری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "concise",
+    "pronunciation": "ka^nsa^yz",
+    "translates": {
+      "adjective": ["مختصر", "موجز", "کوتاه"]
     },
     "subWords": {}
   },
@@ -4968,6 +4992,22 @@
         "[ دستور زبان ] ذات",
         "بهم چسبیده"
       ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "concurrence",
+    "pronunciation": "ka^n'ka^rens",
+    "translates": {
+      "noun": ["هم زمانی", "توافق", "موافقت", "تصادف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "concurrency",
+    "pronunciation": "ka^n'ka^rensi",
+    "translates": {
+      "noun": ["هم زمانی"]
     },
     "subWords": {}
   },
@@ -5394,6 +5434,16 @@
     "subWords": {}
   },
   {
+    "word": "cons",
+    "pronunciation": "ka^ns",
+    "translates": {
+      "adjective": ["منفی"]
+    },
+    "subWords": {
+      "pros and cons": ["مزایا و معایب"]
+    }
+  },
+  {
     "word": "conscientious",
     "pronunciation": "ka^nshi'yenshes",
     "translates": {
@@ -5676,6 +5726,14 @@
     "pronunciation": "ka^nsti'tyooshen",
     "translates": {
       "noun": ["قانون اساسی", "تشکیل", "ساخت", "ترکیب", "مشروطیت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "constraint",
+    "pronunciation": "ka^ns'treynt",
+    "translates": {
+      "noun": ["محدودیت", "قید", "اجبار"]
     },
     "subWords": {}
   },
@@ -8142,6 +8200,14 @@
         "به کمال رساندن",
         "[ دندان ] روکش گذاشتن"
       ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "crucial",
+    "pronunciation": "'kroosha^l",
+    "translates": {
+      "adjective": ["حیاتی", "قاطع"]
     },
     "subWords": {}
   },

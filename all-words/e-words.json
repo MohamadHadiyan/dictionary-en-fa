@@ -955,6 +955,14 @@
     "subWords": {}
   },
   {
+    "word": "eligible",
+    "pronunciation": "'eligibel",
+    "translates": {
+      "adjective": ["واجد شرایط"]
+    },
+    "subWords": {}
+  },
+  {
     "word": "eloquent",
     "pronunciation": "'elokwent",
     "translates": {
@@ -3318,5 +3326,486 @@
     "subWords": {
       "come into existence": ["به وجود آمدن"]
     }
+  },
+  {
+    "word": "existent",
+    "pronunciation": "ig'zistent",
+    "translates": {
+      "adjective": ["موجود"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exit",
+    "pronunciation": "'eksit",
+    "translates": {
+      "noun": ["خروج", "خروجی", "برون رفت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "expand",
+    "pronunciation": "iks'pand",
+    "translates": {
+      "intransitive-verb": [
+        "منبسط شدن",
+        "بسط یافتن",
+        "افزایش یافتن",
+        "زیاد شدن",
+        "بزرگ شدن",
+        "باد کردن"
+      ],
+      "transitive-verb": ["منبسط کردن", "توسعه دادن", "بسط دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "expanse",
+    "pronunciation": "iks'pans",
+    "translates": {
+      "noun": ["بسط و توسعه", "گستره", "پهنه", "وسعت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "expect",
+    "pronunciation": "iks'pekt",
+    "translates": {
+      "transitive-verb": [
+        "انتظار داشتن",
+        "منتظر ( کسی یا چیزی ) بودن",
+        "امیدوار بودن که",
+        "گمان کردن"
+      ],
+      "intransitive-verb": ["حامله بودن"]
+    },
+    "subWords": {
+      "be expected to": ["قرار است که...", "باید که...", "انتظار می رود که..."],
+      "I expect so": ["من این طور فکر میکنم", "به نظر من این طور می رسد"]
+    }
+  },
+  {
+    "word": "expectant",
+    "pronunciation": "iks'pektent",
+    "translates": {
+      "adjective": ["آبستن", "باردار", "حامله", "مشتاق", "منتظر", "چشم انتظار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "expedition",
+    "pronunciation": "ekspi'dishen",
+    "translates": {
+      "noun": ["اردو", "هیئت اعزامی", "گردش", "سفر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "expel",
+    "pronunciation": "iks'pel",
+    "translates": {
+      "transitive-verb": ["اخراج کردن", "بیرون انداختن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "expense",
+    "pronunciation": "iks'pens",
+    "translates": {
+      "noun": ["خرج", "هزینه"]
+    },
+    "subWords": {
+      "at someone's expense": ["به خرج کسی", "با پول کسی"]
+    }
+  },
+  {
+    "word": "expensive",
+    "pronunciation": "iks'pensiv",
+    "translates": {
+      "adjective": ["گران", "گران قیمت", "پر خرج", "پر هزینه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "experience",
+    "pronunciation": "iks'piriyens",
+    "translates": {
+      "noun": ["تجربه", "ورزیدگی", "چیز فوق العاده"],
+      "transitive-verb": [
+        "تجربه کردن",
+        "[ سختی",
+        "درد و غیره ] کشیدن",
+        "تحمل کردن",
+        "[ لذت ] بردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "experienced",
+    "pronunciation": "iks'piriyenst",
+    "translates": {
+      "adjective": ["با تجربه", "کارآزموده", "خبره", "ورزیده", "حاذق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "experiment",
+    "pronunciation": "iks'periment",
+    "translates": {
+      "noun": ["آزمایش", "کار آزمایشی", "تجربه"],
+      "transitive-verb": ["آزمایش کردن", "آزمودن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "experimental",
+    "pronunciation": "ikspri'menta^l",
+    "translates": {
+      "adjective": ["تجربی", "آزمایشی", "آزمایشگاهی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "expert",
+    "pronunciation": "'ekspert",
+    "translates": {
+      "noun": ["کارشناس", "متخصص", "خبره", "اهل فن"],
+      "adjective": ["ماهر", "باتجربه", "کارآزموده", "کارشناسانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "explain",
+    "pronunciation": "iks'pleyn",
+    "translates": {
+      "transitive-verb": ["توضیح دادن", "شرح دادن", "فهماندن", "توجیه کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "explanation",
+    "pronunciation": "ekspla'neyshen",
+    "translates": {
+      "noun": ["توضیح", "شرح", "توجیه", "تفسیر", "تبیین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "explode",
+    "pronunciation": "iks'plod",
+    "translates": {
+      "transitive-verb": ["منفجر کردن"],
+      "intransitive-verb": ["منفجر شدن", "ترکیدن", "[ احساسات ] فوران کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exploit",
+    "pronunciation": "'eksployt",
+    "translates": {
+      "transitive-verb": [
+        "بهره برداری کردن",
+        "بهره کشی کردن",
+        "سوء استفاده کردن",
+        "استثمار کردن"
+      ],
+      "noun": ["قهرمانی", "شاهکار", "کار برجسته"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exploration",
+    "pronunciation": "eksplo'reyshen",
+    "translates": {
+      "noun": ["کاوش", "اکتشاف", "جستجو", "تحقیق", "بررسی", "مطالعه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "explore",
+    "pronunciation": "iks'plor",
+    "translates": {
+      "transitive-verb": [
+        "کاوش کردن",
+        "به اکتشاف پرداختن",
+        "بازدید کردن",
+        "کندوکاو کردن",
+        "بررسی کردن",
+        "مطالعه کردن",
+        "تحقیق کردن",
+        "لمس کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "explorer",
+    "pronunciation": "iks'plorer",
+    "translates": {
+      "noun": ["جهانگرد", "جستجوگر", "مکتشف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "explosion",
+    "pronunciation": "iks'plozhen",
+    "translates": {
+      "noun": ["انفجار", "صدای انفجار", "فوران"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "explosive",
+    "pronunciation": "iks'plosiv",
+    "translates": {
+      "adjective": ["قابل انفجار", "منفجر شونده"],
+      "noun": ["ماده منفجره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "export",
+    "pronunciation": "'eksport",
+    "translates": {
+      "noun": ["صادرات", "صدور"],
+      "transitive-verb": ["صادر کردن"],
+      "intransitive-verb": ["صادرات داشتن"],
+      "adjective": ["صادراتی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exporter",
+    "pronunciation": "iks'porter",
+    "translates": {
+      "noun": ["صادر کننده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exports",
+    "pronunciation": "'eksports",
+    "translates": {
+      "noun": ["صادرات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "expose",
+    "pronunciation": "iks'poz",
+    "translates": {
+      "transitive-verb": [
+        "نشان دادن",
+        "ظاهر کردن",
+        "نمایان کردن",
+        "به نمایش گذاشتن",
+        "در معرض ( چیزی ) قرار دادن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exposure",
+    "pronunciation": "iks'pozher",
+    "translates": {
+      "noun": [
+        "قرار دادن در معرضِ",
+        "قرار گرفتن در معرضِ",
+        "نمایش",
+        "[ عکاسی ] نور دهی",
+        "سمت",
+        "جهت",
+        "طرف"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "express",
+    "pronunciation": "iks'pres",
+    "translates": {
+      "adjective": ["صریح", "فوری", "سریع", "[ پست ] اکسپرس"],
+      "noun": ["پست اکسپرس", "قطار سریع السیر"],
+      "transitive-verb": ["بیان کردن", "ابراز کردن", "نشان دادن", "اظهار داشتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "expression",
+    "pronunciation": "ikspershen",
+    "translates": {
+      "noun": [
+        "بیان",
+        "ابراز",
+        "شرح",
+        "اصطلاح",
+        "عبارت",
+        "[ ریاضیات ] عبارت",
+        "احساس",
+        "حالت چهره",
+        "قیافه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "expressive",
+    "pronunciation": "iks'presiv",
+    "translates": {
+      "adjective": ["معنی دار", "پر معنی", "گویا", "رسا", "بیانگرِ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exquisite",
+    "pronunciation": "iks'kwizit",
+    "translates": {
+      "adjective": [
+        "نفیس",
+        "بدیع",
+        "عالی",
+        "بی نظیر",
+        "زیبا",
+        "ظریف",
+        "دقیق",
+        "مطبوع"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "extend",
+    "pronunciation": "iks'tend",
+    "translates": {
+      "transitive-verb": [
+        "بزرگتر کردن",
+        "توسعه دادن",
+        "[ دست و غیره ] دراز کردن",
+        "تمدید کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "extension",
+    "pronunciation": "iks'tenshen",
+    "translates": {
+      "noun": [
+        "بسط",
+        "گسترش",
+        "توسعه",
+        "تمدید",
+        "تعمیم",
+        "ساختمانِ ضمیمه",
+        "[ تلفن ] شماره داخلی",
+        "افزونه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "extensive",
+    "pronunciation": "iks'tensiv",
+    "translates": {
+      "adjective": ["وسیع", "گسترده", "مفصل", "جامع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "extent",
+    "pronunciation": "iks'tent",
+    "translates": {
+      "noun": ["گستردگی", "وسعت", "دامنه", "طول", "حد", "اندازه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exterior",
+    "pronunciation": "iks'tiriyer",
+    "translates": {
+      "adjective": ["بیرونی", "خارجی", "ظاهری"],
+      "noun": ["خارج", "ظاهر", "قیافه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exterminate",
+    "pronunciation": "iks'termineyt",
+    "translates": {
+      "transitive-verb": [
+        "نابود کردن",
+        "ریشه کن کردن",
+        "دفع آفات کردن",
+        "منهدم کردن",
+        "منقرض کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "external",
+    "pronunciation": "iks'terna^l",
+    "translates": {
+      "adjective": ["خارجی", "بیرون", "بیرونی", "برونی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "externally",
+    "pronunciation": "iks'terna^li",
+    "translates": {
+      "adverb": ["از لحاظ خارجی", "در خارج", "به صورت خارجی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "extinct",
+    "pronunciation": "iks'tinkt",
+    "translates": {
+      "adjective": ["منقرض", "خاموش", "مرده", "منسوخ", "معدوم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "extinguish",
+    "pronunciation": "iks'tingwish",
+    "translates": {
+      "transitive-verb": [
+        "خاموش کردن",
+        "زدودن",
+        "پاک کردن",
+        "محو کردن",
+        "نابود کردن",
+        "از بین بردن",
+        "فرو نشاندن",
+        "[ قرض ] ادا کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "extinguisher",
+    "pronunciation": "iks'tingwisher",
+    "translates": {
+      "noun": ["کپسول آتش نشانی", "خاموش کننده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "extra",
+    "pronunciation": "ekstra^",
+    "translates": {
+      "adjective": ["اضافی", "دیگر هم", "بیش از حد", "بسیار"],
+      "adverb": ["اضافی", "بیش از حد", "خیلی"],
+      "noun": [
+        "زیادی",
+        "چیز اضافی",
+        "هزینه اضافی",
+        "سیاهی لشکر",
+        "روزنامه فوق العاده"
+      ]
+    },
+    "subWords": {}
   }
 ]

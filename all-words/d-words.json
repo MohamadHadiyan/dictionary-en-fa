@@ -871,6 +871,14 @@
     "subWords": {}
   },
   {
+    "word": "decomposing",
+    "pronunciation": "diika^mpo'zing",
+    "translates": {
+      "adjective": ["تجزیه"]
+    },
+    "subWords": {}
+  },
+  {
     "word": "decorate",
     "pronunciation": "'dekoreyt",
     "translates": {
@@ -4043,6 +4051,14 @@
     "subWords": {}
   },
   {
+    "word": "distributable",
+    "pronunciation": "dis'tribyootebel",
+    "translates": {
+      "adverb": ["قابل توزیع"]
+    },
+    "subWords": {}
+  },
+  {
     "word": "distribute",
     "pronunciation": "dis'tribyoot",
     "translates": {
@@ -5913,7 +5929,7 @@
   },
   {
     "word": "dwelt",
-    "pronunciation": "",
+    "pronunciation": "dwelt",
     "translates": {
       "past-tens": ["گذشته فعل dwell ( ساکن شد )"],
       "past-participle": ["اسم مفعول فعل dwell"]
