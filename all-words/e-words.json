@@ -99,6 +99,14 @@
     "subWords": {}
   },
   {
+    "word": "earlier",
+    "pronunciation": "erlier",
+    "translates": {
+      "adverb": ["زوتر", "پیش تر"]
+    },
+    "subWords": {}
+  },
+  {
     "word": "earn",
     "pronunciation": "ern",
     "translates": {
@@ -1826,7 +1834,7 @@
     "subWords": {}
   },
   {
-    "word": "enrol",
+    "word": "enroll",
     "pronunciation": "in'rol",
     "translates": {
       "transitive-verb": [
@@ -3805,6 +3813,142 @@
         "سیاهی لشکر",
         "روزنامه فوق العاده"
       ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "extract",
+    "pronunciation": "iks'trakt",
+    "translates": {
+      "transitive-verb": ["کشیدن", "در آوردن", "استخراج کردن"],
+      "noun": ["عصاره", "[از کتاب و غیره ] گزیده", "منتخب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "extraordinarily",
+    "pronunciation": "iks'trordinerili",
+    "translates": {
+      "adverb": ["فوق العاده", "به طور استثنایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "extraordinary",
+    "pronunciation": "iks'trordineri",
+    "translates": {
+      "adjective": ["فوق العاده", "خارق العاده", "استثنایی", "غیر عادی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "extraterrestrial",
+    "pronunciation": "'ikstraterestriel",
+    "translates": {
+      "adjective": ["فضایی", "فرا زمینی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "extravagant",
+    "pronunciation": "iks'travegent",
+    "translates": {
+      "adjective": ["ولخرج", "پرخرج", "گران قیمت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "extravagantly",
+    "pronunciation": "iks'travegentli",
+    "translates": {
+      "adverb": ["با ولخرجی", "گران", "گزاف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "extreme",
+    "pronunciation": "iks'triim",
+    "translates": {
+      "adjective": ["نهایی", "نهایت", "دورترین", "افراطی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "extremely",
+    "pronunciation": "iks'triimli",
+    "translates": {
+      "adverb": ["فوق العاده", "بی اندازه", "بی نهایت", "بسیار", "به شدت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "exultant",
+    "pronunciation": "ig'za^ltent",
+    "translates": {
+      "adjective": ["شاد", "شادمان", "سرمست از"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eye",
+    "pronunciation": "a^y",
+    "translates": {
+      "noun": ["چشم", "دیده", "نظر", "دید", "بینش", "[ سوزن ] ته", "سوراخ"]
+    },
+    "subWords": {
+      "catch somebody's eye": ["توجه کسی را جلب کردن"],
+      "cry one's eyes out": ["زارزار گریه کردن", "مثل ابر بهار گریه کردن"],
+      "in someone's eyes": ["از نظرِ", "به نظرِ", "از دیدِ"],
+      "keep an eye on": ["مراقب یا مواظب ( کسی یا چیزی ) بودن"],
+      "see eye to eye": ["با کسی کاملاً موافق بودن", "هم عقیده بودن"],
+      "turn a blind eye to": ["ندیده گرفتن", "چشم بستن بر"]
+    }
+  },
+  {
+    "word": "eyebrow",
+    "pronunciation": "'a^ybrao",
+    "translates": {
+      "noun": ["ابرو", "خط ابرو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eyelash",
+    "pronunciation": "a^ylash",
+    "translates": {
+      "noun": ["مژه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eyelid",
+    "pronunciation": "'a^ylid",
+    "translates": {
+      "noun": ["پلک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eye-shadow",
+    "pronunciation": "'a^y shado",
+    "translates": {
+      "noun": ["سایه چشم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eyesight",
+    "pronunciation": "'a^ysa^yt",
+    "translates": {
+      "noun": ["بینایی", "دید"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "eyewitness",
+    "pronunciation": "'a^ywitnis",
+    "translates": {
+      "noun": ["شاهد عینی"]
     },
     "subWords": {}
   }

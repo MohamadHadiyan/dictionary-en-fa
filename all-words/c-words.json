@@ -4643,6 +4643,14 @@
     "subWords": {}
   },
   {
+    "word": "complexity",
+    "pronunciation": "ka^m'pleksiti",
+    "translates": {
+      "noun": ["پیچیدگی", "بغرنجی", "درهمی"]
+    },
+    "subWords": {}
+  },
+  {
     "word": "complicated",
     "pronunciation": "'ka^mpli.keyted",
     "translates": {
@@ -5579,6 +5587,14 @@
     "pronunciation": "ka^n'sa^ynment",
     "translates": {
       "noun": ["محموله", "ارسال", "حمل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "consistent",
+    "pronunciation": "ka^n'sistent",
+    "translates": {
+      "adjective": ["استوار", "نامتناقض", "ثابت قدم"]
     },
     "subWords": {}
   },
