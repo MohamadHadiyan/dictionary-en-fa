@@ -4813,6 +4813,14 @@
     "subWords": {}
   },
   {
+    "word": "draft",
+    "pronunciation": "draft",
+    "translates": {
+      "noun": ["پیش نویس", "برات", "طرح", "حواله"]
+    },
+    "subWords": {}
+  },
+  {
     "word": "drag",
     "pronunciation": "drag",
     "translates": {

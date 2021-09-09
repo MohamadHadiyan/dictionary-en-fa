@@ -1,0 +1,189 @@
+[
+  {
+    "word": "F, f",
+    "pronunciation": "ef",
+    "translates": {
+      "noun": ["اِف (= ششمین حرف الفبای انگلیسی )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fable",
+    "pronunciation": "'feybel",
+    "translates": {
+      "noun": ["قصه", "داستان", "استوره", "افسانه", "اساطیر", "حکایت اخلاقی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fabric",
+    "pronunciation": "'fabrik",
+    "translates": {
+      "noun": ["پارچه", "بافت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fabulous",
+    "pronunciation": "'fabyules",
+    "translates": {
+      "adjective": ["اساطیری", "افسانه ای", "باور نکردنی", "شگفت آور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "face",
+    "pronunciation": "feys",
+    "translates": {
+      "noun": ["صورت", "چهره", "رو", "قیافه", "ظاهر", "نما", "وجه", "سردر"],
+      "transitive-verb": [
+        "رو کردن به",
+        "روبروی ( کسی یا چیزی ) بودن",
+        "در مقابل ( کسی یا چیزی ) قرار داشتن",
+        "مواجه شدن",
+        "مشرف بودن به"
+      ]
+    },
+    "subWords": {
+      "face to face": ["رو در رو"],
+      "keep a straight face": ["جلوی خنده خود را گرفتن"],
+      "make a face": ["شکلک در آوردن", "قیافه ( کسی ) تو هم رفتن"],
+      "pull face": ["شکلک در آوردن", "قیافه ( کسی ) تو هم رفتن"]
+    }
+  },
+  {
+    "word": "fact",
+    "pronunciation": "fakt",
+    "translates": {
+      "noun": ["واقعیت", "حقیقت"]
+    },
+    "subWords": {
+      "in fact": ["در واقع", "در حقیقت"]
+    }
+  },
+  {
+    "word": "factory",
+    "pronunciation": "'fakteri",
+    "translates": {
+      "noun": ["کارخانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "factual",
+    "pronunciation": "'fakchuwa^l",
+    "translates": {
+      "adjective": ["مبتنی بر واقعیت", "واقعیت بنیاد", "واقعی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fad",
+    "pronunciation": "fad",
+    "translates": {
+      "noun": [
+        "هوس",
+        "ویر",
+        "موج",
+        "مُد زودگذر",
+        "علاقه دمدمی",
+        "[ مجازی ] جنون"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fade",
+    "pronunciation": "feyd",
+    "translates": {
+      "intransitive-verb": [
+        "پژمردن",
+        "پژمرده شدن",
+        "پلاسیدن",
+        "محو شدن",
+        "کم رنگ شدن",
+        "رنگ ( چیزی ) رفتن",
+        "رنگ خود را از دست دادن",
+        "رنگ ( چیزی را ) بردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fag",
+    "pronunciation": "fag",
+    "translates": {
+      "noun": [
+        "کار سخت",
+        "کار پر زحمت",
+        "خرحمالی",
+        "حمال مفت",
+        "[ عامیانه ] سیگار"
+      ],
+      "transitive-verb": [
+        "جان کندن",
+        "از پا در آوردن",
+        "سخت کار کردن",
+        "خرحمالی کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fail",
+    "pronunciation": "feyl",
+    "translates": {
+      "intransitive-verb": [
+        "[ امتحان ] رد شدن",
+        "موفق نشدن",
+        "شکست خوردن",
+        "نتوانستن",
+        "کوتاهی کردن",
+        "رعایت نکردن",
+        "به ثمر نرسیدن",
+        "ضعیف شدن"
+      ],
+      "transitive-verb": ["[ امتحان ] رد کردن", "مایوس کردن"],
+      "noun": ["[ امتحان ] ردی", "عدم موفقیت"]
+    },
+    "subWords": {
+      "without fail": ["حتماً بی برو برگرد"]
+    }
+  },
+  {
+    "word": "failing",
+    "pronunciation": "'feyling",
+    "translates": {
+      "noun": ["نقطه ضعف", "ضعف", "نقص", "عیب"],
+      "preposition": ["در صورت نبودنِ", "در غیابِ", "بدونِ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "failure",
+    "pronunciation": "'feyliyer",
+    "translates": {
+      "noun": [
+        "شکست",
+        "ناکامی",
+        "آدم ناموفق",
+        "نقص",
+        "خرابی",
+        "عدم موفقیت",
+        "قصور",
+        "کوتاهی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "faint",
+    "pronunciation": "feynt",
+    "translates": {
+      "adjective": ["ضعیف", "خفیف", "کم", "بی حال", "سست"],
+      "intransitive-verb": ["از حال رفتن", "غش کردن", "ضعف کردن"],
+      "noun": ["ضعف", "بی هوشی", "غش"]
+    },
+    "subWords": {}
+  }
+]
