@@ -185,5 +185,428 @@
       "noun": ["ضعف", "بی هوشی", "غش"]
     },
     "subWords": {}
+  },
+  {
+    "word": "fair",
+    "pronunciation": "fer",
+    "translates": {
+      "adjective": [
+        "منصف",
+        "عادل",
+        "شرافتمندانه",
+        "متوسط",
+        "نسبتاً خوب",
+        "[ هوا ] خوب",
+        "آفتابی",
+        "سفید",
+        "سفیدرو",
+        "[ مو ] بور",
+        "بلوند",
+        "پاک"
+      ],
+      "noun": ["بازار مکاره", "بازار", "نمایشگاه"],
+      "adverb": ["منصفانه", "عادلانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fairly",
+    "pronunciation": "'ferli",
+    "translates": {
+      "adverb": [
+        "عادلانه",
+        "منصفانه",
+        "نسبتاً",
+        "تا اندازه ای",
+        "کم و بیش",
+        "کاملاً",
+        "به کلی",
+        "پاک"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fairy",
+    "pronunciation": "'feri",
+    "translates": {
+      "noun": ["پری"],
+      "adjective": ["پری مانند", "پری وار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fairyland",
+    "pronunciation": "'feriland",
+    "translates": {
+      "noun": ["سرزمین پریان", "سرزمین رویاها", "بهشت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fairy tale",
+    "pronunciation": "'feri teyl",
+    "translates": {
+      "noun": ["قصه پریان", "افسانه پریان", "افسانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fairy-tale",
+    "pronunciation": "'feri teyl",
+    "translates": {
+      "adjective": ["افسانه ای"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "faith",
+    "pronunciation": "feyth",
+    "translates": {
+      "noun": [
+        "اعتقاد",
+        "ایمان",
+        "دین",
+        "مذهب",
+        "باور",
+        "اعتماد",
+        "عهد",
+        "پیمان"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "faithful",
+    "pronunciation": "'feythful",
+    "translates": {
+      "adjective": ["صدیق", "باایمان", "باوفا", "صادقانه", "وفادار", "پای بند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "faithfully",
+    "pronunciation": "'feythfuli",
+    "translates": {
+      "adverb": ["صادقانه", "وفادارانه", "دقیقاً", "عیناً", "قویاً", "جداً"]
+    },
+    "subWords": {
+      "promise faithfully": ["قول مردانه دادن"],
+      "Yours faithfully": ["[ در نامه های رسمی ] با تقدیم احترام"]
+    }
+  },
+  {
+    "word": "fake",
+    "pronunciation": "feyk",
+    "translates": {
+      "noun": ["( چیز ) بدلی", "تقلبی", "جعلی", "بدل", "آدم متقلب"],
+      "adjective": ["بدلی", "جعلی", "تقلبی", "ساختگی", "دروغی"],
+      "transitive-verb": [
+        "جعل کردن",
+        "[ تابلو ] کپی کردن",
+        "دروغ گفتن",
+        "وانمود کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fall",
+    "pronunciation": "fol",
+    "translates": {
+      "noun": [
+        "سقوط",
+        "( عمل ) افتادن",
+        "اُفت",
+        "کاهش",
+        "بارش",
+        "شیب",
+        "پاییز",
+        "خزان",
+        "هبوط"
+      ],
+      "intransitive-verb": [
+        "افتادن",
+        "فرو رفتن",
+        "به زمین افتادن",
+        "سقوط کردن",
+        "باریدن",
+        "پایین آمدن",
+        "کاهش یافتن",
+        "کم شدن",
+        "واقع شدن"
+      ]
+    },
+    "subWords": {
+      "fall asleep": ["( کسی را ) خواب بردن"],
+      "fall behind with ( something )": ["( در کاری یا چیزی ) عقب افتادن"],
+      "fall for": ["عاشق شدن", "گلوی کسی ( پیش کسی ) گیر کردن"],
+      "fall ill": ["مریض شدن"],
+      "fall off": ["افتادن", "زمین خوردن"],
+      "fall out with": ["دعوا کردن"],
+      "fall over": ["زمین خوردن", "سکندری خوردن"]
+    }
+  },
+  {
+    "word": "fallen",
+    "pronunciation": "'folen",
+    "translates": {
+      "adjective": ["افتاده"],
+      "past-participle": ["اسم مفعول فعل fall"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fallout",
+    "pronunciation": "'folaot",
+    "translates": {
+      "noun": ["بارش رادیواکتیو", "غبار ( رادیواکتیو )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "falls",
+    "pronunciation": "folz",
+    "translates": {
+      "noun": ["آبشار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "false",
+    "pronunciation": "fols",
+    "translates": {
+      "adjective": [
+        "دروغی",
+        "دروغ",
+        "کاذب",
+        "ساختگی",
+        "اشتباه",
+        "غلط",
+        "خطا",
+        "نادرست",
+        "اشتباهی",
+        "مصنوعی",
+        "تقلبی",
+        "جعلی",
+        "ریاکار"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "falsely",
+    "pronunciation": "'folsli",
+    "translates": {
+      "adverb": ["به دروغ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "falter",
+    "pronunciation": "'folter",
+    "translates": {
+      "intransitive-verb": [
+        "به تردید افتادن",
+        "تزلزل نشان دادن",
+        "به لکنت افتادن",
+        "به تِتِه پِتِه افتادن",
+        "گیر کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fame",
+    "pronunciation": "feym",
+    "translates": {
+      "noun": ["شهرت", "آوازه", "معروفیت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "familiar",
+    "pronunciation": "fa'miliyar",
+    "translates": {
+      "adjective": ["آشنا", "صمیمی", "دوستانه", "خودمانی", "ندار"]
+    },
+    "subWords": {
+      "be familiar with": ["آشنا بودن با", "آشنایی داشتن با"]
+    }
+  },
+  {
+    "word": "familiarity",
+    "pronunciation": "famili'yariti",
+    "translates": {
+      "noun": ["آشنایی", "شناخت", "آگاهی", "اطلاع", "حالت خودمانی", "اُنس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "family",
+    "pronunciation": "'famili",
+    "translates": {
+      "noun": ["خانواده", "اعضای خانواده", "خانوادگی", "خاندان", "فامیل"]
+    },
+    "subWords": {
+      "family name": ["نام خانوادگی"]
+    }
+  },
+  {
+    "word": "famine",
+    "pronunciation": "'famin",
+    "translates": {
+      "noun": ["قحطی", "کمبود", "گرسنگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "famous",
+    "pronunciation": "'feymes",
+    "translates": {
+      "adjective": ["مشهور", "معروف", "صاحب نام", "سرشناس", "بلند آوازه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fan",
+    "pronunciation": "fan",
+    "translates": {
+      "noun": ["پنکه", "بادبزن", "عاشق سینه چاک"],
+      "transitive-verb": [
+        "باد زدن",
+        "وزیدن به",
+        "( آتش چیزی را ) دامن زدن",
+        "پخش کردن"
+      ],
+      "intransitive-verb": ["پخش شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fanatic",
+    "pronunciation": "fa'natik",
+    "translates": {
+      "noun": ["آدم متعصب"],
+      "adjective": ["متعصب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fanatical",
+    "pronunciation": "fa'natika^l",
+    "translates": {
+      "adjective": ["متعصب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fanatically",
+    "pronunciation": "fa'natikli",
+    "translates": {
+      "adverb": ["به طور تعصب آمیز", "با تعصب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fanciful",
+    "pronunciation": "'fansiful",
+    "translates": {
+      "adjective": ["خیال پرداز", "خیالی", "شگفت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fancy",
+    "pronunciation": "'fansi",
+    "translates": {
+      "noun": ["خیال پردازی", "تخیل", "تصور", "خیال", "علاقه"],
+      "intransitive-verb": [
+        "تصور کردن",
+        "مجسم کردن",
+        "خیال کردن",
+        "فکر کردن",
+        "دوست داشتن",
+        "علاقه داشتن به",
+        "میل داشتن",
+        "هوس کردن",
+        "[ حالت تعجب ] ببین!",
+        "نگاه کن!",
+        "تماشا کن!"
+      ],
+      "adjective": ["تخیلی", "زینتی", "تزیینی", "شیک", "لوکس", "تجملی", "تفننی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fang",
+    "pronunciation": "fang",
+    "translates": {
+      "noun": ["[ سگ", "گرگ و غیره ] دندان نیش", "[ مار ] دندان", "نیش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fantastic",
+    "pronunciation": "fan'tastik",
+    "translates": {
+      "adjective": [
+        "عجیب و غریب",
+        "شگفت",
+        "خارق العاده",
+        "خیالی",
+        "واهی",
+        "[ پول",
+        "هزینه و غیره ] هنگفت"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fantastically",
+    "pronunciation": "fan'tastikli",
+    "translates": {
+      "adverb": ["بسیار عالی", "بسیار زیاد", "فوق العاده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fantasy",
+    "pronunciation": "'fantasi",
+    "translates": {
+      "noun": ["خیال پردازی", "خیال", "پندار", "وهم", "رویا", "فانتزی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "far",
+    "pronunciation": "fa^r",
+    "translates": {
+      "adjective": ["دور", "دور دست", "آن طرفِ", "آن سوی", "افراطی"],
+      "adverb": ["دور", "خیلی", "بسیار"]
+    },
+    "subWords": {
+      "as far as": ["تا", "تا آنجا که"],
+      "be far behind with something": ["( در چیزی یا کاری ) عقب بودن"],
+      "far apart": ["دور از یکدیگر", "جدا از هم"],
+      "far away": ["خیلی دور"],
+      "far from": ["اصلاً", "به هیچ وجه", "ابداً"],
+      "so far": ["تا حالا", "تاکنون"]
+    }
+  },
+  {
+    "word": "faraway",
+    "pronunciation": "'fa^rewey",
+    "translates": {
+      "adjective": [
+        "دور",
+        "دور دست",
+        "دور افتاده",
+        "خیلی دور",
+        "قدیم",
+        "گذشته دور"
+      ]
+    },
+    "subWords": {}
   }
 ]
