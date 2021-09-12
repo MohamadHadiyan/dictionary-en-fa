@@ -608,5 +608,485 @@
       ]
     },
     "subWords": {}
+  },
+  {
+    "word": "fare",
+    "pronunciation": "fer",
+    "translates": {
+      "noun": ["[ اتوبوس", "تاکسی و غیره ] کرایه", "مسافر تاکسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "farewell",
+    "pronunciation": "fer'wel",
+    "translates": {
+      "interjection": ["خداحافظ!", "بدرود"],
+      "noun": ["خداحافظی", "وداع", "بدرود"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "farm",
+    "pronunciation": "fa^rm",
+    "translates": {
+      "noun": ["مزرعه", "( محل ) دامداری", "خانه کشاورزی"],
+      "transitive-verb": ["کشت کردن", "کشاورزی کردن", "دامداری کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "farmer",
+    "pronunciation": "'fa^rmer",
+    "translates": {
+      "noun": [
+        "دهقان",
+        "کشاورز",
+        "زارع",
+        "مزرعه دار",
+        "پرورش دهنده...",
+        "دامدار"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "farmhouse",
+    "pronunciation": "'fa^rmhaos",
+    "translates": {
+      "noun": ["خانه کشاورز", "خانه زارع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "farmyard",
+    "pronunciation": "'fa^rmya^rd",
+    "translates": {
+      "noun": ["حیاط مزرعه", "محوطه مزرعه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "farther",
+    "pronunciation": "'fa^rdher",
+    "translates": {
+      "adjective": ["دورتر", "جلوتر", "پیش تر"],
+      "adverb": ["دور تر", "جلو تر", "پیش تر", "آن طرفِ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "farthest",
+    "pronunciation": "'fa^rdhist",
+    "translates": {
+      "adverb": ["دور ترین", "آخرین", "بیشترین"],
+      "adjective": ["دور ترین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fascinate",
+    "pronunciation": "fasi'neyt",
+    "translates": {
+      "transitive-verb": [
+        "مجذوب کردن",
+        "شیفته خود کردن",
+        "شیدا کردن",
+        "دلربایی کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fascination",
+    "pronunciation": "fasi'neyshen",
+    "translates": {
+      "noun": [
+        "جذبه",
+        "جاذبه",
+        "جذابیت",
+        "کشش",
+        "شیفتگی",
+        "فریبندگی",
+        "شیدایی",
+        "افسون"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fashion",
+    "pronunciation": "'fashen",
+    "translates": {
+      "noun": ["شیوه", "روش", "طرز", "نحوه", "سبک", "مُد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fashionable",
+    "pronunciation": "'fashenebel",
+    "translates": {
+      "adjective": ["مُد", "مُد روز", "[ هتل", "رستوران و غیره ] شیک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fashionably",
+    "pronunciation": "'fashenebli",
+    "translates": {
+      "adverb": ["مطابق", "مُد", "طبق مُد روز", "به صورت شیک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fast",
+    "pronunciation": "fast",
+    "translates": {
+      "adjective": [
+        "سریع",
+        "تند",
+        "تندرو",
+        "فوری",
+        "[ ساعت ] جلو",
+        "محکم",
+        "سفت",
+        "[ رنگ ] ثابت",
+        "باوفا",
+        "استوار"
+      ],
+      "intransitive-verb": ["روزه گرفتن"],
+      "noun": ["روزه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fasten",
+    "pronunciation": "'fasen",
+    "translates": {
+      "transitive-verb": [
+        "بستن",
+        "سفت بستن",
+        "سفت کردن",
+        "محکم کردن",
+        "زدن به",
+        "به هم بستن",
+        "متصل کردن"
+      ]
+    },
+    "subWords": {
+      "fasten something to ( or onto )": ["نصب کردن", "چسباندن"]
+    }
+  },
+  {
+    "word": "fastener",
+    "pronunciation": "'fasner",
+    "translates": {
+      "noun": ["بست", "قلاب", "بند", "چفت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fastidious",
+    "pronunciation": "fas'tidiyes",
+    "translates": {
+      "adjective": ["سختگیر", "مشکل پسند", "وسواسی", "ریز بین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fat",
+    "pronunciation": "fat",
+    "translates": {
+      "noun": ["چربی", "روغن"],
+      "adjective": [
+        "چرب",
+        "پر چربی",
+        "چاق",
+        "چاق و چله",
+        "گنده",
+        "درشت",
+        "فربه",
+        "کلفت",
+        "قطور",
+        "پُر"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fatal",
+    "pronunciation": "'feyta^l",
+    "translates": {
+      "adjective": ["مهلک", "کشنده", "خطرناک", "شوم", "نحس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fatality",
+    "pronunciation": "fey'ta^liti",
+    "translates": {
+      "noun": ["مرگ", "مرگ و میر", "تلفات", "تقدیر", "سرنوشت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fatally",
+    "pronunciation": "'feyta^li",
+    "translates": {
+      "adverb": ["به طور مهلک", "به طور کشنده", "به طور خطرناکی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fate",
+    "pronunciation": "feyt",
+    "translates": {
+      "noun": ["تقدیر", "سرنوشت", "قضا و قدر", "عاقبت", "مرگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fated",
+    "pronunciation": "'feytid",
+    "translates": {
+      "adjective": ["مقدر", "قسمت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "father",
+    "pronunciation": "'fa^dher",
+    "translates": {
+      "noun": ["پدر", "بابا", "بنیانگذار", "پدر روحانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fatherly",
+    "pronunciation": "'fa^dherli",
+    "translates": {
+      "adjective": ["پدرانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fatigue",
+    "pronunciation": "fa'tiig",
+    "translates": {
+      "noun": ["خستگی", "فرسودگی", "کوفتگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fatten",
+    "pronunciation": "'faten",
+    "translates": {
+      "intransitive-verb": ["چاق شدن", "ثروتمند تر شدن"],
+      "transitive-verb": [
+        "چاق کردن",
+        "فربه کردن",
+        "پرواری کردن",
+        "حاصل خیز کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fault",
+    "pronunciation": "folt",
+    "translates": {
+      "noun": ["عیب", "نقص", "تقصیر", "گناه", "اشتباه", "غلط", "خطا"]
+    },
+    "subWords": {
+      "be someone's fault": ["تقصیر کسی بودن"],
+      "be the fault of": ["تقصیر کسی بودن"]
+    }
+  },
+  {
+    "word": "faulty",
+    "pronunciation": "'folti",
+    "translates": {
+      "adjective": ["معیوب", "خراب", "ناقص"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "favor",
+    "pronunciation": "'feyver",
+    "translates": {
+      "noun": [
+        "لطف",
+        "التفات",
+        "نظر مساعد",
+        "کمک",
+        "مساعدت",
+        "مرحمت",
+        "محبت",
+        "خدمت",
+        "نفع",
+        "سود"
+      ],
+      "transitive-verb": [
+        "طرفداری کردن",
+        "پشتیبانی کردن",
+        "تایید کردن",
+        "محبت کردن",
+        "لطف کردن",
+        "مرحمت کردن"
+      ]
+    },
+    "subWords": {
+      "be in favor of": ["طرفدار ( چیزی ) بودن", "( با چیزی ) موافق بودن"],
+      "be in favor with": ["مورد علاقه ( کسی ) بودن"],
+      "be out of favor with": [
+        "( کسی را ) خوش نیامدن",
+        "مورد علاقه ( کسی ) نبودن"
+      ]
+    }
+  },
+  {
+    "word": "favorable",
+    "pronunciation": "'feyverebel",
+    "translates": {
+      "adjective": ["مطلوب", "مساعد", "رضایت بخش", "مناسب", "مثبت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "favorably",
+    "pronunciation": "'feyverebli",
+    "translates": {
+      "adverb": ["با نظر مساعد", "به طور مطلوبی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "favorite",
+    "pronunciation": "'feyverit",
+    "translates": {
+      "adjective": ["محبوب", "مطلوب", "مورد علاقه", "برگزیده", "دوست داشتنی"],
+      "noun": ["[ در ورزش ] امید مسابقه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fear",
+    "pronunciation": "'fiyer",
+    "translates": {
+      "noun": ["ترس", "نگرانی", "هراس", "پروا", "بیم", "خوف", "وحشت"],
+      "transitive-verb": ["ترسیدن ( از )", "نگران ( چیزی ) بودن", "نگران بودن"]
+    },
+    "subWords": {
+      "for fear of": ["از ترسِ"]
+    }
+  },
+  {
+    "word": "fearful",
+    "pronunciation": "'fiyerful",
+    "translates": {
+      "adjective": [
+        "هولناک",
+        "ترسناک",
+        "وحشتناک",
+        "ترسو",
+        "نگران",
+        "[ عامیانه ] بد",
+        "وحشتناک"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fearfully",
+    "pronunciation": "'fiyerfuli",
+    "translates": {
+      "adverb": ["با ترس", "به طور وحشتناکی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fearless",
+    "pronunciation": "'fiyerlis",
+    "translates": {
+      "adjective": ["نترس", "بی باک", "بی پروا", "جسور", "بی اعتنا", "بی توجه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fearlessly",
+    "pronunciation": "'fiyerlisli",
+    "translates": {
+      "adverb": ["بی باکانه", "با بی باکی", "بدون ترس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "feast",
+    "pronunciation": "fiist",
+    "translates": {
+      "noun": ["ضیافت", "جشن", "عید ( مذهبی )", "مهمانی", "میز غذا", "سفره"],
+      "transitive-verb": ["جشن گرفتن", "مهمان کردن", "حسابی خوردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "feat",
+    "pronunciation": "fiit",
+    "translates": {
+      "noun": ["شاهکار", "کار عظیم", "کار برجسته"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "feather",
+    "pronunciation": "'fedher",
+    "translates": {
+      "noun": ["پَر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "feature",
+    "pronunciation": "'fiicher",
+    "translates": {
+      "noun": ["مشخصه", "ویژگی", "خصیصه", "صورت", "چهره", "قیافه"],
+      "transitive-verb": [
+        "نقش مهمی داشتن در",
+        "جایی داشتن در",
+        "نمایان کردن",
+        "به طور برجسته نشون دادن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "February",
+    "pronunciation": "'februweri",
+    "translates": {
+      "noun": ["فوریه (= ماه دوم سال فرنگی )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fed",
+    "pronunciation": "fed",
+    "translates": {
+      "past-tens": ["گذشته فعل feed"],
+      "past-participle": ["اسم مفعول فعل feed ( تغذیه شده )"]
+    },
+    "subWords": {
+      "be fed up with": [
+        "از ( چیزی ) خسته شدن",
+        "حوصله ( کسی از چیزی ) سر رفتن"
+      ]
+    }
+  },
+  {
+    "word": "fee",
+    "pronunciation": "fii",
+    "translates": {
+      "noun": ["دستمزد", "حق الزحمه", "هزینه", "[ دانشگاه یا مدرسه ] شهریه"]
+    },
+    "subWords": {}
   }
 ]
