@@ -1088,5 +1088,490 @@
       "noun": ["دستمزد", "حق الزحمه", "هزینه", "[ دانشگاه یا مدرسه ] شهریه"]
     },
     "subWords": {}
+  },
+  {
+    "word": "feeble",
+    "pronunciation": "'fiibel",
+    "translates": {
+      "adjective": ["ضعیف", "نحیف", "سست", "ناتوان", "عاجز", "خفیف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "feebly",
+    "pronunciation": "'fiibli",
+    "translates": {
+      "adverb": ["با ضعف", "با ناتوانی", "با بی اشتیاقی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "feed",
+    "pronunciation": "fiid",
+    "translates": {
+      "noun": ["خوراک", "غذا", "وعده غذا", "موقع غذا", "تغذیه"],
+      "transitive-verb": [
+        "تغذیه کردن",
+        "غذا دادن",
+        "خوراندن",
+        "دادن",
+        "غذا خوردن",
+        "خوردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "feel",
+    "pronunciation": "fiil",
+    "translates": {
+      "transitive-verb": [
+        "احساس کردن",
+        "لمس کردن",
+        "دست زدن به",
+        "حس کردن",
+        "حس شدن",
+        "حساسیت داشتن به",
+        "گمان کردن",
+        "تصور کردن به نظر آمدن",
+        "درک کردن",
+        "فهمیدن"
+      ]
+    },
+    "subWords": {
+      "feel for something": ["دنبال چیزی گشتن"],
+      "feel like something": ["( دل کسی ) چیزی را خواستن", "میل داشتن"]
+    }
+  },
+  {
+    "word": "feeling",
+    "pronunciation": "'fiiling",
+    "translates": {
+      "noun": ["احساس", "حس", "لامسه", "نظر", "احساسات"]
+    },
+    "subWords": {
+      "hurt someone's feeling": [
+        "احساسات کسی را جریحه دار کردن",
+        "کسی را رنجاندن"
+      ]
+    }
+  },
+  {
+    "word": "feet",
+    "pronunciation": "fiit",
+    "translates": {
+      "noun": ["صورت جمع foot ( پا )"]
+    },
+    "subWords": {
+      "be on one's feet": [
+        "سر پا ایستادن",
+        "روی پا ایستادن",
+        "بهبود یافتن",
+        "بهتر شدن"
+      ],
+      "find your feet": ["روی پای خود ایستادن"],
+      "have ( or get ) cold feet": ["جا زدن", "پا پس کشیدن"],
+      "put one's feet up": ["استراحت کردن", "دراز کشیدن"],
+      "walk someone off his feet": ["کسی را از پا انداختن", "خسته و هلاک کردن"]
+    }
+  },
+  {
+    "word": "fell",
+    "pronunciation": "fel",
+    "translates": {
+      "transitive-verb": [
+        "قطع کردن",
+        "بریدن",
+        "زمین زدن",
+        "به زمین انداختن",
+        "بریدن و انداختن"
+      ],
+      "past-tens": ["گذشته فعل fall ( سقوط کرد )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fellow",
+    "pronunciation": "'felo",
+    "translates": {
+      "noun": [
+        "مرد",
+        "پسر",
+        "آدم",
+        "شخص",
+        "رفیق",
+        "دوست",
+        "هم_( مانند همشهری",
+        "همکار و غیره )",
+        "عضو",
+        "بورسیه",
+        "تا"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "felt",
+    "pronunciation": "felt",
+    "translates": {
+      "noun": ["نمد"],
+      "adjective": ["نمدی"],
+      "past-tens": ["گذشته فعل feel ( احساس کرد )"],
+      "past-participle": ["اسم مفعول فعل feel"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "female",
+    "pronunciation": "'fiimeyl",
+    "translates": {
+      "adjective": [
+        "ماده",
+        "مادینه",
+        "مونث",
+        "زنانه",
+        "[ مربوط به ] زن یا زنان"
+      ],
+      "noun": ["زن", "ماده", "مونث"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "feminine",
+    "pronunciation": "'feminin",
+    "translates": {
+      "adjective": ["زنانه", "[ دستور زبان ] مونث"],
+      "noun": ["زنان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fence",
+    "pronunciation": "fens",
+    "translates": {
+      "noun": ["حصار", "نرده", "دیوار", "پرچین", "شمشیر بازی"],
+      "transitive-verb": ["محصور کردن", "نرده کشیدن", "دیوار کشیدن"],
+      "intransitive-verb": ["شمشیر بازی کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fend",
+    "pronunciation": "fend",
+    "translates": {
+      "transitive-verb": ["دفع کردن", "دور کردن"],
+      "intransitive-verb": [
+        "روی پای خود ایستادن",
+        "از زیر ( چیزی ) در رفتن",
+        "از دست کسی فرار کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fender",
+    "pronunciation": "'fender",
+    "translates": {
+      "noun": ["حفاظ", "گِل گیر", "سپر", "ضربه گیر", "حایل", "لبه پایین شومینه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fern",
+    "pronunciation": "fern",
+    "translates": {
+      "noun": ["سرخس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ferocious",
+    "pronunciation": "fe'roshes",
+    "translates": {
+      "adjective": [
+        "وحشی",
+        "درنده",
+        "درنده خو",
+        "وحشیانه",
+        "شدید",
+        "حاد",
+        "سخت",
+        "سبع",
+        "ژیان"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ferociously",
+    "pronunciation": "fe'roshesli",
+    "translates": {
+      "adverb": ["وحشیانه", "به طور وحشتناکی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ferry",
+    "pronunciation": "'feri",
+    "translates": {
+      "noun": [
+        "فری (= نوعی قایق که مسافر",
+        "کالا یا وسایل نقلیه را از عرض رودخانه یا کانال عبور می دهد )",
+        "ایستگاه فری"
+      ],
+      "transitive-verb": ["حمل کردن", "بردن", "عبور دادن", "گذراندن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fertile",
+    "pronunciation": "'ferta^yl",
+    "translates": {
+      "adjective": ["بارور", "حاصلخیز", "زایا", "پر ثمر", "خلاق", "مساعد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fertilize",
+    "pronunciation": "'fertila^yz",
+    "translates": {
+      "transitive-verb": ["بارور کردن", "کود دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fertilizer",
+    "pronunciation": "'fertila^yzer",
+    "translates": {
+      "noun": ["کود"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fervent",
+    "pronunciation": "'fervent",
+    "translates": {
+      "adjective": ["مشتاق", "ملتهب", "با حرارت", "با حمیت", "پر شور و شعف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fester",
+    "pronunciation": "'fester",
+    "translates": {
+      "intransitive-verb": ["چرک کردن", "عفونت کردن", "فاسد شدن", "گندیدن"],
+      "noun": ["چرک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "festival",
+    "pronunciation": "'festiva^l",
+    "translates": {
+      "noun": ["عید", "جشن", "جشنواره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "festive",
+    "pronunciation": "'festiv",
+    "translates": {
+      "adjective": ["شاد", "[ مربوط به ] عید", "[ مربوط به ] جشن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fetch",
+    "pronunciation": "fech",
+    "translates": {
+      "transitive-verb": [
+        "رفتن و آوردن",
+        "عاید کردن",
+        "واکشی کردن",
+        "فروش رفتن"
+      ],
+      "noun": ["واکشی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fetching",
+    "pronunciation": "'feching",
+    "translates": {
+      "adjective": ["جذاب", "دلربا", "گیرنده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fete",
+    "pronunciation": "feyt",
+    "translates": {
+      "noun": ["جشن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "feud",
+    "pronunciation": "fyood",
+    "translates": {
+      "noun": ["دعوا", "نزاع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fever",
+    "pronunciation": "'fiiver",
+    "translates": {
+      "noun": ["تب", "هیجان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "feverish",
+    "pronunciation": "'fiiverish",
+    "translates": {
+      "adjective": ["تب دار", "در حال تب", "بیماری زا", "تب آلود", "هیجان زده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "feverishly",
+    "pronunciation": "'fiiverishli",
+    "translates": {
+      "adverb": ["با دستپاچگی", "سراسیمه", "عجولانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "few",
+    "pronunciation": "fyoo",
+    "translates": {
+      "adjective": ["معدود", "تعداد کمی", "کم", "کمی", "نادر"],
+      "pronoun": ["معدودی", "کمی", "اندکی", "اندکی از"],
+      "noun": ["کم"]
+    },
+    "subWords": {
+      "a few": ["چند تایی", "چند تا", "تعدادی"],
+      "a few minutes later": ["چند دقیقه بعد", "چند دقیقه دیگر"],
+      "no few than": ["حداقل", "به اندازه"]
+    }
+  },
+  {
+    "word": "fiance",
+    "pronunciation": "fi'ya^nsey",
+    "translates": {
+      "noun": ["[ مرد ] نامزد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fiancee",
+    "pronunciation": "fi'ya^nsey",
+    "translates": {
+      "noun": ["[ زن ] نامزد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fib",
+    "pronunciation": "fib",
+    "translates": {
+      "noun": ["چاخان", "حرف کشکی", "دروغ"],
+      "intransitive-verb": ["چاخان کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fibber",
+    "pronunciation": "'fiber",
+    "translates": {
+      "noun": ["خالی بند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fiber",
+    "pronunciation": "'fa^yber",
+    "translates": {
+      "noun": ["تار", "لیف", "الیاف", "فیبر", "نخ", "رشته", "پارچه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fiberglass",
+    "pronunciation": "'fa^ybergla^s",
+    "translates": {
+      "noun": ["فایبرگلاس", "پشم شیشه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fickle",
+    "pronunciation": "'fikel",
+    "translates": {
+      "adjective": ["بی ثبات", "بی وفا", "دمدمی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fiction",
+    "pronunciation": "'fikshen",
+    "translates": {
+      "noun": ["داستان", "قصه", "ادبیات داستانی", "افسانه", "خیال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fiddle",
+    "pronunciation": "'fidel",
+    "translates": {
+      "noun": ["کمانچه", "ویولن", "تقلب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fidelity",
+    "pronunciation": "fi'deliti",
+    "translates": {
+      "noun": ["وفاداری", "صداقت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fidget",
+    "pronunciation": "'fijit",
+    "translates": {
+      "intransitive-verb": [
+        "وول خوردن",
+        "ور رفتن",
+        "بی قرار بودن",
+        "ناراحت بودن"
+      ],
+      "noun": ["بی قراری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "field",
+    "pronunciation": "fiild",
+    "translates": {
+      "noun": [
+        "مزرعه",
+        "چراگاه",
+        "میدان",
+        "رشته",
+        "[ فوتبال و غیره ] زمین",
+        "عرصه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fierce",
+    "pronunciation": "'fiyers",
+    "translates": {
+      "adjective": ["خشن", "خشمگین", "وحشی", "درنده", "تند"]
+    },
+    "subWords": {}
   }
 ]
