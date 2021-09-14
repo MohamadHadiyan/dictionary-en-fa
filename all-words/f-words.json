@@ -52,6 +52,16 @@
     }
   },
   {
+    "word": "facial",
+    "pronunciation": "'feysha^l",
+    "translates": {
+      "adjective": ["مربوط به صورت"]
+    },
+    "subWords": {
+      "in fact": ["در واقع", "در حقیقت"]
+    }
+  },
+  {
     "word": "fact",
     "pronunciation": "fakt",
     "translates": {
@@ -1571,6 +1581,406 @@
     "pronunciation": "'fiyers",
     "translates": {
       "adjective": ["خشن", "خشمگین", "وحشی", "درنده", "تند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fiercely",
+    "pronunciation": "'fiyersli",
+    "translates": {
+      "adverb": ["با عصبانیت", "به شدت", "شدیداً"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fiery",
+    "pronunciation": "'fa^yeri",
+    "translates": {
+      "adjective": ["مشتعل", "آتشین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fifteen",
+    "pronunciation": "fif'tiin",
+    "translates": {
+      "adjective": ["پانزده ( تا )"],
+      "noun": ["پانزده", "شماره پانزده", "تیم راگبی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fifteenth",
+    "pronunciation": "fif'tiinth",
+    "translates": {
+      "noun": ["یک پانزدهم"],
+      "adjective": ["پانزدهمین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fifth",
+    "pronunciation": "fifth",
+    "translates": {
+      "noun": ["یک پنجم", "پنجمی", "شماره پنج"],
+      "adjective": ["پنجمین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fiftieth",
+    "pronunciation": "'fiftiyeth",
+    "translates": {
+      "noun": ["یک پنجاهم", "پنجاهم"],
+      "adjective": ["پنجاهمین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fifty",
+    "pronunciation": "'fifti",
+    "translates": {
+      "adjective": ["پنجاه ( تا )"],
+      "noun": ["عدد پنجاه ( 50 )", "شماره پنجاه"]
+    },
+    "subWords": {
+      "the fifties": ["دهه پنجاه"]
+    }
+  },
+  {
+    "word": "fifty-fifty",
+    "pronunciation": "fifti 'fifti",
+    "translates": {
+      "adjective": ["پنجاه پنجاه", "نصفانصف"]
+    },
+    "subWords": {
+      "a fifty-fifty chance": ["احتمال پنجاه پنجاه", "شانس پنجاه پنجاه"]
+    }
+  },
+  {
+    "word": "fig",
+    "pronunciation": "fig",
+    "translates": {
+      "noun": ["انجیر", "درخت انجیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fight",
+    "pronunciation": "fa^yt",
+    "translates": {
+      "intransitive-verb": [
+        "جنگیدن",
+        "جنگ کردن",
+        "وارد جنگ شدن",
+        "در جنگ شرکت کردن",
+        "به جنگ پرداخت کردن"
+      ],
+      "transitive-verb": [
+        "نبرد کردن",
+        "پیکار کردن",
+        "کتک کاری کردن",
+        "زد و خورد کردن",
+        "جر و بحث کردن",
+        "بگو مگو کردن"
+      ],
+      "noun": ["جنگ", "نبرد", "مبارزه"]
+    },
+    "subWords": {
+      "fight for": ["سخت تلاش کردن", "جنگیدن برای", "مبارزه کردن برای"]
+    }
+  },
+  {
+    "word": "figure",
+    "pronunciation": "'figer",
+    "translates": {
+      "noun": [
+        "رقم",
+        "عدد",
+        "شکل",
+        "نمودار",
+        "مبلغ",
+        "پیکره",
+        "هیکل",
+        "اندام",
+        "قیافه",
+        "ریخت"
+      ]
+    },
+    "subWords": {
+      "figure out": ["حساب کردن", "فهمیدن"]
+    }
+  },
+  {
+    "word": "file",
+    "pronunciation": "fa^yl",
+    "translates": {
+      "noun": [
+        "سوهان",
+        "سوهان ناخن",
+        "پرونده",
+        "پوشه",
+        "کلاسور",
+        "سابقه",
+        "[ کامپیوتر ] پوشه",
+        "فایل",
+        "صف",
+        "ردیف",
+        "[ نظامی ] ستون"
+      ],
+      "transitive-verb": ["سوهان زدن", "بایگانی کردن"],
+      "intransitive-verb": ["به صف رفتن"]
+    },
+    "subWords": {
+      "in single file": ["به صف", "پشت سر هم"]
+    }
+  },
+  {
+    "word": "fill",
+    "pronunciation": "fil",
+    "translates": {
+      "transitive-verb": [
+        "پر کردن",
+        "سرشار کردن",
+        "لبریز کردن",
+        "اشغال کردن",
+        "انجام وظیفه کردن"
+      ],
+      "intransitive-verb": ["پر شدن"]
+    },
+    "subWords": {
+      "fill in": ["[ فرم و غیره ] پر کردن", "موقتاً جانشین ( کسی ) شدن"],
+      "fill up": ["پر کردن", "پر شدن"]
+    }
+  },
+  {
+    "word": "fillet",
+    "pronunciation": "'filit",
+    "translates": {
+      "noun": ["[ گوشت ] فیله", "پیشانی", "سر بند"],
+      "adjective": ["لخم", "بی استخوان", "فیله"],
+      "transitive-verb": ["به صورت فیله بریدن یا در آوردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "filling",
+    "pronunciation": "'filing",
+    "translates": {
+      "noun": ["پر کردن دندان", "دندان پُر کنی", "دندان پُر کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "filling station",
+    "pronunciation": "'filing steyshen",
+    "translates": {
+      "noun": ["پمپ بنزین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "film",
+    "pronunciation": "film",
+    "translates": {
+      "noun": [
+        "لایه نازک",
+        "ورقه",
+        "پرده",
+        "فیلم ( عکاسی یا فیلم برداری )",
+        "فیلم ( سینمایی )",
+        "حلقه فیلم"
+      ],
+      "transitive-verb": [
+        "فیلم برداری کردن",
+        "فیلم برداشتن",
+        "به صورت فیلم در آوردن",
+        "پوشاندن"
+      ],
+      "intransitive-verb": [
+        "پوشیده شدن",
+        "تار شدن",
+        "غبار گرفتن",
+        "[ چشم ] اشک آلود شدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "filter",
+    "pronunciation": "'filter",
+    "translates": {
+      "noun": ["صافی", "فیلتر"],
+      "transitive-verb": ["صافی کردن", "از صافی رد کردن"],
+      "intransitive-verb": ["[ ترافیک بریتانیا ] گردش به چپ آزاد بودن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "filth",
+    "pronunciation": "filth",
+    "translates": {
+      "noun": ["کثافت", "آشغال", "پلیدی", "آلودگی", "هرزه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "filthy",
+    "pronunciation": "filthi",
+    "translates": {
+      "adjective": [
+        "کثیف",
+        "پلید",
+        "مبتذل",
+        "زشت",
+        "قبیح",
+        "چرکین",
+        "[ هوا ] بد"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fin",
+    "pronunciation": "fin",
+    "translates": {
+      "noun": ["باله", "بال", "[ فنی ] تیغه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "final",
+    "pronunciation": "'fa^yna^l",
+    "translates": {
+      "adjective": ["نهایی", "پایانی", "آخرین", "آخری", "آخر", "قطعی"],
+      "noun": ["مسابقه نهایی", "فینال", "[ روزنامه ] آخرین چاپ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "finalist",
+    "pronunciation": "'fa^yna^list",
+    "translates": {
+      "noun": ["فینالیست", "بازیکن مرحله نهایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "finally",
+    "pronunciation": "'fa^yna^li",
+    "translates": {
+      "adverb": ["سرانجام", "بالاخره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "finance",
+    "pronunciation": "'fa^ynans",
+    "translates": {
+      "noun": ["مالیه", "امور مالی", "بودجه", "دارایی", "سرمایه گذاری"],
+      "transitive-verb": ["سرمایه لازم را تامین کردن برای"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "financial",
+    "pronunciation": "fa^y'nansha^l",
+    "translates": {
+      "adjective": ["مالی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "find",
+    "pronunciation": "fa^ynd",
+    "translates": {
+      "transitive-verb": [
+        "پیدا کردن",
+        "یافتن",
+        "[ مجازی ] دیدن",
+        "متوجه شدن",
+        "دریافتن",
+        "کشف کردن"
+      ],
+      "noun": ["کشف", "یافته"]
+    },
+    "subWords": {
+      "find out": ["متوجه شدن", "پیدا کردن"],
+      "find someone guilty": ["کسی را گناهکار شناختن"],
+      "find someone innocent": ["کسی را بی گناه شناختن"],
+      "find someone out": ["دست کسی را رو کردن"],
+      "find something out": [
+        "پی بردن",
+        "متوجه شدن",
+        "فهمیدن",
+        "پرسیدن",
+        "پرس و جو کردن",
+        "[ مجازی ] دیدن"
+      ]
+    }
+  },
+  {
+    "word": "finder",
+    "pronunciation": "'fa^ynder",
+    "translates": {
+      "noun": ["یابنده", "پیدا کننده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "finding",
+    "pronunciation": "'fa^ynding",
+    "translates": {
+      "noun": ["کشف", "یافت", "یافته"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fine",
+    "pronunciation": "fa^yn",
+    "translates": {
+      "adjective": [
+        "خوب",
+        "عالی",
+        "زیبا",
+        "قشنگ",
+        "[ هوا ] آفتابی",
+        "ریز",
+        "نرم",
+        "ظریف",
+        "لطیف",
+        "نازک",
+        "باریک",
+        "خالص",
+        "ناب",
+        "کافی",
+        "بس"
+      ],
+      "adverb": ["خیلی خوب", "عالی"],
+      "noun": ["جریمه"],
+      "transitive-verb": ["جریمه کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "finger",
+    "pronunciation": "'finger",
+    "translates": {
+      "noun": ["انگشت"]
+    },
+    "subWords": {
+      "have green fingers": ["در پرورش گیاهان مهارت داشتن"],
+      "keep one's fingers crossed": ["آرزوی موفقیت کردن"],
+      "lay a finger on": ["روی کسی دست بلند کردن", "کسی را اذیت کردن"],
+      "no lift a finger": ["قدمی بر نداشتن", "کمترین کمکی نکردن"]
+    }
+  },
+  {
+    "word": "fingerprint",
+    "pronunciation": "'fingerprint",
+    "translates": {
+      "noun": ["[ معمولاً به صورت جمع ] اثر انگشت", "انگشت نگاری"],
+      "transitive-verb": ["انگشت نگاری کردن"]
     },
     "subWords": {}
   }
