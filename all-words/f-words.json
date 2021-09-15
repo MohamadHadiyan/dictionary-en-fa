@@ -1983,5 +1983,423 @@
       "transitive-verb": ["انگشت نگاری کردن"]
     },
     "subWords": {}
+  },
+  {
+    "word": "finish",
+    "pronunciation": "'finish",
+    "translates": {
+      "transitive-verb": [
+        "تمام کردن",
+        "به پایان رساندن",
+        "به پایان رسیدن",
+        "خاتمه دادن"
+      ],
+      "noun": ["پایان", "خاتمه", "آخر", "قسمت پایانی", "مرحله نهایی"]
+    },
+    "subWords": {
+      "finish off": ["تمام کردن", "( چیزی را ) تا ته خوردن"],
+      "finish off with": ["( با چیزی ) تمام کردن"],
+      "finish with": ["( با چیزی یا کسی ) کاری نداشتن"]
+    }
+  },
+  {
+    "word": "fir",
+    "pronunciation": "fer",
+    "translates": {
+      "noun": ["درخت صنوبر", "چوب صنوبر", "شاه درخت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fir-cone, fir cone",
+    "pronunciation": "'fer kon",
+    "translates": {
+      "noun": ["مخروط صنوبر", "جوز صنوبر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fire",
+    "pronunciation": "'fa^yer",
+    "translates": {
+      "noun": ["آتش", "آتش سوزی", "حریق", "[ نظامی ] شلیک", "آتش", "بخاری"],
+      "transitive-verb": ["آتش زدن", "شلیک کردن", "افروختن", "اخراج کردن"]
+    },
+    "subWords": {
+      "open fire": ["شلیک کردن", "تیر اندازی کردن"],
+      "set fire to something, set something on fire": [
+        "چیزی را آتش زدن",
+        "چیزی را به آتش کشیدن"
+      ]
+    }
+  },
+  {
+    "word": "fire alarm",
+    "pronunciation": "'fa^yer ela^rm",
+    "translates": {
+      "noun": ["آژیر ( آتش سوزی )", "زنگ خطر آتش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "firearm",
+    "pronunciation": "'fa^yer.a^rm",
+    "translates": {
+      "noun": ["سلاح گرم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fire brigade",
+    "pronunciation": "'fa^yer brigeyd",
+    "translates": {
+      "noun": ["( ماموران ) آتش نشانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fire engine",
+    "pronunciation": "'fa^yer enjin",
+    "translates": {
+      "noun": ["ماشین آتش نشانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fire escape",
+    "pronunciation": "'fa^yer iskeyp",
+    "translates": {
+      "noun": ["پلکان فرار", "پلکان خروج اضطراری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fire extinguisher",
+    "pronunciation": "'fa^yer ik'stingwisher",
+    "translates": {
+      "noun": ["کپسول آتش نشانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "firefighter",
+    "pronunciation": "'fa^yer.fa^yder",
+    "translates": {
+      "noun": ["مامور آتش نشانی", "آتش نشان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fireman",
+    "pronunciation": "'fa^yerman",
+    "translates": {
+      "noun": ["مامور آتش نشانی", "آتشکار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fireplace",
+    "pronunciation": "'fa^yerpleys",
+    "translates": {
+      "noun": ["بخاری دیواری", "شومینه", "اجاق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "firework",
+    "pronunciation": "'fa^yerwerk",
+    "translates": {
+      "noun": ["وسیله آتش بازی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fireworks",
+    "pronunciation": "'fa^yerwerks",
+    "translates": {
+      "noun": ["آتش بازی", "مشاجره", "جار و جنجال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "firm",
+    "pronunciation": "ferm",
+    "translates": {
+      "adjective": ["محکم", "سخت", "سفت", "جدی", "مصمم", "استوار", "راسخ"],
+      "noun": ["شرکت", "تجارتخانه"],
+      "adverb": ["محکم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "firmly",
+    "pronunciation": "fermli",
+    "translates": {
+      "adverb": ["محکم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "first",
+    "pronunciation": "ferst",
+    "translates": {
+      "adjective": ["اولین", "نخستین", "اول", "نخست"],
+      "adverb": ["اولین بار", "قبل از هر چیز"],
+      "noun": ["مقام اول"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "first aid",
+    "pronunciation": "ferst 'eyd",
+    "translates": {
+      "noun": ["کمک های اولیه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "first class",
+    "pronunciation": "ferst 'kla^s",
+    "translates": {
+      "noun": [
+        "رتبه اول",
+        "مقام اول",
+        "[ قطار",
+        "هواپیما و غیره ] درجه یک",
+        "پست سریع"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "first-class",
+    "pronunciation": "ferst 'kla^s",
+    "translates": {
+      "adjective": ["درجه یک", "عالی", "تراز اول", "ممتاز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "firstly",
+    "pronunciation": "'ferstli",
+    "translates": {
+      "adverb": ["نخست", "اول", "در وهله اول", "اولاً"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fish",
+    "pronunciation": "fish",
+    "translates": {
+      "noun": ["ماهی", "ماهی ها"],
+      "transitive-verb": ["ماهی گرفتن", "ماهی صید کردن", "ماهی گیری کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fisherman",
+    "pronunciation": "'fisherman",
+    "translates": {
+      "noun": ["ماهی گیر", "صیاد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fishing",
+    "pronunciation": "'fishing",
+    "translates": {
+      "noun": ["ماهی گیری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fishing-rod",
+    "pronunciation": "'fishing ra^d",
+    "translates": {
+      "noun": ["چوب ماهی گیری", "قلاب ماهی گیری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fishmonger",
+    "pronunciation": "'fishma^nger",
+    "translates": {
+      "noun": ["ماهی فروش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fist",
+    "pronunciation": "fist",
+    "translates": {
+      "noun": ["مشت"],
+      "transitive-verb": ["مشت زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fit",
+    "pronunciation": "fit",
+    "translates": {
+      "adjective": [
+        "مناسب",
+        "سازگار",
+        "درخور",
+        "شایسته",
+        "قابلِ",
+        "خوب",
+        "صلاح",
+        "مصلحت",
+        "سالم",
+        "سرحال"
+      ],
+      "noun": ["[ بیماری ] حمله", "غش", "حالت تعجب", "طغیان"],
+      "transitive-verb": [
+        "اندازه ( کسی ) بودن",
+        "اندازه بودن",
+        "[ لباس ] پرو کردن",
+        "متناسب بودن",
+        "نصب کردن",
+        "کار گذاشتن"
+      ]
+    },
+    "subWords": {
+      "fits and starts": ["به طور نامنظم"],
+      "fit in": [
+        "وقت گذاشتن",
+        "وقت دادن",
+        "جور در آمدن",
+        "جا دادن",
+        "جا پیدا کردن"
+      ],
+      "fit in with": [
+        "جور بودن با",
+        "جور شدن با",
+        "تنظیم کردن با",
+        "هم آهنگ کردن با"
+      ]
+    }
+  },
+  {
+    "word": "fitting",
+    "pronunciation": "'fiting",
+    "translates": {
+      "adjective": ["شایسته", "بجا", "مناسب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "five",
+    "pronunciation": "fa^yv",
+    "translates": {
+      "adjective": ["پنج ( تا )"],
+      "noun": ["عدد پنج ( 5 )", "پنج نفر", "پنج ساله"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fiver",
+    "pronunciation": "'fa^yver",
+    "translates": {
+      "noun": ["[ پوند یا دلار ] پنجی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fix",
+    "pronunciation": "fiks",
+    "translates": {
+      "transitive-verb": [
+        "نصب کردن",
+        "محکم کردن",
+        "تعمیر کردن",
+        "تعیین کردن",
+        "تصمیم گرفتن",
+        "انتخاب کردن",
+        "مرتب کردن",
+        "سر و سامان دادن به",
+        "[ غذا ] درست کردن",
+        "تهیه کردن"
+      ],
+      "intransitive-verb": ["ثابت شدن", "ثابت ماندن"],
+      "noun": ["مخمصه", "گرفتاری", "[ عامیانه", "مواد مخدر] تزریق"]
+    },
+    "subWords": {
+      "fix someone up with something": [
+        "چیزی را برای کسی جور کردن",
+        "ترتیب چیزی را برای کسی دادن"
+      ],
+      "fix up": ["تعمیر کردن", "ترتیب ( کاری را ) دادن"],
+      "in a fix": ["دچار زحمت", "دچار دردسر"]
+    }
+  },
+  {
+    "word": "fixture",
+    "pronunciation": "'fikscher",
+    "translates": {
+      "noun": ["اثاثیه ثابت خانه", "لوازم نصب کردنی (مانند قفسه آشپزخانه)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fizz",
+    "pronunciation": "fiz",
+    "translates": {
+      "noun": ["[نوشابه] گازدار", "[عامیانه] شامپاین", "صدای فش فش"],
+      "intransitive-verb": ["[مایع گازدار] جوشیدن", "کف کردن", "گاز داشتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fizzle",
+    "pronunciation": "'fizel",
+    "translates": {
+      "transitive-verb": ["[مایع گازدار] جوشیدن", "کف کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flag",
+    "pronunciation": "flag",
+    "translates": {
+      "noun": ["پرچم", "بیرق", "عَلَم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flake",
+    "pronunciation": "fleyk",
+    "translates": {
+      "noun": ["دانه", "ذره", "تکه", "ورقه", "پوسته", "برفک", "فلس"],
+      "intransitive-verb": ["پوسته پوسته شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flame",
+    "pronunciation": "fleym",
+    "translates": {
+      "noun": ["شعله", "آتش"],
+      "intransitive-verb": ["مشتعل شدن", "شعله ور شدن"]
+    },
+    "subWords": {
+      "in flames": ["در آتش", "آتش گرفته", "درحال سوختن"]
+    }
+  },
+  {
+    "word": "flammable",
+    "pronunciation": "'flamebel",
+    "translates": {
+      "adjective": ["آتش زا", "قابل اشتعال", "اشتعال پذیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flan",
+    "pronunciation": "flan",
+    "translates": {
+      "noun": ["فَلَن (= نوعی شیرینی تر میوه ای)"]
+    },
+    "subWords": {}
   }
 ]
