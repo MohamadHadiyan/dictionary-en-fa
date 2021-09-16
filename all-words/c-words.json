@@ -4585,6 +4585,16 @@
     "subWords": {}
   },
   {
+    "word": "compile",
+    "pronunciation": "ka^m'pil",
+    "translates": {
+      "transitive-verb":["گردآوری کردن","هم گردانی کردن","تالیف کردن"]
+    },
+    "subWords": {
+      "to compile":["گردآوری کردن"]
+    }
+  },
+  {
     "word": "complain",
     "pronunciation": "ka^m'pleyn",
     "translates": {

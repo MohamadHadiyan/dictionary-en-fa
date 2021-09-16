@@ -2401,5 +2401,515 @@
       "noun": ["فَلَن (= نوعی شیرینی تر میوه ای)"]
     },
     "subWords": {}
+  },
+  {
+    "word": "flank",
+    "pronunciation": "flank",
+    "translates": {
+      "noun": ["[بدن] پهلو", "[ساختمان] ضلع", "طرف", "جناح"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flannel",
+    "pronunciation": "'flanel",
+    "translates": {
+      "noun": ["[پارچه] فلانل یا پشمی,فلانل", "لیف حوله ای"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flannels",
+    "pronunciation": "'flanelz",
+    "translates": {
+      "noun": ["شلوار فلانل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flap",
+    "pronunciation": "flap",
+    "translates": {
+      "noun": ["(صدای) تِلپ تِلپ", "ضربه", "[پاکت", "جیب و غیره]در"],
+      "intransitive-verb": [
+        "[بال] به هم زدن",
+        "بال زدن",
+        "پر زدن",
+        "پرواز کردن",
+        "بالا و پایین رفتن",
+        "دستپاچه شدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flare",
+    "pronunciation": "fler",
+    "translates": {
+      "intransitive-verb": ["شعله ور شدن"],
+      "noun": ["شعله", "زبانه آتش"]
+    },
+    "subWords": {
+      "flare up": ["شعله ور شدن", "از کوره در رفتن"]
+    }
+  },
+  {
+    "word": "flash",
+    "pronunciation": "flash",
+    "translates": {
+      "noun": ["درخشش", "تابش", "فلاش", "برق"],
+      "intransitive-verb": [
+        "درخشیدن",
+        "چشمک زدن",
+        "سوسو زدن",
+        "برق زدن",
+        "به سرعت گذشتن",
+        "مثل برق رد شدن"
+      ]
+    },
+    "subWords": {
+      "in a flash": ["مثل برق", "فوری", "به یک چشم بر هم زدن"]
+    }
+  },
+  {
+    "word": "flask",
+    "pronunciation": "fla^sk",
+    "translates": {
+      "noun": ["[آزمایشگاه] بالون", "فلاسک", "قمقمه", "[مشروب] بغلی", "بطری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flat",
+    "pronunciation": "flat",
+    "translates": {
+      "adjective": [
+        "صاف",
+        "هموار",
+        "تخت",
+        "مسطح",
+        "[ لحن ] بی اعتنا",
+        "[باتری] خالی",
+        "[ لاستیک ] پنچر",
+        "کم باد",
+        "[رنگ] مات",
+        "صریح"
+      ],
+      "noun": ["آپارتمان", "لاستیک پنچر", "زمین صاف", "[دست] کف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flatten",
+    "pronunciation": "'flaten",
+    "translates": {
+      "intransitive-verb": ["صاف شدن"],
+      "transitive-verb": ["صاف کردن", "مسطح کردن", "پهن کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flatter",
+    "pronunciation": "'flater",
+    "translates": {
+      "transitive-verb": [
+        "تملق ( کسی را ) گفتن",
+        "(پیش کسی) چاپلوسی کردن",
+        "بهتر نشان دادن"
+      ]
+    },
+    "subWords": {
+      "be flattered": ["خوشحال شدن"]
+    }
+  },
+  {
+    "word": "flattery",
+    "pronunciation": "'flateri",
+    "translates": {
+      "noun": ["چاپلوسی", "تملق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flavor",
+    "pronunciation": "'fleyver",
+    "translates": {
+      "noun": ["طعم", "مزه", "چاشنی", "حال و هوا", "رنگ و بو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flea",
+    "pronunciation": "flii",
+    "translates": {
+      "noun": ["کَک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fled",
+    "pronunciation": "fled",
+    "translates": {
+      "past-tens": ["گذشته فعل flee (فرار کرد)"],
+      "past-participle": ["اسم مفعول فعل flee"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flee",
+    "pronunciation": "flii",
+    "translates": {
+      "intransitive-verb": ["فرار کردن", "گریختن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fleet",
+    "pronunciation": "fliit",
+    "translates": {
+      "noun": ["ناوگان", "کاروان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flesh",
+    "pronunciation": "flesh",
+    "translates": {
+      "noun": ["گوشت", "بدن", "جسم", "تن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flew",
+    "pronunciation": "floo",
+    "translates": {
+      "past-tens": ["گذشته فعل fly (پرواز کرد)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flex",
+    "pronunciation": "fleks",
+    "translates": {
+      "noun": ["[وسایل برقی] سیم"],
+      "transitive-verb": [
+        "[دست",
+        "پا و غیره] خم کردن",
+        "باز و بسته کردن",
+        "ورزش کردن",
+        "[عضله] منقبض کردن"
+      ],
+      "intransitive-verb": ["انعطاف داشتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flexibility",
+    "pronunciation": "fleksi'biliti",
+    "translates": {
+      "noun": ["نرمش", "انعطاف پذیری", "تغییر پذیری", "انعطاف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flexible",
+    "pronunciation": "'fleksibel",
+    "translates": {
+      "adjective": ["انعطاف پذیر", "خم شدنی", "قابل انعطاف", "نرم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flick",
+    "pronunciation": "flik",
+    "translates": {
+      "noun": ["ضربه ملایم یا یواش", "تلنگر", "تکان"],
+      "transitive-verb": ["آهسته زدن", "با انگشت زدن", "تکان دادن"],
+      "intransitive-verb": ["تکان خوردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flicker",
+    "pronunciation": "'fliker",
+    "translates": {
+      "intransitive-verb": ["سوسو زدن", "چشمک زدن", "پت پت کردن"],
+      "noun": ["درخشش", "سوسو", "جنبش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flight",
+    "pronunciation": "fla^yt",
+    "translates": {
+      "noun": [
+        "پرواز",
+        "خطِ",
+        "سیر",
+        "مسیر پرواز",
+        "هواپیما",
+        "فرار",
+        "گریز",
+        "[فضا] مسافرت",
+        "سفر",
+        "[پرنده و غیره] پرواز گروهی",
+        "پلکان (بین دو پاگرد)"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fling",
+    "pronunciation": "fling",
+    "translates": {
+      "transitive-verb": ["پرت کردن", "انداختن", "پراندن"],
+      "intransitive-verb": ["به سرعت رفتن"],
+      "noun": ["جفتک پرانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flint",
+    "pronunciation": "flint",
+    "translates": {
+      "noun": ["سنگ چخماق", "سنگ آتش زنه", "سنگ فندک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "float",
+    "pronunciation": "flot",
+    "translates": {
+      "intransitive-verb": [
+        "شناور شدن",
+        "شناور بودن",
+        "معلق بودن",
+        "روی آب ایستادن",
+        "[شایعه]پخش شدن"
+      ],
+      "transitive-verb": [
+        "شناور کردن",
+        "معلق نگه داشتن",
+        "[در هوا یا روی آب] حرکت کردن",
+        "[ اوراق قرضه و سهام ] منتشر کردن"
+      ],
+      "noun": ["شناور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flock",
+    "pronunciation": "fla^k",
+    "translates": {
+      "noun": [
+        "[گوسفند و بُز] گله",
+        "رمه",
+        "دسته",
+        "فوج",
+        "[مذهبی] پیروان",
+        "مریدان"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flog",
+    "pronunciation": "fla^g",
+    "translates": {
+      "transitive-verb": ["شلاق زدن", "زدن", "تنبیه کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flood",
+    "pronunciation": "fla^d",
+    "translates": {
+      "intransitive-verb": [
+        "آب گرفتن",
+        "زیر آب رفتن",
+        "پر از آب کردن",
+        "در آب فرو بردن",
+        "[رودخانه و نهر] طغیان کردن",
+        "سیلابی شدن",
+        "جاری شدن",
+        "[موتور] خفه کردن"
+      ],
+      "noun": [
+        "سیل",
+        "طوفان",
+        "جریان تند آب",
+        "طغیان آب",
+        "آب گرفتگی",
+        "[مجازی] رگبار",
+        "موج",
+        "[رودخانه] در حال طغیان"
+      ]
+    },
+    "subWords": {
+      "in flood": ["[رودخانه] درحال طغیان"]
+    }
+  },
+  {
+    "word": "floodlight",
+    "pronunciation": "'fla^dla^yt",
+    "translates": {
+      "noun": ["نورافکن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "floor",
+    "pronunciation": "flor",
+    "translates": {
+      "noun": ["کف", "کف اتاق", "زمین", "[ساختمان] طبقه"],
+      "transitive-verb": [
+        "[معماری] فرش کردن",
+        "به زمین زدن",
+        "مغلوب کردن",
+        "شکست دادن",
+        "کلافه کردن"
+      ]
+    },
+    "subWords": {
+      "floor show": ["[کاباره و غیره] برنامه"]
+    }
+  },
+  {
+    "word": "flop",
+    "pronunciation": "fla^p",
+    "translates": {
+      "intransitive-verb": [
+        "تکان خوردن",
+        "افتادن",
+        "شِلِپ شِلِپ کردن",
+        "با صدای شِلِپ افتادن",
+        "شکست خوردن"
+      ],
+      "noun": ["(صدای) شِلِپ", "[فیلم", "کتاب و غیره] شکست"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "florist",
+    "pronunciation": "'florist",
+    "translates": {
+      "noun": ["گل فروش", "گل کار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flour",
+    "pronunciation": "'flaower",
+    "translates": {
+      "noun": ["آرد", "پودر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flourish",
+    "pronunciation": "'fla^rish",
+    "translates": {
+      "intransitive-verb": [
+        "شکوفا شدن",
+        "رشد کردن",
+        "رونق داشتن",
+        "رونق گرفتن",
+        "در اوج شکوفایی بودن"
+      ],
+      "transitive-verb": [
+        "( چیزی را ) در هوا تکان دادن یا نمایش دادن",
+        "زینت کاری کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flow",
+    "pronunciation": "flo",
+    "translates": {
+      "intransitive-verb": [
+        "جاری شدن",
+        "جریان داشتن",
+        "روان شدن",
+        "[ رودخانه به دریا ] ریختن",
+        "[ آب دریا ] بالا آمدن"
+      ],
+      "noun": ["جریان", "مَد", "گردش", "روند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flower",
+    "pronunciation": "'flaower",
+    "translates": {
+      "noun": ["گُل"],
+      "intransitive-verb": [
+        "گُل دادن",
+        "به گُل نشستن",
+        "شکوفه دادن",
+        "شکوفا شدن",
+        "شکفتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flown",
+    "pronunciation": "flon",
+    "translates": {
+      "past-participle": ["اسم مفعول فعل fly (پرواز کرده)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flu",
+    "pronunciation": "floo",
+    "translates": {
+      "noun": ["آنفلوآنزا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fluent",
+    "pronunciation": "'floo-ent",
+    "translates": {
+      "adjective": ["فصیح", "روان", "سلیس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fluently",
+    "pronunciation": "'floo-entli",
+    "translates": {
+      "adverb": ["با فصاحت", "روان", "به راحتی", "با سهولت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fluid",
+    "pronunciation": "'floo-id",
+    "translates": {
+      "adjective": ["سیال", "روان"],
+      "noun": ["مایع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fluke",
+    "pronunciation": "flook",
+    "translates": {
+      "noun": ["شانس", "خوش شانسی", "حسن اتفاق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flung",
+    "pronunciation": "fla^ng",
+    "translates": {
+      "past-tens": ["گذشته فعل fling (پرتاب شد)"],
+      "past-participle": ["اسم مفعول فعل fling"],
+      "adjective": ["پرت"]
+    },
+    "subWords": {}
   }
 ]
