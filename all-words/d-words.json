@@ -1431,6 +1431,15 @@
     "subWords": {}
   },
   {
+    "word": "delve",
+    "pronunciation": "delv",
+    "translates": {
+      "transitive-verb": ["سوراخ کردن", "حفر کردن", "کاوش کردن"],
+      "noun": ["گودی", "حفره"]
+    },
+    "subWords": {}
+  },
+  {
     "word": "demand",
     "pronunciation": "di'ma^nd",
     "translates": {
@@ -2948,6 +2957,14 @@
     "pronunciation": "da^y'rekshenz",
     "translates": {
       "noun": ["دستورعمل", "راهنمایی", "نشانی", "آدرس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "directive",
+    "pronunciation": "da^y'rektiv",
+    "translates": {
+      "noun": ["رهنمود", "دستورالعمل رسمی"]
     },
     "subWords": {}
   },

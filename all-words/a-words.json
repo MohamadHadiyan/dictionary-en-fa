@@ -2420,6 +2420,14 @@
     "subWords": {}
   },
   {
+    "word": "amazing",
+    "pronunciation": "e'meyzing",
+    "translates": {
+      "adjective": ["شگفت انگیز", "حیرت انگیز"]
+    },
+    "subWords": {}
+  },
+  {
     "word": "amazement",
     "pronunciation": "e'meyzment",
     "translates": {

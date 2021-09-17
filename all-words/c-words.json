@@ -4588,11 +4588,19 @@
     "word": "compile",
     "pronunciation": "ka^m'pil",
     "translates": {
-      "transitive-verb":["گردآوری کردن","هم گردانی کردن","تالیف کردن"]
+      "transitive-verb": ["گردآوری کردن", "هم گردانی کردن", "تالیف کردن"]
     },
     "subWords": {
-      "to compile":["گردآوری کردن"]
+      "to compile": ["گردآوری کردن"]
     }
+  },
+  {
+    "word": "compiler",
+    "pronunciation": "ka^m'piler",
+    "translates": {
+      "transitive-verb": ["همگردان", "مولف", "گردآورنده", "[کامپیوتر] کامپایلر"]
+    },
+    "subWords": {}
   },
   {
     "word": "complain",

@@ -2911,5 +2911,552 @@
       "adjective": ["پرت"]
     },
     "subWords": {}
+  },
+  {
+    "word": "flush",
+    "pronunciation": "fla^sh",
+    "translates": {
+      "intransitive-verb": [
+        "[صورت] سرخ شدن",
+        "خیط و پیت کردن",
+        "برافروخته کردن",
+        "[توالت] سیفون را کشیدن",
+        "با جریان آب شستن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fluster",
+    "pronunciation": "'fla^ster",
+    "translates": {
+      "transitive-verb": [
+        "دستپاچه کردن",
+        "مضطرب کردن",
+        "گیج کردن",
+        "عصبی کردن"
+      ],
+      "noun": ["دستپاچگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flute",
+    "pronunciation": "floot",
+    "translates": {
+      "noun": ["فلوت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "flutter",
+    "pronunciation": "'fla^ter",
+    "translates": {
+      "intransitive-verb": ["پر پر زدن", "بال بال زدن", "تکان خوردن", "جنبیدن"],
+      "transitive-verb": ["به هم زدن", "تکان دادن"],
+      "noun": ["جنبش", "تکان", "اهتزاز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fly",
+    "pronunciation": "fla^y",
+    "translates": {
+      "intransitive-verb": [
+        "پرواز کردن",
+        "پریدن",
+        "[ هواپیما ] به پرواز درآوردن",
+        "به هوا فرستادن",
+        "بردن",
+        "با هواپیما مسافرت کردن",
+        "به سرعت گذشتن",
+        "عجله کردن",
+        "فرار کردن ( از )"
+      ],
+      "noun": ["مگس", "پرواز", "[شلوار] زیپ", "دکمه"]
+    },
+    "subWords": {
+      "fly into a rage, fly off the deep end, fly off the handle": [
+        "از کوره در رفتن",
+        "کفری شدن",
+        "جوش آوردن"
+      ],
+      "send something flying": ["به هوا پرت کردن", "پرت و پلا کردن"]
+    }
+  },
+  {
+    "word": "flyover",
+    "pronunciation": "'fla^yover",
+    "translates": {
+      "noun": ["پُل هوایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foal",
+    "pronunciation": "fol",
+    "translates": {
+      "noun": ["کره اسب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foam",
+    "pronunciation": "fom",
+    "translates": {
+      "noun": ["کف", "ابر", "اسفنج", "فوم"],
+      "intransitive-verb": ["کف کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foam rubber",
+    "pronunciation": "fom 'ra^ber",
+    "translates": {
+      "noun": ["اسفنج", "ابر", "اسفنج لاستیکی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foci",
+    "pronunciation": "'fosa^y",
+    "translates": {
+      "noun": ["صورت جمع focus"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "focus",
+    "pronunciation": "'fokes",
+    "translates": {
+      "noun": ["کانون", "مرکز توجه", "تمرکز"],
+      "transitive-verb": [
+        "کانونی کردن",
+        "متمرکز کردن",
+        "تنظیم کردن",
+        "متوجه کردن"
+      ],
+      "intransitive-verb": ["کانونی شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foe",
+    "pronunciation": "fo",
+    "translates": {
+      "noun": ["خصم", "دشمن", "عدو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fog",
+    "pronunciation": "fa^g",
+    "translates": {
+      "noun": ["مه", "دود", "ابر", "[فیلم] نور دیدگی", "سردرگمی"],
+      "intransitive-verb": ["مه گرفتن", "بخار گرفتن", "گیج کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fogey",
+    "pronunciation": "'fogi",
+    "translates": {
+      "noun": ["آدم اُمل", "آدم قدیمی", "آدم عقب مانده و کنه پرست"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foggy",
+    "pronunciation": "'fa^gi",
+    "translates": {
+      "adjective": ["مه آلود", "تیره", "تیره و تار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fogy",
+    "pronunciation": "'fogi",
+    "translates": {
+      "noun": ["آدم اُمل", "آدم قدیمی", "آدم عقب مانده و کنه پرست"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foil",
+    "pronunciation": "foyl",
+    "translates": {
+      "noun": [
+        "ورق نازک (فلزی)",
+        "کاغذ",
+        "آلومینیم",
+        "فویل",
+        "زرورق",
+        "[شمشیر بازی] شمشیر"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fold",
+    "pronunciation": "fold",
+    "translates": {
+      "transitive-verb": ["تا کردن", "تا زدن"],
+      "intransitive-verb": ["تا شدن", "جمع شدن"],
+      "noun": ["تا", "لا", "چین", "[ لباس ] پیلی", "پیله", "تاخوردگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "folder",
+    "pronunciation": "'folder",
+    "translates": {
+      "noun": ["پوشه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foliage",
+    "pronunciation": "'foli-if",
+    "translates": {
+      "noun": ["برگ", "شاخ و برگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "folk",
+    "pronunciation": "fok",
+    "translates": {
+      "noun": ["مردم", "جماعت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "follow",
+    "pronunciation": "'fa^lo",
+    "translates": {
+      "transitive-verb": [
+        "دنبال کردن",
+        "دنبال (کسی یا چیزی) آمدن یا رفتن",
+        "پیروی کردن",
+        "در امتداد (جایی) رفتن",
+        "گوش دادن",
+        "توجه کردن"
+      ]
+    },
+    "subWords": {
+      "as follows": ["به ترتیب زیر", "به شرح زیر"]
+    }
+  },
+  {
+    "word": "follower",
+    "pronunciation": "'fa^lo-er",
+    "translates": {
+      "noun": ["پیرو", "طرفدار", "تابع", "دنباله رو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fond",
+    "pronunciation": "fa^nd",
+    "translates": {
+      "adjective": [
+        "علاقه مند",
+        "دوستدار",
+        "عاشق",
+        "شیفته",
+        "مایل",
+        "خاطرخواه",
+        "مهربان",
+        "گرم",
+        "صمیمانه",
+        "اُنس گرفته"
+      ]
+    },
+    "subWords": {
+      "be fond of": ["علاقه داشتن به", "دوست داشتن"]
+    }
+  },
+  {
+    "word": "fondle",
+    "pronunciation": "'fa^ndel",
+    "translates": {
+      "transitive-verb": ["نوازش کردن", "ناز و نیاز کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fondly",
+    "pronunciation": "'fa^ndli",
+    "translates": {
+      "adverb": ["با علاقه", "از روی علاقه", "با محبت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "food",
+    "pronunciation": "food",
+    "translates": {
+      "noun": ["غذا", "خوراکی", "خوراک", "خوردنی", "اغذیه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fool",
+    "pronunciation": "fool",
+    "translates": {
+      "noun": ["آدم احمق", "نادان", "دلقک"],
+      "transitive-verb": ["دست انداختن", "گول زدن", "فریب دادن", "خر کردن"],
+      "intransitive-verb": ["مسخره بازی درآوردن"]
+    },
+    "subWords": {
+      "make a fool of someone": [
+        "( کسی را ) دست انداختن",
+        "سر به سر (کسی) گذاشتن"
+      ],
+      "play the fool": ["مسخره بازی درآوردن", "لودگی کردن"]
+    }
+  },
+  {
+    "word": "foolish",
+    "pronunciation": "'foolish",
+    "translates": {
+      "adjective": [
+        "احمق",
+        "ابله",
+        "نادان",
+        "احمقانه",
+        "ابلهانه",
+        "مضحک",
+        "مسخره"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foolishly",
+    "pronunciation": "'foolishli",
+    "translates": {
+      "adverb": ["احمقانه", "از روی حماقت", "با کمال حماقت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foolproof",
+    "pronunciation": "'foolproof",
+    "translates": {
+      "adjective": [
+        "خطا ناپذیر",
+        "محفوظ از خطا و شکست",
+        "مطمئن",
+        "ساده",
+        "بی عیب و نقص"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foot",
+    "pronunciation": "fut",
+    "translates": {
+      "noun": ["پا", "فوت (= برابر با 30/48 سانتی متر)", "قدم", "پایین"]
+    },
+    "subWords": {
+      "go on foot": ["پیاده رفتن"]
+    }
+  },
+  {
+    "word": "football",
+    "pronunciation": "'fut.bol",
+    "translates": {
+      "noun": ["فوتبال", "توپ فوتبال"]
+    },
+    "subWords": {
+      "football ground": ["زمین فوتبال"]
+    }
+  },
+  {
+    "word": "footballer",
+    "pronunciation": "'futboler",
+    "translates": {
+      "noun": ["فوتبالیست", "بازیکن فوتبال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "footpath",
+    "pronunciation": "'futpa^th",
+    "translates": {
+      "noun": ["کوره راه", "مسیر پیاده روی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "footprint",
+    "pronunciation": "'futprint",
+    "translates": {
+      "noun": ["جای پا", "رد پا", "اثر پا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "footstep",
+    "pronunciation": "'futstep",
+    "translates": {
+      "noun": ["قدم", "گام", "گام برداری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "footsteps",
+    "pronunciation": "'futsteps",
+    "translates": {
+      "noun": ["صدای پا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "for",
+    "pronunciation": "for",
+    "translates": {
+      "preposition": [
+        "برای",
+        "به منظورِ",
+        "به خاطرِ",
+        "برای اینکهِ",
+        "مالِ",
+        "متعلق به",
+        "مربوط به",
+        "به قصدِ",
+        "عازمِ",
+        "به جهتِ",
+        "به طرفِ",
+        "به جایِ",
+        "در مقابل",
+        "در برابر",
+        "به قیمتِ",
+        "طرفدارِ",
+        "موافقِ",
+        "به مدتِ"
+      ],
+      "conjunction": ["چون", "زیرا", "چون که"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forbade",
+    "pronunciation": "for'bad",
+    "translates": {
+      "past-tens": ["گذشته فعل forbid (منع کرد)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forbid",
+    "pronunciation": "for'bid",
+    "translates": {
+      "transitive-verb": [
+        "قدغن کردن",
+        "ممنوع کردن",
+        "منع کردن",
+        "اجازه ندادن",
+        "نگذاشتن",
+        "مانع شدن",
+        "راه ندادن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forbidden",
+    "pronunciation": "for'biden",
+    "translates": {
+      "past-participle": ["اسم مفعول فعل forbid (منع شده)"],
+      "adjective": ["ممنوع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forbidding",
+    "pronunciation": "for'biding",
+    "translates": {
+      "adjective": ["اخمو", "عبوس"],
+      "noun": ["منع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "force",
+    "pronunciation": "fors",
+    "translates": {
+      "noun": [
+        "زور",
+        "نیرو",
+        "قدرت",
+        "تحمیل",
+        "[نظامی] نیرو",
+        "نیرو ها",
+        "قوا"
+      ],
+      "transitive-verb": [
+        "مجبور کردن",
+        "به زور ( کاری را ) کردن یا انجام دادن",
+        "فشار آوردن به",
+        "تحمیل کردن"
+      ]
+    },
+    "subWords": {
+      "by force": ["به زور"]
+    }
+  },
+  {
+    "word": "forces",
+    "pronunciation": "'forsiz",
+    "translates": {
+      "noun": ["نیرو های مسلح"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ford",
+    "pronunciation": "ford",
+    "translates": {
+      "noun": ["گُدار", "پایاب"],
+      "intransitive-verb": ["به آب زدن", "به گُدار زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fore",
+    "pronunciation": "for",
+    "translates": {
+      "adjective": ["جلو", "جلوی", "پیشِ"],
+      "adverb": ["پیشِ", "در جلو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forecast",
+    "pronunciation": "'forka^st",
+    "translates": {
+      "transitive-verb": ["پیش بینی کردن"],
+      "noun": ["پیش بینی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forefather",
+    "pronunciation": "'forfa^dher",
+    "translates": {
+      "noun": ["جد", "نیا", "سلف", "پدربزرگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forefather",
+    "pronunciation": "'forfa^dherz",
+    "translates": {
+      "noun": ["اجداد", "آبا و اجداد", "نیاکان", "پدران"]
+    },
+    "subWords": {}
   }
 ]
