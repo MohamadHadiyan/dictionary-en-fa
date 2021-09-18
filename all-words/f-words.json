@@ -3087,8 +3087,7 @@
     "translates": {
       "noun": [
         "ورق نازک (فلزی)",
-        "کاغذ",
-        "آلومینیم",
+        "کاغذآلومینیم",
         "فویل",
         "زرورق",
         "[شمشیر بازی] شمشیر"
@@ -3458,5 +3457,522 @@
       "noun": ["اجداد", "آبا و اجداد", "نیاکان", "پدران"]
     },
     "subWords": {}
+  },
+  {
+    "word": "foreground",
+    "pronunciation": "'forgraond",
+    "translates": {
+      "noun": ["پیش زمینه", "پیش نما", "جلو", "صف مقدم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forehead",
+    "pronunciation": "'forid",
+    "translates": {
+      "noun": ["پیشانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foreign",
+    "pronunciation": "'fa^rin",
+    "translates": {
+      "adjective": ["خارجی", "خارجه", "خارج", "بیگانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foreigner",
+    "pronunciation": "'fa^riner",
+    "translates": {
+      "noun": ["خارجی", "بیگانه", "غریب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foreman",
+    "pronunciation": "'forman",
+    "translates": {
+      "noun": ["سرکارگر", "مباشر", "مدیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foresaw",
+    "pronunciation": "for'so",
+    "translates": {
+      "past-tens": ["گذشته فعل foresee (پیش بینی کرد)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foresee",
+    "pronunciation": "for'sii",
+    "translates": {
+      "transitive-verb": ["پیش بینی کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foreseen",
+    "pronunciation": "for'siin",
+    "translates": {
+      "past-participle": ["اسم مفعول فعل foresee (پیش بینی شده)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foresight",
+    "pronunciation": "'forsa^yt",
+    "translates": {
+      "noun": ["آینده نگری", "دور اندیشی", "مال اندیشی", "پیش بینی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forest",
+    "pronunciation": "'fa^rist",
+    "translates": {
+      "noun": ["جنگل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foretell",
+    "pronunciation": "for'tel",
+    "translates": {
+      "transitive-verb": ["پیش گویی کردن", "پیش بینی کردن", "از پیش آگاهی دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forethought",
+    "pronunciation": "'forthot",
+    "translates": {
+      "noun": ["آینده نگری", "دور اندیشی", "احتیاط"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foretold",
+    "pronunciation": "for'told",
+    "translates": {
+      "past-tens": ["گذشته فعل foretell (پیش گویی کرد)"],
+      "past-participle": ["اسم مفعول فعل foretell"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forfeit",
+    "pronunciation": "'forfit",
+    "translates": {
+      "noun": ["جریمه", "تاوان", "بها", "قیمت"],
+      "transitive-verb": ["محروم شدن از", "جریمه دادن", "هدر دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forgave",
+    "pronunciation": "for'geyv",
+    "translates": {
+      "past-tens": ["گذشته فعل forgive (بخشید)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forge",
+    "pronunciation": "forj",
+    "translates": {
+      "transitive-verb": ["[ ابزار فلزی ] ساختن", "جعل کردن"],
+      "noun": ["کوره آهنگری", "جعل"],
+      "intransitive-verb": [
+        "پیش رفتن",
+        "به پیش گام برداشتن",
+        "جلو زدن",
+        "جلو افتادن",
+        "سبقت گرفتن",
+        "پیشی گرفتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forger",
+    "pronunciation": "'forjer",
+    "translates": {
+      "noun": ["جعل کننده", "جاعل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forgery",
+    "pronunciation": "'forjeri",
+    "translates": {
+      "noun": ["جعل", "جعل اسناد", "چیز جعلی", "سند جعلی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forget",
+    "pronunciation": "for'get",
+    "translates": {
+      "transitive-verb": [
+        "فراموش کردن",
+        "از یاد بردن",
+        "فکر ( چیزی را ) از سر خود بیرون کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forgetful",
+    "pronunciation": "for'getful",
+    "translates": {
+      "adjective": ["فراموشکار", "کم حافظه", "غافل از"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forgive",
+    "pronunciation": "for'giv",
+    "translates": {
+      "transitive-verb": ["بخشیدن", "عفو کردن", "گذشت کردن", "آمرزیدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forgiven",
+    "pronunciation": "for'given",
+    "translates": {
+      "past-participle": ["اسم مفعول فعل forgive (بخشیده شده)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forgiveness",
+    "pronunciation": "for'givnis",
+    "translates": {
+      "noun": ["بخشش", "بخشایش", "عفو", "گذشت", "آمرزش", "مغفرت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forgot",
+    "pronunciation": "for'ga^t",
+    "translates": {
+      "past-tens": ["گذشته فعل forget (فراموش کرد)"]
+    },
+    "subWords": {
+      "forgot your password?": ["رمز عبور خود را فراموش کرده اید؟"]
+    }
+  },
+  {
+    "word": "forgotten",
+    "pronunciation": "for'ga^ten",
+    "translates": {
+      "past-participle": ["اسم مفعول فعل forget (فراموش شده)"],
+      "adjective": ["فراموش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fork",
+    "pronunciation": "fork",
+    "translates": {
+      "noun": ["چنگال", "[کشاورزی] چنگک", "دوراهی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forlorn",
+    "pronunciation": "for'lorn",
+    "translates": {
+      "adjective": [
+        "یکه و تنها",
+        "تنها",
+        "بی کس",
+        "حزن انگیز",
+        "اندوه بار",
+        "اندوهگین",
+        "درمانده"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "form",
+    "pronunciation": "form",
+    "translates": {
+      "noun": [
+        "شکل",
+        "صورت",
+        "فرم",
+        "اندام",
+        "هیکل",
+        "هیئت",
+        "نما",
+        "نوع",
+        "پرسش نامه",
+        "نیمکت"
+      ],
+      "intransitive-verb": ["شکل گرفتن"],
+      "transitive-verb": [
+        "ساختن",
+        "به وجود آوردن",
+        "فرم دادن",
+        "تشکیل دادن",
+        "تاسیس کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "formal",
+    "pronunciation": "'forma^l",
+    "translates": {
+      "adjective": ["رسمی", "ظاهری", "تشریفاتی", "خشک", "صوری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "formation",
+    "pronunciation": "for'meyshen",
+    "translates": {
+      "noun": ["شکل گیری", "تشکیل", "شکل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "former",
+    "pronunciation": "'former",
+    "translates": {
+      "adjective": ["سابق", "پیشین", "قدیم", "گذشته", "قبلی", "قدیمی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "formerly",
+    "pronunciation": "'formerli",
+    "translates": {
+      "adverb": ["قبلاً", "سابقاً", "درگذشته", "سابق", "پیشتر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "formula",
+    "pronunciation": "'formyula^",
+    "translates": {
+      "noun": ["فرمول", "قاعده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "formulae",
+    "pronunciation": "'formyulii",
+    "translates": {
+      "noun": ["صورت جمع formula ( فرمول ها )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fort",
+    "pronunciation": "fort",
+    "translates": {
+      "noun": ["قلعه (نظامی)", "دژ", "برج و بارو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forth",
+    "pronunciation": "forth",
+    "translates": {
+      "adverb": ["جلو", "پیش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "forthcoming",
+    "pronunciation": "forth'ka^ming",
+    "translates": {
+      "adjective": [
+        "[کتاب و غیره] در دست انتشار",
+        "زیر چاپ",
+        "آینده",
+        "آتی",
+        "نزدیک",
+        "موجود"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fortieth",
+    "pronunciation": "'fortiyeth",
+    "translates": {
+      "noun": ["یک چهلم", "چهلمی"],
+      "adjective": ["چهلم", "چهلمین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fortification",
+    "pronunciation": "fortifi'keyshen",
+    "translates": {
+      "noun": [
+        "[نظامی] ایجاد استحکامات",
+        "استحکام",
+        "تقویت",
+        "بارو",
+        "سنگر بندی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fortify",
+    "pronunciation": "'fortifa^y",
+    "translates": {
+      "transitive-verb": [
+        "[نظامی] استحکامات ساختن برای",
+        "دارای استحکامات کردن",
+        "مستحکم کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fortnight",
+    "pronunciation": "'fortna^yt",
+    "translates": {
+      "noun": ["دو هفته", "هر دو هفته یک بار", "چهارده روز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fortress",
+    "pronunciation": "'fortris",
+    "translates": {
+      "noun": ["[نظامی] دژ", "قلعه", "برج و بارو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fortunate",
+    "pronunciation": "'forchunit",
+    "translates": {
+      "adjective": ["خوش شانس", "خوشبخت", "خوش اقبال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fortunately",
+    "pronunciation": "'forchunitli",
+    "translates": {
+      "adverb": ["خوشبختانه", "از حسن اتفاق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fortune",
+    "pronunciation": "'forchoon",
+    "translates": {
+      "noun": [
+        "بخت",
+        "اقبال",
+        "شانس",
+        "تقدیر",
+        "قسمت",
+        "طالع",
+        "فال",
+        "موفقیت",
+        "اتفاق",
+        "پیشامد",
+        "دارایی",
+        "ثروت",
+        "مبلغ کلان"
+      ]
+    },
+    "subWords": {
+      "tell someone's fortune": ["فال کسی را گرفتن"]
+    }
+  },
+  {
+    "word": "forty",
+    "pronunciation": "'forti",
+    "translates": {
+      "adjective": ["چهل ( تا )"],
+      "noun": ["عدد چهل (40)", "شماره چهل"]
+    },
+    "subWords": {
+      "forty first": ["چهل و یکم"],
+      "forty one": ["چهل و یک"]
+    }
+  },
+  {
+    "word": "forward",
+    "pronunciation": "'forword",
+    "translates": {
+      "adverb": ["جلو", "رو به جلو", "به پیش", "به آینده"],
+      "adjective": ["جلویی", "جلوی", "پیشین", "رو به جلو"],
+      "transitive-verb": [
+        "پیش بردن",
+        "ارسال داشتن",
+        "[نامه و غیره] به آدرس جدید فرستادن"
+      ],
+      "noun": ["[فوتبال و غیره] مهاجم", "بازیکن خط حمله"]
+    },
+    "subWords": {
+      "backwards and forwards": ["از این طرف به آن طرف"]
+    }
+  },
+  {
+    "word": "fossil",
+    "pronunciation": "'fa^sil",
+    "translates": {
+      "noun": ["فسیل", "سنگواره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fought",
+    "pronunciation": "fot",
+    "translates": {
+      "past-tens": ["گذشته فعل fight (جنگید)"],
+      "past-participle": ["اسم مفعول فعل fight"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foul",
+    "pronunciation": "faol",
+    "translates": {
+      "adjective": [
+        "بد",
+        "بدبو",
+        "متعفن",
+        "گندیده",
+        "کثیف",
+        "ناپاک",
+        "نامطبوع",
+        "[ هوا ] نامساعد",
+        "قبیح",
+        "شنیع",
+        "پست",
+        "پلید"
+      ],
+      "noun": ["[ورزش] خطا"],
+      "transitive-verb": [
+        "کثیف کردن",
+        "آلوده کردن",
+        "خراب کردن",
+        "گند زدن",
+        "لکه دار کردن",
+        "[ورزش] خطا کردن روی"
+      ]
+    },
+    "subWords": {
+      "foul play": ["[ورزش] خطا", "تخلف"]
+    }
   }
 ]
