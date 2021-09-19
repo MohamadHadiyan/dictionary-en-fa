@@ -3974,5 +3974,516 @@
     "subWords": {
       "foul play": ["[ورزش] خطا", "تخلف"]
     }
+  },
+  {
+    "word": "found",
+    "pronunciation": "faond",
+    "translates": {
+      "transitive-verb": ["بنیاد نهادن", "تاسیس کردن", "ساختن", "بنا نهادن"],
+      "past-tens": ["گذشته فعل find (پیدا شد)"],
+      "past-participle": ["اسم مفعول فعل find"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "foundation",
+    "pronunciation": "faon'deyshen",
+    "translates": {
+      "noun": [
+        "بنیاد",
+        "تاسیس",
+        "ایجاد",
+        "موسسه",
+        "[معماری",
+        "معمولا به صورت جمع] پی",
+        "شالوده",
+        "پایه",
+        "اساس"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "founder",
+    "pronunciation": "'faonder",
+    "translates": {
+      "noun": ["موسس", "بنیان گذار", "بنیادگذار", "بانی", "پایه گذار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fountain",
+    "pronunciation": "'faontin",
+    "translates": {
+      "noun": ["فواره", "آبنما", "چشمه", "منبع", "منشا", "خواستگاه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fountain-pen",
+    "pronunciation": "'faontin pen",
+    "translates": {
+      "noun": ["(قلم) خودنویس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "four",
+    "pronunciation": "for",
+    "translates": {
+      "adjective": ["چهار ( تا )"],
+      "noun": ["عدد چهار ( 4 )", "شماره چهار"]
+    },
+    "subWords": {
+      "on all four": ["چهار دست و پا"]
+    }
+  },
+  {
+    "word": "fourteen",
+    "pronunciation": "for'tin",
+    "translates": {
+      "adjective": ["چهارده ( تا )"],
+      "noun": ["عدد چهارده ( 14 )", "شماره چهارده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fourteenth",
+    "pronunciation": "for'tiinth",
+    "translates": {
+      "noun": ["یک چهاردهم", "چهاردهمی"],
+      "adjective": ["چهاردهمین", "چهاردهم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fourth",
+    "pronunciation": "forth",
+    "translates": {
+      "noun": ["یک چهارم", "شماره چهار"],
+      "adjective": ["چهارمین", "چهارم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fowl",
+    "pronunciation": "faol",
+    "translates": {
+      "noun": ["پرنده", "مرغ", "طیور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fox",
+    "pronunciation": "fa^ks",
+    "translates": {
+      "noun": ["روباه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fraction",
+    "pronunciation": "'frakshen",
+    "translates": {
+      "noun": ["بخش", "قسمت", "جز", "[ریاضیات] کسر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fracture",
+    "pronunciation": "'frakcher",
+    "translates": {
+      "noun": ["[ استخوان ] شکستگی", "تَرَک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fragile",
+    "pronunciation": "'fraja^yl",
+    "translates": {
+      "adjective": ["شکستنی", "تُرد", "شکننده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fragment",
+    "pronunciation": "'fragment",
+    "translates": {
+      "noun": ["تکه", "جز", "قطعه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frail",
+    "pronunciation": "freyl",
+    "translates": {
+      "adjective": ["ضعیف", "نحیف", "سست", "ظریف", "شکستنی", "شکننده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frame",
+    "pronunciation": "freym",
+    "translates": {
+      "noun": ["قاب", "چارچوب", "بدنه", "تنه", "اسکلت", "قالب"],
+      "transitive-verb": [
+        "قاب کردن",
+        "قاب گرفتن",
+        "ساختن",
+        "تدوین کردن",
+        "تنظیم کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "franc",
+    "pronunciation": "frank",
+    "translates": {
+      "noun": [
+        "فرانک (= واحد پول فرانسه",
+        "سوئیس",
+        "بلژیک و بعضی کشور های دیگر )"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "France",
+    "pronunciation": "fra^ns",
+    "translates": {
+      "noun": ["فرانسه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frank",
+    "pronunciation": "frank",
+    "translates": {
+      "adjective": ["صریح", "روشن", "بی پرده", "صاف و پوست کنده", "رک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frankly",
+    "pronunciation": "'frankli",
+    "translates": {
+      "adverb": ["صاف و پوست کنده", "رک و راست", "صادقانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frankness",
+    "pronunciation": "'franknis",
+    "translates": {
+      "noun": ["صراحت", "وضوح", "صداقت", "رک گویی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frantic",
+    "pronunciation": "'frantik",
+    "translates": {
+      "adjective": [
+        "سراسیمه",
+        "هراسان",
+        "دیوانه وار",
+        "بی اختیار",
+        "عجولانه",
+        "پرحرارت",
+        "پر تب و تاب",
+        "ازکوره در رفته"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frantically",
+    "pronunciation": "'frantikli",
+    "translates": {
+      "adverb": ["دیوانه وار", "شتاب زده", "سراسیمه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fraud",
+    "pronunciation": "frod",
+    "translates": {
+      "noun": ["کلاه برداری", "فریب کاری", "اغفال", "کلاه بردار", "تقلب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frayed",
+    "pronunciation": "freyd",
+    "translates": {
+      "adjective": ["نخ نما", "کهنه", "فرسوده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "freak",
+    "pronunciation": "friik",
+    "translates": {
+      "noun": [
+        "آدم غیر عادی",
+        "طرفدار",
+        "کشته و مرده",
+        "دمدمی مزاجی",
+        "هوس",
+        "موجود عجیب الخلقه",
+        "هیولا"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "freckles",
+    "pronunciation": "'frekelz",
+    "translates": {
+      "noun": ["کک مَک", "خال", "لک صورت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "free",
+    "pronunciation": "frii",
+    "translates": {
+      "adjective": [
+        "آزاد",
+        "آزادانه",
+        "رها",
+        "خلاص",
+        "مجانی",
+        "رایگان",
+        "خالی"
+      ],
+      "transitive-verb": ["آزاد کردن", "نجات دادن", "اجازه دادن"]
+    },
+    "subWords": {
+      "be free to": ["اجازه داشتن که", "آزاد بودن"],
+      "free from": ["بدونِ", "عاری از", "خالی از"],
+      "free time": ["وقت آزاد"],
+      "free with": ["دست و دلباز"],
+      "set free": ["آزاد کردن", "رها کردن"]
+    }
+  },
+  {
+    "word": "freedom",
+    "pronunciation": "'friidem",
+    "translates": {
+      "noun": ["آزادی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "freely",
+    "pronunciation": "'friili",
+    "translates": {
+      "adverb": [
+        "آزادانه",
+        "بدون مانع",
+        "به راحتی",
+        "با رضا و رغبت",
+        "سخاوتمندانه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "freewheel",
+    "pronunciation": "frii'wiil",
+    "translates": {
+      "intransitive-verb": ["[ اتومبیل ] دنده خلاص رفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "freeze",
+    "pronunciation": "friiz",
+    "translates": {
+      "intransitive-verb": [
+        "یخ بستن",
+        "منجمد شدن",
+        "یخ زدن",
+        "منجمد کردن",
+        "باعث یخ بستن (چیزی) شدن",
+        "بسیار سرد بودن",
+        "[ از تعجب",
+        "ترس و غیره ] میخکوب شدن",
+        "خشک شدن"
+      ]
+    },
+    "subWords": {
+      "freeze to death": ["از سرما یخ زدن", "از سرما مردن"]
+    }
+  },
+  {
+    "word": "freezer",
+    "pronunciation": "'friizer",
+    "translates": {
+      "noun": ["فریزر", "[یخچال] جایخی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "freight",
+    "pronunciation": "freyt",
+    "translates": {
+      "noun": ["حمل", "باربری", "بار", "محموله", "کرایه (بار)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "French",
+    "pronunciation": "french",
+    "translates": {
+      "adjective": ["فرانسوی", "[مربوط به] فرانسه"],
+      "noun": ["زبان فرانسه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Frenchman",
+    "pronunciation": "'frenchman",
+    "translates": {
+      "noun": ["فرانسوی", "مرد فرانسوی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Frenchwoman",
+    "pronunciation": "'frenchwuman",
+    "translates": {
+      "noun": ["فرانسوی", "زن فرانسوی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frenzy",
+    "pronunciation": "'frenzi",
+    "translates": {
+      "noun": ["حالت جنون", "حالت دیوانگی", "رفتار دیوانه وار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frequency",
+    "pronunciation": "'friikwensi",
+    "translates": {
+      "noun": ["تعدد", "تکرار", "[ آمار ] فراوانی", "فرکانس", "بسامد", "تناوب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frequent",
+    "pronunciation": "'friikwent",
+    "translates": {
+      "adjective": ["فراوان", "زیاد", "متعدد", "مکرر", "به کرات", "به دفعات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frequently",
+    "pronunciation": "'friikwentli",
+    "translates": {
+      "adverb": [
+        "مکررا",
+        "زیاد",
+        "فراوان",
+        "اغلب",
+        "غالبا",
+        "مکرر",
+        "به کرات",
+        "به دفعات"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fresh",
+    "pronunciation": "fresh",
+    "translates": {
+      "adjective": [
+        "تازه",
+        "جدید",
+        "نو",
+        "تروتازه",
+        "شیرین",
+        "تمیز",
+        "پاک",
+        "خنک",
+        "سرد",
+        "[باد] تند",
+        "شدید",
+        "شاداب",
+        "سرحال",
+        "سرزنده",
+        "باطراوت",
+        "[عامیانه] پررو",
+        "بی حیا"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "freshly",
+    "pronunciation": "'freshli",
+    "translates": {
+      "adverb": ["تازه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "freshness",
+    "pronunciation": "'freshnis",
+    "translates": {
+      "noun": ["تازگی", "شادابی", "سرزندگی", "طراوت", "خنکی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fret",
+    "pronunciation": "fret",
+    "translates": {
+      "intransitive-verb": ["ناراحت بودن", "بد خلق کردن"],
+      "transitive-verb": ["ناراحت کردن"],
+      "noun": ["اخم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Fri",
+    "pronunciation": "'fra^ydi",
+    "translates": {
+      "noun": ["جمعه", "آدینه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Friday",
+    "pronunciation": "'fra^ydi",
+    "translates": {
+      "noun": ["جمعه", "آدینه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fridge",
+    "pronunciation": "frij",
+    "translates": {
+      "noun": ["یخچال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fried",
+    "pronunciation": "fra^yd",
+    "translates": {
+      "adjective": ["[ غذا ] سرخ کرده"],
+      "past-tens": ["گذشته فعل fry (سرخ کردن)"],
+      "past-participle": ["اسم مفعول فعل fry"]
+    },
+    "subWords": {}
   }
 ]
