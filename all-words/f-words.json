@@ -4485,5 +4485,553 @@
       "past-participle": ["اسم مفعول فعل fry"]
     },
     "subWords": {}
+  },
+  {
+    "word": "friend",
+    "pronunciation": "frend",
+    "translates": {
+      "noun": ["دوست", "رفیق"]
+    },
+    "subWords": {
+      "make friends with": ["با (کسی) دوست شدن", "طرح دوستی ریختن با"]
+    }
+  },
+  {
+    "word": "friendly",
+    "pronunciation": "'frendli",
+    "translates": {
+      "adjective": ["مهربان", "صمیمی", "دوستانه", "صمیمانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "friendship",
+    "pronunciation": "'frendship",
+    "translates": {
+      "noun": ["دوستی", "رفاقت", "رابطه دوستانه", "رابطه دوستی", "مودت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fright",
+    "pronunciation": "fra^yt",
+    "translates": {
+      "noun": ["ترس", "وحشت", "هراس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frighten",
+    "pronunciation": "'fra^yten",
+    "translates": {
+      "transitive-verb": ["ترساندن", "به وحشت انداختن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frightful",
+    "pronunciation": "'fra^ytful",
+    "translates": {
+      "adjective": ["وحشتناک", "ترسناک", "فجیع", "بد", "افتضاح"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fringe",
+    "pronunciation": "frinj",
+    "translates": {
+      "noun": ["شرابه", "ریشه", "حاشیه", "لبه", "[زلف] چتری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fritter",
+    "pronunciation": "'friter",
+    "translates": {
+      "transitive-verb": ["تلف کردن", "تباه کردن", "ضایع کردن", "هدر دادن"],
+      "noun": ["خاگینه گوشت دار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fro",
+    "pronunciation": "fro",
+    "translates": {
+      "adverb": ["از آن طرف"]
+    },
+    "subWords": {
+      "to and fro": ["رفت و برگشت", "پس و پیش", "به این طرف و آن طرف"]
+    }
+  },
+  {
+    "word": "frock",
+    "pronunciation": "fra^k",
+    "translates": {
+      "noun": ["پیراهن (زنانه)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frog",
+    "pronunciation": "fra^g",
+    "translates": {
+      "noun": ["قورباغه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frogman",
+    "pronunciation": "'fra^gman",
+    "translates": {
+      "noun": ["غواص"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "from",
+    "pronunciation": "fra^m",
+    "translates": {
+      "preposition": [
+        "از",
+        "از روی",
+        "از طرفِ",
+        "از جانبِ",
+        "از سوی",
+        "از پیشِ",
+        "از هنگامِ",
+        "از زمانِ",
+        "از بدوِ",
+        "بینِ",
+        "در فاصله"
+      ]
+    },
+    "subWords": {
+      "be from": ["اهل (جایی) بودن"]
+    }
+  },
+  {
+    "word": "front",
+    "pronunciation": "fra^nt",
+    "translates": {
+      "noun": ["جلو", "قسمت جلو", "جبهه", "قیافه", "ظاهر", "نما"],
+      "adjective": ["جلو", "جلویی"],
+      "transitive-verb": ["مشرف بودن به", "نما دادن به", "رو کردن به"]
+    },
+    "subWords": {
+      "in front of": ["(در) جلویِ", "مقابلِ"]
+    }
+  },
+  {
+    "word": "frontier",
+    "pronunciation": "'fra^ntiyer",
+    "translates": {
+      "noun": ["مرز", "سرحد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frost",
+    "pronunciation": "fra^st",
+    "translates": {
+      "noun": ["یخ بندان", "شبنم منجمد", "سرما ریزه"],
+      "transitive-verb": ["یخ زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frosty",
+    "pronunciation": "'fra^sti",
+    "translates": {
+      "adjective": ["[حقیقی و مجازی ] بسیار سرد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "froth",
+    "pronunciation": "fra^th",
+    "translates": {
+      "noun": ["کف"],
+      "intransitive-verb": ["کف کردن", "عصبانی شدن"],
+      "transitive-verb": ["کف دار کردن", "کف (چیزی) را در آوردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frown",
+    "pronunciation": "fraon",
+    "translates": {
+      "intransitive-verb": ["اخم کردن", "چهره ( خود را ) در هم کشیدن"],
+      "noun": ["اخم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "froze",
+    "pronunciation": "froz",
+    "translates": {
+      "past-tens": ["گذشته فعل freeze ( یخ زد )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frozen",
+    "pronunciation": "'frozen",
+    "translates": {
+      "past-participle": ["اسم مفعول فعل freeze ( یخ زده )"],
+      "adjective": ["یخ زده", "سرما زده", "منجمد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fruit",
+    "pronunciation": "froot",
+    "translates": {
+      "noun": ["میوه", "میوه ها"]
+    },
+    "subWords": {
+      "fruit-juice": ["آب میوه"]
+    }
+  },
+  {
+    "word": "fry",
+    "pronunciation": "fra^y",
+    "translates": {
+      "transitive-verb": ["[گوشت", "ماهی و غیره] سرخ کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "frying pan",
+    "pronunciation": "'fra^ying pan",
+    "translates": {
+      "noun": ["ماهی تابه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fuel",
+    "pronunciation": "'fyoo-el",
+    "translates": {
+      "noun": ["سوخت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fugitive",
+    "pronunciation": "'fyoojitiv",
+    "translates": {
+      "noun": ["فراری", "پناهنده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fulfill",
+    "pronunciation": "ful'fil",
+    "translates": {
+      "transitive-verb": [
+        "انجام دادن",
+        "عمل کردن",
+        "اجرا کردن",
+        "[ آرزو",
+        "نیاز و غیره ] تحقق بخشیدن",
+        "برآورده کردن",
+        "برآوردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fulfillment",
+    "pronunciation": "ful'filment",
+    "translates": {
+      "noun": ["انجام", "اجرا", "عمل", "تحقق", "تکمیل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "full",
+    "pronunciation": "ful",
+    "translates": {
+      "adjective": [
+        "پر",
+        "مملو",
+        "لبریز",
+        "سرشار ( از )",
+        "شلوغ",
+        "چاق",
+        "کامل",
+        "تمام",
+        "درست",
+        "پُر بار"
+      ]
+    },
+    "subWords": {
+      "be full": ["پر بودن", "جا نداشتن", "سیر سیر بودن"],
+      "in full": ["بی کم و کاست", "تمام و کمال", "به طور کامل"]
+    }
+  },
+  {
+    "word": "full stop",
+    "pronunciation": "ful 'sta^p",
+    "translates": {
+      "noun": ["[نقطه گذاری] نقطه", "توقف کامل", "بن بست"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fully",
+    "pronunciation": "'fuli",
+    "translates": {
+      "adverb": ["کاملاً", "تمام", "به طور کامل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fumble",
+    "pronunciation": "'fa^mbel",
+    "translates": {
+      "intransitive-verb": ["با دستپاچگی گشتن", "زیر و رو کردن"],
+      "noun": ["اشتباه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fun",
+    "pronunciation": "fa^n",
+    "translates": {
+      "noun": ["تفریح", "سرگرمی", "بازی", "شوخی", "خوشمزگی"]
+    },
+    "subWords": {
+      "for fun": ["به شوخی"],
+      "in fun": ["به شوخی"],
+      "make fun of": ["مسخره کردن", "دست انداختن"]
+    }
+  },
+  {
+    "word": "function",
+    "pronunciation": "'fa^nkshen",
+    "translates": {
+      "noun": ["کار", "وظیفه", "نقش", "تابع", "عملکرد", "کارکرد", "هدف"],
+      "intransitive-verb": [
+        "کار کردن",
+        "عمل کردن",
+        "(به جای چیزی) به کار رفتن",
+        "وظیفه داشتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fund",
+    "pronunciation": "fa^nd",
+    "translates": {
+      "noun": ["بودجه", "[مالی] صندوق", "سرمایه", "وجوه"],
+      "transitive-verb": ["بودجه یا هزینه ( چیزی را ) تامین کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fundamental",
+    "pronunciation": "fa^nde'menta^l",
+    "translates": {
+      "adjective": ["بنیادی", "اساسی", "عمده", "مهم", "اصلی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "funeral",
+    "pronunciation": "'fyoonera^l",
+    "translates": {
+      "noun": ["(مراسم) تدفین", "کفن و دفن", "خاکسپاری", "تشییع جنازه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "funk",
+    "pronunciation": "fa^nk",
+    "translates": {
+      "noun": ["ترس", "وحشت", "آدم ترسو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "funnel",
+    "pronunciation": "'fa^nel",
+    "translates": {
+      "noun": ["قیف", "[قطار و کشتی] دودکش", "بادگیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "funny",
+    "pronunciation": "'fa^ni",
+    "translates": {
+      "adjective": ["خنده دار", "بامزه", "شوخ", "عجیب", "عجیب و غریب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fur",
+    "pronunciation": "fer",
+    "translates": {
+      "noun": ["[حیوان] مو", "پوست", "خز", "کت یا پالتوی پوست", "جامه خزدار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "furious",
+    "pronunciation": "'fyuriyes",
+    "translates": {
+      "adjective": ["خشمگین", "عصبانی", "خشمناک", "سخت", "شدید", "تند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "furiously",
+    "pronunciation": "'fyuriyesli",
+    "translates": {
+      "adverb": ["با عصبانیت", "به شدت", "شدیداً", "خشمگینانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "furnace",
+    "pronunciation": "'fernis",
+    "translates": {
+      "noun": ["کوره", "تنور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "furnish",
+    "pronunciation": "'fernish",
+    "translates": {
+      "transitive-verb": ["اسباب و اثاثیه چیدن در", "مبله کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "furniture",
+    "pronunciation": "'fernicher",
+    "translates": {
+      "noun": ["اسباب و اثاثیه", "وسایل خانه", "مبلمان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "furry",
+    "pronunciation": "'feri",
+    "translates": {
+      "adjective": ["پشمالو", "خزدار", "خز مانند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "further",
+    "pronunciation": "'ferdher",
+    "translates": {
+      "adverb": ["دورتر", "بیشتر", "زیادتر", "اضافی", "بعلاوه"],
+      "adjective": ["بیشتر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "furthermore",
+    "pronunciation": "'ferdher.mor",
+    "translates": {
+      "adverb": [
+        "علاوه بر این",
+        "از این گذشته",
+        "افزون بر این",
+        "بعلاوه",
+        "وانگهی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "furthest",
+    "pronunciation": "'ferdhist",
+    "translates": {
+      "adverb": ["دورترین", "آخرین", "بیشترین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fury",
+    "pronunciation": "'fyuri",
+    "translates": {
+      "noun": ["عصبانیت", "خشم", "غیظ", "غضب", "شدت", "حدت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fuse",
+    "pronunciation": "fyooz",
+    "translates": {
+      "noun": ["فیوز"],
+      "transitive-verb": [
+        "فیوز ( چیزی را ) سوزاندن",
+        "فیوز گذاشتن به",
+        "ذوب کردن",
+        "جوش خوردن",
+        "به هم جوش دادن",
+        "ترکیب کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "fuss",
+    "pronunciation": "fa^s",
+    "translates": {
+      "noun": ["هیاهو", "سر و صدا", "الم شنگه", "عجله", "دستپاچگی"],
+      "intransitive-verb": ["هیاهو کردن", "کولی بازی در آوردن"],
+      "transitive-verb": ["مزاحم شدن", "حواس ( کسی را ) پرت کردن"]
+    },
+    "subWords": {
+      "make a fuss of someone": ["کسی را لوس کردن", "لی لی به لالای کسی گذاشتن"]
+    }
+  },
+  {
+    "word": "fussy",
+    "pronunciation": "'fa^si",
+    "translates": {
+      "adjective": ["جنجالی", "شلوغ", "ایرادی", "وسواسی", "عصبی", "ایرادگیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "futile",
+    "pronunciation": "'fyoota^yt ",
+    "translates": {
+      "adjective": [
+        "بیهوده",
+        "بی ثمر",
+        "بی حاصل",
+        "بی فایده",
+        "عبث",
+        "[حرف] مفت",
+        "بیخود",
+        "چرت",
+        "بی معنی",
+        "احمقانه",
+        "بی عرضه",
+        "بی عار",
+        "تن لَش"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "future",
+    "pronunciation": "fyoocher",
+    "translates": {
+      "adjective": ["آینده", "آتی", "بعدی", "اخروی"],
+      "noun": ["آینده", "وقایع آینده", "[دستور زبان] زمان آینده", "مستقبل"]
+    },
+    "subWords": {
+      "in future": ["در آینده", "از این به بعد"]
+    }
   }
 ]
