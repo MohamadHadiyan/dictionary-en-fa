@@ -1,0 +1,213 @@
+[
+  {
+    "word": "G, g",
+    "pronunciation": "jii",
+    "translates": {
+      "noun": ["جی (= هفتمین حرف الفبای انگلیسی )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gabble",
+    "pronunciation": "'gabel",
+    "translates": {
+      "intransitive-verb": [
+        "جویده جویده حرف زدن",
+        "ناشمرده حرف زدن",
+        "بلغور کردن",
+        "وراجی کردن",
+        "غات غات کردن"
+      ],
+      "noun": ["ورور", "وراجی", "وِنگ وِنگ", "سخن ناشمرده", "صدای غاز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gadget",
+    "pronunciation": "'gajit",
+    "translates": {
+      "noun": ["ابزار", "وسیله", "اسباب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gag",
+    "pronunciation": "gag",
+    "translates": {
+      "noun": ["دهان بند", "شوخی", "شیرین کاری"],
+      "transitive-verb": [
+        "دهان بند زدن به",
+        "دهان (کسی) را بستن",
+        "ساکت کردن",
+        "شوخی کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gaiety",
+    "pronunciation": "'geyiti",
+    "translates": {
+      "noun": ["شادی", "شادمانی", "خوشنودی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gaily",
+    "pronunciation": "'geyli",
+    "translates": {
+      "adverb": ["با شادی", "شادمانه", "با روح", "پر زرق و برق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gain",
+    "pronunciation": "geyn",
+    "translates": {
+      "transitive-verb": [
+        "به دست آوردن",
+        "کسب کردن",
+        "افزایش دادن",
+        "سود بردن"
+      ],
+      "intransitive-verb": ["افزایش یافتن", "بهتر شدن", "[ساعت] جلو رفتن"],
+      "noun": ["سود", "نفع", "منفعت", "افزایش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gala",
+    "pronunciation": "ga^la^",
+    "translates": {
+      "noun": ["جشن", "جشنواره", "جشن و سرور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "galaxy",
+    "pronunciation": "'galeksi",
+    "translates": {
+      "noun": ["کهکشان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Galaxy",
+    "pronunciation": "'galeksi",
+    "translates": {
+      "noun": ["راه شیری", "کهکشان راه شیری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gale",
+    "pronunciation": "geyl",
+    "translates": {
+      "noun": ["طوفان", "تند باد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gallant",
+    "pronunciation": "'galent",
+    "translates": {
+      "adjective": ["دلاور", "[مخصوصاً نسبت به زنان] مودب"],
+      "noun": ["زن باز"],
+      "transitive-verb": ["دلاوری کردن", "ملازمت کردن", "زن بازی کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gallantly",
+    "pronunciation": "'galentli",
+    "translates": {
+      "adverb": ["دلاورانه", "باشجاعت", "مودبانه", "دلسوزانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gallery",
+    "pronunciation": "'galeri",
+    "translates": {
+      "noun": ["نگارخانه", "نمایشگاه (هنری)", "گالری", "تالار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gallon",
+    "pronunciation": "'galen",
+    "translates": {
+      "noun": [
+        "گالن (= واحد اندازه گیری مایعات برابر با 4/55 لیتر در بریتانیاو 3/78 لیتر در امریکا )"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gallop",
+    "pronunciation": "'galop",
+    "translates": {
+      "noun": ["[ اسب و غیره ] چهار نعل", "تاخت"],
+      "intransitive-verb": ["چهار نعل رفتن", "تازیدن"],
+      "transitive-verb": ["تازاندن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gallows",
+    "pronunciation": "'galoz",
+    "translates": {
+      "noun": ["چوبه دار", "دار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gamble",
+    "pronunciation": "'gambel",
+    "translates": {
+      "intransitive-verb": [
+        "قمار کردن",
+        "شرط بندی کردن",
+        "باختن",
+        "خطر کردن",
+        "ریسک کردن"
+      ],
+      "noun": ["قمار", "قمار بازی شرط بندی", "ریسک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "game",
+    "pronunciation": "geym",
+    "translates": {
+      "noun": ["بازی", "مسابقه", "شکار", "حقه", "کلک"],
+      "adjective": ["شَل", "چلاق"]
+    },
+    "subWords": {
+      "give the game away": [
+        "بند را آب دادن",
+        "بازی را واگذار کردن",
+        "افشای چیزی که باید مخفی می ماند"
+      ],
+      "play games": ["بازی درآوردن"],
+      "play silly games": ["مسخره بازی درآوردن"]
+    }
+  },
+  {
+    "word": "games",
+    "pronunciation": "geymz",
+    "translates": {
+      "noun": ["مسابقات", "بازی ها"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gang",
+    "pronunciation": "gang",
+    "translates": {
+      "noun": ["باند", "باند تبهکاران", "گروه", "دسته", "بر و بچه ها"],
+      "intransitive-verb": ["دست به یکی کردن", "باند تشکیل دادن"]
+    },
+    "subWords": {}
+  }
+]
