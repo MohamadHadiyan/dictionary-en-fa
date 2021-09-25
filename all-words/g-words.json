@@ -209,5 +209,588 @@
       "intransitive-verb": ["دست به یکی کردن", "باند تشکیل دادن"]
     },
     "subWords": {}
+  },
+  {
+    "word": "gangster",
+    "pronunciation": "'gangster",
+    "translates": {
+      "noun": ["گانگستر", "تبهکار", "اوباش"],
+      "adjective": ["گانگستری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gangway",
+    "pronunciation": "'gangwey",
+    "translates": {
+      "noun": [
+        "پُل",
+        "پله (برای سوار و پیاده شدن مسافران کشتی)",
+        "[تئاتر",
+        "سینما و غیره] راهرو"
+      ],
+      "interjection": ["راه بدید!", "برید کنار!", "راه را باز کنید!"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gaol",
+    "pronunciation": "jeyl",
+    "translates": {
+      "noun": ["زندان"],
+      "transitive-verb": ["زندانی کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gaoler",
+    "pronunciation": "'jeyler",
+    "translates": {
+      "noun": ["زندانبان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gap",
+    "pronunciation": "gap",
+    "translates": {
+      "noun": ["شکاف", "سوراخ"]
+    },
+    "subWords": {
+      "generation gap": ["شکاف بین دو نسل", "اختلاف بین دو نسل"]
+    }
+  },
+  {
+    "word": "gape",
+    "pronunciation": "geyp",
+    "translates": {
+      "intransitive-verb": [
+        "خیره شدن",
+        "زل زدن به",
+        "با دهان باز نگاه کردن",
+        "با شگفتی نگاه کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "garage",
+    "pronunciation": "'gara^zh",
+    "translates": {
+      "noun": ["گاراژ", "تعمیرگاه"],
+      "transitive-verb": ["در گاراژ گذاشتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "garbage",
+    "pronunciation": "'ga^rbij",
+    "translates": {
+      "noun": ["آشغال", "زباله", "مزخرف", "چرت و پرت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "garden",
+    "pronunciation": "'ga^rden",
+    "translates": {
+      "noun": ["باغ", "باغچه"],
+      "intransitive-verb": ["باغبانی کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gardener",
+    "pronunciation": "'ga^rdner",
+    "translates": {
+      "noun": ["باغبان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gardening",
+    "pronunciation": "'ga^rdning",
+    "translates": {
+      "noun": ["باغبانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gardens",
+    "pronunciation": "'ga^rdenz",
+    "translates": {
+      "noun": ["پارک", "باغ ها"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gargle",
+    "pronunciation": "'ga^rgel",
+    "translates": {
+      "intransitive-verb": ["غرغره کردن"],
+      "noun": ["غرغره", "گلو شویی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "garlic",
+    "pronunciation": "'ga^lik",
+    "translates": {
+      "noun": ["سیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "garment",
+    "pronunciation": "'ga^rment",
+    "translates": {
+      "noun": ["لباس", "پوشاک", "جامه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "garter",
+    "pronunciation": "'ga^rter",
+    "translates": {
+      "noun": ["بند جوراب", "کش جوراب"],
+      "transitive-verb": ["بند زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gas",
+    "pronunciation": "gas",
+    "translates": {
+      "noun": ["گاز", "اجاق گاز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gash",
+    "pronunciation": "gash",
+    "translates": {
+      "noun": ["بریدگی یا زخم عمیق"],
+      "transitive-verb": ["بریدن", "زخم کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gasoline",
+    "pronunciation": "'gasolin",
+    "translates": {
+      "noun": ["بنزین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gasp",
+    "pronunciation": "ga^sp",
+    "translates": {
+      "intransitive-verb": [
+        "نفس نفس زدن",
+        "به نفس نفس افتادن",
+        "[ از تعجبت",
+        "ترس و غیره ] نفس (کسی) بند آمدن",
+        "بریده بریده نفس کشیدن"
+      ],
+      "noun": ["گرفتن نفس", "نفس نفس", "نفس بریده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gastric",
+    "pronunciation": "'gastrik",
+    "translates": {
+      "adjective": ["معده ای"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gate",
+    "pronunciation": "geyt",
+    "translates": {
+      "noun": ["دروازه", "در", "گیت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gateway",
+    "pronunciation": "'geytwey",
+    "translates": {
+      "noun": ["دروازه", "در"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gather",
+    "pronunciation": "'gadher",
+    "translates": {
+      "intransitive-verb": [
+        "جمع شدن",
+        "گرد آمدن",
+        "زیاد شدن",
+        "فهمیدن",
+        "اجتماع کردن"
+      ],
+      "transitive-verb": ["جمع کردن", "استنباط کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gathering",
+    "pronunciation": "'gadhering",
+    "translates": {
+      "noun": ["اجتماع", "تجمع", "گردهمایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gaudy",
+    "pronunciation": "'godi",
+    "translates": {
+      "adjective": ["رنگ و وارنگ", "پر زرق و برق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gauge",
+    "pronunciation": "geyj",
+    "translates": {
+      "noun": [
+        "اندازه",
+        "نمره",
+        "ضخامت",
+        "قُطر",
+        "[ اسلحه ] کالیبر",
+        "پیمانه",
+        "معیار"
+      ],
+      "transitive-verb": [
+        "اندازه گرفتن",
+        "سنجیدن",
+        "تعیین کردن",
+        "حساب کردن",
+        "پیمانه کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gauze",
+    "pronunciation": "goz",
+    "translates": {
+      "noun": ["گاز پانسمان", "تنزیب", "تور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gave",
+    "pronunciation": "geyv",
+    "translates": {
+      "past-tens": ["گذشته فعل give (داد)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gay",
+    "pronunciation": "gey",
+    "translates": {
+      "adjective": ["شاد", "شادمان", "شادمانه", "رنگ و وارنگ", "همجنسگرا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gaze",
+    "pronunciation": "geyz",
+    "translates": {
+      "intransitive-verb": ["خیره شدن", "چشم دوختن"],
+      "noun": ["نگاه خیره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gear",
+    "pronunciation": "'giyer",
+    "translates": {
+      "noun": [
+        "دنده",
+        "چرخ دنده",
+        "دستگاه",
+        "لوازم",
+        "وسایل",
+        "تجهیزات",
+        "ادوات",
+        "[مجازی] سرعت"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "geese",
+    "pronunciation": "giis",
+    "translates": {
+      "noun": ["صورت جمع فعل goose ( غازها )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gem",
+    "pronunciation": "jem",
+    "translates": {
+      "noun": ["جواهر", "گوهر", "سنگ قیمتی", "سنگ گرانبها"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "general",
+    "pronunciation": "'jenra^l",
+    "translates": {
+      "adjective": [
+        "عمومی",
+        "همگانی",
+        "عام",
+        "کلی",
+        "جامع",
+        "دائمی",
+        "معمولی",
+        "عادی"
+      ],
+      "noun": ["تیمسار", "ژنرال", "ارتشبد"]
+    },
+    "subWords": {
+      "in general": ["معمولا", "به طور کلی", "در کل"]
+    }
+  },
+  {
+    "word": "general knowledge",
+    "pronunciation": "jenra^l 'na^lij",
+    "translates": {
+      "noun": ["اطلاعات عمومی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "generally",
+    "pronunciation": "'jenra^li",
+    "translates": {
+      "adverb": ["معمولاً", "عموماً", "به طور کلی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "generate",
+    "pronunciation": "'genereyt",
+    "translates": {
+      "transitive-verb": ["تولید کردن", "به وجود آوردن", "زاییدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "generation",
+    "pronunciation": "jene'reyshen",
+    "translates": {
+      "noun": ["تولید", "نسل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "generator",
+    "pronunciation": "'genereyter",
+    "translates": {
+      "noun": ["مولد", "مولد برق", "ژنراتور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "generosity",
+    "pronunciation": "jene'ra^siti",
+    "translates": {
+      "noun": ["سخاوت", "بخشش", "بذل و بخشش", "فتوت", "گشاده دستی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "generous",
+    "pronunciation": "'jeneres",
+    "translates": {
+      "adjective": ["سخاوتمند", "باگذشت", "بخشنده", "فراوان", "زیاد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "genius",
+    "pronunciation": "'giiniyes",
+    "translates": {
+      "noun": ["نابغه", "نبوغ", "استعداد", "قریحه", "ذوق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gentle",
+    "pronunciation": "'jentel",
+    "translates": {
+      "adjective": ["مهربان", "ملایم", "معتدل", "لطیف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gentleman",
+    "pronunciation": "'jentelman",
+    "translates": {
+      "noun": ["آقا", "آدم شریف", "اشراف زاده", "شخص محترم", "[در خطاب] آقایان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gentleness",
+    "pronunciation": "'jentelnis",
+    "translates": {
+      "adjective": ["مهربانی", "لطف", "ملاطفت", "آرامی", "ملایمت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gently",
+    "pronunciation": "'jentli",
+    "translates": {
+      "adverb": ["به آرامی", "با ملایمت", "آهسته", "بامهربانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "genuine",
+    "pronunciation": "'jenyu-in",
+    "translates": {
+      "adjective": ["اصل", "اصیل", "حقیقی", "واقعی", "درست"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "genuinely",
+    "pronunciation": "'jenyu-inli",
+    "translates": {
+      "adverb": ["واقعاً", "حقیقتاً", "صادقانه", "از صمیم قلب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "geography",
+    "pronunciation": "ji'ya^grafi",
+    "translates": {
+      "noun": ["جغرافیا", "جغرافی", "وضعیت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "geology",
+    "pronunciation": "ji'ya^loji",
+    "translates": {
+      "noun": ["زمین شناسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "geometry",
+    "pronunciation": "ji'ya^mitri",
+    "translates": {
+      "noun": ["هندسه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "German",
+    "pronunciation": "'jerman",
+    "translates": {
+      "adjective": ["آلمانی"],
+      "noun": ["زبان آلمانی", "اهل آلمان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Germany",
+    "pronunciation": "'jermani",
+    "translates": {
+      "noun": ["آلمان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gesture",
+    "pronunciation": "'jescher",
+    "translates": {
+      "noun": ["ژست", "حرکت", "کار", "عمل", "حالت", "رفتار", "اشاره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "get",
+    "pronunciation": "get",
+    "translates": {
+      "transitive-verb": [
+        "گرفتن",
+        "شدن",
+        "کردن",
+        "دریافت کردن",
+        "به دست آوردن",
+        "فراهم کردن",
+        "داشتن",
+        "[بیماری] دچار شدن",
+        "گرفتن",
+        "فهمیدن",
+        "رسیدن",
+        "خریدن",
+        "آوردن",
+        "بردن",
+        "رساندن",
+        "توانستن",
+        "زدن"
+      ]
+    },
+    "subWords": {
+      "get about": ["همیشه در سفر بودن", "این طرف و آن طرف رفتن"],
+      "get at something": [
+        "(دست کسی) به چیزی رسیدن",
+        "به چیزی دسترسی پیدا کردن"
+      ],
+      "get away": ["فرار کردن", "در رفتن"],
+      "get away with": ["قسر در رفتن", "گیر نیفتادن", "فرار کردن"],
+      "get back": ["برگشتن", "بازگشتن"],
+      "get dressed": ["لباس پوشیدن"],
+      "get going": ["راه افتادن", "حرکت کردن"],
+      "get in": ["وارد شدن", "رسیدن"],
+      "get into": ["پوشیدن", "وارد شدن"],
+      "get off": [
+        "پیاده شدن",
+        "دست از کار کشیدن",
+        "رفتن",
+        "راه رفتن",
+        "خلاصی یافتن",
+        "قسر در رفتن"
+      ],
+      "get on": ["سوار شدن", "پیشرفت کردن", "پیش رفتن"],
+      "get one's own back on someone": ["تلافی کردن"],
+      "get on with one's work": ["به کار خود رسیدن"],
+      "get on with someone": ["با کسی میانه خوبی داشتن"],
+      "get out": ["بیرون رفتن", "بیرون آوردن"],
+      "get out of": ["از شر (چیزی) خلاص شدن", "از زیر (کاری) در رفتن"],
+      "get someone in": ["کسی را به خانه دعوت کردن"],
+      "get someone to do something": ["کسی را به کاری واداشتن"],
+      "get something ready": ["چیزی را حاضر کردن", "چیزی را آماده کردن"],
+      "get through": [
+        "[ امتحان ] گذراندن",
+        "قبول شدن",
+        "خرج کردن",
+        "[تلفن] تماس گرفتن",
+        "تماس برقرار کردن",
+        "از سر گذراندن",
+        "پشت سر گذاشتن",
+        "(به کسی) حالی کردن"
+      ],
+      "get to": ["به (نتیجه ای) رسیدن"],
+      "get together": ["دور هم جمع شدن", "گرد هم آمدن"],
+      "get up": ["بلند شدن", "از جا برخاستن", "پاشدن", "از رختخواب بیرون آمدن"],
+      "get up to": ["دست گل به آب دادن", "خراب کاری کردن", "رسیدن به"],
+      "have got to": ["مجبور بودن", "باید"]
+    }
   }
 ]
