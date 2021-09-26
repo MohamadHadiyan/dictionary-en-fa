@@ -792,5 +792,300 @@
       "get up to": ["دست گل به آب دادن", "خراب کاری کردن", "رسیدن به"],
       "have got to": ["مجبور بودن", "باید"]
     }
+  },
+  {
+    "word": "geyser",
+    "pronunciation": "'giizer",
+    "translates": {
+      "noun": ["آب گرمکن", "چشمه آب گرم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ghastly",
+    "pronunciation": "'ga^stli",
+    "translates": {
+      "adjective": [
+        "رنگ پریده",
+        "ناخوش",
+        "مریض",
+        "وحشتناک",
+        "مخوف",
+        "هولناک",
+        "بد"
+      ],
+      "adverb": ["خیلی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ghost",
+    "pronunciation": "gost",
+    "translates": {
+      "noun": ["روح", "شبه", "جن", "اثر جزئی", "رد", "کم", "اندک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "giant",
+    "pronunciation": "'ja^yent",
+    "translates": {
+      "noun": ["غول", "آدم غول پیکر"],
+      "adjective": ["غول آسا", "غول پیکر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gibberish",
+    "pronunciation": "'jiberish",
+    "translates": {
+      "noun": ["وِروِر", "ونگ ونگ", "شِر و وِر", "مزخرف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "giddy",
+    "pronunciation": "'gidi",
+    "translates": {
+      "adjective": ["دچار سرگیجه", "سرگیجه آور", "گیج", "منگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gift",
+    "pronunciation": "gift",
+    "translates": {
+      "noun": [
+        "هدیه",
+        "کادو",
+        "بخشش",
+        "موهبت",
+        "استعداد",
+        "ذوق",
+        "قریحه",
+        "پیشکش"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gifted",
+    "pronunciation": "'giftid",
+    "translates": {
+      "adjective": ["با استعداد", "خوش ذوق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gigantic",
+    "pronunciation": "ja^y'gantik",
+    "translates": {
+      "adjective": ["غول پیکر", "غول آسا", "عظیم", "بزرگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "giggle",
+    "pronunciation": "'gigel",
+    "translates": {
+      "intransitive-verb": ["خندیدن", "هِرهِر خندیدن"],
+      "noun": ["خنده", "مایه خنده", "چیز مضحک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gild",
+    "pronunciation": "gild",
+    "translates": {
+      "transitive-verb": ["زراندود کردن", "طلا کاری کردن", "طلا گرفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gilt",
+    "pronunciation": "gilt",
+    "translates": {
+      "noun": ["روکش طلا", "آب طلا"],
+      "adjective": ["طلایی", "مطلا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gimmick",
+    "pronunciation": "'gimik",
+    "translates": {
+      "noun": ["ترفند", "حقه", "حیله", "تدبیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ginger",
+    "pronunciation": "'jinjer",
+    "translates": {
+      "noun": ["زنجبیل", "زنجفیل", "تحرک", "نیرو", "انرژی", "شوق", "رنگ حنایی"],
+      "adjective": ["زنجبیلی", "زنجفیلی", "حنایی", "حنایی رنگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gingerbread",
+    "pronunciation": "'jinjerberd",
+    "translates": {
+      "noun": [
+        "بیسکویت زنجبیلی",
+        "کیک زنجبیلی",
+        "شیرینی زنجبیلی",
+        "نان زنجبیلی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gipsy",
+    "pronunciation": "'jipsi",
+    "translates": {
+      "noun": ["کولی", "غربتی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "giraffe",
+    "pronunciation": "ji'ra^f",
+    "translates": {
+      "noun": ["زرافه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "girdle",
+    "pronunciation": "'gerdel",
+    "translates": {
+      "noun": ["گِن", "شکم بند", "کمربند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "girl",
+    "pronunciation": "gerl",
+    "translates": {
+      "noun": ["دختر", "زن", "خانم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "girlfriend",
+    "pronunciation": "'gerlfrend",
+    "translates": {
+      "noun": ["دوست دختر", "دختر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "give",
+    "pronunciation": "giv",
+    "translates": {
+      "transitive-verb": [
+        "دادن",
+        "بخشیدن",
+        "کمک کردن",
+        "موافق بودن با",
+        "صرف کردن",
+        "تاب نیاوردن",
+        "کِش آمدن",
+        "دچار کردن",
+        "ارائه دادن"
+      ],
+      "noun": ["انعطاف پذیری"]
+    },
+    "subWords": {
+      "give in": ["تسلیم شدن", "تن دادن"],
+      "give oneself up": ["تسلیم شدن", "خود را تسلیم کردن"],
+      "give out": ["تقسیم کردن", "توزیع کردن", "تمام شدن", "به پایان رسیدن"],
+      "give someone away": ["لو دادن", "[در مراسم عروسی]دست به دست دادن"],
+      "give something away": ["بخشیدن", "مجانی دادن", "توزیع کردن", "دادن"],
+      "give something back": ["پس دادن", "برگرداندن"],
+      "give something in": ["دادن", "تحویل دادن"],
+      "give up": ["ول کردن", "رها کردن", "صرف نظر کردن"],
+      "give up something": ["[سیگار و غیره] ترک کردن", "[ امید ] از دست دادن"],
+      "give way": [
+        "رضایت دادن",
+        "تن دادن",
+        "شکستن",
+        "پاره شدن",
+        "[ترافیک] راه دادن"
+      ]
+    }
+  },
+  {
+    "word": "given",
+    "pronunciation": "'given",
+    "translates": {
+      "past-participle": ["اسم مفعول فعل give (داده شده)"],
+      "adjective": ["داده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "glacier",
+    "pronunciation": "'glasiyer",
+    "translates": {
+      "noun": ["یخچال طبیعی", "توده یخ غلتان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "glad",
+    "pronunciation": "glad",
+    "translates": {
+      "adjective": ["خوشحال", "خرسند", "شاد", "خوب", "خوش", "خوشنود"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gladly",
+    "pronunciation": "'gladli",
+    "translates": {
+      "adverb": ["با خوشحالی", "با میل و رغبت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "glamour",
+    "pronunciation": "'glamer",
+    "translates": {
+      "noun": ["جذبه", "جاذبه", "زرق و برق", "دلربایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "glamorous",
+    "pronunciation": "'glameres",
+    "translates": {
+      "adjective": ["دلربا", "جذاب", "هیجان انگیز", "فریبنده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "glance",
+    "pronunciation": "glans",
+    "translates": {
+      "intransitive-verb": [
+        "نگاه کردن",
+        "نگاهی انداختن به",
+        "نظری انداختن به",
+        "برانداز کردن",
+        "برق زدن"
+      ],
+      "noun": ["نگاه", "نگاه گذرا", "نظر اجمالی", "دید", "برق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gland",
+    "pronunciation": "gland",
+    "translates": {
+      "noun": ["غده"]
+    },
+    "subWords": {}
   }
 ]
