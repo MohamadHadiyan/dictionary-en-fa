@@ -628,6 +628,17 @@
     }
   },
   {
+    "word": "debounce",
+    "pronunciation": "dibaons",
+    "translates": {
+      "transitive-verb": ["رد کردن"]
+    },
+    "subWords": {
+      "debounce time": ["زمان ابطال"],
+      "delay debounce": ["انصراف تاخیر"]
+    }
+  },
+  {
     "word": "decade",
     "pronunciation": "'dekeyd",
     "translates": {
