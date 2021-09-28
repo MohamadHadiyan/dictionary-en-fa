@@ -1541,5 +1541,329 @@
       "be on the go": ["در جنب و جوش بودن", "از این طرف به آن طرف دویدن"],
       "have a go at": ["امتحان کردن", "سعی کردن"]
     }
+  },
+  {
+    "word": "goal",
+    "pronunciation": "gol",
+    "translates": {
+      "noun": ["هدف", "آرمان", "آرزو", "[فوتبال] گُل", "دروازه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "goalie",
+    "pronunciation": "'goli",
+    "translates": {
+      "noun": ["[فوتبال] دروازه بان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "goat",
+    "pronunciation": "got",
+    "translates": {
+      "noun": ["بُز", "مرد هرزه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "god",
+    "pronunciation": "ga^d",
+    "translates": {
+      "noun": ["خدا", "ایزد", "رب النوع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "God",
+    "pronunciation": "ga^d",
+    "translates": {
+      "noun": ["خدا", "خداوند", "پروردگار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "goddess",
+    "pronunciation": "'ga^dis",
+    "translates": {
+      "noun": ["الهه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "godfather",
+    "pronunciation": "'ga^dfa^dher",
+    "translates": {
+      "noun": ["پدر تعمیدی", "پدرخوانده", "پدر", "سرپرست", "قیم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "godmother",
+    "pronunciation": "'ga^dma^dher",
+    "translates": {
+      "noun": ["مادر تعمیدی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "godson",
+    "pronunciation": "'ga^dsa^n",
+    "translates": {
+      "noun": ["پسر تعمیدی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "goggle",
+    "pronunciation": "'ga^gel",
+    "translates": {
+      "intransitive-verb": [
+        "زل زدن",
+        "تعجب کردن",
+        "از تعجب شاخ درآوردن",
+        "چپ نگاه کردن",
+        "چشم گرداندن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "goggles",
+    "pronunciation": "'ga^gelz",
+    "translates": {
+      "noun": [
+        "عینک ایمنی (=  عینک قواصی",
+        "عینک موتور سواری",
+        "عینک جوش کاری و غیره)"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gold",
+    "pronunciation": "gold",
+    "translates": {
+      "noun": ["طلا", "زر", "رنگ طلایی"],
+      "adjective": ["طلایی", "زرین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "golden",
+    "pronunciation": "'golden",
+    "translates": {
+      "adjective": ["طلایی", "طلا", "زرین", "نوید بخش", "درخشان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "goldfish",
+    "pronunciation": "'goldfish",
+    "translates": {
+      "noun": ["ماهی قرمز", "ماهی طلایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "golf",
+    "pronunciation": "ga^lf",
+    "translates": {
+      "noun": ["(بازی) گلف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "golf-course",
+    "pronunciation": "'ga^lf kors",
+    "translates": {
+      "noun": ["زمین گلف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "golfer",
+    "pronunciation": "'ga^lfer",
+    "translates": {
+      "noun": ["گلف باز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gone",
+    "pronunciation": "ga^n",
+    "translates": {
+      "adjective": ["ناپدید", "رفته", "گذشته", "حامله", "عاشق"],
+      "past-participle": ["اسم مفعول فعل go (رفته)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gong",
+    "pronunciation": "ga^ng",
+    "translates": {
+      "noun": ["زنگ (چکشی)", "ناقوس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "good",
+    "pronunciation": "gud",
+    "translates": {
+      "adjective": [
+        "خوب",
+        "مطلوب",
+        "خوش",
+        "خیر",
+        "نیک",
+        "نیکو",
+        "مهربان",
+        "مودب",
+        "درست",
+        "سالم",
+        "پسندیده",
+        "ماهر"
+      ],
+      "noun": ["خوبی", "نیکی", "خیر"]
+    },
+    "subWords": {
+      "as good as": ["تقریباً", "عملاً"],
+      "be good at something": ["در چیزی خوب بودن"],
+      "be good for": ["مفید بودن برای", "اعتبار داشتن"],
+      "Good afternoon!": ["عصر بخیر!"],
+      "Good evening!": ["عصر بخیر!", "شب بخیر!"],
+      "Good God!": ["عجب!"],
+      "Good gracious!": ["آخ! وای! خدای من!"],
+      "Good heavens!": ["آخ! وای! خدای من!"],
+      "Good morning!": ["سلام! صبح بخیر!"],
+      "Good night!": ["شب بخیر!"],
+      "be no good": ["بی فایده بودن", "به درد نخوردن"],
+      "do good": ["کار خیر کردن", "نیکو کاری کردن"],
+      "do someone good": ["برای کسی مفید بودن"],
+      "for good": ["برای همیشه", "به طور دائمی"]
+    }
+  },
+  {
+    "word": "goodbye",
+    "pronunciation": "gud'ba^y",
+    "translates": {
+      "noun": ["خداحافظی", "وداع"],
+      "interjection": ["خداحافظ!", "بدرود"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "good-looking",
+    "pronunciation": "gud'luking",
+    "translates": {
+      "adjective": ["خوش قیافه", "خوشگل", "قشنگ", "خوش رو", "خوش تیپ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "good-natured",
+    "pronunciation": "gud'neycherd",
+    "translates": {
+      "adjective": ["مهربان", "خوش قلب", "دوستانه", "خوش اخلاق", "ملایم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "goodness",
+    "pronunciation": "'gudnis",
+    "translates": {
+      "noun": ["خوبی", "نیکی", "پاکی", "صفا", "مهربانی", "لطف", "محبت"]
+    },
+    "subWords": {
+      "Goodness knows": ["خدا می داند", "کسی نمی داند"],
+      "Goodness me!": ["وای خدایا!"],
+      "My goodness!": ["خدای من! خدایا!"],
+      "Thank goodness!": ["خدا را شکر!"]
+    }
+  },
+  {
+    "word": "goods",
+    "pronunciation": "gudz",
+    "translates": {
+      "noun": ["کالا", "بار", "محموله"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "good-tempered",
+    "pronunciation": "gud 'temperd",
+    "translates": {
+      "adjective": ["خوش خلق", "خوش اخلاق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "goose",
+    "pronunciation": "goos",
+    "translates": {
+      "noun": ["غاز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gooseberry",
+    "pronunciation": "'guzberi",
+    "translates": {
+      "noun": ["انگور فرنگی", "مزاحم", "موی دماغ", "خار توت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gorgeous",
+    "pronunciation": "'gorjes",
+    "translates": {
+      "adjective": [
+        "[عامیانه] عالی",
+        "خوشگل",
+        "قشنگ",
+        "ماه",
+        "جذاب",
+        "زرق و برق دار"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gorilla",
+    "pronunciation": "go'rila^",
+    "translates": {
+      "noun": ["گوریل", "نسناس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Gospel",
+    "pronunciation": "'ga^spel",
+    "translates": {
+      "noun": ["انجیل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gossip",
+    "pronunciation": "'ga^sip",
+    "translates": {
+      "noun": [
+        "دری وری",
+        "غیبت",
+        "اراجیف",
+        "شایعه",
+        "گپ",
+        "سخن چینی",
+        "آدم خاله زنک"
+      ],
+      "intransitive-verb": [
+        "غیبت کردن",
+        "حرف های خاله زنکی زدن",
+        "وراجی کردن",
+        "سخن چینی کردن"
+      ]
+    },
+    "subWords": {}
   }
 ]
