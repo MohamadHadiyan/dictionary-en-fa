@@ -1865,5 +1865,513 @@
       ]
     },
     "subWords": {}
+  },
+  {
+    "word": "gravely",
+    "pronunciation": "'greyvli",
+    "translates": {
+      "adverb": ["به طور بدی", "سخت", "به سختی", "به طور جدی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gravestone",
+    "pronunciation": "'greyvston",
+    "translates": {
+      "noun": ["سنگ قبر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "graveyard",
+    "pronunciation": "'greyvya^rd",
+    "translates": {
+      "noun": ["گورستان", "قبرستان", "مدفن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gravity",
+    "pronunciation": "'graviti",
+    "translates": {
+      "noun": ["جاذبه زمین", "گرانش", "جاذبه", "وخامت", "شدت", "ثقل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gravy",
+    "pronunciation": "'greyvi",
+    "translates": {
+      "noun": ["سُس گوشت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gray",
+    "pronunciation": "grey",
+    "translates": {
+      "noun": ["رنگ خاکستری", "رنگ طوسی", "لباس خاکستری"],
+      "adjective": ["خاکستری", "طوسی", "دودی", "فیلی", "معمولی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "graze",
+    "pronunciation": "greyz",
+    "translates": {
+      "intransitive-verb": ["چریدن", "تغذیه کردن از", "به هم مالیدن"],
+      "transitive-verb": [
+        "چراندن",
+        "گله چراندن",
+        "خراشیدن",
+        "خوردن به",
+        "تماس پیدا کردن با"
+      ],
+      "noun": ["خراش", "خراشیدگی", "زخم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grease",
+    "pronunciation": "griis",
+    "translates": {
+      "noun": ["روغن", "چربی", "روغن دنبه", "گریس"],
+      "transitive-verb": ["روغن کاری کردن", "چرب کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "greasy",
+    "pronunciation": "'griisi",
+    "translates": {
+      "adjective": ["چرب", "چرب و چیلی", "روغنی", "لیز", "چاپلوسانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "great",
+    "pronunciation": "greyt",
+    "translates": {
+      "adjective": [
+        "بزرگ",
+        "بزرگترین",
+        "مهم",
+        "بسیار",
+        "زیاد",
+        "خوب",
+        "عالی",
+        "فوق العاده",
+        "کبیر",
+        "عظیم",
+        "فراوان"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Great Britain",
+    "pronunciation": "greyt 'briten",
+    "translates": {
+      "noun": ["بریتانیای کبیر (= شامل انگلستان", "ویلز و اسکاتلند)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Grecian",
+    "pronunciation": "'griishen",
+    "translates": {
+      "adjective": ["یونانی", "یونانی شکل", "به سبک یونان قدیم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Greece",
+    "pronunciation": "griis",
+    "translates": {
+      "noun": ["یونان", "کشور یونان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "greed",
+    "pronunciation": "griid",
+    "translates": {
+      "noun": ["طمع", "حرص"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "greedy",
+    "pronunciation": "'griidi",
+    "translates": {
+      "adjective": ["حریص", "طماع", "عاشق", "شیفته", "شکمو", "دندان گرد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Greek",
+    "pronunciation": "griik",
+    "translates": {
+      "adjective": ["یونانی"],
+      "noun": ["زبان یونانی", "اهل یونان", "یونانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "green",
+    "pronunciation": "griin",
+    "translates": {
+      "adjective": [
+        "سبز",
+        "سرسبز",
+        "خرم",
+        "[میوه] کال",
+        "نارس",
+        "نرسیده",
+        "تر و تازه"
+      ],
+      "noun": ["رنگ سبز", "فضای سبز", "سبزه زار", "چمن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "greengrocer",
+    "pronunciation": "'griingroser",
+    "translates": {
+      "noun": ["سبزی فروش", "میوه فروش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "greenhouse",
+    "pronunciation": "'griinhaos",
+    "translates": {
+      "noun": ["گلخانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "greenish",
+    "pronunciation": "'griinish",
+    "translates": {
+      "adjective": ["[رنگ] مایل به سبز", "متمایل به سبز", "تقریباً سبز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "greens",
+    "pronunciation": "griinz",
+    "translates": {
+      "noun": ["سبزیجات لیفی", "گیاهان سبز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "greet",
+    "pronunciation": "griit",
+    "translates": {
+      "intransitive-verb": [
+        "سلام کردن",
+        "سلام دادن",
+        "درود گفتن",
+        "ادای احترام کردن",
+        "خوش آمد گفتن",
+        "استقبال کردن",
+        "تبریک گفتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "greeting",
+    "pronunciation": "'griiting",
+    "translates": {
+      "noun": ["سلام", "درود", "تبریک", "خوش آمد", "[نامه] عنوان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grenade",
+    "pronunciation": "gri'neyd",
+    "translates": {
+      "noun": ["نارنجک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grew",
+    "pronunciation": "groo",
+    "translates": {
+      "past-tens": ["گذشته فعل grow (رشد کرد)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grey",
+    "pronunciation": "grey",
+    "translates": {
+      "adjective": ["خاکستری", "طوسی", "دودی", "فیلی", "معمولی"],
+      "noun": ["رنگ خاکستری", "رنگ طوسی", "لباس خاکستری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grief",
+    "pronunciation": "grif",
+    "translates": {
+      "noun": ["غصه", "غم", "اندوه", "حزن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grieve",
+    "pronunciation": "griiv",
+    "translates": {
+      "transitive-verb": [
+        "غصه دار کردن",
+        "اندوهگین کردن",
+        "اذیت کردن",
+        "محزون کردن"
+      ],
+      "intransitive-verb": ["غصه خوردن", "غمگین شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grill",
+    "pronunciation": "gril",
+    "translates": {
+      "noun": ["کباب پز", "کباب"],
+      "transitive-verb": ["کباب کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grim",
+    "pronunciation": "grim",
+    "translates": {
+      "adjective": [
+        "عبوس",
+        "خشک",
+        "خشن",
+        "سخت",
+        "ناگوار",
+        "بد",
+        "تلخ",
+        "ترسناک",
+        "شوم"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grin",
+    "pronunciation": "grin",
+    "translates": {
+      "intransitive-verb": ["نیش (کسی) باز شدن", "پوزخند زدن"],
+      "noun": ["خنده", "پوزخند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grind",
+    "pronunciation": "gra^ynd",
+    "translates": {
+      "transitive-verb": [
+        "آسیاب کردن",
+        "خرد کردن",
+        "[چاقو و غیره] تیز کردن",
+        "قیژ قیژ کردن",
+        "سخت کار کردن"
+      ],
+      "noun": ["کار یکنواخت"],
+      "intransitive-verb": ["آسیاب شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grip",
+    "pronunciation": "grip",
+    "translates": {
+      "transitive-verb": ["محکم گرفتن", "محکم چسبیدن (به)", "جلب کردن"],
+      "noun": ["(عمل) گرفتن", "گرفت", "گیرش", "(جای) دست"]
+    },
+    "subWords": {
+      "lose one's grip": ["زیر پای کسی خالی شدن"]
+    }
+  },
+  {
+    "word": "grit",
+    "pronunciation": "grit",
+    "translates": {
+      "noun": ["شن", "ریگ", "سنگ ریزه", "ماسه سنگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gritty",
+    "pronunciation": "'griti",
+    "translates": {
+      "adjective": ["شن دار", "ریگ دار", "ریگ مانند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "groan",
+    "pronunciation": "gron",
+    "translates": {
+      "intransitive-verb": ["ناله کردن", "آه و ناله کردن", "نالیدن", "غر زدن"],
+      "noun": ["ناله", "غرغر", "آه و اوه", "فریاد ( اعتراض )", "[ صدا ] هوم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grocer",
+    "pronunciation": "'groser",
+    "translates": {
+      "noun": ["خواربار فروش", "بقال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "groceries",
+    "pronunciation": "'groseriz",
+    "translates": {
+      "noun": ["خواربار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "groom",
+    "pronunciation": "groom",
+    "translates": {
+      "noun": ["مهمتر", "داماد"],
+      "transitive-verb": ["تیمار کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "groove",
+    "pronunciation": "groov",
+    "translates": {
+      "noun": ["شیار", "گودی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grope",
+    "pronunciation": "grop",
+    "translates": {
+      "intransitive-verb": [
+        "کورمال کورمال دنبال (چیزی) گشتن",
+        "کورمال کورمال راه رفتن",
+        "کورمالی کردن",
+        "در تاریکی پی چیزی گشتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ground",
+    "pronunciation": "graond",
+    "translates": {
+      "noun": [
+        "خاک",
+        "زمین",
+        "سرزمین",
+        "منطقه",
+        "زمینه",
+        "پایه",
+        "موضوع",
+        "دلیل",
+        "علت",
+        "[برق] اتصال زمین"
+      ],
+      "transitive-verb": [
+        "به گِل نشاندن",
+        "[هواپیما] روی زمین متوقف کردن",
+        "مانع پرواز شدن",
+        "آموزش دادن",
+        "تعلیم دادن"
+      ],
+      "intransitive-verb": ["[کشتی] به گِل نشستن"],
+      "past-tens": ["گذشته فعل grind ( آسیاب کرد )"],
+      "past-participle": ["اسم مفعول فعل grind"]
+    },
+    "subWords": {
+      "break new (or fresh) ground": [
+        "ابتکار به خرج دادن",
+        "راه تازه ای پیدا کردن"
+      ]
+    }
+  },
+  {
+    "word": "grounds",
+    "pronunciation": "graondz",
+    "translates": {
+      "noun": ["محوطه", "حیاط", "منطقه", "زمینه", "لِرد قهوه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "groundsheet",
+    "pronunciation": "'graondshiit",
+    "translates": {
+      "noun": ["[چادر] زیرانداز", "کفی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "group",
+    "pronunciation": "groop",
+    "translates": {
+      "noun": ["گروه", "دسته", "یک مشت", "یک دسته", "تعدادی"],
+      "transitive-verb": ["گروه بندی کردن"],
+      "intransitive-verb": ["جمع شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grouse",
+    "pronunciation": "graos",
+    "translates": {
+      "intransitive-verb": ["غرغر کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grove",
+    "pronunciation": "grov",
+    "translates": {
+      "noun": ["بیشه", "باغ", "درختستان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grow",
+    "pronunciation": "gro",
+    "translates": {
+      "intransitive-verb": [
+        "رشد کردن",
+        "بزرگ شدن",
+        "بالغ شدن",
+        "قد کشیدن",
+        "[مو",
+        "ناخن و غیره] بلند شدن",
+        "شدن",
+        "روییدن"
+      ],
+      "transitive-verb": ["پرورش دادن", "کاشتن", "رویاندن"]
+    },
+    "subWords": {
+      "grow cold": ["سرد شدن"],
+      "grow out of": [
+        "[لباس] برای (کسی) تنگ شدن",
+        "برای (کسی) کوچک شدن",
+        "از سن (کسی) گذشتن",
+        "ناشی شدن از"
+      ],
+      "grow up": ["بزرگ شدن", "بالغ شدن", "رشد کردن"]
+    }
   }
 ]
