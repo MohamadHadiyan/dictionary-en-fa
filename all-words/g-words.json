@@ -2373,5 +2373,350 @@
       ],
       "grow up": ["بزرگ شدن", "بالغ شدن", "رشد کردن"]
     }
+  },
+  {
+    "word": "grower",
+    "pronunciation": "'gro-er",
+    "translates": {
+      "noun": ["[گل", "میوه و غیره] پرورش دهنده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "growl",
+    "pronunciation": "graol",
+    "translates": {
+      "intransitive-verb": ["[سگ و غیره] خُرخُر کردن", "غریدن", "پرخاش کردن"],
+      "transitive-verb": ["با غرش گفتن"],
+      "noun": ["خُرخُر", "غرش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grown",
+    "pronunciation": "graon",
+    "translates": {
+      "past-participle": ["اسم مفعول فعل grow (رشد کرده)"],
+      "adjective": ["رشد کرده", "روییده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grown-up",
+    "pronunciation": "gron a^p",
+    "translates": {
+      "adjective": ["بزرگ", "عاقل و بالغ", "بالغ و رشید"],
+      "noun": ["آدم بزرگ", "بزرگتر", "بزرگسال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "growth",
+    "pronunciation": "groth",
+    "translates": {
+      "noun": ["رشد", "رشد اقتصادی", "نمود", "رویش", "افزایش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grubby",
+    "pronunciation": "'gra^bi",
+    "translates": {
+      "adjective": ["کثیف", "شلخته", "کرمو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grudge",
+    "pronunciation": "gra^j",
+    "translates": {
+      "noun": ["کینه", "غرض"],
+      "transitive-verb": ["اکراه داشتن", "بخل ورزیدن", "رشک ورزیدن"]
+    },
+    "subWords": {
+      "have (or bear) a grudge against someone": ["کینه کسی را به دل گرفتن"]
+    }
+  },
+  {
+    "word": "grumble",
+    "pronunciation": "'gra^mbel",
+    "translates": {
+      "intransitive-verb": [
+        "نق زدن",
+        "غریدن",
+        "غرش کردن",
+        "غرغر کردن",
+        "گله کردن"
+      ],
+      "noun": ["گله", "شکایت", "غرش", "خروش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grumpy",
+    "pronunciation": "'gra^mpi",
+    "translates": {
+      "adjective": ["بد خلق", "بد اخلاق", "عبوس", "ترش رو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "grunt",
+    "pronunciation": "gra^nt",
+    "translates": {
+      "intransitive-verb": ["[خوک] خُرخُر کردن"],
+      "noun": ["[خوک] خُرخُر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "guarantee",
+    "pronunciation": "garan'tii",
+    "translates": {
+      "noun": ["ضمانت", "تضمین", "تعهد"],
+      "transitive-verb": ["تضمین کردن", "ضمانت کردن", "قول دادن", "تعهد کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "guard",
+    "pronunciation": "ga^rd",
+    "translates": {
+      "noun": [
+        "نگهبانی",
+        "محافظت",
+        "مراقبت",
+        "رئیس قطار",
+        "گارد",
+        "نگهبان",
+        "محافظ",
+        "پاسدار"
+      ],
+      "transitive-verb": ["محافظت کردن", "نگهبانی کردن", "پاییدن", "محفوظ کردن"]
+    },
+    "subWords": {
+      "keep (or stand) guard": ["پاس دادن", "نگهبانی دادن"],
+      "on guard": ["به حال آماده باش"],
+      "guard against": ["جلوگیری کردن از", "مانع وقوع (چیزی) شدن"]
+    }
+  },
+  {
+    "word": "guardian",
+    "pronunciation": "'ga^rdiyen",
+    "translates": {
+      "noun": ["قیم", "نگهبان", "پاسدار", "محافظ", "پشتیبان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "guess",
+    "pronunciation": "ges",
+    "translates": {
+      "transitive-verb": ["حدس زدن", "پی بردن", "فرض کردن"],
+      "noun": ["حدس", "گمان", "فرض"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "guest",
+    "pronunciation": "gest",
+    "translates": {
+      "noun": ["مهمان", "[هتل", "مسافرخانه و غیره] مسافر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "guest-house",
+    "pronunciation": "'gest haos",
+    "translates": {
+      "noun": ["مهمانسرا", "مهمان خانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "guidance",
+    "pronunciation": "'ga^ydens",
+    "translates": {
+      "noun": ["راهنمایی", "مشاوره", "هدایت", "رهنمود"]
+    },
+    "subWords": {
+      "guidance school": ["مدرسه راهنمایی"]
+    }
+  },
+  {
+    "word": "guide",
+    "pronunciation": "ga^yd",
+    "translates": {
+      "noun": ["راهنما", "سرمشق", "کتاب راهنما", "پیشاهنگ دختر"],
+      "transitive-verb": ["راهنمایی کردن", "هدایت کردن", "ارشاد کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "guilt",
+    "pronunciation": "gilt",
+    "translates": {
+      "noun": ["گناه", "تقصیر", "جرم", "مجرمیت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "guilty",
+    "pronunciation": "'gilti",
+    "translates": {
+      "noun": ["گناهکار", "مجرم", "مقصر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "guinea pig",
+    "pronunciation": "'gini pig",
+    "translates": {
+      "noun": ["خوکچه هندی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "guitar",
+    "pronunciation": "gi'ta^r",
+    "translates": {
+      "noun": ["گیتار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gulf",
+    "pronunciation": "ga^lf",
+    "translates": {
+      "noun": ["خلیج", "خلیج فارس", "کشور های کرانه خلیج فارس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gullet",
+    "pronunciation": "'ga^lit",
+    "translates": {
+      "noun": ["گلو", "حلق", "مری", "نای", "مجرا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gulp",
+    "pronunciation": "ga^lp",
+    "translates": {
+      "transitive-verb": ["بلعیدن", "قورت دادن", "[مجازی] پنهان کردن"],
+      "noun": ["بلع", "قورت", "قلپ", "جرعه", "نفس عمیق", "لقمه بزرگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gum",
+    "pronunciation": "ga^m",
+    "translates": {
+      "noun": ["صمغ", "چسب"],
+      "transitive-verb": ["چسباندن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gun",
+    "pronunciation": "ga^n",
+    "translates": {
+      "noun": [
+        "سلاح",
+        "اسلحه ( اعم از تپانچه",
+        "هفت تیر",
+        "تفنگ",
+        "توپ و غیره )",
+        "تفنگ"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gunman",
+    "pronunciation": "'ga^nman",
+    "translates": {
+      "noun": ["مرد مسلح"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gunpowder",
+    "pronunciation": "'ga^npaoder",
+    "translates": {
+      "noun": ["باروت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gust",
+    "pronunciation": "ga^st",
+    "translates": {
+      "noun": ["طوفان", "توفان", "تند باد", "[باد] وزش تند", "طغیان", "غلیان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gutter",
+    "pronunciation": "'ga^ter",
+    "translates": {
+      "noun": [
+        "ناودان",
+        "جوی (کنار خیابان)",
+        "زاغه نشین",
+        "فقر",
+        "محله فقیر نشین"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "guy",
+    "pronunciation": "ga^y",
+    "translates": {
+      "noun": ["مرد", "پسر", "آدم", "یارو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gym",
+    "pronunciation": "jim",
+    "translates": {
+      "noun": ["سالن ورزشی", "باشگاه ورزشی", "ژیمناستیک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gymnasium",
+    "pronunciation": "jim'neyziyem",
+    "translates": {
+      "noun": ["سالن ورزش", "باشگاه ورزشی", "باشگاه بدنسازی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gymnast",
+    "pronunciation": "'jimnast",
+    "translates": {
+      "noun": ["ژیمناست", "قهرمان ژیمناستیک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gymnastics",
+    "pronunciation": "jim'nastiks",
+    "translates": {
+      "noun": ["ژیمناستیک", "ورزش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "gypsy",
+    "pronunciation": "'jipsi",
+    "translates": {
+      "noun": ["کولی", "غربتی"]
+    },
+    "subWords": {}
   }
 ]
