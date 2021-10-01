@@ -1,0 +1,369 @@
+[
+  {
+    "word": "H, h",
+    "pronunciation": "eych",
+    "translates": {
+      "noun": ["اِیچ", "(= هشتمین حرف الفبای انگلیسی)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "habit",
+    "pronunciation": "'habit",
+    "translates": {
+      "noun": ["عادت", "خلق و خو", "خصلت", "رسم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "habitual",
+    "pronunciation": "ha'bichuwa^l",
+    "translates": {
+      "adjective": [
+        "عادی",
+        "معمول",
+        "عادت کرده",
+        "معتاد",
+        "ناشی از عادت",
+        "همیشگی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "habitually",
+    "pronunciation": "ha'bichuwa^li",
+    "translates": {
+      "adverb": ["بنابر عادت", "طبق معمول", "برحسب عادت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hack",
+    "pronunciation": "hak",
+    "translates": {
+      "transitive-verb": [
+        "تکه تکه کردن",
+        "قطعه قطعه کردن",
+        "خرد کردن",
+        "زدن",
+        "[رایانه] هک کردن"
+      ],
+      "noun": ["مزدور", "[رایانه] هک", "دسترسی غیر مجاز به داده ها"],
+      "adjective": ["مزدور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "had",
+    "pronunciation": "had",
+    "translates": {
+      "past-tens": ["گذشته فعل have (داشته است)"],
+      "past-participle": ["اسم مفعول فعل have"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "haggle",
+    "pronunciation": "'hagel",
+    "translates": {
+      "intransitive-verb": ["چانه زدن", "اصرار کردن"],
+      "noun": ["چانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hail",
+    "pronunciation": "heyl",
+    "translates": {
+      "noun": ["تگرگ"],
+      "intransitive-verb": ["تگرگ باریدن", "تگرگ آمدن"],
+      "interjection": ["درود", "سلام", "سلام بر شما باد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hailstone",
+    "pronunciation": "'heylston",
+    "translates": {
+      "noun": ["دانه تگرگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hair",
+    "pronunciation": "her",
+    "translates": {
+      "noun": ["مو", "موها", "تار مو", "موی سر", "زلف", "گیسو"]
+    },
+    "subWords": {
+      "make one's hair stand on end": ["( از چیزی ) مو به تن کسی سیخ شدن"],
+      "not turn a hair": ["خم به ابرو نیاوردن", "به روی خود نیاوردن"]
+    }
+  },
+  {
+    "word": "hairbrush",
+    "pronunciation": "'herbra^sh",
+    "translates": {
+      "noun": ["بُرس مو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "haircut",
+    "pronunciation": "'herka^t",
+    "translates": {
+      "noun": ["اصلاح (مو)", "مدل مو", "موچینی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hairdresser",
+    "pronunciation": "'herdreser",
+    "translates": {
+      "noun": ["سلمانی", "آرایشگاه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hairpin",
+    "pronunciation": "'herpin",
+    "translates": {
+      "noun": ["سنجاق سر", "سنجاق مو", "گیره سر", "گیره مو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hairy",
+    "pronunciation": "'heri",
+    "translates": {
+      "adjective": ["مودار", "پرمو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "half",
+    "pronunciation": "ha^f",
+    "translates": {
+      "noun": ["نیم", "نصف", "عدد یک دوم (1/2)"],
+      "adjective": ["نیم", "نیمی از"]
+    },
+    "subWords": {
+      "half an hour": ["نیم ساعت"]
+    }
+  },
+  {
+    "word": "half-time",
+    "pronunciation": "ha^f 'ta^ym",
+    "translates": {
+      "noun": ["فاصله بین دو نیمه بازی", "هاف تایم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "halfway",
+    "pronunciation": "ha^fwey",
+    "translates": {
+      "adjective": ["نیمه راه", "نیمه کاره", "نصفه کاره"],
+      "adverb": ["در وسطِ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hall",
+    "pronunciation": "hol",
+    "translates": {
+      "noun": [
+        "تالار",
+        "سالن",
+        "راهرو",
+        "هال",
+        "غذاخوری",
+        "خوابگاه",
+        "اتاق بزرگ"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hallelujah",
+    "pronunciation": "hali'looya^",
+    "translates": {
+      "noun": ["الهی شکر! الحمدالله!", "سپاس خداوند را", "تسبیح"],
+      "interjection": ["الهی شکر! الحمدالله!", "سپاس خداوند را"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hallo",
+    "pronunciation": "he'lo",
+    "translates": {
+      "noun": ["سلام", "آهای! هی!", "[تلفن] اَلو!"],
+      "interjection": ["سلام", "آهای! هی!", "[تلفن] اَلو!"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "halt",
+    "pronunciation": "holt",
+    "translates": {
+      "transitive-verb": ["متوقف کردن", "نگه داشتن", "ایست کردن"],
+      "intransitive-verb": ["توقف کردن", "ایستادن"],
+      "noun": ["توقف", "ایست", "مکث", "وقفه"]
+    },
+    "subWords": {
+      "come to a halt": ["متوقف شدن"]
+    }
+  },
+  {
+    "word": "halve",
+    "pronunciation": "ha^v",
+    "translates": {
+      "transitive-verb": ["نصف کردن", "دو نصف کردن", "دو نیم کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "halves",
+    "pronunciation": "ha^vz",
+    "translates": {
+      "noun": ["صورت جمع half (نصف)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ham",
+    "pronunciation": "ham",
+    "translates": {
+      "noun": ["ژامبون", "گوشت ران خوک", "گوشت ران"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hamburger",
+    "pronunciation": "'hamberger",
+    "translates": {
+      "noun": ["همبرگر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hammer",
+    "pronunciation": "'hamer",
+    "translates": {
+      "noun": ["چکش", "پتک"],
+      "transitive-verb": [
+        "با چکش زدن",
+        "با چکش کوبیدن",
+        "کوبیدن",
+        "زدن",
+        "له و لورده کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hammock",
+    "pronunciation": "'hamok",
+    "translates": {
+      "noun": ["نَنو", "بانوج"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hamper",
+    "pronunciation": "'hamper",
+    "translates": {
+      "transitive-verb": ["مشکل کردن", "مانع (چیزی) شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hand",
+    "pronunciation": "hand",
+    "translates": {
+      "noun": ["دست", "عقربه", "کارگر", "کمک", "طرف", "سمت"],
+      "transitive-verb": ["دادن", "به دست (کسی) دادن"]
+    },
+    "subWords": {
+      "at hand": ["نزدیک"],
+      "be in good hands": ["پیش آدم مطمئنی بودن"],
+      "be off somebody's hands": ["از دست (کسی یا چیزی) راحت شدن یا خلاص شدن"],
+      "by hand": ["با دست", "[نامه] به وسیله پیک"],
+      "change hands": ["دست به دست گشتن", "دست به دست شدن"],
+      "get out of hand": ["از کنترل خارج شدن"],
+      "give (or lend) a hand": ["کمک کردن", "سر چیزی را گرفتن"],
+      "hand down": ["منتقل کردن", "دادن", "تحویل دادن", "تسلیم کردن"],
+      "hands off": ["دست نزن!", "دستت را بکش!"],
+      "hand over": ["تحویل دادن", "دادن"],
+      "hands up": [
+        "[در کلاس و غیره] دست بلند کنید",
+        "[هنگام تحدید با اسلحه] دست ها بالا!"
+      ],
+      "have one's hands full": [
+        "سر کسی شلوغ بودن",
+        "گرفتار بودن",
+        "وقت سر خاراندن نداشتن"
+      ],
+      "lay one's hands on": [
+        "پیدا کردن",
+        "گیر آوردن",
+        "به کسی دسترسی پیدا کردن"
+      ],
+      "on the one hand": ["از یک طرف", "از طرفی"],
+      "on the other hand": ["از طرف دیگر"],
+      "shake hands with somebody": ["با کسی دست دادن"],
+      "wait on someone hand and foot": ["دست به سینه در خدمت کسی بودن"]
+    }
+  },
+  {
+    "word": "handbag",
+    "pronunciation": "'handbag",
+    "translates": {
+      "noun": ["کیفِ زنانه", "ساک", "چمدان کوچک", "کیف دستی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "handcuff",
+    "pronunciation": "'handka^f",
+    "translates": {
+      "noun": ["دستبند"],
+      "transitive-verb": ["دستبند زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "handful",
+    "pronunciation": "'handful",
+    "translates": {
+      "noun": ["(به اندازه) یک مشت", "معدودی", "تعداد انگشت شماری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hand grenade",
+    "pronunciation": "'hand grineyd",
+    "translates": {
+      "noun": ["نارنجک", "نارنجک دستی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "handicap",
+    "pronunciation": "'handikap",
+    "translates": {
+      "noun": ["نقص", "عیب", "نقطه ضعف", "نقص عضو"],
+      "transitive-verb": ["موجب عقب افتادگی شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "handkerchief",
+    "pronunciation": "'hangkerchif",
+    "translates": {
+      "noun": ["دستمال", "دستمال گردن"]
+    },
+    "subWords": {}
+  }
+]
