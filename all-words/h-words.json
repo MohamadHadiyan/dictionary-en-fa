@@ -365,5 +365,518 @@
       "noun": ["دستمال", "دستمال گردن"]
     },
     "subWords": {}
+  },
+  {
+    "word": "handle",
+    "pronunciation": "'handel",
+    "translates": {
+      "noun": ["دسته", "دستگیره"],
+      "transitive-verb": [
+        "دست زدن به",
+        "(با دست) جابجا کردن",
+        "اداره کردن",
+        "گرداندن",
+        "در دست گرفتن",
+        "کنترل کردن",
+        "از عهده برآمدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "handlebars",
+    "pronunciation": "'handelba^rz",
+    "translates": {
+      "noun": ["[دوچرخه و موتورسیکلت] فرمان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "handsome",
+    "pronunciation": "'handsa^m",
+    "translates": {
+      "adjective": [
+        "زیبا",
+        "قشنگ",
+        "[مرد] خوش قیافه",
+        "[زن] خوش اندام",
+        "قابل ملاحضه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "handwriting",
+    "pronunciation": "'handra^yting",
+    "translates": {
+      "noun": ["خط", "دست خط", "دست نوشته"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "handy",
+    "pronunciation": "'handi",
+    "translates": {
+      "adjective": [
+        "ماهر",
+        "چیره دست",
+        "خوش دست",
+        "راحت",
+        "آسان",
+        "مفید",
+        "در دسترس",
+        "نزدیک",
+        "دم دست"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hang",
+    "pronunciation": "hang",
+    "translates": {
+      "transitive-verb": [
+        "آویزان کردن",
+        "آویختن",
+        "چسباندن",
+        "زدن",
+        "دار زدن",
+        "به دار آویختن"
+      ],
+      "intransitive-verb": ["آویزان شدن", "آویزان بودن", "اعدام شدن"]
+    },
+    "subWords": {
+      "hang about": ["علاف بودن", "پرسه زدن", "ول گشتن"],
+      "hang back": ["شانه خالی کردن", "زیر بار نرفتن", "پا پس کشیدن"],
+      "hang on": ["صبر کردن"],
+      "hang onto something": ["چیزی را محکم گرفتن", "به چیزی محکم چسبیدن"]
+    }
+  },
+  {
+    "word": "hanger",
+    "pronunciation": "'hanger",
+    "translates": {
+      "noun": ["چوب لباسی", "آشیانه ( هواپیما )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "happen",
+    "pronunciation": "'hapen",
+    "translates": {
+      "intransitive-verb": [
+        "اتفاق افتادن",
+        "رخ دادن",
+        "روی دادن",
+        "اتفاقاً پیدا کردن یا دیدن"
+      ]
+    },
+    "subWords": {
+      "happen to": ["به طور اتفاقی", "بر حسب اتفاق", "تصادفاً"]
+    }
+  },
+  {
+    "word": "happening",
+    "pronunciation": "'hapening",
+    "translates": {
+      "noun": ["رویداد", "اتفاق", "واقعه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "happily",
+    "pronunciation": "'hapili",
+    "translates": {
+      "adverb": ["با خوشحالی", "خوشبختانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "happiness",
+    "pronunciation": "'hapinis",
+    "translates": {
+      "noun": ["خوشی", "خوشبختی", "سعادت", "شادی", "خرسندی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "happy",
+    "pronunciation": "'hapi",
+    "translates": {
+      "adjective": ["خوش", "خوشحال", "شاد", "راضی", "مبارک", "خرسند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "harbour, harbor",
+    "pronunciation": "'ha^rber",
+    "translates": {
+      "noun": ["بندرگاه", "لنگرگاه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hard",
+    "pronunciation": "ha^rd",
+    "translates": {
+      "adjective": ["سخت", "محکم", "مشکل", "دشوار", "خشن", "نامهربان"]
+    },
+    "subWords": {
+      "be hard on": ["سخت بودن برای", "به کسی سخت گرفتن"],
+      "hard up": ["فقیر", "بی پول"]
+    }
+  },
+  {
+    "word": "hardly",
+    "pronunciation": "'ha^rdli",
+    "translates": {
+      "adverb": ["به سختی", "به زحمت", "به ندرت", "اصلاً"]
+    },
+    "subWords": {
+      "hardly any": ["هیچ", "تقریباً هیچ"],
+      "hardly ever": ["به ندرت", "خیلی کم"]
+    }
+  },
+  {
+    "word": "hardware",
+    "pronunciation": "'ha^rdwer",
+    "translates": {
+      "noun": ["لوازمِ فلزی خانگی", "[کامپیوتر] سخت افزار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hard-wearing",
+    "pronunciation": "ha^rd 'wering",
+    "translates": {
+      "adjective": ["بادوام"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hardworking",
+    "pronunciation": "'ha^rdwerking",
+    "translates": {
+      "adjective": ["سخت کوش", "پرکار", "جدی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hardy",
+    "pronunciation": "'ha^rdi",
+    "translates": {
+      "adjective": [
+        "قوی",
+        "پر طاقت",
+        "بی باک",
+        "دلیر",
+        "سر سخت",
+        "[گیاه] مقاوم"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hare",
+    "pronunciation": "her",
+    "translates": {
+      "noun": ["خرگوش (صحرایی)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "harm",
+    "pronunciation": "ha^rm",
+    "translates": {
+      "noun": ["اذیت", "آزار", "صدمه", "آسیب", "ضرر", "زیان"],
+      "transitive-verb": ["آسیب رساندن", "صدمه زدن", "زیان رساندن"]
+    },
+    "subWords": {
+      "come to harm": ["آسیب دیدن"]
+    }
+  },
+  {
+    "word": "harmful",
+    "pronunciation": "'ha^rmful",
+    "translates": {
+      "adjective": ["مضر", "زیان بخش", "خطرناک", "زیان آور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "harmless",
+    "pronunciation": "'ha^rmlis",
+    "translates": {
+      "adjective": [
+        "بی ضرر",
+        "بی آزار",
+        "بی خطر",
+        "بی گناه",
+        "معصوم",
+        "معصومانه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "harmonica",
+    "pronunciation": "ha^r'ma^nika^",
+    "translates": {
+      "noun": ["ساز دهنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "harmonious",
+    "pronunciation": "ha^r'moniyes",
+    "translates": {
+      "adjective": ["موزون", "هم آهنگ", "آهنگین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "harmony",
+    "pronunciation": "'ha^rmoni",
+    "translates": {
+      "noun": ["هم آهنگی", "همسازی", "هارمونی", "توازن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "harness",
+    "pronunciation": "'ha^rnis",
+    "translates": {
+      "noun": ["ساز و برگ اسب (= دهانه", "عنان و غیره)"],
+      "transitive-verb": ["مهار کردن", "تحت کنترل در آوردن", "افسار زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "harp",
+    "pronunciation": "ha^rp",
+    "translates": {
+      "noun": ["چنگ (= نوعی آلت موسقی)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "harpoon",
+    "pronunciation": "ha^r'poon",
+    "translates": {
+      "noun": ["زوبینِ صید نهنگ", "نیزه"],
+      "transitive-verb": ["با زوبین صید کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "harsh",
+    "pronunciation": "ha^rsh",
+    "translates": {
+      "adjective": [
+        "خشن",
+        "زمخت",
+        "شدید",
+        "بی رحم",
+        "سختگیر",
+        "تند",
+        "نا ملایم"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "harshly",
+    "pronunciation": "ha^rshli",
+    "translates": {
+      "adverb": ["بی رحمانه", "با بی رحمی", "با خشونت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "harvest",
+    "pronunciation": "'ha^rvist",
+    "translates": {
+      "noun": ["درو", "فصل درو", "خرمن"],
+      "transitive-verb": ["درو کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "has",
+    "pronunciation": "haz",
+    "translates": {
+      "auxiliary-verb": ["صورت صرف شده فعل have برای سوم شخص مفرد (دارد)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hash",
+    "pronunciation": "hash",
+    "translates": {
+      "transitive-verb": ["[گوشت] خرد کردن", "ریزه ریزه کردن"],
+      "noun": ["افتضاح", "مخلوط"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hasn't, has not",
+    "pronunciation": "hazent",
+    "translates": {
+      "auxiliary-verb": ["نداشته است", "ندارد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "haste",
+    "pronunciation": "heyst",
+    "translates": {
+      "noun": ["شتاب", "عجله"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hasten",
+    "pronunciation": "'heysten",
+    "translates": {
+      "intransitive-verb": ["عجله کردن", "با عجله رفتن", "شتافتن"],
+      "transitive-verb": [
+        "به عجله واداشتن",
+        "جلو انداختن",
+        "تسریع کردن",
+        "تندتر کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hasty",
+    "pronunciation": "'heysti",
+    "translates": {
+      "adjective": ["عجول", "بی صبر", "ناشکیبا", "عجولانه", "شتاب زده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hat",
+    "pronunciation": "hat",
+    "translates": {
+      "noun": ["کلاه", "[عامیانه] آدم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hatch",
+    "pronunciation": "hach",
+    "translates": {
+      "noun": ["دریچه", "دربچه"],
+      "transitive-verb": [
+        "هاشور زدن",
+        "تخم گذاشتن",
+        "روی تخم نشستن",
+        "جوجه بیرون آمدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hate",
+    "pronunciation": "heyt",
+    "translates": {
+      "transitive-verb": ["نفرت داشتن", "بیزار بودن", "تنفر داشتن"],
+      "noun": ["نفرت", "بیزاری", "تنفر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hateful",
+    "pronunciation": "heytful",
+    "translates": {
+      "adjective": ["نفرت انگیز", "زشت", "متنفر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hatred",
+    "pronunciation": "'heytrid",
+    "translates": {
+      "noun": ["تنفر", "انزجار", "نفرت", "کینه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "haul",
+    "pronunciation": "hol",
+    "translates": {
+      "transitive-verb": [
+        "کشاندن",
+        "(به زحمت) کشیدن",
+        "کشان کشان بردن",
+        "به زور بردن",
+        "حمل کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "haunt",
+    "pronunciation": "hont",
+    "translates": {
+      "transitive-verb": [
+        "زیاد رفت و آمد کردن",
+        "( جایی را ) پاتوق کردن",
+        "[ ارواح و اشباه ] تسخیر کردن",
+        "مکرر به خاطر آمدن",
+        "ذهن ( کسی را ) اشغال کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "have",
+    "pronunciation": "hav",
+    "translates": {
+      "auxiliary-verb": [
+        "فعل معین با کاربرد های دستوری گوناگون:در ساختن ماضی نقلی به کار می رود و بسته به شخص و عدد",
+        "برابر فارسی آن یکی از این موارد است: _ام",
+        "_ایم",
+        "_ای",
+        "_اید",
+        "است",
+        "_اند",
+        "در ساختن فعل ماضی بعید به کار می رود و بسته به شخص و عدد",
+        "برابر فارسی آن یکی از این موارد است : بودم",
+        "بودیم",
+        "بودی",
+        "بودید",
+        "بود",
+        "بودند"
+      ],
+      "transitive-verb": [
+        "داشتن",
+        "دارا بودن",
+        "اجازه دادن",
+        "واداشتن",
+        "خوردن"
+      ]
+    },
+    "subWords": {
+      "have a good time": ["خوش گذشتن", "لذت بردن"],
+      "Have a good time at the party.": ["مهمانی خوش بگذرد."],
+      "have got": ["داشتن"],
+      "have (got) to": ["باید", "مجبور بودن"],
+      "have someone do something": ["کاری را از کسی خواستن"],
+      "I had the mechanic examine the car brakes.": [
+        "از مکانیک خواستم که ترمز های ماشین را بازدید کند."
+      ],
+      "have something done": [
+        "انجام دادن کاری را از دیگری خواستن",
+        "اتفاق بدی برای کسی یا چیزی افتادن"
+      ],
+      "You should have your shoes polished.": [
+        "باید کفش هایت را بدهی واکس بزنند."
+      ],
+      "She had her bag stolen on the bus.": ["کیفش را توی اتوبوس دزدیدند."],
+      "will not have": ["نگذاشتن", "اجازه ندادن"]
+    }
   }
 ]
