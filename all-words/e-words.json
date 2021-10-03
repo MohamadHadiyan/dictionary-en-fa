@@ -1356,6 +1356,14 @@
     "subWords": {}
   },
   {
+    "word": "emulate",
+    "pronunciation": "i'myooleyt",
+    "translates": {
+      "transitive-verb": ["تقلید کردن", "برابری جستن", "هم چشمی کردن با"]
+    },
+    "subWords": {}
+  },
+  {
     "word": "emulsion",
     "pronunciation": "i'ma^lshen",
     "translates": {
@@ -2128,6 +2136,14 @@
     "pronunciation": "'episod",
     "translates": {
       "noun": ["حادثه", "[ نمایش و داستان ] قسمت", "بخش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "epoch",
+    "pronunciation": "'iipa^k",
+    "translates": {
+      "noun": ["عصر", "دوره", "مبدا تاریخ", "زمان", "حادثه تارخی"]
     },
     "subWords": {}
   },

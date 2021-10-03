@@ -878,5 +878,308 @@
       "She had her bag stolen on the bus.": ["کیفش را توی اتوبوس دزدیدند."],
       "will not have": ["نگذاشتن", "اجازه ندادن"]
     }
+  },
+  {
+    "word": "hawk",
+    "pronunciation": "hok",
+    "translates": {
+      "noun": ["باز", "قوچ", "شاهین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hay",
+    "pronunciation": "hey",
+    "translates": {
+      "noun": ["علف خشک", "یونجه خشک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hay fever",
+    "pronunciation": "'hey fiiver",
+    "translates": {
+      "noun": ["تب یونجه", "زکام در اثر حساسیت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "haystack",
+    "pronunciation": "'heystak",
+    "translates": {
+      "noun": ["دسته علف خشک", "کومه علف خشک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "'hazard",
+    "pronunciation": "'hazerd",
+    "translates": {
+      "noun": ["خطر", "اتفاق"],
+      "transitive-verb": ["به خطر انداختن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hazardous",
+    "pronunciation": "'hazerdes",
+    "translates": {
+      "adjective": ["پر خطر", "مخاطره آمیز", "تصادفی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "haze",
+    "pronunciation": "heyz",
+    "translates": {
+      "noun": ["مه رقیق", "غبار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hazel",
+    "pronunciation": "'heyzel",
+    "translates": {
+      "noun": ["فندق", "درخت فندق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hazy",
+    "pronunciation": "'heyzi",
+    "translates": {
+      "adjective": ["مه آلود", "غبار آلود"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "he",
+    "pronunciation": "hii",
+    "translates": {
+      "pronoun": ["[ضمیر فاعلی", "سوم شخص مفرد مذکر] او", "وی", "آن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "head",
+    "pronunciation": "hed",
+    "translates": {
+      "noun": [
+        "سر",
+        "کله",
+        "مخ",
+        "بالا",
+        "جلو",
+        "پیشاپیش",
+        "صدر",
+        "عقل",
+        "ذهن",
+        "فکر",
+        "فهم",
+        "شعور",
+        "رئیس",
+        "رهبر",
+        "[سکه] شیر"
+      ],
+      "transitive-verb": [
+        "پیشاپیش (چیزی) بودن",
+        "در بالای (چیزی) بودن",
+        "سرپرستی کردن"
+      ]
+    },
+    "subWords": {
+      "a head": ["هر نفر"],
+      "go to somebody's head": ["کسی را غره کردن", "کسی را مست کردن"],
+      "hang one's head": ["سر خود را پایین انداختن"],
+      "keep one's head": [
+        "آرامش خودر ار حفظ کردن",
+        "دست و پای خود را گم نکردن"
+      ],
+      "lose one's head": ["دست و پای خود را گم کردن", "دستپاچه شدن"],
+      "per head": ["هر نفر"],
+      "put heads together": ["عقل های خود را روی هم گذاشتن"],
+      "use one's head": ["عقل خود را به کار انداختن"]
+    }
+  },
+  {
+    "word": "headache",
+    "pronunciation": "'hedeyk",
+    "translates": {
+      "noun": ["سردرد"]
+    },
+    "subWords": {
+      "have a headache": ["سر (کسی) درد کردن"]
+    }
+  },
+  {
+    "word": "heading",
+    "pronunciation": "'heding",
+    "translates": {
+      "noun": ["عنوان", "سرفصل", "سرنامه", "سرصفحه", "فصل", "بخش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "headlight",
+    "pronunciation": "'hedla^yt",
+    "translates": {
+      "noun": ["[اتومبیل] چراغ جلو", "چراغ بزرگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "headline",
+    "pronunciation": "'hedla^yn",
+    "translates": {
+      "noun": [
+        "[روزنامه] عنوان",
+        "تیتر",
+        "[به صورت جمع] سرخط اخبار",
+        "اهمِ اخبار"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "headlong",
+    "pronunciation": "'hedla^ng",
+    "translates": {
+      "adverb": ["با سر", "با کله", "با دستپاچگی"],
+      "adjective": ["عجولانه", "نسنجیده", "سراسیمه", "بی پروا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "headmaster",
+    "pronunciation": "hed'ma^ster",
+    "translates": {
+      "noun": ["مدیر مدرسه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "headmistress",
+    "pronunciation": "hed'mistris",
+    "translates": {
+      "noun": ["خانم مدیر", "مدیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "headphones",
+    "pronunciation": "'hedfonz",
+    "translates": {
+      "noun": ["گوشی", "هِدفون"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "headquarters",
+    "pronunciation": "'hedkworterz",
+    "translates": {
+      "noun": ["ستاد", "مرکز فرماندهی", "مرکز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "heal",
+    "pronunciation": "hiil",
+    "translates": {
+      "intransitive-verb": ["بهبود یافتن", "التیام یافتن"],
+      "transitive-verb": ["بهبود بخشیدن", "التیام دادن", "شفا دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "health",
+    "pronunciation": "helth",
+    "translates": {
+      "noun": ["سلامت", "سلامتی", "تندرستی", "وضع جسمانی", "بهداشت"]
+    },
+    "subWords": {
+      "drink somebody's health": ["به سلامتی کسی نوشیدن"]
+    }
+  },
+  {
+    "word": "health food",
+    "pronunciation": "'helth food",
+    "translates": {
+      "noun": ["غذای سالم", "غذای بهداشتی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "healthy",
+    "pronunciation": "'helthi",
+    "translates": {
+      "adjective": [
+        "سالم",
+        "با نشاط",
+        "شاداب",
+        "سرحال",
+        "تندرست",
+        "گواه بر سلامتی",
+        "مفید",
+        "مناسب"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "heap",
+    "pronunciation": "hiip",
+    "translates": {
+      "noun": ["کپه", "توده", "پشته", "کومه", "یک عالمه", "خیلی"],
+      "transitive-verb": ["کپه کردن", "تلنبار کردن", "پُر کردن"]
+    },
+    "subWords": {
+      "heap of": ["یک عالمه", "کلی"]
+    }
+  },
+  {
+    "word": "hear",
+    "pronunciation": "'hiyer",
+    "translates": {
+      "transitive-verb": ["شنیدن", "خبردار شدن", "دانستن", "شناختن"],
+      "intransitive-verb": ["گوش دادن", "توجه کردن"]
+    },
+    "subWords": {
+      "hear from somebody": ["از کسی خبر داشتن"],
+      "hear of": ["(درباره کسی یا چیزی) اطلاعی داشتن", "چیزی دانستن"],
+      "will not hear of": ["نگذاشتن", "اجازه ندادن"]
+    }
+  },
+  {
+    "word": "heard",
+    "pronunciation": "herd",
+    "translates": {
+      "past-tens": ["گذشته فعل hear (شنید)"],
+      "past-participle": ["اسم مفعول فعل hear"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "heart",
+    "pronunciation": "ha^rt",
+    "translates": {
+      "noun": ["قلب", "دل", "[ورق بازی] دل", "دل و دماغ"]
+    },
+    "subWords": {
+      "break somebody's heart": ["دل کسی را شکستن"],
+      "cry one's heart out": ["زار زار گریه کردن"],
+      "have a change of heart": ["دل کسی به رحم آمدن", "نظر خود را تغییر دادن"],
+      "have one's heart in one's mouth": ["از ترس زَهره ترک شدن"],
+      "have one's heart set on": [
+        "بی قرار (چیزی) بودن",
+        "برای (چیزی) بی تاب بودن"
+      ],
+      "learn something by heart": ["چیزی را از حفظ کردن", "چیزی را از بر کردن"],
+      "lose heart": ["مایوس شدن"],
+      "not have the heart": ["دلِ ( کاری را ) نداشتن"],
+      "somebody's heart sinks": ["دل کسی فرو ریختن"],
+      "take heart": ["دل و جرئت پیدا کردن"],
+      "take something to heart": ["چیزی را به دل گرفتن"],
+      "with a heavy heart": ["با دلی شکسته", "با اندوه", "غصه دار"]
+    }
   }
 ]

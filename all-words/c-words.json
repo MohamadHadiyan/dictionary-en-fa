@@ -5216,6 +5216,22 @@
     "subWords": {}
   },
   {
+    "word": "configure",
+    "pronunciation": "ka^n'figer",
+    "translates": {
+      "transitive-verb": ["پیکربندی کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "configuration",
+    "pronunciation": "ka^nfigyoo'reyshen",
+    "translates": {
+      "noun": ["پیکربندی"]
+    },
+    "subWords": {}
+  },
+  {
     "word": "confine",
     "pronunciation": "ka^n'fa^yn",
     "translates": {
@@ -8434,6 +8450,14 @@
       "cry off": ["دبه در آوردن", "زیرش زدن"],
       "cry out": ["داد زدن", "فریاد کشیدن"]
     }
+  },
+  {
+    "word": "cryptic",
+    "pronunciation": "'kriptik",
+    "translates": {
+      "adjective": ["مرموز", "رمزی", "پنهان", "سری"]
+    },
+    "subWords": {}
   },
   {
     "word": "crystal",

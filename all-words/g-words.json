@@ -1867,6 +1867,15 @@
     "subWords": {}
   },
   {
+    "word": "grasp",
+    "pronunciation": "grasp",
+    "translates": {
+      "noun": ["فهم", "اخذ", "چنگ زنی"],
+      "transitive-verb": ["چنگ زدن", "فهمیدن", "گیر آوردن"]
+    },
+    "subWords": {}
+  },
+  {
     "word": "gravely",
     "pronunciation": "'greyvli",
     "translates": {
