@@ -1181,5 +1181,459 @@
       "take something to heart": ["چیزی را به دل گرفتن"],
       "with a heavy heart": ["با دلی شکسته", "با اندوه", "غصه دار"]
     }
+  },
+  {
+    "word": "heartbroken",
+    "pronunciation": "'ha^rtbroken",
+    "translates": {
+      "adjective": ["دل شکسته", "غمگین", "غصه دار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hearth",
+    "pronunciation": "ha^rth",
+    "translates": {
+      "noun": ["کوره", "اجاق", "آتشدان", "کف منقل", "خانه", "خانواده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "heartily",
+    "pronunciation": "'ha^rtli",
+    "translates": {
+      "adverb": [
+        "با تمام وجود",
+        "از ته دل",
+        "از صمیم قلب",
+        "با اشتها",
+        "کاملاً"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hearty",
+    "pronunciation": "'ha^rti",
+    "translates": {
+      "adjective": ["صمیمانه", "دوستانه", "گرم", "دلچسب", "سالم", "بزرگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "heat",
+    "pronunciation": "hiit",
+    "translates": {
+      "noun": ["حرارت", "گرما", "گرمی", "مسابقه مقدماتی"],
+      "intransitive-verb": ["گرم شدن"],
+      "transitive-verb": ["گرم کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "heath",
+    "pronunciation": "hiith",
+    "translates": {
+      "noun": ["خلنگ زار", "تیغستان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "heather",
+    "pronunciation": "'hedher",
+    "translates": {
+      "noun": ["خلنگ", "ورسک", "علف جاروب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "heave",
+    "pronunciation": "hiiv",
+    "translates": {
+      "transitive-verb": [
+        "(به زحمت) بالا کشیدن یا بلند کردن",
+        "پرتاب کردن",
+        "تقلا کردن"
+      ],
+      "noun": ["تکان", "حرکت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "heaven",
+    "pronunciation": "'heven",
+    "translates": {
+      "noun": ["بهشت", "ملکوت", "[به صورت جمع] آسمان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "heavenly",
+    "pronunciation": "'hevenli",
+    "translates": {
+      "adjective": [
+        "بهشتی",
+        "ملکوتی",
+        "آسمانی",
+        "فلکی",
+        "محشر",
+        "معرکه",
+        "قشنگ"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "heavy",
+    "pronunciation": "'hevi",
+    "translates": {
+      "adjective": ["سنگین", "سخت", "شاق", "کند", "زیاد", "شدید", "دیر هضم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Hebrew",
+    "pronunciation": "'hiibroo",
+    "translates": {
+      "noun": ["عبرانی", "یهودی", "عبری", "زبان عبری"],
+      "adjective": ["عبرانی", "یهودی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hectare",
+    "pronunciation": "'hekta^r",
+    "translates": {
+      "noun": ["هکتار (= ده هزار متر مربع)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "he'd",
+    "pronunciation": "hiid",
+    "translates": {
+      "pronoun": ["he had (او داشت)", "he would (او میخواهد)", "او می_"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hedge",
+    "pronunciation": "hej",
+    "translates": {
+      "noun": ["پرچین", "مانع", "حصار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hedgehog",
+    "pronunciation": "'hejha^g",
+    "translates": {
+      "noun": ["خار پشت", "جوجه تیغی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "heel",
+    "pronunciation": "hiil",
+    "translates": {
+      "noun": ["پاشنه پا", "پاشنه کفش", "پاشنه جوراب"]
+    },
+    "subWords": {
+      "at (or on) somebody's heels": ["بلافاصله به دنبالِ", "درست پشت سرِ"]
+    }
+  },
+  {
+    "word": "hefty",
+    "pronunciation": "'hefti",
+    "translates": {
+      "adjective": ["قوی", "تنومند", "سنگین", "ثقیل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "height",
+    "pronunciation": "ha^yt",
+    "translates": {
+      "noun": ["ارتفاع", "بلندی", "ارتفاعات", "قد", "اوج", "بحبوحه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "heir",
+    "pronunciation": "er",
+    "translates": {
+      "noun": ["وارث", "واری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "heiress",
+    "pronunciation": "'eris",
+    "translates": {
+      "noun": ["وارث (زن)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "held",
+    "pronunciation": "held",
+    "translates": {
+      "past-tens": ["گذشته فعل hold (نگه داشت)"],
+      "past-participle": ["اسم مفعول فعل hold"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "helicopter",
+    "pronunciation": "'helika^pter",
+    "translates": {
+      "noun": ["هلیکوپتر", "بالگرد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hell",
+    "pronunciation": "hel",
+    "translates": {
+      "noun": ["جهنم", "دورزخ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "he'll",
+    "pronunciation": "hiil",
+    "translates": {
+      "pronoun": ["he will ( او خواهد )", "he shall ( او باید )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hellish",
+    "pronunciation": "'helish",
+    "translates": {
+      "adjective": ["جهنمی", "دورزخی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hello",
+    "pronunciation": "he'lo",
+    "translates": {
+      "noun": ["سلام", "آهای! هی!", "[تلفن] اَلو"],
+      "interjection": ["سلام", "آهای! هی!", "[تلفن] اَلو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "helmet",
+    "pronunciation": "'helmit",
+    "translates": {
+      "noun": ["کلاه ایمنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "help",
+    "pronunciation": "help",
+    "translates": {
+      "noun": ["کمک", "یاری", "امداد", "خدمتکار"],
+      "transitive-verb": ["کمک کردن", "مدد رساندن"]
+    },
+    "subWords": {
+      "help someone to something": ["به کسی غذا یا نوشیدنی دادن"],
+      "I helped him to a cup of tea.": ["من یک فنجان چای به او دادم."],
+      "help yourself": ["[در مورد غذا و غیره] بفرمایید"],
+      "It can't be helped": ["چاره ای نیست"]
+    }
+  },
+  {
+    "word": "helping",
+    "pronunciation": "'helping",
+    "translates": {
+      "noun": ["[ غذا ] پُرس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "helpless",
+    "pronunciation": "'helplis",
+    "translates": {
+      "adjective": ["ناتوان", "درمانده", "بیچاره", "عاجز", "بی دفاع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hem",
+    "pronunciation": "hem",
+    "translates": {
+      "noun": ["[ لباس ] تو", "لبه", "حاشیه", "سجاف"],
+      "transitive-verb": ["تو گذاشتن", "لبه دار کردن", "سجاف کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hen",
+    "pronunciation": "hen",
+    "translates": {
+      "noun": ["مرغ", "پرنده ماده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hence",
+    "pronunciation": "hens",
+    "translates": {
+      "adverb": ["به این دلیل", "از این رو", "بنابراین", "از این جاست"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "her",
+    "pronunciation": "her",
+    "translates": {
+      "pronoun": [
+        "[ضمیر مفعولی",
+        "سوم شخص مفرد مونث] او را",
+        "به او",
+        "مال او",
+        "[صفت ملکی",
+        "سوم شخص مفرد مونث] ــَ ش",
+        "ــِ او"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "herb",
+    "pronunciation": "herb",
+    "translates": {
+      "noun": [
+        "علف",
+        "گیاه",
+        "گیاه دارویی",
+        "گیاه ادویه ای",
+        "ادویه",
+        "شاخ و برگ گیاهان"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "herd",
+    "pronunciation": "herd",
+    "translates": {
+      "noun": ["گله", "رمه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "here",
+    "pronunciation": "'hiyer",
+    "translates": {
+      "adverb": ["این جا", "در این وقت", "در این جا"],
+      "interjection": ["[حضور و غیاب] حاضر!", "هِی!", "اوهوی!"]
+    },
+    "subWords": {
+      "here and there": ["این جا و آن جا", "این طرف و آن طرف", "در اطراف"],
+      "here is to ... happiness!": ["به سلامتی...!"],
+      "here you are": ["[هنگام تعارف کردن چیزی] بفرمایید"]
+    }
+  },
+  {
+    "word": "heritage",
+    "pronunciation": "'heritij",
+    "translates": {
+      "noun": ["میراث", "ارثیه", "ماترک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hero",
+    "pronunciation": "'hiyero",
+    "translates": {
+      "noun": ["قرمان", "قهرمان داستان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "heroic",
+    "pronunciation": "hi'royik",
+    "translates": {
+      "adjective": ["قهرمانانه", "شجاعانه", "حماسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "heroin",
+    "pronunciation": "'heroyin",
+    "translates": {
+      "noun": ["هروئین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "herring",
+    "pronunciation": "'hering",
+    "translates": {
+      "noun": ["شاه ماهی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hers",
+    "pronunciation": "herz",
+    "translates": {
+      "pronoun": ["[ضمیر ملکی", "سوم شخص مفرد مونث] مال او", "ــِ او", "ـــَ ش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "herself",
+    "pronunciation": "her'self",
+    "translates": {
+      "past-tens": [
+        "[ضمیر انعکاسی",
+        "سوم شخص مفرد مونث] خودش را",
+        "به خودش",
+        "از خودش",
+        "خودش",
+        "[ضمیر تاکیدی] خودش"
+      ]
+    },
+    "subWords": {
+      "by herself": ["تنها", "به تنهایی"]
+    }
+  },
+  {
+    "word": "he's",
+    "pronunciation": "hiiz",
+    "translates": {
+      "pronoun": ["he is ( او هست )", "he has ( او دارد )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hesitant",
+    "pronunciation": "'hezitent",
+    "translates": {
+      "adjective": ["مردد", "دو دل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hesitate",
+    "pronunciation": "'heziteyt",
+    "translates": {
+      "intransitive-verb": ["تردید کردن", "شک کردن", "مردد بودن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hesitation",
+    "pronunciation": "hezi'teyshen",
+    "translates": {
+      "noun": ["تردید", "شک", "مکث", "درنگ", "تامل"]
+    },
+    "subWords": {}
   }
 ]
