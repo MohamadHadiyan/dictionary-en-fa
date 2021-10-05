@@ -1635,5 +1635,534 @@
       "noun": ["تردید", "شک", "مکث", "درنگ", "تامل"]
     },
     "subWords": {}
+  },
+  {
+    "word": "hiccup",
+    "pronunciation": "'hika^p",
+    "translates": {
+      "noun": ["سکسکه", "اشکال جزئی"],
+      "transitive-verb": ["سکسکه کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hid",
+    "pronunciation": "hid",
+    "translates": {
+      "past-tens": ["گذشته فعل hide (مخفی کرد)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hidden",
+    "pronunciation": "'hiden",
+    "translates": {
+      "past-participle": ["اسم مفعول فعل hide"],
+      "adjective": ["پنهان", "مخفی", "پنهانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hide",
+    "pronunciation": "ha^yd",
+    "translates": {
+      "transitive-verb": ["مخفی کردن", "قایم کردن", "پنهان کردن", "نهان کردن"],
+      "intransitive-verb": ["مخفی شدن", "پنهان شدن", "نهفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hide-and-seek",
+    "pronunciation": "ha^yd an 'siik",
+    "translates": {
+      "noun": ["(بازی) قایم موشک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hideous",
+    "pronunciation": "'hidiyes",
+    "translates": {
+      "adjective": ["زشت", "کریه", "شنیع", "هولناک", "دردناک", "تلخ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hiding",
+    "pronunciation": "'ha^yding",
+    "translates": {
+      "noun": ["اختفا", "کتک"]
+    },
+    "subWords": {
+      "be in hiding": ["مخفی بودن"],
+      "go into hiding": ["مخفی شدن", "خود را پنهان کردن", "قایم شدن"]
+    }
+  },
+  {
+    "word": "hiding-place",
+    "pronunciation": "'ha^yding pleys",
+    "translates": {
+      "noun": ["مخفی گاه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hi-fi",
+    "pronunciation": "ha^y 'fa^y",
+    "translates": {
+      "adjective": [
+        "[دستگاه های صوتی] بسیار حساس",
+        "با کیفیت بالا",
+        "های فای high fidelity"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "high",
+    "pronunciation": "ha^y",
+    "translates": {
+      "adjective": ["بلند", "مرتفع", "مهم", "عالی", "زیاد", "بالا", "بزرگ"]
+    },
+    "subWords": {
+      "high and low": ["همه جا", "تمام سوراخ سُمبه ها", "زمین و زمان"]
+    }
+  },
+  {
+    "word": "highbrow",
+    "pronunciation": "'ha^ybrao",
+    "translates": {
+      "noun": ["اهل فضل و هنر", "مدعی فضل"],
+      "adjective": ["دارای سعه نظر", "روشن فکر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "high fidelity",
+    "pronunciation": "ha^y fi'deliti",
+    "translates": {
+      "noun": ["[دستگاه های صوتی] بسیار حساس", "با کیفیت بالا", "های فای"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "highland",
+    "pronunciation": "'ha^yland",
+    "translates": {
+      "adjective": ["کوهستانی"],
+      "noun": ["منطقه کوهستانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Highlander",
+    "pronunciation": "'ha^ylander",
+    "translates": {
+      "noun": ["[در اسکاتلند] کوه نشین", "اهل کوهستان", "ساکن کوه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Highlands",
+    "pronunciation": "'ha^ylandz",
+    "translates": {
+      "noun": ["مناطق کوهستانی اسکاتلند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "highly",
+    "pronunciation": "'ha^yli",
+    "translates": {
+      "adverb": ["بسیار", "خیلی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "highness",
+    "pronunciation": "'ha^ynis",
+    "translates": {
+      "noun": ["بلندی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "high school",
+    "pronunciation": "'ha^y skool",
+    "translates": {
+      "noun": ["دبیرستان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "high tea",
+    "pronunciation": "ha^y 'tii",
+    "translates": {
+      "noun": ["شام (سبک)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "highway",
+    "pronunciation": "'ha^ywey",
+    "translates": {
+      "noun": ["شاهراه", "بزرگراه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "highwayman",
+    "pronunciation": "'ha^yweyman",
+    "translates": {
+      "noun": ["راهزن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hijack",
+    "pronunciation": "'ha^yjak",
+    "translates": {
+      "noun": ["هواپیما ربایی"],
+      "transitive-verb": ["[ هواپیما ] ربودن", "به سرقت بردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hijacker",
+    "pronunciation": "ha^yjaker",
+    "translates": {
+      "noun": ["هواپیما ربا", "راهزن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hike",
+    "pronunciation": "ha^yk",
+    "translates": {
+      "transitive-verb": ["پیاده روی کردن"],
+      "intransitive-verb": ["پیاده روی رفتن"],
+      "noun": ["پیاده روی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hill",
+    "pronunciation": "hil",
+    "translates": {
+      "noun": ["تپه", "سربالایی", "شیب", "تَل", "توده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hilly",
+    "pronunciation": "'hili",
+    "translates": {
+      "adverb": ["(پر از) تپه ماهور", "پر از پستی بلندی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hilt",
+    "pronunciation": "hilt",
+    "translates": {
+      "noun": ["[شمشیر] دسته", "قبضه"]
+    },
+    "subWords": {
+      "up to the hilt": ["کاملاً"]
+    }
+  },
+  {
+    "word": "him",
+    "pronunciation": "him",
+    "translates": {
+      "pronoun": ["[ضمیر مفعولی", "سوم شخص مفرد مذکر] او را", "به او"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "himself",
+    "pronunciation": "him'self",
+    "translates": {
+      "pronoun": [
+        "[ضمیر انعکاسی",
+        "سوم شخص مفرد مذکر] خودش را",
+        "به خودش",
+        "از خودش",
+        "خودش",
+        "[ضمیر تاکیدی] خودش"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hind",
+    "pronunciation": "ha^ynd",
+    "translates": {
+      "adjective": ["عقب", "عقبی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hinder",
+    "pronunciation": "'ha^ynder",
+    "translates": {
+      "transitive-verb": [
+        "مزاحم شدن",
+        "مانع شدن",
+        "پاگیر شدن",
+        "به تاخیر انداختن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Hindu",
+    "pronunciation": "'hindoo",
+    "translates": {
+      "noun": ["هندو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Hinduism",
+    "pronunciation": "'hindoo-izem",
+    "translates": {
+      "noun": ["آیین هندو", "دین هندو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hinge",
+    "pronunciation": "hinj",
+    "translates": {
+      "noun": ["لولا", "محور", "مفصل"],
+      "intransitive-verb": ["لولا انداختن", "گشتن بر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hint",
+    "pronunciation": "hint",
+    "translates": {
+      "noun": ["اشاره", "کنایه"],
+      "transitive-verb": ["اشاره کردن", "به کنایه گفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hip",
+    "pronunciation": "hip",
+    "translates": {
+      "noun": ["کفل", "لُمبر", "مفصل ران"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hippopotamus",
+    "pronunciation": "hipo'pa^temes",
+    "translates": {
+      "noun": ["اسب آبی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hire",
+    "pronunciation": "ha^yer",
+    "translates": {
+      "transitive-verb": ["کرایه کردن", "[کارگر] گرفتن", "استخدام کردن"],
+      "noun": ["کرایه", "اجاره", "اجرت"]
+    },
+    "subWords": {
+      "hire out": ["( چیزی را ) کرایه دادن"]
+    }
+  },
+  {
+    "word": "hire purchase",
+    "pronunciation": "ha^yer 'perchis",
+    "translates": {
+      "noun": ["خرید اقساطی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "his",
+    "pronunciation": "hiz",
+    "translates": {
+      "adjective": ["[صفت ملکی", "سوم شخص مفرد مذکر] ــَ ش", "ــِ او"],
+      "pronoun": ["[ضمیر ملکی", "سوم شخص مفرد مذکر] مالِ او", "ــِ او"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hiss",
+    "pronunciation": "his",
+    "translates": {
+      "noun": ["سوت", "صدای خش خش", "صدای فش فش", "صدای هیس"],
+      "intransitive-verb": [
+        "فش فش کردن",
+        "جلز و ولز کردن",
+        "هو کردن",
+        "سوت کشیدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "historic",
+    "pronunciation": "his'ta^rik",
+    "translates": {
+      "adjective": ["تاریخی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "history",
+    "pronunciation": "'histri",
+    "translates": {
+      "noun": ["تاریخ", "تاریخچه", "سرگذشت", "شرح حال", "سابقه", "پیشینه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hit",
+    "pronunciation": "hit",
+    "translates": {
+      "transitive-verb": [
+        "زدن",
+        "ضربه زدن",
+        "خوردن به",
+        "رسیدن به",
+        "اصابت کردن",
+        "به هدف زدن"
+      ],
+      "noun": ["ضربه", "اصابت", "برخورد", "موفقیت"],
+      "past-tens": ["گذشته فعل hit"],
+      "past-participle": ["اسم مفعول فعل hit"]
+    },
+    "subWords": {
+      "hit the nail on the head": [
+        "حق مطلب را خوب ادا کردن",
+        "درست تشخیص دادن",
+        "کاملاً درست گفتن"
+      ]
+    }
+  },
+  {
+    "word": "hitch",
+    "pronunciation": "hich",
+    "translates": {
+      "transitive-verb": [
+        "بالا کشیدن",
+        "بستن",
+        "گره زدن",
+        "مجانی سوار شدن",
+        "هُل دادن",
+        "تکان دادن"
+      ],
+      "noun": ["تکان", "هُل", "خِفت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hitchhike",
+    "pronunciation": "'hich-ha^yk",
+    "translates": {
+      "intransitive-verb": ["مجانی سوار شدن", "اتو اِستاپ زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hive",
+    "pronunciation": "ha^yv",
+    "translates": {
+      "noun": ["کندو", "مرکز تجمع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hives",
+    "pronunciation": "ha^yvz",
+    "translates": {
+      "noun": ["کهیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hoard",
+    "pronunciation": "hord",
+    "translates": {
+      "noun": ["ذخیره", "اندوخته", "گنج", "گنجینه", "احتکار"],
+      "transitive-verb": [
+        "ذخیره کردن",
+        "قایم کردن",
+        "جمع کردن",
+        "انباشتن",
+        "احتکار کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hoarfrost",
+    "pronunciation": "'horfra^st",
+    "translates": {
+      "noun": ["بَشم", "شبنم یخ زده", "پژه", "سرما ریزه", "ژاله"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hoarse",
+    "pronunciation": "hors",
+    "translates": {
+      "adjective": [
+        "[صدا] خشن",
+        "زمخت",
+        "گرفته",
+        "دو رگه",
+        "[شخص] دارای صدای خشن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hoarseness",
+    "pronunciation": "'horsnis",
+    "translates": {
+      "noun": ["گرفتگی صدا", "زمختی صدا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hoax",
+    "pronunciation": "hoks",
+    "translates": {
+      "noun": ["حقه", "کلک", "دروغ", "شیطنت", "شوخی فریب آمیز"],
+      "transitive-verb": ["دست انداختن", "گول زدن", "سر به سر گذاشتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hobble",
+    "pronunciation": "'ha^bel",
+    "translates": {
+      "intransitive-verb": ["لنگ لنگان رفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hobby",
+    "pronunciation": "'ha^bi",
+    "translates": {
+      "noun": ["سرگرمی", "تفنن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hockey",
+    "pronunciation": "'ha^ki",
+    "translates": {
+      "noun": ["هاکی (= نوعی بازی شبیه به چوگان بازی)"]
+    },
+    "subWords": {}
   }
 ]
