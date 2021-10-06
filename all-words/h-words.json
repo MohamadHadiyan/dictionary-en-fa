@@ -2164,5 +2164,458 @@
       "noun": ["هاکی (= نوعی بازی شبیه به چوگان بازی)"]
     },
     "subWords": {}
+  },
+  {
+    "word": "hoe",
+    "pronunciation": "ho",
+    "translates": {
+      "noun": ["کج بیل", "بیل باغبانی"],
+      "transitive-verb": ["کندن", "بیل زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hoist",
+    "pronunciation": "hoyst",
+    "translates": {
+      "transitive-verb": ["بالا بردن", "بلند کردن", "(بر) افراشتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hold",
+    "pronunciation": "hold",
+    "translates": {
+      "transitive-verb": [
+        "گرفتن",
+        "در دست گرفتن",
+        "نگه داشتن",
+        "حفظ کردن",
+        "جلوی ( چیزی را ) گرفتن",
+        "گنجایش داشتن",
+        "داشتن",
+        "در بر داشتن",
+        "دارا بودن",
+        "تشکیل دادن",
+        "برگزار کردن",
+        "معتبر بودن"
+      ],
+      "noun": [
+        "گرفت",
+        "گیر",
+        "نگهداری",
+        "جای گرفتن",
+        "جای دست",
+        "جای پا",
+        "نفوذ",
+        "تسلط",
+        "[کشتی] انبار کالا"
+      ]
+    },
+    "subWords": {
+      "Hold it!": ["صبر کن", "وایسا", "تکان نخور"],
+      "hold on": [
+        "[به صورت امری] صبر کن",
+        "وِل نکردن",
+        "ادامه دادن",
+        "تاب آوردن"
+      ],
+      "hold somebody (or something) back": ["جلوی کسی یا چیزی را گرفتن"],
+      "hold up": [
+        "به تاخیر انداختن",
+        "معطل نگه داشتن",
+        "دستبرد زدن",
+        "لخت کردن",
+        "به سرقت بردن"
+      ],
+      "get hold of": ["پیدا کردن"],
+      "lose hold of": ["وِل کردن", "از دست کسی در رفتن"]
+    }
+  },
+  {
+    "word": "holder",
+    "pronunciation": "'holder",
+    "translates": {
+      "noun": ["دارنده", "صاحب", "متصدی", "[در ترکیب] ـدار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hole",
+    "pronunciation": "hol",
+    "translates": {
+      "noun": ["سوراخ", "حفره", "چال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "holiday",
+    "pronunciation": "'ha^lidey",
+    "translates": {
+      "noun": ["(روز) تعطیل", "تعطیلی", "تعطیلات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hollow",
+    "pronunciation": "'ha^lo",
+    "translates": {
+      "adjective": ["توخالی", "پوک", "گود", "گود افتاده", "تو رفته"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "holly",
+    "pronunciation": "'ha^li",
+    "translates": {
+      "noun": ["(درخت) خاس", "راج"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "holy",
+    "pronunciation": "'holi",
+    "translates": {
+      "adjective": ["مقدس", "پرهیزکار", "پارسا", "مذهبی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "home",
+    "pronunciation": "hom",
+    "translates": {
+      "noun": ["خانه", "وطن", "میهن"],
+      "adjective": ["خانوادگی"],
+      "adverb": ["در خانه", "به خانه", "جا", "سر جای خود"]
+    },
+    "subWords": {
+      "bring something home to somebody": [
+        "چیزی را حالی کسی کردن",
+        "کسی را متوجه چیزی کردن"
+      ],
+      "feel at home": ["راحت بودن", "احساس راحتی کردن"],
+      "make oneself at home": ["راحت بودن", "احساس راحتی کردن"]
+    }
+  },
+  {
+    "word": "homeless",
+    "pronunciation": "'homlis",
+    "translates": {
+      "adjective": ["بی خانمان", "آواره", "در به در"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "homemade",
+    "pronunciation": "hom'meyd",
+    "translates": {
+      "adjective": ["خانگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "homesick",
+    "pronunciation": "'homsik",
+    "translates": {
+      "adjective": ["غربت زده", "دچار غم غربت", "دلتنگ", "در فراق میهن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "homework",
+    "pronunciation": "'homwerk",
+    "translates": {
+      "noun": ["تکلیف", "مشق شب", "مشق خانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "homosexual",
+    "pronunciation": "homo'sekshuwa^l",
+    "translates": {
+      "adjective": ["همجنس گرا", "همجنس باز"],
+      "noun": ["همجنس گرا", "همجنس باز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "honest",
+    "pronunciation": "'a^nist",
+    "translates": {
+      "adjective": ["درست", "درستکار", "شرافتمندانه", "راستگو", "صادق", "امین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "honestly",
+    "pronunciation": "'a^nistli",
+    "translates": {
+      "adverb": ["صادقانه", "حقیقتاً", "واقعاً", "(به) راستی", "راستش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "honesty",
+    "pronunciation": "'a^nisti",
+    "translates": {
+      "noun": ["صداقت", "درستی", "درستکاری", "راستگویی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "honey",
+    "pronunciation": "'ha^ni",
+    "translates": {
+      "noun": ["عسل", "[در خطاب] عزیز", "عزیزم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "honeymoon",
+    "pronunciation": "'ha^nimoon",
+    "translates": {
+      "noun": ["ماه عسل"],
+      "transitive-verb": ["ماه عسل را گذراندن", "ماه عسل رفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "honor, honour",
+    "pronunciation": "'a^ner",
+    "translates": {
+      "noun": ["افتخار", "آبرو", "شرف", "شرافت", "غیرت"]
+    },
+    "subWords": {
+      "in honor of": ["به افتخارِ", "به احترامِ"]
+    }
+  },
+  {
+    "word": "honorable, honourable",
+    "pronunciation": "'a^nerebel",
+    "translates": {
+      "adjective": [
+        "محترم",
+        "شریف",
+        "آبرومندمحترمانه",
+        "شرافتمندانه",
+        "آبرومندانه",
+        "بزرگوار",
+        "عالیجناب"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hood",
+    "pronunciation": "hud",
+    "translates": {
+      "noun": [
+        "کلاه بارانی",
+        "کلاه متصل به لباس",
+        "[هواکش",
+        "دودکش و غیره] سرپوش",
+        "کلاهک",
+        "[ اتومبیل ] کاپوت",
+        "روکش"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hoof",
+    "pronunciation": "hoof",
+    "translates": {
+      "noun": ["سُم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hook",
+    "pronunciation": "huk",
+    "translates": {
+      "noun": ["قلاب", "داس", "تله"],
+      "transitive-verb": ["با قلاب گرفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hooligan",
+    "pronunciation": "'hooligen",
+    "translates": {
+      "noun": ["قلدر", "لات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hoop",
+    "pronunciation": "hoop",
+    "translates": {
+      "noun": ["حلقه", "تسمه"],
+      "transitive-verb": ["حلقه زدن به"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hoot",
+    "pronunciation": "hoot",
+    "translates": {
+      "noun": ["هو", "صدای جغد", "صدای بوق اتومبیل"],
+      "intransitive-verb": ["[جغد] هوهو کردن", "هو کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hooves",
+    "pronunciation": "hoovz",
+    "translates": {
+      "noun": ["صورت جمع hoof (سُم)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hop",
+    "pronunciation": "ha^p",
+    "translates": {
+      "intransitive-verb": ["لی لی کردن", "جستن", "پریدن"],
+      "noun": ["لی لی", "پرش", "(گیاه) رازک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hope",
+    "pronunciation": "hop",
+    "translates": {
+      "noun": ["امید", "امیدواری", "آرزو", "خواست"],
+      "transitive-verb": ["امید داشتن", "امیدوار بودن", "آرزو داشتن"]
+    },
+    "subWords": {
+      "give up hope": ["مایوس شدن", "ناامید شدن"],
+      "in the hope of (or that)": ["به امید این که", "به این امید که"],
+      "lose hope": ["مایوس شدن", "ناامید شدن"],
+      "raise somebody's hopes": ["کسی را امیدوار کردن"]
+    }
+  },
+  {
+    "word": "hopeful",
+    "pronunciation": "'hopful",
+    "translates": {
+      "adjective": ["امیدوار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hopless",
+    "pronunciation": "'hoplis",
+    "translates": {
+      "adjective": ["ناامید", "مایوس", "نومیدانه", "نومید کننده", "نومید"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "horizon",
+    "pronunciation": "ho'ra^yzen",
+    "translates": {
+      "noun": ["افق", "[به صورت جمع] دید", "بینش", "افق فکری", "خط افق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "horizontal",
+    "pronunciation": "ha^ri'za^nta^l",
+    "translates": {
+      "adjective": ["افقی", "صاف", "تراز", "هم سطح"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "horn",
+    "pronunciation": "horn",
+    "translates": {
+      "noun": ["شاخ", "شاخک", "شیپور", "بوق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hornet",
+    "pronunciation": "'hornit",
+    "translates": {
+      "noun": ["زنبور سرخ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "horrible",
+    "pronunciation": "'ha^ribel",
+    "translates": {
+      "adjective": ["مخوف", "وحشتناک", "بد", "افتضاح", "ناگوار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "horribly",
+    "pronunciation": "'ha^ribli",
+    "translates": {
+      "adverb": ["به طور وحشتناکی", "به طور فجیعی", "به طرز وحشتناکی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "horrid",
+    "pronunciation": "'ha^rid",
+    "translates": {
+      "adjective": ["هولناک", "وحشتناک", "بد", "افتضاح"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "horrify",
+    "pronunciation": "'ha^rifa^y",
+    "translates": {
+      "transitive-verb": [
+        "ترساندن",
+        "تکان دادن",
+        "به وحشت انداختن",
+        "وحشت زده کردن",
+        "هول دادن",
+        "به هراس انداختن",
+        "به بیم انداختن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "horror",
+    "pronunciation": "'ha^rer",
+    "translates": {
+      "noun": ["ترس", "وحشت", "دهشت", "مورمور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "horse",
+    "pronunciation": "hors",
+    "translates": {
+      "noun": ["اسب"],
+      "adjective": ["اسبی", "وابسته به اسب"]
+    },
+    "subWords": {
+      "on horseback": ["سوار بر اسب"]
+    }
+  },
+  {
+    "word": "horseman",
+    "pronunciation": "'horsman",
+    "translates": {
+      "noun": ["سوار", "اسب سوار", "سوار کار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "horsepower",
+    "pronunciation": "'horspawer",
+    "translates": {
+      "noun": ["اسب بخار (= واحد نیرو معادل 746 وات )"]
+    },
+    "subWords": {}
   }
 ]
