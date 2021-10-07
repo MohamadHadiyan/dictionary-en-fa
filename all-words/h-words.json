@@ -2617,5 +2617,488 @@
       "noun": ["اسب بخار (= واحد نیرو معادل 746 وات )"]
     },
     "subWords": {}
+  },
+  {
+    "word": "horseshoe",
+    "pronunciation": "'hors-shoo",
+    "translates": {
+      "noun": ["نعل", "نعل اسب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "horsewoman",
+    "pronunciation": "'horswumen",
+    "translates": {
+      "noun": ["سوارکار (زن)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hose",
+    "pronunciation": "hoz",
+    "translates": {
+      "noun": ["شیلنگ", "جوراب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hosepipe",
+    "pronunciation": "'hozpa^yp",
+    "translates": {
+      "noun": ["شیلنگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hospital",
+    "pronunciation": "'ha^spita^l",
+    "translates": {
+      "noun": ["بیمارستان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hospitality",
+    "pronunciation": "ha^spi'taliti",
+    "translates": {
+      "noun": ["مهمان نوازی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "host",
+    "pronunciation": "host",
+    "translates": {
+      "noun": ["میزبان", "تعداد زیاد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hostage",
+    "pronunciation": "'ha^stij",
+    "translates": {
+      "noun": ["گروگان"]
+    },
+    "subWords": {
+      "hold somebody hostage": ["کسی را گروگان نگاه داشتن"],
+      "take somebody hostage": ["کسی را گروگان گرفتن"]
+    }
+  },
+  {
+    "word": "hostel",
+    "pronunciation": "'ha^stel",
+    "translates": {
+      "noun": ["خوابگاه", "هاستِل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hostess",
+    "pronunciation": "'hostis",
+    "translates": {
+      "noun": ["(خانم) میزبان", "[ هواپیما ] مهماندار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hostile",
+    "pronunciation": "'ha^sta^yl",
+    "translates": {
+      "adjective": ["[مربوط به] دشمن", "خصمانه", "متخاصم", "مخالف", "برضد"],
+      "noun": ["دشمن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hostility",
+    "pronunciation": "ha^s'tiliti",
+    "translates": {
+      "noun": ["دشمنی", "خصومت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hot",
+    "pronunciation": "ha^t",
+    "translates": {
+      "adjective": ["داغ", "گرم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hotel",
+    "pronunciation": "ho'tel",
+    "translates": {
+      "noun": ["هتل", "مهمانسرا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hour",
+    "pronunciation": "ao(e)r",
+    "translates": {
+      "noun": ["ساعت", "وقت"]
+    },
+    "subWords": {
+      "in half an hour": ["(در ظرف) نیم ساعت", "نیم ساعته"]
+    }
+  },
+  {
+    "word": "hourly",
+    "pronunciation": "'ao(e)rli",
+    "translates": {
+      "adverb": ["هر یک ساعت", "هر ساعت"],
+      "adjective": ["هر ساعت", "ساعت به ساعت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "house",
+    "pronunciation": "haos",
+    "translates": {
+      "noun": ["خانه", "منزل", "سالن", "تئاتر", "تجارت خانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "household",
+    "pronunciation": "'haos-hold",
+    "translates": {
+      "noun": ["خانواده", "خانوار", "اهل خانه"],
+      "adjective": ["خانگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "housekeeper",
+    "pronunciation": "'haoskiiper",
+    "translates": {
+      "noun": ["خدمتکار (زن)", "خانه دار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "housekeeping",
+    "pronunciation": "'haoskiiping",
+    "translates": {
+      "noun": ["خانه داری", "خرج خانه", "اداره منزل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "housewife",
+    "pronunciation": "'haoswa^yf",
+    "translates": {
+      "noun": ["خانم خانه", "زن خانه دار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "housework",
+    "pronunciation": "'haoswerk",
+    "translates": {
+      "noun": ["کارِ خانه", "خانه داری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hove",
+    "pronunciation": "hov",
+    "translates": {
+      "past-tens": ["گذشته فعل heave (تقلا کردن)"],
+      "past-participle": ["اسم مفعول فعل heave"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hover",
+    "pronunciation": "'ha^ver",
+    "translates": {
+      "intransitive-verb": ["[پرنده] بال زدن", "( درجا ) پر زدن", "پرواز کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hovercraft",
+    "pronunciation": "'ha^verkra^ft",
+    "translates": {
+      "noun": ["هواناو", "هاورکرافت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "how",
+    "pronunciation": "hao",
+    "translates": {
+      "adverb": ["چطور", "چگونه", "چقدر", "چند", "چه"],
+      "conjunction": ["هر طور", "هر جور"],
+      "noun": ["چگونگی"]
+    },
+    "subWords": {
+      "how about ...?": ["با ... چطوری؟", "... چطوره؟"],
+      "How about a cup of tea?.": ["با یک فنجان چای چطوری؟."],
+      "How about this one?.": ["این یکی چطوره؟."],
+      "_ How do you do?": ["_ از آشنایی شما خوشوقتم.", "_ من هم همین طور."],
+      "How do you feel?": ["چطوری؟", "چطورید؟"],
+      "how far": ["در چه فاصله ای"],
+      "how long": ["چه مدت", "تاکی"],
+      "how many": ["چند تا"],
+      "how much": ["چقدر"]
+    }
+  },
+  {
+    "word": "however",
+    "pronunciation": "hao'ever",
+    "translates": {
+      "adverb": [
+        "هر چند",
+        "با وجود این",
+        "چطور",
+        "اما",
+        "با این حال",
+        "به هر حال"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "howl",
+    "pronunciation": "haol",
+    "translates": {
+      "noun": ["زوزه", "فریاد", "جیغ", "عربده", "ضجه"],
+      "intransitive-verb": [
+        "زوزه کشیدن",
+        "فریاد کشیدن",
+        "فریاد زدن",
+        "نعره کشیدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hub",
+    "pronunciation": "ha^b",
+    "translates": {
+      "noun": ["مرکز", "توپی (چرخ)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "huddle",
+    "pronunciation": "'ha^del",
+    "translates": {
+      "transitive-verb": [
+        "(به هم) چسبیدن",
+        "تلنبار کردن",
+        "روی هم ریختن",
+        "روی هم انباشتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hue",
+    "pronunciation": "hyoo",
+    "translates": {
+      "noun": ["(پرده) رنگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hug",
+    "pronunciation": "ha^g",
+    "translates": {
+      "transitive-verb": ["بغل کردن", "چسبیدن به"],
+      "noun": ["(عمل) بغل کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "huge",
+    "pronunciation": "hyooj",
+    "translates": {
+      "adjective": ["عظیم", "کلان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hullo",
+    "pronunciation": "he'lo",
+    "translates": {
+      "noun": ["سلام", "آهای! هی!", "[تلفن] الو!"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hum",
+    "pronunciation": "ha^m",
+    "translates": {
+      "intransitive-verb": ["وزوز کردن", "زمزمه کردن", "مِن مِن کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "human",
+    "pronunciation": "'hyooman",
+    "translates": {
+      "adjective": ["انسانی", "[مربوط به] انسان"],
+      "noun": ["(موجود) انسان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "human being",
+    "pronunciation": "hyooman 'bii-ing",
+    "translates": {
+      "noun": ["(موجود) انسان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "humane",
+    "pronunciation": "hyoo'meyn",
+    "translates": {
+      "noun": ["انسانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "humanity",
+    "pronunciation": "hyoo'maniti",
+    "translates": {
+      "noun": ["بشر", "انسان", "انسانیت", "بشریت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "humble",
+    "pronunciation": "'ha^mbel",
+    "translates": {
+      "adjective": ["حقیر", "متواضع", "فروتن", "معمولی"],
+      "transitive-verb": ["تحقیر کردن", "دست کم گرفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "humbly",
+    "pronunciation": "'ha^mbli",
+    "translates": {
+      "adjective": ["متواضعانه", "با حقارت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "humid",
+    "pronunciation": "'hyoomid",
+    "translates": {
+      "adjective": ["مرطوب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "humidity",
+    "pronunciation": "hyoo'miditi",
+    "translates": {
+      "noun": ["رطوبت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "humility",
+    "pronunciation": "hyoo'militi",
+    "translates": {
+      "noun": ["تواضع", "فروتنی", "افتادگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "humorous",
+    "pronunciation": "'hyoomeres",
+    "translates": {
+      "adjective": ["خنده دار", "بامزه", "فکاهی", "شوخ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "humor, humour",
+    "pronunciation": "'hyoomer",
+    "translates": {
+      "noun": ["شوخی", "مزاح", "بذله", "شوخ طبعی"]
+    },
+    "subWords": {
+      "have a sense of humor": ["شوخ طبع بودن"]
+    }
+  },
+  {
+    "word": "hump",
+    "pronunciation": "ha^mp",
+    "translates": {
+      "noun": ["کوهان", "قوز", "تله", "پشته", "گوژ"],
+      "transitive-verb": ["کول کردن", "قوز کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hunch",
+    "pronunciation": "ha^nch",
+    "translates": {
+      "noun": ["حدس", "قوز"],
+      "intransitive-verb": ["قوز کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hunchback",
+    "pronunciation": "'ha^nchbak",
+    "translates": {
+      "noun": ["( آدم ) گوژ پشت", "کوهان دار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hundred",
+    "pronunciation": "'ha^ndred",
+    "translates": {
+      "adjective": ["صد ( تا )"],
+      "noun": ["عدد صد ( 100 )", "شماره صد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hundredth",
+    "pronunciation": "'ha^ndredth",
+    "translates": {
+      "adjective": ["صد", "صدمین"],
+      "noun": ["یک صدم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hung",
+    "pronunciation": "ha^ng",
+    "translates": {
+      "past-tens": ["گذشته فعل hang ( آویزان کردن )"],
+      "past-participle": ["اسم مفعول فعل hang"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hunger",
+    "pronunciation": "'ha^nger",
+    "translates": {
+      "noun": ["گرسنگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hungry",
+    "pronunciation": "'ha^ngri",
+    "translates": {
+      "adjective": ["گرسنه"]
+    },
+    "subWords": {
+      "go hungry": ["گرسنه ماندن", "گرسنه بودن"]
+    }
   }
 ]
