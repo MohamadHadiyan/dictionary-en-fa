@@ -3100,5 +3100,267 @@
     "subWords": {
       "go hungry": ["گرسنه ماندن", "گرسنه بودن"]
     }
+  },
+  {
+    "word": "hunt",
+    "pronunciation": "ha^nt",
+    "translates": {
+      "transitive-verb": ["شکار کردن", "دنبال کردن", "جستجو کردن", "صید کردن"],
+      "noun": ["شکار", "جستجو", "صید"]
+    },
+    "subWords": {
+      "hunt for": ["دنبال (چیزی یا کسی) گشتن"]
+    }
+  },
+  {
+    "word": "hunter",
+    "pronunciation": "'ha^nter",
+    "translates": {
+      "noun": ["شکارچی", "صیاد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hurdle",
+    "pronunciation": "'herdel",
+    "translates": {
+      "noun": ["[مسابقه] مانع", "مشکل", "دشواری", "سد راه"],
+      "transitive-verb": ["از روی مانع پریدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hurl",
+    "pronunciation": "herl",
+    "translates": {
+      "transitive-verb": [
+        "پرت کردن",
+        "پرتاب کردن",
+        "با داد و هوار (چیزی) را گفتن",
+        "انداختن"
+      ],
+      "noun": ["پرتاب", "لگد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hurrah",
+    "pronunciation": "hu'ra^",
+    "translates": {
+      "interjection": ["هورا!"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hurricane",
+    "pronunciation": "'ha^riken",
+    "translates": {
+      "noun": ["طوفان", "توفان", "تند باد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hurried",
+    "pronunciation": "'ha^rid",
+    "translates": {
+      "adjective": ["عجولانه", "شتاب زده", "هول هولکی", "بی تامل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hurriedly",
+    "pronunciation": "'ha^ridli",
+    "translates": {
+      "adverb": ["با شتاب", "باعجله", "هول هولکی", "عجولانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hurry",
+    "pronunciation": "'ha^ri",
+    "translates": {
+      "intransitive-verb": ["عجله کردن", "با عجله انجام دادن"],
+      "noun": ["عجله"]
+    },
+    "subWords": {
+      "be in a hurry": ["عجله داشتن"],
+      "hurry up": ["عجله کردن", "جنبیدن"],
+      "Hurry up!": ["یالا", "بجنب"]
+    }
+  },
+  {
+    "word": "hurt",
+    "pronunciation": "hert",
+    "translates": {
+      "transitive-verb": [
+        "آسیب رساندن",
+        "به درد آوردن",
+        "درد کردن",
+        "آزردن",
+        "ضرر داشتن"
+      ],
+      "past-tens": ["گذشته فعل hurt"],
+      "past-participle": ["اسم مفعول فعل hurt"],
+      "noun": ["صدمه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "husband",
+    "pronunciation": "'ha^zband",
+    "translates": {
+      "noun": ["شوهر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hush",
+    "pronunciation": "ha^sh",
+    "translates": {
+      "noun": ["هیس! (= ساکت)"],
+      "transitive-verb": ["صدا در نیاوردن", "مخفی نگاه داشتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hustle",
+    "pronunciation": "'ha^sel",
+    "translates": {
+      "transitive-verb": [
+        "هل دادن",
+        "کشان کشان بردن",
+        "با عجله انجام دادن",
+        "عجله کردن",
+        "فشار دادن"
+      ],
+      "noun": ["فشار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hut",
+    "pronunciation": "ha^t",
+    "translates": {
+      "noun": ["کلبه", "آلونک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hyacinth",
+    "pronunciation": "'ha^ya^sinth",
+    "translates": {
+      "noun": ["سنبل", "گل سنبل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hydrofoil",
+    "pronunciation": "'ha^ydrofoyl",
+    "translates": {
+      "noun": ["قایق پرنده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hydrogen",
+    "pronunciation": "'ha^ydrojen",
+    "translates": {
+      "noun": ["هیدروژن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hygiene",
+    "pronunciation": "'ha^yjiin",
+    "translates": {
+      "noun": ["بهداشت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hygienic",
+    "pronunciation": "ha^y'jiinik",
+    "translates": {
+      "adjective": ["بهداشتی", "تمیز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hymn",
+    "pronunciation": "him",
+    "translates": {
+      "noun": ["سرود مذهبی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hyphen",
+    "pronunciation": "'ha^yfen",
+    "translates": {
+      "noun": [
+        "خط ربط",
+        "نشان اتصال",
+        "هایفِن (علامت \"-\" که بین دو کلمه یا اجزاء یک کلمه برای متصل کردن آنها قرار می دهند)"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hypnotic",
+    "pronunciation": "hip'na^tik",
+    "translates": {
+      "adjective": ["هیپنوتیزمی", "خواب آور"],
+      "noun": ["هیپنوتیزم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hypnotize",
+    "pronunciation": "'hipnota^yz",
+    "translates": {
+      "transitive-verb": ["هیپنوتیزم کردن", "به طور مصنوعی خواب کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hypocrisy",
+    "pronunciation": "hi'pa^krisi",
+    "translates": {
+      "noun": ["ریا", "دورویی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hypocrite",
+    "pronunciation": "'hipa^krit",
+    "translates": {
+      "noun": ["ریاکار", "منافق", "مزدور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hypocritical",
+    "pronunciation": "hipa^'kritika^l",
+    "translates": {
+      "adjective": ["ریاکار", "دورو", "ریاکارانه", "مزدورانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hypodermic",
+    "pronunciation": "ha^ypo'dermik",
+    "translates": {
+      "adjective": ["زیر پوستی", "زیر جلدی"],
+      "noun": ["تزریق زیر پوستی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "hysteria",
+    "pronunciation": "his'tiyeriya^",
+    "translates": {
+      "noun": ["هیستری", "حمله عصبی"]
+    },
+    "subWords": {}
   }
 ]
