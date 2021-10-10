@@ -1,0 +1,228 @@
+[
+  {
+    "word": "I, i",
+    "pronunciation": "a^y",
+    "translates": {
+      "pronoun": ["[ضمیر فاعلی", "اول شخص مفرد] من"],
+      "noun": ["آی (= نهمین حرف الفبای انگلیسی)", "[عدد نویسی رومی] یک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ice",
+    "pronunciation": "a^ys",
+    "translates": {
+      "noun": ["یخ", "بستنی"],
+      "transitive-verb": ["سرد کردن", "[کیک] رویه ریختن یا دادن"],
+      "intransitive-verb": ["یخ بستن", "یخ زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "iceberg",
+    "pronunciation": "'a^ysberg",
+    "translates": {
+      "noun": ["کوه یخ", "توده یخ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ice-cream",
+    "pronunciation": "a^ys 'kriim",
+    "translates": {
+      "noun": ["بستنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ice hockey",
+    "pronunciation": "'a^ys ha^ki",
+    "translates": {
+      "noun": ["هاکی روی یخ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "icicle",
+    "pronunciation": "'a^ysikel",
+    "translates": {
+      "noun": ["قندیل (یخ)", "قطعه یخ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "icy",
+    "pronunciation": "'a^ysi",
+    "translates": {
+      "adjective": [
+        "بسیار سرد",
+        "مثل یخ",
+        "یخ",
+        "یخی",
+        "یخ زده",
+        "پوشیده از یخ",
+        "سرد",
+        "غیر دوستانه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "I'd",
+    "pronunciation": "a^yd",
+    "translates": {
+      "pronoun": ["I had (من داشتم)", "I would (من می خواهم)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ID card",
+    "pronunciation": "a^y 'dii ka^rd",
+    "translates": {
+      "noun": ["کارت شناسایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "idea",
+    "pronunciation": "a^y'diya^",
+    "translates": {
+      "noun": ["فکر", "تصور", "اندیشه", "عقیده", "حدس", "نقشه", "انگاره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ideal",
+    "pronunciation": "a^y'diya^l",
+    "translates": {
+      "adjective": ["دلخواه", "مطلوب", "ایده آل", "کامل", "آرمانی"],
+      "noun": ["کمال مطلوب", "آرمانی", "هدف زندگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "identical",
+    "pronunciation": "a^y'dentika^l",
+    "translates": {
+      "adjective": ["همان", "یکسان", "همانند", "یک جور", "منطبق با"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "identification",
+    "pronunciation": "a^ydentifi'keyshen",
+    "translates": {
+      "noun": ["شناسایی", "تعیین هویت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "identify",
+    "pronunciation": "'a^ydentifa^y",
+    "translates": {
+      "transitive-verb": ["شناختن", "تشخیص دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "identity",
+    "pronunciation": "a^y'dentiti",
+    "translates": {
+      "noun": ["یکسانی", "هویت", "اوراق شناسایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "identity card",
+    "pronunciation": "a^y'dentiti ka^rd",
+    "translates": {
+      "noun": ["کارت شناسایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "idiom",
+    "pronunciation": "a^y'diyem",
+    "translates": {
+      "noun": ["اصطلاح", "زبان", "گویش", "لهجه", "نحوه بیان", "سبک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "idiot",
+    "pronunciation": "'idiyet",
+    "translates": {
+      "noun": ["( آدم ) احمق", "ابله", "خرفت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "idiotic",
+    "pronunciation": "idiya^tik",
+    "translates": {
+      "adjective": ["احمقانه", "ابلهانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "idle",
+    "pronunciation": "'a^ydel",
+    "translates": {
+      "adjective": ["بیکار", "تنبل", "بیکاره", "بی فایده"],
+      "intransitive-verb": [
+        "بیکار گشتن",
+        "[وقت] تلف کردن",
+        "[ اتومبیل ] درجا کار کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "idleness",
+    "pronunciation": "'a^ydelnis",
+    "translates": {
+      "noun": ["بطالت", "وقت گذرانی", "بیکاری", "تنبلی", "بیهودگی", "کند ذهنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "idol",
+    "pronunciation": "'a^ydel",
+    "translates": {
+      "noun": ["بت", "معشوق", "معبود"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "i.e.",
+    "pronunciation": "a^y 'ii",
+    "translates": {
+      "adverb": ["یعنی", "بدین معنی که"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "if",
+    "pronunciation": "if",
+    "translates": {
+      "conjunction": [
+        "اگر",
+        "اگر چه",
+        "گرچه",
+        "آیا",
+        "که آیا",
+        "که",
+        "هر وقت",
+        "هر گاه",
+        "چنانچه",
+        "کاش",
+        "به فرضِ"
+      ]
+    },
+    "subWords": {
+      "as if": ["مثل این که", "انگار که", "تو گویی که"],
+      "if I were you": ["اگر من به جای تو ( یا شما ) بودم"],
+      "if only": ["کاشکی", "ای کاش", "آخ اگر"]
+    }
+  }
+]
