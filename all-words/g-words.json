@@ -1867,6 +1867,14 @@
     "subWords": {}
   },
   {
+    "word": "grab",
+    "pronunciation": "grab",
+    "translates": {
+      "transitive-verb": ["گرفتن", "چنگ زدن", "قاپیدن"]
+    },
+    "subWords": {}
+  },
+  {
     "word": "grasp",
     "pronunciation": "grasp",
     "translates": {

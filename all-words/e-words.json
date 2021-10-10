@@ -2114,6 +2114,14 @@
     "subWords": {}
   },
   {
+    "word": "enzyme",
+    "pronunciation": "'enza^ym",
+    "translates": {
+      "noun": ["آنزیم"]
+    },
+    "subWords": {}
+  },
+  {
     "word": "epic",
     "pronunciation": "'epik",
     "translates": {
@@ -3146,7 +3154,7 @@
       "adjective": ["اختصاصی", "خاص", "انحصاری", "منحصر"]
     },
     "subWords": {
-      "exclusive": ["بجز", "به استثنای", "به غیر از"]
+      "exclusive of": ["بجز", "به استثنای", "به غیر از"]
     }
   },
   {

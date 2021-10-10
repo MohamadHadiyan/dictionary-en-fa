@@ -368,6 +368,14 @@
     "subWords": {}
   },
   {
+    "word": "accessible",
+    "pronunciation": "eksasibel",
+    "translates": {
+      "adjective": ["در دسترس", "دست یافتنی"]
+    },
+    "subWords": {}
+  },
+  {
     "word": "accessory",
     "pronunciation": "eksasori",
     "translates": {
@@ -3155,6 +3163,14 @@
     "translates": {
       "adjective": ["بدون هیچ نظمی", "در هم بر هم", "ریخته پاشیده"],
       "adverb": ["به هر حال", "در هر صورت", "به هر تقدیر", "باری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "anymore",
+    "pronunciation": "'enymor",
+    "translates": {
+      "adverb": ["دیگر", "بیش از این ها"]
     },
     "subWords": {}
   },

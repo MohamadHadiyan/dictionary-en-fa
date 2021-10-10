@@ -931,6 +931,14 @@
     "subWords": {}
   },
   {
+    "word": "decrement",
+    "pronunciation": "'diikrement",
+    "translates": {
+      "noun": ["کاهش", "میزان کاهش"]
+    },
+    "subWords": {}
+  },
+  {
     "word": "dedicate",
     "pronunciation": "'dedi.keyt",
     "translates": {
