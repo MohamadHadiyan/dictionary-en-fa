@@ -224,5 +224,553 @@
       "if I were you": ["اگر من به جای تو ( یا شما ) بودم"],
       "if only": ["کاشکی", "ای کاش", "آخ اگر"]
     }
+  },
+  {
+    "word": "ignition",
+    "pronunciation": "ig'nishen",
+    "translates": {
+      "noun": ["احتراق", "اشتعال", "سیستم جرقه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ignorance",
+    "pronunciation": "'ignorense",
+    "translates": {
+      "noun": ["بی خبری", "بی اطلاعی", "نادانی", "جهل", "جهالت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ignore",
+    "pronunciation": "ig'nor",
+    "translates": {
+      "transitive-verb": [
+        "نادیده گرفتن",
+        "توجه نکردن",
+        "اعتنا نکردن",
+        "چشم پوشی کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ill",
+    "pronunciation": "il",
+    "translates": {
+      "adjective": ["بیمار", "مریض", "بد", "شوم", "نحس", "سوء"],
+      "noun": ["شر", "بدی"]
+    },
+    "subWords": {
+      "be taken ill": ["مریض شدن"]
+    }
+  },
+  {
+    "word": "I'll",
+    "pronunciation": "a^yl",
+    "translates": {
+      "pronoun": ["I will (من خواهم)", "I shall (من باید)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "illegal",
+    "pronunciation": "i'liiga^l",
+    "translates": {
+      "adjective": ["غیر قانونی", "بر خلاف قانون", "غیر مجاز", "نامشروع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "illegally",
+    "pronunciation": "i'liiga^li",
+    "translates": {
+      "adverb": ["به طور غیر قانونی", "به طور نا مشروع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "illegible",
+    "pronunciation": "i'lejibel",
+    "translates": {
+      "adjective": ["ناخوانا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "illness",
+    "pronunciation": "'ilnis",
+    "translates": {
+      "noun": ["بیماری", "مرض", "ناخوشی", "کسالت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "illuminate",
+    "pronunciation": "i'loomineyt",
+    "translates": {
+      "transitive-verb": ["روشن کردن", "چراغانی کردن", "منور کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "illusion",
+    "pronunciation": "i'loozhen",
+    "translates": {
+      "noun": [
+        "تصور غلط",
+        "خیال باطل",
+        "خیال واهی",
+        "خطای حسی",
+        "خطای ادراک",
+        "توهم",
+        "وهم"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "illustrate",
+    "pronunciation": "'ila^streyt",
+    "translates": {
+      "transitive-verb": [
+        "روشن ساختن",
+        "توضیح دادن",
+        "نشان دادن",
+        "[کتاب] مصور کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "illustration",
+    "pronunciation": "ila^s'reyshen",
+    "translates": {
+      "noun": ["توضیح (به کمک مثال و غیره)تصویر", "مثال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "I'm",
+    "pronunciation": "a^ym",
+    "translates": {
+      "pronoun": ["I am (من هستم)"]
+    },
+    "subWords": {
+      "I'm fine": ["من خوبم"],
+      "I'm sorry": ["متاسفم"],
+      "I'm here": ["من اینجا هستم"]
+    }
+  },
+  {
+    "word": "image",
+    "pronunciation": "'imij",
+    "translates": {
+      "noun": ["تصویر", "تصور", "مجسمه", "تمثال", "نقش", "لنگه"],
+      "transitive-verb": ["تصور کردن", "تصویر کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "imaginary",
+    "pronunciation": "i'magineri",
+    "translates": {
+      "adjective": ["خیالی", "موهوم", "غیر واقعی", "تصوری", "پنداری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "imagination",
+    "pronunciation": "imaji'neyshen",
+    "translates": {
+      "noun": ["قدرت تخیل", "تخیل", "خیال", "تصور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "imaginative",
+    "pronunciation": "i'majinetiv",
+    "translates": {
+      "adjective": ["تخیلی", "باتخیل قوی", "خلاق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "imagine",
+    "pronunciation": "i'majin",
+    "translates": {
+      "transitive-verb": [
+        "تصور کردن",
+        "مجسم کردن",
+        "گمان کردن",
+        "فکر کردن",
+        "خیال کردن",
+        "انگاشتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "imam",
+    "pronunciation": "i'ma^m",
+    "translates": {
+      "noun": ["امام"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "imitate",
+    "pronunciation": "'imiteyt",
+    "translates": {
+      "transitive-verb": ["سرمشق گرفتن", "تقلید کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "imitation",
+    "pronunciation": "imi'teyshen",
+    "translates": {
+      "noun": ["تقلید", "بدل"],
+      "adjective": ["بدلی", "مصنوعی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "imitator",
+    "pronunciation": "'imiteyter",
+    "translates": {
+      "noun": ["مقلد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "immediate",
+    "pronunciation": "i'miidi-it",
+    "translates": {
+      "adjective": [
+        "فوری",
+        "سریع",
+        "بی واسطه",
+        "بلافاصله",
+        "بی درنگ",
+        "آنی",
+        "نزدیک",
+        "نزیک ترین"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "immediately",
+    "pronunciation": "i'miidi-itli",
+    "translates": {
+      "adverb": ["فوری", "فوراً", "مستقیماً", "بلافاصله"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "immense",
+    "pronunciation": "i'mens",
+    "translates": {
+      "adjective": ["عظیم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "immensely",
+    "pronunciation": "i'mensli",
+    "translates": {
+      "adverb": ["بسیار زیاد", "بی اندازه", "بی نهایت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "immigrant",
+    "pronunciation": "'imigrent",
+    "translates": {
+      "noun": ["مهاجر", "کوچ نشین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "immigrate",
+    "pronunciation": "'imigreyt",
+    "translates": {
+      "intransitive-verb": ["مهاجرت کردن", "درون کوچیدن", "کوچ کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "immigration",
+    "pronunciation": "imi'greyshen",
+    "translates": {
+      "noun": ["مهاجرت", "درون کوچی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "immobile",
+    "pronunciation": "i'moba^yl",
+    "translates": {
+      "adjective": ["بی حرکت", "ثابت", "بی جنبش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "immobilize",
+    "pronunciation": "i'mobila^yz",
+    "translates": {
+      "transitive-verb": ["از حرکت انداختن", "از کار انداختن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "immortal",
+    "pronunciation": "i'morta^l",
+    "translates": {
+      "adjective": ["فنا ناپذیر", "نامیرا", "لایزال", "ابدی", "جاویدان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "immune",
+    "pronunciation": "i'myoon",
+    "translates": {
+      "adjective": ["مصون"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "immunize",
+    "pronunciation": "'imyuna^yz",
+    "translates": {
+      "transitive-verb": ["مصون کردن", "ایجاد مصونیت کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "imp",
+    "pronunciation": "imp",
+    "translates": {
+      "noun": ["جن", "بچه جن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "impact",
+    "pronunciation": "'impakt",
+    "translates": {
+      "noun": ["برخورد", "تصادم", "اصابت", "ضربه", "تاثیر", "اثر", "نفوذ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "impartial",
+    "pronunciation": "im'pa^rsha^l",
+    "translates": {
+      "adjective": ["بی طرف", "منصف", "بی طرفانه", "منصفانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "impatience",
+    "pronunciation": "im'peyshens",
+    "translates": {
+      "noun": ["بی صبری", "ناشکیبایی", "بی حوصلگی", "بی تابی", "بی طاقتی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "impatient",
+    "pronunciation": "im'peyshent",
+    "translates": {
+      "adjective": [
+        "بی صبر",
+        "بی تاب",
+        "بی طاقت",
+        "بی حوصله",
+        "بد اخلاق",
+        "نا شکیبا"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "impatiently",
+    "pronunciation": "im'peyshentli",
+    "translates": {
+      "adverb": ["بی صبرانه", "با بی صبری", "با بی تابی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "imperative",
+    "pronunciation": "im'peretiv",
+    "translates": {
+      "adjective": ["ضروری", "اجباری", "[دستور زبان] امری", "دستوری"],
+      "noun": ["دستور", "فرمان", "ضرورت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "imperfect",
+    "pronunciation": "im'perfikt",
+    "translates": {
+      "adjective": ["ناتمام", "ناقص", "ناکامل", "[دستور زبان] استمراری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "imperial",
+    "pronunciation": "im'piyeriya^l",
+    "translates": {
+      "adjective": ["[مربوط به] امپراتوری", "سلطنتی", "شاهنشاهی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "impersonal",
+    "pronunciation": "im'persena^l",
+    "translates": {
+      "adjective": ["غیر شخصی", "عام", "غیر بشری", "فاقد شخصیت", "بی فاعل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "impertinence",
+    "pronunciation": "im'pertinens",
+    "translates": {
+      "noun": ["گستاخی", "بی ربطی", "نابهنگامی", "جسارت", "بی موقعی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "impertinent",
+    "pronunciation": "im'pertinent",
+    "translates": {
+      "adjective": ["گستاخ", "گستاخانه", "بی ربط", "بی شرمانه"],
+      "noun": ["خیره چشم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "implore",
+    "pronunciation": "im'plor",
+    "translates": {
+      "transitive-verb": [
+        "التماس کردن",
+        "استغاثه کردن",
+        "عجز و لابه کردن به",
+        "درخواست کردن از"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "impolite",
+    "pronunciation": "impo'la^yt",
+    "translates": {
+      "adjective": ["بی ادب", "بی نزاکت", "بی تربیت", "بی ادبانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "import",
+    "pronunciation": "im'port, 'import",
+    "translates": {
+      "transitive-verb": ["وارد کردن", "معنی دادن"],
+      "noun": [
+        "[به صورت جمع] واردات",
+        "(عمل) وارد کردن",
+        "معنا",
+        "مفهوم",
+        "اهمیت"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "importance",
+    "pronunciation": "im'portens",
+    "translates": {
+      "noun": ["اهمیت", "نفوذ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "important",
+    "pronunciation": "im'portent",
+    "translates": {
+      "adjective": ["مهم", "با نفوذ", "با اهمیت", "پر اهمیت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "impose",
+    "pronunciation": "im'poz",
+    "translates": {
+      "transitive-verb": ["تحمیل کردن", "[مالیات] بستن", "اعمال نفوذ کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "imposing",
+    "pronunciation": "im'pozing",
+    "translates": {
+      "adjective": ["با ابهت", "حیرت انگیز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "impossibility",
+    "pronunciation": "impa^si'biliti",
+    "translates": {
+      "noun": ["عدم امکان", "چیز یا کار ناممکن", "امکان ناپذیری", "کار نشدنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "impossible",
+    "pronunciation": "im'pa^sibel",
+    "translates": {
+      "adjective": [
+        "غیر ممکن",
+        "ناممکن",
+        "نامقدور",
+        "غیر عملی",
+        "غیر قابل تحمل",
+        "دشوار",
+        "مشکل",
+        "ممتنع",
+        "نشدنی",
+        "نامحتمل",
+        "امکان ناپذیر"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "impostor",
+    "pronunciation": "im'pa^ster",
+    "translates": {
+      "noun": ["شیاد", "دغل کار", "فریبکار", "وانمود کننده", "مکار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "impress",
+    "pronunciation": "imp'res",
+    "translates": {
+      "transitive-verb": [
+        "نشان گذاردن",
+        "نقش انداختن",
+        "زدن",
+        "تحت تاثیر قرار دادن",
+        "اثر گذاشتن",
+        "تفهیم کردن",
+        "خاطر نشان کردن"
+      ]
+    },
+    "subWords": {}
   }
 ]
