@@ -772,5 +772,440 @@
       ]
     },
     "subWords": {}
+  },
+  {
+    "word": "impression",
+    "pronunciation": "im'preshen",
+    "translates": {
+      "noun": ["نشان", "تاثیر", "برداشت", "احساس", "تصور", "چاپ", "اثر", "گمان"]
+    },
+    "subWords": {
+      "make a good (or bad) impression on somebody": [
+        "روی کسی تاثیر خوب (یا بد) گذاشتن"
+      ]
+    }
+  },
+  {
+    "word": "imprison",
+    "pronunciation": "im'prizen",
+    "translates": {
+      "transitive-verb": ["زندانی کردن", "به زندان انداختن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "imprisonment",
+    "pronunciation": "im'prizenment",
+    "translates": {
+      "noun": ["زندان", "حبس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "improbable",
+    "pronunciation": "im'pra^bebel",
+    "translates": {
+      "adjective": ["نامحتمل", "غیر محتمل", "بعید", "دور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "improper",
+    "pronunciation": "im'pra^per",
+    "translates": {
+      "adjective": ["نامناسب", "نابجا", "بی مناسبت", "زشت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "improve",
+    "pronunciation": "im'proov",
+    "translates": {
+      "transitive-verb": ["بهتر کردن", "اصلاح کردن"],
+      "intransitive-verb": ["بهتر شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "improvement",
+    "pronunciation": "im'proovment",
+    "translates": {
+      "noun": ["بهبود", "اصلاح", "پیشرفت", "ترقی", "بهسازی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "improvise",
+    "pronunciation": "'improva^yz",
+    "translates": {
+      "transitive-verb": ["بداهه گویی", "سرهم کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "impudent",
+    "pronunciation": "'impyudent",
+    "translates": {
+      "adjective": ["بی شرم", "بی حیا", "بی شرمانه", "گستاخ", "چشم سفید"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "impulse",
+    "pronunciation": "'impa^ls",
+    "translates": {
+      "noun": ["تکان", "ضربه", "برانگیزش", "انگیزه ناگهانی"],
+      "transitive-verb": ["انگیزه دادن به"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "impulsive",
+    "pronunciation": "im'pa^lsiv",
+    "translates": {
+      "adjective": ["ضربه ای", "تابع امیال آنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "impure",
+    "pronunciation": "im'pyur",
+    "translates": {
+      "adjective": ["آلوده", "کثیف", "ناخالص", "زشت", "قبیح", "ناپاک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "in",
+    "pronunciation": "in",
+    "translates": {
+      "preposition": [
+        "در",
+        "تو",
+        "تویِ",
+        "درونِ",
+        "با",
+        "به",
+        "از",
+        "از لحاظ",
+        "از ناحیه",
+        "با لباسِ",
+        "در ظرفِ",
+        "طیِ",
+        "بر حسبِ"
+      ],
+      "adverb": ["توی آن", "در خانه", "آنجا", "آمده", "باب", "معمول", "مُد"]
+    },
+    "subWords": {
+      "in all": ["روی هم رفته", "در مجموع"],
+      "be in and out": ["رفتن و آمدن", "در حال رفت و آمد بودن"],
+      "be in for something": ["احتمال وقوع چیزی رفتن"],
+      "have it in for somebody": [
+        "از کسی سخت دلخور بودن",
+        "کینه کسی را به دل داشتن"
+      ],
+      "the ins and outs of something": ["جرئیات امر", "چَم و خم کار"]
+    }
+  },
+  {
+    "word": "inability",
+    "pronunciation": "ine'biliti",
+    "translates": {
+      "noun": ["ناتوانی", "عجز", "درماندگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inaccessible",
+    "pronunciation": "inak'sesibel",
+    "translates": {
+      "adjective": ["دور از دسترس", "غیر قابل دسترس", "خارج از دسترس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inaccuracy",
+    "pronunciation": "in'akyuresi",
+    "translates": {
+      "noun": ["بی دقتی", "غلط", "اشتباه", "خطا", "عدم دقت", "عدم صحت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inaccurate",
+    "pronunciation": "in'akyurit",
+    "translates": {
+      "adjective": ["نادرست", "غلط", "غیر دقیق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inaccurately",
+    "pronunciation": "in'akyuritli",
+    "translates": {
+      "adverb": ["بی دقتی", "سرسری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inactive",
+    "pronunciation": "in'aktiv",
+    "translates": {
+      "adjective": ["بی حرکتی", "غیر فعال", "بدون فعالیت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inactivity",
+    "pronunciation": "inak'tiviti",
+    "translates": {
+      "noun": ["عدم فعالیت", "رخوت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inadequate",
+    "pronunciation": "in'adikwit",
+    "translates": {
+      "adjective": ["ناکافی", "کم", "نامناسب", "ناتوان", "غیر کافی", "نابسنده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inanimate",
+    "pronunciation": "in'animit",
+    "translates": {
+      "adjective": ["بی جان", "بی روح", "ملال آور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inattention",
+    "pronunciation": "ina'tenshen",
+    "translates": {
+      "noun": ["بی توجهی", "عدم توجه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inattentive",
+    "pronunciation": "ina'tentiv",
+    "translates": {
+      "adjective": ["بی توجه", "سر به هوا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inaudible",
+    "pronunciation": "in'odibel",
+    "translates": {
+      "adjective": ["غیر قابل شنیدن", "شنیده نشدنی", "نارسا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "incapable",
+    "pronunciation": "in'keypebel",
+    "translates": {
+      "adjective": ["ناتوان", "عاجز", "محجور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "incense",
+    "pronunciation": "in'sens",
+    "translates": {
+      "transitive-verb": ["به خشم آوردن", "خشمگین کردن", "بخور دادن به"],
+      "noun": ["بخور خوشبو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "incentive",
+    "pronunciation": "in'sentiv",
+    "translates": {
+      "noun": ["مشوق", "محرک", "شوق", "اشتیاق", "انگیزه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inch",
+    "pronunciation": "inch",
+    "translates": {
+      "noun": ["اینچ (= واحد طول برابر با 2/54 سانتیمتر) یک کم", "یک ذره"],
+      "transitive-verb": ["ذره ذره پیش بردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "incident",
+    "pronunciation": "'insident",
+    "translates": {
+      "noun": ["حادثه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "incidental",
+    "pronunciation": "insi'denta^l",
+    "translates": {
+      "adjective": ["فرعی", "جزئی", "اتفاقی", "ضمنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "incinerator",
+    "pronunciation": "in'sinereyter",
+    "translates": {
+      "noun": ["(دستگاه) زباله سوز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "incite",
+    "pronunciation": "in'sa^yt",
+    "translates": {
+      "transitive-verb": ["برانگیختن", "تحریک کردن", "ایجاد کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "incitement",
+    "pronunciation": "in'sa^ytment",
+    "translates": {
+      "noun": ["تحریک", "برانگیزش", "محرک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "incline",
+    "pronunciation": "in'kla^yn",
+    "translates": {
+      "transitive-verb": ["کج کردن", "متمایل ساختن", "شیب دادن"],
+      "intransitive-verb": ["کج شدن", "مایل بودن", "میل داشتن"],
+      "noun": ["شیب"]
+    },
+    "subWords": {
+      "be inclined to": ["مایل بودن", "دوست داشتن", "احتمال داشتن"]
+    }
+  },
+  {
+    "word": "include",
+    "pronunciation": "in'klood",
+    "translates": {
+      "transitive-verb": ["شامل بودن", "به حساب آوردن", "در بر داشتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "including",
+    "pronunciation": "in'klooding",
+    "translates": {
+      "preposition": ["از جمله", "شاملِ", "با محاسبهِ"],
+      "adjective": ["محتوی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inclusion",
+    "pronunciation": "in'kloozhen",
+    "translates": {
+      "noun": ["(عمل) گنجاندن", "شمول", "گنجایش", "در بر داری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inclusive",
+    "pronunciation": "in'kloosiv",
+    "translates": {
+      "adjective": ["شامل", "گنجیده", "به حساب آمده"]
+    },
+    "subWords": {
+      "be inclusive of something": ["شامل چیزی بودن"]
+    }
+  },
+  {
+    "word": "income",
+    "pronunciation": "'inka^m",
+    "translates": {
+      "noun": ["درآمد", "عایدات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "incompetent",
+    "pronunciation": "in'ka^mpitent",
+    "translates": {
+      "adjective": ["بدون صلاحیت", "فاقد صلاحیت", "نالایق", "بی کفایت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "incomplete",
+    "pronunciation": "inkka^m'pliit",
+    "translates": {
+      "adjective": ["ناتمام", "ناقص"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "incomprehensible",
+    "pronunciation": "inka^mpri'hensibel",
+    "translates": {
+      "adjective": ["نامفهوم", "مبهم", "دور از فهم", "درک نکردنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inconceivable",
+    "pronunciation": "inka^n'siivebel",
+    "translates": {
+      "adjective": ["غیر قابل تصور", "باور نکردنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inconsiderate",
+    "pronunciation": "inka^n'siderit",
+    "translates": {
+      "adjective": ["بدون ملاحظه", "نسنجیده", "بی پروا", "بی فکر", "سهل انگار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inconsistent",
+    "pronunciation": "inka^n'sistent",
+    "translates": {
+      "adjective": ["ناسازگار", "متناقض", "بی ثبات", "ناجور"]
+    },
+    "subWords": {
+      "be inconsistent with": ["ناسازگار بودن با", "همخوانی نداشتن با"]
+    }
+  },
+  {
+    "word": "inconvenience",
+    "pronunciation": "inka^nviiniyens",
+    "translates": {
+      "noun": ["مزاحمت", "ناراحتی", "دردسر", "زحمت", "اسباب زحمت"],
+      "transitive-verb": ["مزاحم شدن", "ناراحت کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inconvenient",
+    "pronunciation": "inka^n'viiniyent",
+    "translates": {
+      "adjective": ["ناراحت کننده", "بی موقع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "incorporate",
+    "pronunciation": "in'korporeyt",
+    "translates": {
+      "transitive-verb": ["ملحق کردن", "ترکیب کردن", "یکی کردن"],
+      "intransitive-verb": ["ملحق شدن"]
+    },
+    "subWords": {}
   }
 ]
