@@ -1207,5 +1207,576 @@
       "intransitive-verb": ["ملحق شدن"]
     },
     "subWords": {}
+  },
+  {
+    "word": "incorrect",
+    "pronunciation": "inka^'rekt",
+    "translates": {
+      "adjective": [
+        "غلط",
+        "نادرست",
+        "ناصحیح",
+        "غیر واقعی",
+        "غیر صحیح",
+        "غیر دقیق",
+        "بد",
+        "زشت",
+        "ناپسند"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "increase",
+    "pronunciation": "'inkriis",
+    "translates": {
+      "noun": ["افزایش"],
+      "transitive-verb": ["افزایش دادن"],
+      "intransitive-verb": ["افزایش یافتن"]
+    },
+    "subWords": {
+      "be on the increase": ["رو به افزایش بودن"]
+    }
+  },
+  {
+    "word": "incredible",
+    "pronunciation": "in'kerdibel",
+    "translates": {
+      "adjective": ["باورنکردنی", "شگفت", "عجیب", "غیر قابل قبول"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "incredulous",
+    "pronunciation": "in'kredyules",
+    "translates": {
+      "adjective": [
+        "شکاک",
+        "ناباورانه",
+        "حاکی از ناباوری",
+        "بی اعتقاد",
+        "دیر باور"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "incurable",
+    "pronunciation": "in'kyurebel",
+    "translates": {
+      "adjective": ["علاج ناپذیر", "بی درمان"],
+      "noun": ["بیمار علاج ناپذیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indebted",
+    "pronunciation": "in'detid",
+    "translates": {
+      "adjective": ["بدهکاری", "مقروض", "سپاسگذار", "مدیون", "مرهون"]
+    },
+    "subWords": {
+      "be indebted to somebody for something": [
+        "به خاطر چیزی مدیون (یا سپاسگذار) کسی بودن"
+      ]
+    }
+  },
+  {
+    "word": "indecency",
+    "pronunciation": "in'diisensi",
+    "translates": {
+      "noun": [
+        "هرزگی",
+        "ابتزال",
+        "بی حیایی",
+        "بی شرمی",
+        "بی نزاکتی",
+        "ناشایندگی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indecent",
+    "pronunciation": "in'diisent",
+    "translates": {
+      "adjective": [
+        "زشت",
+        "هرزه",
+        "مبتذل",
+        "بی حیا",
+        "ناشایست",
+        "نامعقول",
+        "نامناسب",
+        "ناپسند",
+        "خارج از نزاکت"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indeed",
+    "pronunciation": "in'diid",
+    "translates": {
+      "adverb": [
+        "راستی",
+        "به راستی",
+        "در واقع",
+        "واقعاً",
+        "جداً",
+        "مسلماً",
+        "حقیقتاً",
+        "همانا"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indefinite",
+    "pronunciation": "in'definit",
+    "translates": {
+      "adjective": ["مبهم", "نامشخص", "نامعلوم", "نامعین", "نامحدود", "بیکران"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indefinitely",
+    "pronunciation": "in'definitli",
+    "translates": {
+      "adverb": ["به طور نامحدود", "به طور مبهم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indelible",
+    "pronunciation": "in'delibel",
+    "translates": {
+      "adjective": [
+        "پاک نشدنی",
+        "محو نشدنی",
+        "زایل نشدنی",
+        "فراموش نشدنی",
+        "ماندگار"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "independence",
+    "pronunciation": "indi'pendens",
+    "translates": {
+      "noun": ["استقلال", "آزادی", "بی نیازی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "independent",
+    "pronunciation": "indi'pendent",
+    "translates": {
+      "adjective": ["مستقل", "آزاد", "بدون وابستگی", "سرخود"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "index",
+    "pronunciation": "'indeks",
+    "translates": {
+      "noun": ["فهرست", "شاخص", "نمایه", "سبابه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "India",
+    "pronunciation": "'indiya^",
+    "translates": {
+      "noun": ["هند", "هندوستان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Indian",
+    "pronunciation": "'indiyen",
+    "translates": {
+      "noun": ["هندی", "سرخ پوست", "بومی آمریکا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indicate",
+    "pronunciation": "'indikeyt",
+    "translates": {
+      "transitive-verb": [
+        "نشان دادن",
+        "اشاره کردن",
+        "نشان (چیزی) بودن",
+        "(به چیزی) دلالت داشتن",
+        "حاکی بودن",
+        "نمایان ساختن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indication",
+    "pronunciation": "indi'keyshen",
+    "translates": {
+      "noun": [
+        "نشان",
+        "نشانه",
+        "علامت",
+        "اثر",
+        "گواه",
+        "دلیل",
+        "اشاره",
+        "دلالت",
+        "خبر",
+        "اطلاع"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indicator",
+    "pronunciation": "'indikeyter",
+    "translates": {
+      "noun": ["راهنما", "تابلوی راهنما", "عقربه", "شاخص", "نشانگر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indifference",
+    "pronunciation": "in'difrens",
+    "translates": {
+      "noun": ["بی اعتنایی", "بی توجهی", "بی تفاوتی", "بی علاقگی", "سهل انگاری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indifferent",
+    "pronunciation": "in'difrent",
+    "translates": {
+      "adjective": ["بی اعتنا", "بی تفاوت", "بی طرف", "بی اثر", "بی علاقه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indigestible",
+    "pronunciation": "indi'jestibel",
+    "translates": {
+      "adjective": ["غیر قابل هضم", "سنگین", "ثقیل", "بدگوار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indigestion",
+    "pronunciation": "indi'jeschen",
+    "translates": {
+      "noun": ["سوء هاضمه", "دیر هضمی", "رودل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indignant",
+    "pronunciation": "in'dignent",
+    "translates": {
+      "adjective": ["عصبانی", "متغیر", "بر آشفته", "خشمگین", "رنجیده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indignation",
+    "pronunciation": "indig'neyshen",
+    "translates": {
+      "noun": ["رنجش", "خشم", "عصبانیت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indirect",
+    "pronunciation": "indi'rekt",
+    "translates": {
+      "adjective": ["غیر مستقیم", "کج", "غیر صریح", "پیچیده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indispensable",
+    "pronunciation": "indis'pensebel",
+    "translates": {
+      "adjective": ["ضروری", "حیاتی", "واجب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indistinct",
+    "pronunciation": "indis'tinkt",
+    "translates": {
+      "adjective": [
+        "مبهم",
+        "نامشخص",
+        "نامفهوم",
+        "ناخوانا",
+        "تیره",
+        "نامعلوم",
+        "ناشنوا",
+        "غیر روشن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indistinguishable",
+    "pronunciation": "indis'tingwishebel",
+    "translates": {
+      "adjective": ["غیری قابل تمیز", "غیر قابل تشخیص", "بازنشناختنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "individual",
+    "pronunciation": "indi'vijuwa^l",
+    "translates": {
+      "adjective": ["فردی", "خاص", "تک"],
+      "noun": ["فرد", "شخص", "آدم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "individually",
+    "pronunciation": "indi'vijuwa^li",
+    "translates": {
+      "adverb": ["به طور جداگانه", "یکی یکی", "تک تک", "منحصراً"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indoor",
+    "pronunciation": "'indor",
+    "translates": {
+      "adjective": [
+        "داخلی",
+        "درونی",
+        "[ورزش] داخل سالن",
+        "زیر سقف",
+        "سر پوشیده"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indoors",
+    "pronunciation": "'indorz",
+    "translates": {
+      "adverb": ["در خانه", "در داخل خانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "induce",
+    "pronunciation": "in'dyoos",
+    "translates": {
+      "transitive-verb": ["واداشتن", "وادار کردن", "اعوا کردن"],
+      "intransitive-verb": ["تحریک شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indulge",
+    "pronunciation": "in'da^lj",
+    "translates": {
+      "transitive-verb": [
+        "لوس کردن",
+        "ننر کردن",
+        "بر خود روا داشتن",
+        "شوخی کردن",
+        "رها ساختن",
+        "مخالفت نکردن",
+        "مخالف نبودن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indulgence",
+    "pronunciation": "in'da^ljens",
+    "translates": {
+      "noun": ["ناپرهیزی", "[در کلیسای روم] عفو", "زیاده روی", "افراط"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "indulgent",
+    "pronunciation": "in'da^ljent",
+    "translates": {
+      "adjective": ["آسان گیری", "بیش از اندازه نرم", "بخشنده", "زیاده رو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "industrial",
+    "pronunciation": "in'da^striya^l",
+    "translates": {
+      "adjective": ["صنعتی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "industry",
+    "pronunciation": "'inda^stri",
+    "translates": {
+      "noun": ["صنعت", "صنایع", "صاحبان صنایع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inefficient",
+    "pronunciation": "ini'fishent",
+    "translates": {
+      "adjective": ["فاقد کارایی", "بی کفایت", "بی عرضه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inequality",
+    "pronunciation": "ini'kwa^liti",
+    "translates": {
+      "noun": ["نابرابری", "عدم تساوی", "اختلاف", "ناهمواری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inevitable",
+    "pronunciation": "in'evitebel",
+    "translates": {
+      "adjective": ["اجتناب ناپذیر", "گریز ناپذیر", "حتمی", "غیر قابل امتناع"]
+    },
+    "subWords": {
+      "the inevitable": ["امر اجتناب ناپذیر"]
+    }
+  },
+  {
+    "word": "inexpensive",
+    "pronunciation": "iniks'pensiv",
+    "translates": {
+      "adjective": ["ارزان", "مناسب", "کم خرج"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inexperienced",
+    "pronunciation": "iniks'piriyenst",
+    "translates": {
+      "adjective": ["بی تجربه", "خام و بچگانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inexplicable",
+    "pronunciation": "iniks'plikebel",
+    "translates": {
+      "adjective": ["غیر قابل توضیح", "غیر قابل توجیه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "infancy",
+    "pronunciation": "'infansi",
+    "translates": {
+      "noun": ["کودکی", "نخستین دوره رشد", "خردی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "infant",
+    "pronunciation": "'infant",
+    "translates": {
+      "noun": ["کودک", "طفل", "نوزاد", "بچه (کمتر از هفت سال)", "صغیر"],
+      "adjective": ["کودکانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "infantry",
+    "pronunciation": "'infantri",
+    "translates": {
+      "noun": ["پیاده نظام"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "infatuate",
+    "pronunciation": "in'fachuweyt",
+    "translates": {
+      "transitive-verb": [
+        "شیفته کردن",
+        "واله و شیدا کردن",
+        "از خود بی خود کردن"
+      ],
+      "adjective": ["واله و شیفته", "از خود بی خود"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "infatuation",
+    "pronunciation": "infachu'weyshen",
+    "translates": {
+      "noun": ["شیفتگی", "دلباختگی", "شیدایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "infect",
+    "pronunciation": "in'fekt",
+    "translates": {
+      "transitive-verb": [
+        "آلوده کردن",
+        "آلودن",
+        "دچار عفونت کردن",
+        "عفونی کردن",
+        "مبتلا کردن",
+        "دچار کردن",
+        "گند زده کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "infection",
+    "pronunciation": "in'fekshen",
+    "translates": {
+      "noun": ["ابتلا", "سرایت", "عفونت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "infectious",
+    "pronunciation": "in'fekshes",
+    "translates": {
+      "adjective": ["مسری", "واگیردار", "عفونی", "مبتلا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inferior",
+    "pronunciation": "in'fiyeriyer",
+    "translates": {
+      "adjective": [
+        "حقیر (تر)",
+        "پایین (تر)",
+        "جزء",
+        "پست",
+        "نامرغوب",
+        "پایین رتبه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inferiority",
+    "pronunciation": "infiyeri'ya^riti",
+    "translates": {
+      "noun": ["حقارت", "کوچکی", "پستی", "زیر دست بودن"]
+    },
+    "subWords": {}
   }
 ]
