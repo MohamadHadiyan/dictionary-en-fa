@@ -654,6 +654,23 @@
     "subWords": {}
   },
   {
+    "word": "implement",
+    "pronunciation": "im'plement",
+    "translates": {
+      "transitive-verb": ["انجام دادن", "اجرا کردن", "ایفاء کردن"],
+      "noun": ["انجام", "اجرا", "ایفاء", "پیاده سازی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "implementation",
+    "pronunciation": "implemen'teyshen",
+    "translates": {
+      "noun": ["انجام", "اجرا", "پیاده سازی"]
+    },
+    "subWords": {}
+  },
+  {
     "word": "implore",
     "pronunciation": "im'plor",
     "translates": {
@@ -1778,5 +1795,493 @@
       "noun": ["حقارت", "کوچکی", "پستی", "زیر دست بودن"]
     },
     "subWords": {}
+  },
+  {
+    "word": "infinitely",
+    "pronunciation": "'infinitli",
+    "translates": {
+      "adverb": ["بی نهایت", "بی اندازه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "infinitive",
+    "pronunciation": "in'finitiv",
+    "translates": {
+      "noun": ["مصدر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "infirm",
+    "pronunciation": "in'ferm",
+    "translates": {
+      "adjective": ["ضعیف", "ناتوان", "علیل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "infirmary",
+    "pronunciation": "in'fermeri",
+    "translates": {
+      "noun": ["بیمارستان", "اتاق بیمارستان", "درمانگاه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "infirmity",
+    "pronunciation": "in'fermiti",
+    "translates": {
+      "noun": ["ضعف", "سستی", "نقص", "عیب", "نقطه ضعف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inflammable",
+    "pronunciation": "in'fleymebel",
+    "translates": {
+      "adjective": [
+        "اشتعال پذیر",
+        "قابل اشتعال",
+        "آتش زا",
+        "تحریک پذیر",
+        "التهاب پذیر"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inflatable",
+    "pronunciation": "in'fleytebel",
+    "translates": {
+      "adjective": ["قابل باد کردن", "باد شدنی", "بادی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inflate",
+    "pronunciation": "in'fleyt",
+    "translates": {
+      "transitive-verb": [
+        "باد کردن",
+        "متورم کردن",
+        "ایجاد تورم کردن",
+        "اغراق کردن"
+      ],
+      "intransitive-verb": ["متورم شدن", "ورم کردن", "باد شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inflation",
+    "pronunciation": "in'fleyshen",
+    "translates": {
+      "noun": ["تورم", "ورم", "باد", "پف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inflexible",
+    "pronunciation": "in'fleksibel",
+    "translates": {
+      "adjective": ["خشک", "سخت", "انعطاف ناپذیر", "انحنا ناپذیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "influence",
+    "pronunciation": "'influ-ens",
+    "translates": {
+      "noun": ["نفوذ", "تاثیر", "اثر", "عامل موثر"],
+      "transitive-verb": [
+        "تحت تاثیر قرار دادن",
+        "اثر گذاشتن روی",
+        "وادار کردن",
+        "نفوذ کردن بر"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "influenza",
+    "pronunciation": "influ'enza^",
+    "translates": {
+      "noun": ["آنفلوآنزا", "آنفولانزا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inform",
+    "pronunciation": "in'form",
+    "translates": {
+      "transitive-verb": [
+        "مطلع کردن",
+        "باخبر کردن",
+        "خبر دادن",
+        "آگاه کردن",
+        "اطلاع دادن",
+        "چغلی کردن"
+      ]
+    },
+    "subWords": {
+      "inform against (or on) somebody": [
+        "کسی را لو دادن",
+        "گزارش کسی را دادن"
+      ],
+      "inform the police of something": ["چیزی را به پلیس خبر دادن"]
+    }
+  },
+  {
+    "word": "informal",
+    "pronunciation": "in'forma^l",
+    "translates": {
+      "adjective": ["غیر رسمی", "معمولی", "خودمانی", "بی تشریفات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "information",
+    "pronunciation": "infor'meyshen",
+    "translates": {
+      "noun": ["اطلاع", "اطلاعات", "معلومات", "خبر", "اتهام"]
+    },
+    "subWords": {
+      "information desk": ["(باجه) اطلاعات"],
+      "information office": ["(دفتر) اطلاعات"]
+    }
+  },
+  {
+    "word": "infrequent",
+    "pronunciation": "in'friikwent",
+    "translates": {
+      "adjective": ["نادر", "کم", "غیر معمول", "استثنائی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "infrequently",
+    "pronunciation": "in'friikwentli",
+    "translates": {
+      "adjective": ["به ندرت", "گاه گاه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ingenious",
+    "pronunciation": "in'jiniyes",
+    "translates": {
+      "adjective": ["مبتکر", "خلاق", "ابتکاری", "بکر", "ماهرانه", "استادانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ingenuity",
+    "pronunciation": "in'jinyoo-iti",
+    "translates": {
+      "noun": ["ابتکار", "خلاقیت", "استادی", "نبوغ", "قوه ابتکار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ingenuous",
+    "pronunciation": "in'jenyuwes",
+    "translates": {
+      "adjective": ["رک", "صریح", "بی ریا", "ساده لوح", "صاف و ساده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ingot",
+    "pronunciation": "in'ga^t",
+    "translates": {
+      "noun": ["شمش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ingrained",
+    "pronunciation": "in'greynd",
+    "translates": {
+      "adjective": ["ریشه دار", "عمیق", "کامل", "تمام عیار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ingratitude",
+    "pronunciation": "in'gratityood",
+    "translates": {
+      "noun": ["ناسپاسی", "نمک نشناسی", "ناشکری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ingredient",
+    "pronunciation": "in'griidiyent",
+    "translates": {
+      "noun": ["جزء", "جزء سازنده", "جزء ترکیبی", "عنصر", "ذرات", "عامل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inhabit",
+    "pronunciation": "in'habit",
+    "translates": {
+      "transitive-verb": ["ساکن شدن در", "سکونت گزیدن در"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inhabitant",
+    "pronunciation": "in'habitent",
+    "translates": {
+      "noun": ["ساکنِ", "اهلِ", "مقیمِ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inhale",
+    "pronunciation": "in'heyl",
+    "translates": {
+      "transitive-verb": [
+        "استنشاق کردن",
+        "نفس کشیدن",
+        "دم فرو بردن",
+        "(دود) فرو دادن",
+        "استشمام کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inherit",
+    "pronunciation": "in'herit",
+    "translates": {
+      "transitive-verb": ["(به) ارث بردن", "وارث (چیزی) بودن", "واری شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inheritance",
+    "pronunciation": "in'heritens",
+    "translates": {
+      "noun": ["ارث", "وراثت", "توارث", "میراث"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inhuman",
+    "pronunciation": "in'hyooman",
+    "translates": {
+      "adjective": ["ظالم", "بی رحم", "ظالمانه", "غیر انسانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "initial",
+    "pronunciation": "i'nisha^l",
+    "translates": {
+      "adjective": ["اولین", "نخستین", "مقدماتی", "ابتدایی", "آغازی"],
+      "noun": ["حرف اول اسم شخص", "اولین قسمت"],
+      "transitive-verb": ["پاراف کردن", "در آغاز قرار دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "initiate",
+    "pronunciation": "i'nishieyeyt",
+    "translates": {
+      "transitive-verb": ["شروع کردن", "آغاز کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "initiation",
+    "pronunciation": "inishi'eyeyshen",
+    "translates": {
+      "noun": ["آغاز", "شروع", "اجرا", "به کارگیری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "initiative",
+    "pronunciation": "i'nishiyetiv",
+    "translates": {
+      "noun": ["ابتکار", "قوه ابتکار", "ابتکار عمل", "قریحه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inject",
+    "pronunciation": "in'jekt",
+    "translates": {
+      "transitive-verb": ["تزریق کردن", "زدن", "سوزن زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "injection",
+    "pronunciation": "in'jekshen",
+    "translates": {
+      "noun": ["تزریق", "آمپول"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "injure",
+    "pronunciation": "'injer",
+    "translates": {
+      "transitive-verb": [
+        "مجروح کردن",
+        "لطمه زدن",
+        "زیان رساندن",
+        "آسیب زدن",
+        "آزار رساندن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "injury",
+    "pronunciation": "'injeri",
+    "translates": {
+      "noun": ["آسیب", "صدمه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "injustice",
+    "pronunciation": "in'ja^stis",
+    "translates": {
+      "noun": ["بی عدالتی", "ظلم", "حق کشی", "بی انصافی", "ستم", "بی داد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ink",
+    "pronunciation": "ink",
+    "translates": {
+      "noun": ["مرکب", "جوهر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inkling",
+    "pronunciation": "'inkling",
+    "translates": {
+      "noun": ["اشاره", "تصور مبهم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inland",
+    "pronunciation": "'inland",
+    "translates": {
+      "adjective": ["درون خشکی", "محصور در خشکی", "داخلی", "درون مرزی"],
+      "adverb": ["درون مرزی", "درون کشور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inmost",
+    "pronunciation": "'inmost",
+    "translates": {
+      "adjective": ["درونی ترین", "خصوصی ترین", "درونی", "باطنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inn",
+    "pronunciation": "in",
+    "translates": {
+      "noun": ["مسافرخانه", "مهمان سرا", "کاروان سرا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inner",
+    "pronunciation": "'iner",
+    "translates": {
+      "adjective": ["داخلی", "درونی", "تویی", "میانی", "خصوصی", "باطنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "innings",
+    "pronunciation": "'iningz",
+    "translates": {
+      "noun": ["دوره", "نوبت", "دوره تصدی", "دوره فعالیت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "innocence",
+    "pronunciation": "'inosens",
+    "translates": {
+      "noun": ["بی گناهی", "معصومیت", "سادگی", "برائت", "بی تقصیری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "innocent",
+    "pronunciation": "'inosent",
+    "translates": {
+      "adjective": ["بی گناه", "بی تقصیر", "معصوم", "پاک", "مبرا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "innovation",
+    "pronunciation": "ino'veyshen",
+    "translates": {
+      "noun": ["نوآوری", "ابداع", "تغییر", "پیشرفت", "بدعت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "innumerable",
+    "pronunciation": "i'nyoomerebel",
+    "translates": {
+      "adjective": ["بی شمار", "بی حد و حصر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "input",
+    "pronunciation": "'input",
+    "translates": {
+      "noun": ["ورودی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inquire",
+    "pronunciation": "in'kwa^yr",
+    "translates": {
+      "transitive-verb": [
+        "پرسیدن",
+        "پرس و جو کردن",
+        "سراغ گرفتن",
+        "تحقیق کردن",
+        "جویا شدن"
+      ]
+    },
+    "subWords": {
+      "inquire after somebody": ["از احوال کسی جویا شدن", "سراغ کسی را گرفتن"],
+      "inquire into something": ["درباره چیزی تحقیق کردن"]
+    }
+  },
+  {
+    "word": "inquiry",
+    "pronunciation": "in'kwa^yri",
+    "translates": {
+      "noun": ["استعلام", "پرسش", "پرس و جو", "کند و کاو", "تحقیق"]
+    },
+    "subWords": {
+      "inquiry into something": ["تحقیق درباره چیزی"],
+      "make inquiries about something": [
+        "درباره چیزی پرس و جو کردن",
+        "سراغ گرفتن"
+      ]
+    }
   }
 ]
