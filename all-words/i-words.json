@@ -2283,5 +2283,519 @@
         "سراغ گرفتن"
       ]
     }
+  },
+  {
+    "word": "inquisitive",
+    "pronunciation": "in'kwizitiv",
+    "translates": {
+      "adjective": ["کنجکاو", "فضول", "پی جو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "insane",
+    "pronunciation": "in'seyn",
+    "translates": {
+      "adjective": ["دیوانه", "احمق", "احمقانه", "نامعقول", "مجنون", "بی عقل"],
+      "noun": ["مجنون"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inscription",
+    "pronunciation": "ins'kripshen",
+    "translates": {
+      "noun": ["نوشته", "کتیبه", "[ کتاب و غیره ] اهدائیه", "تقدیم نامه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "insect",
+    "pronunciation": "'insekt",
+    "translates": {
+      "noun": ["حشره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "insecure",
+    "pronunciation": "insi'kyur",
+    "translates": {
+      "adjective": ["ناامن", "سست", "متزلزل", "نااستوار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "insensible",
+    "pronunciation": "in'sensibel",
+    "translates": {
+      "adjective": ["بی هوش", "بی حس", "بی خبر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "insensitive",
+    "pronunciation": "in'sensitiv",
+    "translates": {
+      "adjective": ["بی احساس", "بی تفاوت", "نفهم", "بی عاطفه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inseparable",
+    "pronunciation": "in'seprebel",
+    "translates": {
+      "adjective": [
+        "جدا نشدنی",
+        "غیر قابل تفکیک",
+        "تفکیک ناپذیر",
+        "جدایی ناپذیر"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "insert",
+    "pronunciation": "in'sert",
+    "translates": {
+      "transitive-verb": ["وارد کردن", "الحاق کردن", "درج کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inside",
+    "pronunciation": "in'sa^yd",
+    "translates": {
+      "noun": ["داخل", "تو"],
+      "adverb": ["درون"],
+      "adjective": ["درونی", "داخلی"],
+      "preposition": ["داخلِ", "تویِ"]
+    },
+    "subWords": {
+      "inside out": ["پشت و رو", "وارونه", "خیلی خوب"]
+    }
+  },
+  {
+    "word": "insignificant",
+    "pronunciation": "insig'nifikent",
+    "translates": {
+      "adjective": ["کم اهمیت", "کم", "حقیر", "ناچیز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "insincere",
+    "pronunciation": "insin'siyer",
+    "translates": {
+      "adjective": ["ریاکار", "دورو", "شیله پیله دار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "insist",
+    "pronunciation": "in'sist",
+    "translates": {
+      "intransitive-verb": [
+        "پافشاری کردن",
+        "اصرار کردن",
+        "تاکید کردن",
+        "فشار آوردن"
+      ]
+    },
+    "subWords": {
+      "insist of something": ["روی چیزی پافشاری کردن"]
+    }
+  },
+  {
+    "word": "insistence",
+    "pronunciation": "in'sistens",
+    "translates": {
+      "noun": ["پافشاری", "اصرار", "سماجت", "مقاومت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "insistent",
+    "pronunciation": "in'sistent",
+    "translates": {
+      "adjective": ["مُصر", "مصرانه", "موکد", "فوری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "insolence",
+    "pronunciation": "'insolens",
+    "translates": {
+      "noun": [
+        "وقاحت",
+        "بی شرمی",
+        "بی حرمتی",
+        "گستاخی",
+        "اهانت",
+        "جسارت",
+        "ادعای بیخود"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "insolent",
+    "pronunciation": "'insolent",
+    "translates": {
+      "adjective": ["وقیح", "گستاخ", "خیره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inspect",
+    "pronunciation": "ins'pekt",
+    "translates": {
+      "transitive-verb": ["بازدید کردن", "وارسی کردن", "بازرسی کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inspection",
+    "pronunciation": "ins'pekshen",
+    "translates": {
+      "noun": ["بازرسی", "معاینه", "وارسی", "بازدید", "تفتیش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inspector",
+    "pronunciation": "ins'pekter",
+    "translates": {
+      "noun": ["بازرس", "[پلیس] سرگروهبان", "مفتش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inspiration",
+    "pronunciation": "inspi'reyshen",
+    "translates": {
+      "noun": ["الهام", "منبع الهام", "فکر بکر", "دَم", "نفس عمیق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inspire",
+    "pronunciation": "ins'pa^yr",
+    "translates": {
+      "transitive-verb": [
+        "الهام بخشیدن",
+        "برانگیختن",
+        "دمیدن در",
+        "نفس عمیق کشیدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "install",
+    "pronunciation": "ins'to^l",
+    "translates": {
+      "transitive-verb": [
+        "نصب کردن",
+        "کار گذاشتن",
+        "منصوب کردن",
+        "مستقر کردن",
+        "جای دادن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "installation",
+    "pronunciation": "insto'leyshen",
+    "translates": {
+      "noun": ["نصب کارگذاری", "انتصاب", "تاسیسات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "instalment",
+    "pronunciation": "ins'to^llment",
+    "translates": {
+      "noun": ["قسط", "قسمت", "بخش", "نصب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "instance",
+    "pronunciation": "'instens",
+    "translates": {
+      "noun": ["مثال", "مورد", "نمونه", "پیشنهاد", "خواست"]
+    },
+    "subWords": {
+      "for instance": ["به عنوان مثال", "برای مثال", "مثلاً"]
+    }
+  },
+  {
+    "word": "instant",
+    "pronunciation": "'instent",
+    "translates": {
+      "adjective": ["فوری", "ضروری", "مبرم"],
+      "noun": ["لحظه", "آن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "instead",
+    "pronunciation": "ins'ted",
+    "translates": {
+      "adverb": ["در عوض", "به جای"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "instead of",
+    "pronunciation": "ins'ted a^v",
+    "translates": {
+      "preposition": ["به جایِ", "در عوضِ", "به عوضِ", "در مقابل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "instinct",
+    "pronunciation": "'instinkt",
+    "translates": {
+      "noun": ["غریزه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "instinctive",
+    "pronunciation": "ins'tinktiv",
+    "translates": {
+      "adjective": ["غریزی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "instinctively",
+    "pronunciation": "ins'tinktivli",
+    "translates": {
+      "adverb": ["به طور غریزی", "از روی غریزه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "institute",
+    "pronunciation": "'instityoot",
+    "translates": {
+      "noun": ["موسسه", "انجمن", "جمعیت", "نهاد", "بنیاد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "instruct",
+    "pronunciation": "ins'tra^kt",
+    "translates": {
+      "transitive-verb": [
+        "یاد دادن",
+        "آموختن",
+        "تعلیم دادن",
+        "دستور دادن",
+        "اطلاع دادن",
+        "خبر دادن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "instruction",
+    "pronunciation": "ins'tra^kshen",
+    "translates": {
+      "noun": ["آموزش", "تعلیم", "دستور العمل", "راهنمایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "instructor",
+    "pronunciation": "ins'tra^kter",
+    "translates": {
+      "noun": ["معلم", "مربی", "آموزگار", "آموزشیار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "instrument",
+    "pronunciation": "'instrument",
+    "translates": {
+      "noun": ["وسیله", "ابزار", "ساز", "سند", "اسباب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "insufficient",
+    "pronunciation": "insa^'fishent",
+    "translates": {
+      "adjective": ["ناکافی", "نابسنده", "کم", "ضعیف", "نارسا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "insulate",
+    "pronunciation": "'insyuleyt",
+    "translates": {
+      "transitive-verb": [
+        "عایق بندی کردن",
+        "جدا کردن",
+        "مجزا کردن",
+        "روپوش دار کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "insult",
+    "pronunciation": "in'sa^lt",
+    "translates": {
+      "transitive-verb": ["توهین کردن"],
+      "noun": ["توهین", "اهانت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "insurance",
+    "pronunciation": "in'shurens",
+    "translates": {
+      "noun": ["بیمه", "بیمه نامه", "حق بیمه", "پول بیمه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "insure",
+    "pronunciation": "in'shur",
+    "translates": {
+      "transitive-verb": ["بیمه کردن", "تضمین کردن", "تامین کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intact",
+    "pronunciation": "in'takt",
+    "translates": {
+      "adjective": ["دست نخورده", "سالم", "کامل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "integrate",
+    "pronunciation": "'intigreyt",
+    "translates": {
+      "transitive-verb": ["تلفیق کردن", "یکی کردن", "در هم ادغام کردن"],
+      "intransitive-verb": ["ادغام شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intellect",
+    "pronunciation": "inti'lekt",
+    "translates": {
+      "noun": ["عقل", "خرد", "هوش", "قوه درک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intellectual",
+    "pronunciation": "inti'lekchuwa^l",
+    "translates": {
+      "adjective": [
+        "عقلانی",
+        "فکری",
+        "ذهنی",
+        "خردمندانه",
+        "روشنفکر",
+        "دارای فکر بلند"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intelligence",
+    "pronunciation": "in'telijens",
+    "translates": {
+      "noun": ["هوش", "عقل", "شعور", "اطلاعات", "جاسوسی", "ذکاوت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intelligent",
+    "pronunciation": "in'telijent",
+    "translates": {
+      "adjective": ["باهوش", "عاقل", "زیرکانه", "هوشمند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intend",
+    "pronunciation": "in'tend",
+    "translates": {
+      "transitive-verb": [
+        "قصد داشتن",
+        "در نظر داشتن",
+        "در نظر گرفتن",
+        "خیال داشتن",
+        "خواستن"
+      ]
+    },
+    "subWords": {
+      "be intend for": [
+        "برای (کسی یا چیزی) در نظر گرفته شدن",
+        "برای (کسی یا چیزی) بودن"
+      ]
+    }
+  },
+  {
+    "word": "intense",
+    "pronunciation": "in'tens",
+    "translates": {
+      "adjective": ["شدید", "تند", "عمیق", "پرحرارت", "سخت", "قوی", "زیاد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intensity",
+    "pronunciation": "in'tensiti",
+    "translates": {
+      "noun": ["شدت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intensive",
+    "pronunciation": "in'tensiv",
+    "translates": {
+      "adjective": ["عمیق", "متمرکز", "فشرده", "شدید", "تشدیدی", "پر قوت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intention",
+    "pronunciation": "in'tenshen",
+    "translates": {
+      "noun": ["قصد", "منظور", "تصمیم", "معنی", "مفهوم", "مقصود", "عزم"]
+    },
+    "subWords": {
+      "with the intention of": ["به قصدِ", "به نیتِ"]
+    }
+  },
+  {
+    "word": "intentional",
+    "pronunciation": "in'tenshena^l",
+    "translates": {
+      "adjective": ["عمدی", "قصدی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intentionally",
+    "pronunciation": "in'tenshena^li",
+    "translates": {
+      "adverb": ["عمداً", "از قصد"]
+    },
+    "subWords": {}
   }
 ]
