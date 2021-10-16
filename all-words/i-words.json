@@ -2797,5 +2797,478 @@
       "adverb": ["عمداً", "از قصد"]
     },
     "subWords": {}
+  },
+  {
+    "word": "interchange",
+    "pronunciation": "inter'cheynj",
+    "translates": {
+      "transitive-verb": [
+        "مبادله کردن",
+        "جا به جا کردن",
+        "با هم عوض کردن",
+        "تبادل کردن"
+      ],
+      "noun": ["مبادله", "تعویض", "تقاطع غیر هم سطح"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "interchangeable",
+    "pronunciation": "inter'cheynjebel",
+    "translates": {
+      "adjective": [
+        "قابل تعویض",
+        "تعویض شدنی",
+        "قابل مبادله",
+        "قابل معاوضه",
+        "تبادل پذیر"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intercourse",
+    "pronunciation": "'interkors",
+    "translates": {
+      "noun": [
+        "معاشرت",
+        "مبادله",
+        "تبادل",
+        "داد و ستد",
+        "آمیزش جنسی",
+        "نزدیکی",
+        "مقاربت",
+        "مراوده"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "interest",
+    "pronunciation": "'intrist",
+    "translates": {
+      "noun": ["علاقه", "تمایل", "نفع", "منافع", "بهره", "اهمیت", "سود"],
+      "transitive-verb": ["علاقه مند کردن", "بر سر میل آوردن"]
+    },
+    "subWords": {
+      "in the interest(s) of": ["به خاطرِ"],
+      "take an interest in": ["علاقه داشتن به", "علاقه مند بودن به"]
+    }
+  },
+  {
+    "word": "interesting",
+    "pronunciation": "'intristing",
+    "translates": {
+      "adjective": ["جالب", "گیرا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "interfere",
+    "pronunciation": "inter'fiyer",
+    "translates": {
+      "intransitive-verb": [
+        "دخالت کردن",
+        "مداخله کردن",
+        "ور رفتن",
+        "دست کاری کردن",
+        "برخورد پیدا کردن",
+        "تداخل داشتن",
+        "پا به میان گذاشتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "interference",
+    "pronunciation": "inter'fiyerens",
+    "translates": {
+      "noun": ["دخالت", "مداخله", "برخورد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "interior",
+    "pronunciation": "in'tiriyer",
+    "translates": {
+      "adjective": ["داخلی", "درونی", "مرکزی", "دور از ساحل", "داخل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intermediate",
+    "pronunciation": "inter'miidi-it",
+    "translates": {
+      "adjective": [
+        "میانی",
+        "میانه",
+        "بینابین",
+        "وسطی",
+        "حد واسط",
+        "متوسط",
+        "واسطه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intermission",
+    "pronunciation": "inter'mishen",
+    "translates": {
+      "noun": ["آنتراکت", "وقفه", "تنفس باد خود"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intermittent",
+    "pronunciation": "inter'mitent",
+    "translates": {
+      "adjective": ["ادواری", "متناوب", "نوبتی", "تنفس دار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "internal",
+    "pronunciation": "in'terna^l",
+    "translates": {
+      "adjective": ["داخلی", "درونی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "international",
+    "pronunciation": "inter'nashna^l",
+    "translates": {
+      "adjective": ["بین المللی", "[مربوط به] روابط بین المللی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "interpret",
+    "pronunciation": "in'terprit",
+    "translates": {
+      "transitive-verb": [
+        "ترجمه کردن",
+        "تفسیر کردن",
+        "معنی کردن",
+        "[موسقی",
+        "نمایش و غیره] اجرا کردن (طبق برداشت اجرا کننده)"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "interpretation",
+    "pronunciation": "interpri'teyshen",
+    "translates": {
+      "noun": ["تعبیر", "تفسیر", "توضیح", "ترجمه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "interpreter",
+    "pronunciation": "in'terpriter",
+    "translates": {
+      "noun": ["مترجم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "interrogate",
+    "pronunciation": "in'terogeyt",
+    "translates": {
+      "transitive-verb": ["بازجویی کردن", "سوال کردن", "استنطاق کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "interrogation",
+    "pronunciation": "intero'geyshen",
+    "translates": {
+      "noun": ["بازجویی", "بازپرسی", "سوال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "interrupt",
+    "pronunciation": "inte'ra^pt",
+    "translates": {
+      "transitive-verb": [
+        "قطع کردن",
+        "متوقف کردن",
+        "حرف ( کسی را ) قطع کردن",
+        "مانع کار (کسی) شدن",
+        "جلوی ( چیزی را ) گرفتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "interruption",
+    "pronunciation": "inte'ra^ption",
+    "translates": {
+      "noun": ["قطع", "گسیختگی", "وقفه", "مزاحمت", "انقطاع", "تعلیق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "interval",
+    "pronunciation": "'interva^l",
+    "translates": {
+      "noun": ["فاصله", "آنتراکت", "وقفه", "مدت"]
+    },
+    "subWords": {
+      "at intervals": ["با فاصلهِ", "با فواصلِ", "با فواصل منظمی"]
+    }
+  },
+  {
+    "word": "intersection",
+    "pronunciation": "inter'sekshen",
+    "translates": {
+      "noun": ["تقاطع", "نقطه تقاطع", "محل تقاطع", "چهار راه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intervene",
+    "pronunciation": "inter'viin",
+    "translates": {
+      "intransitive-verb": [
+        "پیش آمدن",
+        "اتفاقی افتادن",
+        "فاصله افتادن",
+        "مداخله کردن",
+        "پادرمیانی کردن",
+        "میانجی شدن",
+        "حائل شدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intervention",
+    "pronunciation": "inter'venshen",
+    "translates": {
+      "noun": ["مداخله", "دخالت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "interview",
+    "pronunciation": "'interviyoo",
+    "translates": {
+      "noun": ["مصاحبه", "گفتگو"],
+      "transitive-verb": ["مصاحبه کردن با"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intestine",
+    "pronunciation": "in'testin",
+    "translates": {
+      "noun": ["روده", "امعاء"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intimacy",
+    "pronunciation": "'intimesi",
+    "translates": {
+      "noun": ["صمیمی", "نزدیکی", "خلوت", "رابطه نامشروع جنسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intimate",
+    "pronunciation": "'intimit",
+    "translates": {
+      "adjective": ["صمیمی", "شخصی", "ذاتی", "درونی", "خودمانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intimidate",
+    "pronunciation": "in'timideyt",
+    "translates": {
+      "transitive-verb": ["ترساندن", "مرعوب کردن", "تشر زدن به"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intimidation",
+    "pronunciation": "intimi'deyshen",
+    "translates": {
+      "noun": ["ارعاب", "تهدید"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "into",
+    "pronunciation": "'intoo",
+    "translates": {
+      "preposition": ["تو", "تویِ", "به", "به صورتِ", "در"]
+    },
+    "subWords": {
+      "be into something": ["عاشق چیزی بودن", "علاقه داشتن به"]
+    }
+  },
+  {
+    "word": "intolerable",
+    "pronunciation": "in'ta^lerebel",
+    "translates": {
+      "adjective": ["غیر قابل تحمل", "تحمل ناپذیر", "طاقت فرسا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intolerance",
+    "pronunciation": "in'ta^lerens",
+    "translates": {
+      "noun": ["نابردباری", "ناشکیبایی", "تعصب", "عدم تحمل", "طاقت فرسایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intolerant",
+    "pronunciation": "in'ta^lerent",
+    "translates": {
+      "adjective": ["نابردبار", "ناشکیبا", "متعصب", "زیر بارنرو", "بی تحمل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intoxicate",
+    "pronunciation": "in'ta^ksikeyt",
+    "translates": {
+      "transitive-verb": [
+        "( کسی را ) مست کردن",
+        "به هیجان آوردن",
+        "از خود بی خود کردن",
+        "سرخوش کردن",
+        "سر کیف کردن",
+        "به شور و شعف درآوردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intoxication",
+    "pronunciation": "inta^ksi'keyshen",
+    "translates": {
+      "noun": ["مسمومیت", "مستی", "سرخوشی", "کیف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intrigue",
+    "pronunciation": "in'triig",
+    "translates": {
+      "intransitive-verb": ["توطئه چیدن", "نقشه کشیدن", "دسیسه کردن"],
+      "noun": ["توطئه چینی", "رابطه نامشروع", "فتنه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "introduce",
+    "pronunciation": "intro'dyoos",
+    "translates": {
+      "transitive-verb": [
+        "(به هم) معرفی کردن",
+        "آشنا کردن با",
+        "عرضه کردن",
+        "ارائه کردن",
+        "مرسوم کردن",
+        "باب کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "introduction",
+    "pronunciation": "intro'da^kshen",
+    "translates": {
+      "noun": ["معرفی", "معارفه", "ارائه", "عرضه", "مقدمه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intrude",
+    "pronunciation": "in'trood",
+    "translates": {
+      "transitive-verb": [
+        "وارد کردن",
+        "داخل کردن",
+        "( خود را ) به زور وارد کردن",
+        "به زور داخل شدن",
+        "مزاحم شدن",
+        "سرزده آمدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intruder",
+    "pronunciation": "in'trooder",
+    "translates": {
+      "noun": ["مزاحم", "مهاجم", "متجاوز", "متخلف", "مخل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "intuition",
+    "pronunciation": "intyu'ishen",
+    "translates": {
+      "noun": ["شهود", "شم", "الهام", "بینش", "درک مستقیم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "invade",
+    "pronunciation": "in'veyd",
+    "translates": {
+      "transitive-verb": ["تجاوز کردن", "هجوم بردن", "تهاجم کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "invader",
+    "pronunciation": "in'veyder",
+    "translates": {
+      "noun": ["مهاجم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "invalid",
+    "pronunciation": "'invalid",
+    "translates": {
+      "adjective": ["بی اعتبار", "نامعتبر", "باطل"],
+      "noun": ["معلول", "علیل", "(مخصوص) معلولین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "invariable",
+    "pronunciation": "in'veriyebel",
+    "translates": {
+      "adjective": ["ثابت", "یکنواخت", "تغییر ناپذیر", "نامتغیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "invasion",
+    "pronunciation": "in'veyzhen",
+    "translates": {
+      "noun": ["حمله", "تهاجم", "تجاوز", "تعرض", "هجوم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "invent",
+    "pronunciation": "in'vent",
+    "translates": {
+      "transitive-verb": ["اختراع کردن", "ابداع کردن", "از خود درآوردن"]
+    },
+    "subWords": {}
   }
 ]
