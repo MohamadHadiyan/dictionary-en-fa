@@ -3270,5 +3270,559 @@
       "transitive-verb": ["اختراع کردن", "ابداع کردن", "از خود درآوردن"]
     },
     "subWords": {}
+  },
+  {
+    "word": "invention",
+    "pronunciation": "in'venshen",
+    "translates": {
+      "noun": ["اختراع", "ابداع", "خلاقیت", "ابتکار", "جعل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inventive",
+    "pronunciation": "in'ventiv",
+    "translates": {
+      "adjective": [
+        "خلاق",
+        "مبتکر",
+        "ابتکاری",
+        "مبتکرانه",
+        "اختراعی",
+        "اختراع کننده"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inventor",
+    "pronunciation": "in'venter",
+    "translates": {
+      "noun": ["مخترع", "مبدع", "ابداع کننده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inversion",
+    "pronunciation": "in'vershen",
+    "translates": {
+      "noun": ["واژگونی", "وارونگی", "عکس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "invert",
+    "pronunciation": "in'vert",
+    "translates": {
+      "transitive-verb": ["وارونه کردن", "معکوس کردن", "بالعکس کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "invest",
+    "pronunciation": "in'vest",
+    "translates": {
+      "transitive-verb": ["سرمایه گذاری کردن", "صرف کردن", "اعطا کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "investment",
+    "pronunciation": "in'vestment",
+    "translates": {
+      "noun": ["سرمایه گذاری", "صَرف", "بهره برداری", "استفاده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "investigate",
+    "pronunciation": "in'vestigeyt",
+    "translates": {
+      "transitive-verb": [
+        "تحقیق کردن",
+        "بازجویی کردن",
+        "بررسی کردن",
+        "رسیدگی کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "investigation",
+    "pronunciation": "investi'geyshen",
+    "translates": {
+      "noun": ["تحقیق", "رسیدگی", "بازجویی", "تحقیق و بررسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "invigorate",
+    "pronunciation": "in'vige.reyte",
+    "translates": {
+      "transitive-verb": [
+        "نیرو بخشیدن",
+        "روح بخشیدن",
+        "قوت دادن",
+        "پر زور کردن"
+      ],
+      "intransitive-verb": ["تقویت شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "invigorating",
+    "pronunciation": "in'vige.reyting",
+    "translates": {
+      "adjective": ["نیرو بخش", "فرح بخش", "جان بخش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "invisible",
+    "pronunciation": "in'vizibel",
+    "translates": {
+      "adjective": ["نامرئی", "ناپدید", "غیر قابل مشاهده", "مخفی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "invitation",
+    "pronunciation": "invi'teyshen",
+    "translates": {
+      "noun": ["دعوت", "دعوت نامه", "محرک", "مسبب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "invite",
+    "pronunciation": "in'va^yt",
+    "translates": {
+      "transitive-verb": ["دعوت کردن", "درخواست کردن", "خواستن", "طلبیدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inviting",
+    "pronunciation": "in'va^yting",
+    "translates": {
+      "adjective": ["جالب", "جذاب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "invoice",
+    "pronunciation": "'invoys",
+    "translates": {
+      "noun": ["فاکتور", "برگ فروش", "صورت حساب"],
+      "transitive-verb": ["فاکتور نوشتن", "صورت نوشتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "involuntary",
+    "pronunciation": "in'va^lentri",
+    "translates": {
+      "adjective": ["غیر ارادی", "غیر عمدی", "بی اختیار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "involve",
+    "pronunciation": "in'va^lv",
+    "translates": {
+      "transitive-verb": [
+        "گرفتار کردن",
+        "درگیر کردن",
+        "مستلزم بودن",
+        "متضمن بودن"
+      ],
+      "intransitive-verb": ["پیچیده شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "involvement",
+    "pronunciation": "in'va^lvment",
+    "translates": {
+      "noun": ["گرفتاری", "درگیری", "پیچیدگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "inward, inward(s)",
+    "pronunciation": "in'word(s)",
+    "translates": {
+      "adjective": ["درونی", "باطنی", "داخلی"],
+      "adverb": ["به طرف داخل", "به درون خود", "درون"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Iran",
+    "pronunciation": "i'ra^n",
+    "translates": {
+      "noun": ["ایران"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Iranian",
+    "pronunciation": "i'reyniyen",
+    "translates": {
+      "adjective": ["ایرانی", "[مربوط به] ایران"],
+      "noun": ["اهل ایران", "ایرانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Ireland",
+    "pronunciation": "a^yerland",
+    "translates": {
+      "noun": ["ایرلند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Irish",
+    "pronunciation": "a^yrish",
+    "translates": {
+      "adjective": ["ایرلندی"],
+      "noun": ["اهل ایرلند", "ایرلندی", "زبان سلتی ایرلندی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Irishman",
+    "pronunciation": "'a^yrishman",
+    "translates": {
+      "noun": ["ایرلندی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "iron",
+    "pronunciation": "a^yren",
+    "translates": {
+      "noun": ["آهن", "اتو"],
+      "transitive-verb": ["اتو زدن", "اتو کردن", "اتو کشیدن"],
+      "intransitive-verb": ["اتو شدن"],
+      "adjective": ["آهنین", "پولادین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ironing-board",
+    "pronunciation": "'a^yerning bord",
+    "translates": {
+      "noun": ["میز اتو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ironmonger",
+    "pronunciation": "'a^yernma^nger",
+    "translates": {
+      "noun": ["ابزار و یراق فروش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ironmongery",
+    "pronunciation": "'a^yernma^ngri",
+    "translates": {
+      "noun": ["ابزار و یراق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "irregular",
+    "pronunciation": "i'regyuler",
+    "translates": {
+      "adjective": [
+        "نامنظم",
+        "نامرتب",
+        "بی قاعده",
+        "ناصاف",
+        "ناهموار",
+        "غیر عادی",
+        "بی رویه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "irrelevant",
+    "pronunciation": "i'relevent",
+    "translates": {
+      "adjective": ["نامرتبط", "بی ارتباط", "بی ربط", "نامربوط", "غیر مرتبط"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "irreparable",
+    "pronunciation": "i'reperebel",
+    "translates": {
+      "adjective": [
+        "جبران ناپذیر",
+        "ترمیم ناپذیر",
+        "اصلاح ناپذیر",
+        "مرمت ناپذیر",
+        "خوب نشدنی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "irresistible",
+    "pronunciation": "iri'zistibel",
+    "translates": {
+      "adjective": ["مقاومت ناپذیر", "وسوسه انگیز", "غیر قابل مقاومت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "irresponsible",
+    "pronunciation": "iris'pa^nsibel",
+    "translates": {
+      "adjective": ["وظیفه نشناس", "غیر مسئول"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "irritable",
+    "pronunciation": "'iritebel",
+    "translates": {
+      "adjective": ["زود رنج", "تند خو", "تحریک پذیر", "کج خلق", "تند مزاج"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "irritate",
+    "pronunciation": "'iriteyt",
+    "translates": {
+      "transitive-verb": [
+        "عصبانی کردن",
+        "ناراحت کردن",
+        "آزردن",
+        "تحریک کردن",
+        "آزردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "irritation",
+    "pronunciation": "iri'teyshen",
+    "translates": {
+      "noun": ["عصبانیت", "آزردگی", "تحریک", "ناراحتی", "سوزش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "is",
+    "pronunciation": "iz",
+    "translates": {
+      "intransitive-verb": ["است", "هست"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Islam",
+    "pronunciation": "'izla^m",
+    "translates": {
+      "noun": ["اسلام", "دین اسلام"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Islamic",
+    "pronunciation": "iz'lamik",
+    "translates": {
+      "adjective": ["اسلامی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "island",
+    "pronunciation": "'a^yland",
+    "translates": {
+      "noun": ["جزیره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "isle",
+    "pronunciation": "a^il",
+    "translates": {
+      "noun": ["جزیره", "جزیره کوچک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "isn't",
+    "pronunciation": "'izent",
+    "translates": {
+      "intransitive-verb": ["is not (نیست)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "isolate",
+    "pronunciation": "'a^ysoleyt",
+    "translates": {
+      "transitive-verb": ["جدا کردن", "مجزا کردن", "منزوی کردن", "منفرد کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "issue",
+    "pronunciation": "'ishoo",
+    "translates": {
+      "intransitive-verb": ["بیرون آمدن"],
+      "transitive-verb": ["توزیع کردن", "منتشر کردن"],
+      "noun": [
+        "خروج",
+        "توزیع",
+        "[روزنامه یا مجله] نسخه",
+        "شماره",
+        "مسئله",
+        "موضوع"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "isthmus",
+    "pronunciation": "'ismes",
+    "translates": {
+      "noun": ["[ جغرافیا ] برزخ", "باریکه", "تنگه خالی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "it",
+    "pronunciation": "it",
+    "translates": {
+      "pronoun": [
+        "[ضمیر فاعلی",
+        "سوم شخص مفرد خنثی] آن",
+        "[ضمیر مفعولی",
+        "سوم شخص مفرد خنثی] آن را"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Italian",
+    "pronunciation": "i'taliyen",
+    "translates": {
+      "adjective": ["ایتالیایی"],
+      "noun": ["اهل ایتالیا", "ایتالیایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Italy",
+    "pronunciation": "'itali",
+    "translates": {
+      "noun": ["ایتالیا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "itch",
+    "pronunciation": "ich",
+    "translates": {
+      "noun": ["خارش", "میل وافر", "بی قراری", "جرب"],
+      "intransitive-verb": ["خاریدن", "احساس خارش کردن", "بی تاب بودن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "itchy",
+    "pronunciation": "'ichi",
+    "translates": {
+      "adjective": ["خارش آور", "خارش دار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "item",
+    "pronunciation": "'a^ytem",
+    "translates": {
+      "noun": ["قلم", "رقم", "فقره", "مورد", "چیز", "بخش", "خبر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "it'll",
+    "pronunciation": "itl",
+    "translates": {
+      "intransitive-verb": ["it will (خواهد کرد", "خواهد شد)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "its",
+    "pronunciation": "its",
+    "translates": {
+      "adjective": ["[صفت ملکی", "سوم شخص مفرد خنثی] ــَ ش", "ــِ آن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "it's",
+    "pronunciation": "its",
+    "translates": {
+      "intransitive-verb": [
+        "it is ( این است",
+        "آن است )",
+        "it has ( این دارد )"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "itself",
+    "pronunciation": "it'self",
+    "translates": {
+      "pronoun": [
+        "[ضمیر انعکاسی",
+        "سوم شخص مفرد خنثی] خودش",
+        "خودش را",
+        "به خودش",
+        "از خودش",
+        "[ضمیر تاکیدی] خودش",
+        "به تنهایی"
+      ]
+    },
+    "subWords": {
+      "by itself": ["خود به خود", "به طور خودکار", "تنها"]
+    }
+  },
+  {
+    "word": "I've",
+    "pronunciation": "a^yv",
+    "translates": {
+      "intransitive-verb": ["I have (من دارم)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ivory",
+    "pronunciation": "'a^yveri",
+    "translates": {
+      "noun": ["عاج", "دندان فیل"],
+      "adjective": ["عاجی", "شیری (رنگ)", "استخوانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ivy",
+    "pronunciation": "'a^yvi",
+    "translates": {
+      "noun": ["پیچک", "پاپیتال"]
+    },
+    "subWords": {}
   }
 ]
