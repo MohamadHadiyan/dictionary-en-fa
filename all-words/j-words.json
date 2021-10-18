@@ -1,0 +1,492 @@
+[
+  {
+    "word": "J, j",
+    "pronunciation": "jey",
+    "translates": {
+      "noun": ["جِی (= دهمین حرف الفبای انگلیسی)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jab",
+    "pronunciation": "jab",
+    "translates": {
+      "transitive-verb": ["زدن", "ضربه زدن", "فرو رفتن"],
+      "noun": ["سیخونک", "آمپول", "ضربت با چیز تیز", "ضربت با مشت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jack",
+    "pronunciation": "jak",
+    "translates": {
+      "noun": ["جَک", "[بازی ورق] سرباز", "پرچم کشتی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jackal",
+    "pronunciation": "'jakol",
+    "translates": {
+      "noun": ["شغال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jacket",
+    "pronunciation": "'jakit",
+    "translates": {
+      "noun": ["ژاکت", "کت", "روکش کتاب", "جلد", "پوشش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jackpot",
+    "pronunciation": "'jakpa^t",
+    "translates": {
+      "noun": ["جایزه بزرگ", "[بازی ورق] بانک", "برنده تمام پول ها"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jaguar",
+    "pronunciation": "'jagyu-er",
+    "translates": {
+      "noun": ["جگوار (= حیوانی شبیه به پلنگ)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jail",
+    "pronunciation": "jeyl",
+    "translates": {
+      "noun": ["زندان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jam",
+    "pronunciation": "jam",
+    "translates": {
+      "noun": ["مربا", "گیرکردگی", "مخمصه", "وضع بغرنج"],
+      "transitive-verb": [
+        "گیر انداختن",
+        "گیر کردن",
+        "چپاندن",
+        "[راه] بند آوردن",
+        "شلوغ کردن"
+      ]
+    },
+    "subWords": {
+      "be in a jam": ["در مخمصه افتادن", "دچار دردسر شدن", "گرفتار شدن"]
+    }
+  },
+  {
+    "word": "Jamaica",
+    "pronunciation": "je'meyka^",
+    "translates": {
+      "noun": ["جامائیکا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Jamaican",
+    "pronunciation": "je'meyken",
+    "translates": {
+      "adjective": ["جامائیکایی"],
+      "noun": ["اهل جامائیکا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jangle",
+    "pronunciation": "'jangel",
+    "translates": {
+      "intransitive-verb": [
+        "صدای گوش خراش دادن",
+        "صدای گوش خراش درآوردن",
+        "داد و هوار کردن",
+        "داد و بیداد کردن",
+        "جنجال کردن",
+        "غوغا کردن"
+      ],
+      "noun": ["صدای گوش خراش", "داد و بیداد غوغا", "قیل و قال", "جنجال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "janitor",
+    "pronunciation": "'janiter",
+    "translates": {
+      "noun": ["دربان", "سرایدار", "فراش مدرسه", "راهنمای مدرسه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "January",
+    "pronunciation": "'janyuweri",
+    "translates": {
+      "noun": ["ژانویه (= اولین ماه سال فرنگی)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Japan",
+    "pronunciation": "ja'pan",
+    "translates": {
+      "noun": ["ژاپن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Japanese",
+    "pronunciation": "japa'niiz",
+    "translates": {
+      "adjective": ["ژاپنی", "[مربوط به] ژاپن"],
+      "noun": ["زبان ژاپنی", "اهل ژاپن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jar",
+    "pronunciation": "ja^r",
+    "translates": {
+      "noun": ["بانکه", "کوزه", "صدای گوش خراش"],
+      "intransitive-verb": [
+        "صدای گوش خراش دادن",
+        "صدای گوش خراش درآوردن",
+        "ناسازگار بودن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jaunt",
+    "pronunciation": "jont",
+    "translates": {
+      "noun": ["گردش", "تفریح", "مسافرت کوچک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "javelin",
+    "pronunciation": "'javlin",
+    "translates": {
+      "noun": ["نیزه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jaw",
+    "pronunciation": "jo",
+    "translates": {
+      "noun": ["آرواره", "فک", "چانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jaws",
+    "pronunciation": "joz",
+    "translates": {
+      "noun": ["[حیوان] دهان", "گیره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jazz",
+    "pronunciation": "jaz",
+    "translates": {
+      "noun": ["(موسقی) جاز"],
+      "transitive-verb": [
+        "به صوردت جاز اجرا کردن",
+        "شور و نشاط بخشیدن",
+        "گرم کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jealous",
+    "pronunciation": "'jeles",
+    "translates": {
+      "adjective": ["حسود"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jealousy",
+    "pronunciation": "'jelesi",
+    "translates": {
+      "noun": ["حسادت", "رشک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jeans",
+    "pronunciation": "jiinz",
+    "translates": {
+      "noun": ["شلوار جین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jeep",
+    "pronunciation": "jiip",
+    "translates": {
+      "noun": ["جیپ (= اتومبیل جنگی آمریکا)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jeer",
+    "pronunciation": "'jiyer",
+    "translates": {
+      "intransitive-verb": [
+        "خندیدن به",
+        "هو کردن",
+        "مسخره کردن",
+        "ریشخند کردن",
+        "طعنه زدن"
+      ],
+      "noun": ["تمسخر", "ریشخند", "طعنه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jelly",
+    "pronunciation": "'jeli",
+    "translates": {
+      "noun": ["ژله", "مربا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jellyfish",
+    "pronunciation": "'jelifish",
+    "translates": {
+      "noun": ["عروس دریایی", "چتر دریایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jerk",
+    "pronunciation": "jerk",
+    "translates": {
+      "noun": ["تکان", "پرش", "حرکت تند و سریع"],
+      "transitive-verb": ["تکان تکان دادن"],
+      "intransitive-verb": ["تکان تکان خوردن", "( از جا ) پریدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jerky",
+    "pronunciation": "'jerki",
+    "translates": {
+      "adjective": ["پر تکان", "ناهموار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jersey",
+    "pronunciation": "'jerzi",
+    "translates": {
+      "noun": ["پارچه کشباف", "تریکو", "پلیور", "(بلوز) گرم کن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jest",
+    "pronunciation": "jest",
+    "translates": {
+      "noun": ["شوخی", "تمسخر", "بذله گویی", "مزاح"],
+      "intransitive-verb": [
+        "شوخی کردن",
+        "دست انداختن",
+        "به بازی گرفتن",
+        "تمسخر کردن"
+      ]
+    },
+    "subWords": {
+      "in jest": ["به شوخی"]
+    }
+  },
+  {
+    "word": "Jesus",
+    "pronunciation": "'jiizes",
+    "translates": {
+      "noun": ["عیسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jet",
+    "pronunciation": "jet",
+    "translates": {
+      "noun": ["فواره", "منفذ", "سوراخ", "ژیگلور", "( هواپیما ) جت"]
+    },
+    "subWords": {
+      "jumbo jet": ["جامبو جت"]
+    }
+  },
+  {
+    "word": "jet engine",
+    "pronunciation": "jet 'enjin",
+    "translates": {
+      "noun": ["موتور جت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jetty",
+    "pronunciation": "'jeti",
+    "translates": {
+      "noun": ["موج شکن", "اسکله", "بارانداز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Jew",
+    "pronunciation": "joo",
+    "translates": {
+      "noun": ["یهودی", "کلیمی"],
+      "adjective": ["کلیمی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jewel",
+    "pronunciation": "'juwel",
+    "translates": {
+      "noun": ["جواهر", "گوهر", "[ساعت] سنگ", "سنگ گرانبها"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jeweler, jeweller",
+    "pronunciation": "'juweler",
+    "translates": {
+      "noun": ["جواهر فروش", "جواهر ساز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jewelery, jewellery",
+    "pronunciation": "'juwelri",
+    "translates": {
+      "noun": ["جواهرات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Jewish",
+    "pronunciation": "'joo-ish",
+    "translates": {
+      "adjective": ["یهودی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jingle",
+    "pronunciation": "'jingel",
+    "translates": {
+      "intransitive-verb": ["صدای جرینگ جرینگ کردن"],
+      "noun": ["صدای جرینگ جرینگ", "شعر روحوضی", "طنین زنگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "job",
+    "pronunciation": "ja^b",
+    "translates": {
+      "noun": [
+        "کار",
+        "شغل",
+        "کار شاق",
+        "[عامیانه] بند و بست",
+        "زد و بند",
+        "دزدی"
+      ]
+    },
+    "subWords": {
+      "be out of a job": ["بیکار بودن"],
+      "it's a good job": ["چه خوب شد"],
+      "It's a good job you reminded me; I had completely forgotten!.": [
+        "چه خوب شد یادم انداختی؛ بکلی فراموش کرده بودم!."
+      ],
+      "make a good job of something": ["کاری را خوب انجام دادن"],
+      "odd jobs": ["کارهای متفرقه", "کارهای مختلف"]
+    }
+  },
+  {
+    "word": "jockey",
+    "pronunciation": "'ja^ki",
+    "translates": {
+      "noun": ["سوارکارِ (حرفه ای)", "چابک سوار", "اسب سوار (حرفه ای)"],
+      "intransitive-verb": ["سوار کار اسب دوانی شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jog",
+    "pronunciation": "ja^g",
+    "translates": {
+      "transitive-verb": [
+        "تکان دادن",
+        "بالا و پایین انداختن",
+        "آهسته دویدن",
+        "یورتمه رفتن",
+        "تنه زدن به"
+      ],
+      "noun": ["تکان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "join",
+    "pronunciation": "joyn",
+    "translates": {
+      "transitive-verb": [
+        "متصل کردن",
+        "(به هم) بستن",
+        "(به هم) پیوستن",
+        "عضو شدن",
+        "ملحق شدن"
+      ],
+      "noun": ["محل اتصال", "اتصال"]
+    },
+    "subWords": {
+      "join in": ["شرکت کردن", "شرکت جستن در"],
+      "join  up": ["به خدمت ارتش درآمدن"],
+      "join us": ["به ما بپیوند"],
+      "join me": ["به من ملحق شو"]
+    }
+  },
+  {
+    "word": "joiner",
+    "pronunciation": "'joyner",
+    "translates": {
+      "noun": ["نجار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "joint",
+    "pronunciation": "joynt",
+    "translates": {
+      "noun": [
+        "مفصل",
+        "بند",
+        "درزه",
+        "اتصال",
+        "قطعه",
+        "[گوشت] شقه",
+        "محل عیاشی",
+        "پاتوغ",
+        "عشرتکده",
+        "سیگاری (= سیگار محتوی حشیش)"
+      ],
+      "adjective": ["مشترک", "توام"]
+    },
+    "subWords": {}
+  }
+]
