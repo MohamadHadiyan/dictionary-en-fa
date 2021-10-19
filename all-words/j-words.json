@@ -488,5 +488,382 @@
       "adjective": ["مشترک", "توام"]
     },
     "subWords": {}
+  },
+  {
+    "word": "joke",
+    "pronunciation": "jok",
+    "translates": {
+      "noun": ["شوخی", "لطیفه", "جوک"],
+      "intransitive-verb": ["شوخی کردن"]
+    },
+    "subWords": {
+      "play a joke on somebody": ["کسی را دست انداختن", "سر به سر کسی گذاشتن"]
+    }
+  },
+  {
+    "word": "joker",
+    "pronunciation": "'joker",
+    "translates": {
+      "noun": [
+        "آدم شوخ",
+        "اهل شوخی",
+        "بذله گو",
+        "آدم غیر جدی",
+        "[بازی ورق] ژوکر",
+        "شیطان"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jolly",
+    "pronunciation": "'ja^li",
+    "translates": {
+      "adjective": [
+        "خوش",
+        "شاد",
+        "بانشاط",
+        "شنگول",
+        "خوشحال",
+        "خوب",
+        "عالی",
+        "محشر"
+      ],
+      "adverb": ["خیلی", "زیاد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jolt",
+    "pronunciation": "jolt",
+    "translates": {
+      "transitive-verb": ["تکان دادن"],
+      "intransitive-verb": ["تکان خوردن"],
+      "noun": ["تکان", "ضربه", "تلق تلق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jostle",
+    "pronunciation": "'ja^sel",
+    "translates": {
+      "transitive-verb": ["هُل دادن", "تنه زدن"],
+      "noun": ["تنه", "هُل", "تکان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jot",
+    "pronunciation": "ja^t",
+    "translates": {
+      "noun": ["ذره", "خورده", "سر سوزن", "نقطه"],
+      "transitive-verb": ["نوشتن"]
+    },
+    "subWords": {
+      "jot down": ["یادداشت کردن"]
+    }
+  },
+  {
+    "word": "journal",
+    "pronunciation": "'jerna^l",
+    "translates": {
+      "noun": ["نشریه", "روزنامه", "مجله", "یادداشت روزانه", "(دفتر) خاطرات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "journalism",
+    "pronunciation": "'jernalizem",
+    "translates": {
+      "noun": ["روزنامه نگاری", "روزنامه نویسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "journalist",
+    "pronunciation": "'jsernalist",
+    "translates": {
+      "noun": ["روزنامه نگار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "journey",
+    "pronunciation": "'jerni",
+    "translates": {
+      "noun": ["سفر", "مسافرت", "راه", "مسافت", "سیاحت"],
+      "intransitive-verb": ["سفر کردن", "مسافرت کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "joy",
+    "pronunciation": "joy",
+    "translates": {
+      "noun": ["شادی", "شادمانی", "خوشی", "مسرت", "مایه خوشحالی", "لذت", "سرور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "joyful",
+    "pronunciation": "'joyful",
+    "translates": {
+      "adjective": ["شاد", "خوشحال", "شادمان", "شادی بخش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jubilee",
+    "pronunciation": "'joobilii",
+    "translates": {
+      "noun": ["جشن سالگرد", "جشن پنجاهمین سالِ", "جشن و سرور", "شادمانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "judge",
+    "pronunciation": "ja^j",
+    "translates": {
+      "noun": ["قاضی", "داور"],
+      "transitive-verb": ["قضاوت کردن", "داوری کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "judgement",
+    "pronunciation": "'ja^jment",
+    "translates": {
+      "noun": ["قضاوت", "حکم", "داوری", "فتوا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "judo",
+    "pronunciation": "'joodo",
+    "translates": {
+      "noun": ["جودو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jug",
+    "pronunciation": "ja^g",
+    "translates": {
+      "noun": ["پارچ", "کوزه", "[عامیانه] زندان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "juggle",
+    "pronunciation": "'ja^gel",
+    "translates": {
+      "intransitive-verb": [
+        "تردستی کردن",
+        "بازی کردن",
+        "[ارقام",
+        "حساب و غیره] دست کاری کردن",
+        "دست بردن در"
+      ],
+      "noun": ["حقه بازی", "شعبده", "تردستی", "چشم بندی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "juggler",
+    "pronunciation": "'ja^gler",
+    "translates": {
+      "noun": ["تردست", "شعبده باز", "چشم بند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "juice",
+    "pronunciation": "joos",
+    "translates": {
+      "noun": ["آب (میوه)", "شیره", "عصاره", "شربت", "[عامیانه] بنزین", "برق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "July",
+    "pronunciation": "joo'la^y",
+    "translates": {
+      "noun": ["ژوئیه (= هفتمین ماه سال فرنگی)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jumble",
+    "pronunciation": "'ja^mbel",
+    "translates": {
+      "transitive-verb": ["قاطی هم ریختن", "تلنبار کردن", "مخلوط کردن"],
+      "noun": ["کُپه", "تلنبار", "خرت و پرت فروشی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jump",
+    "pronunciation": "ja^mp",
+    "translates": {
+      "intransitive-verb": [
+        "پریدن",
+        "از روی (چیزی) پریدن",
+        "جستن",
+        "پراندن",
+        "جهاندن",
+        "تکان خوردن",
+        "از جا پریدن"
+      ],
+      "noun": ["پرش", "جهش", "تکان", "یکه", "افزایش ناگهانی"]
+    },
+    "subWords": {
+      "jump at": ["[دعوت", "پیشنهاد و غیره] فوراً پذیرفتن", "قاپیدن"],
+      "jump to conclusions": ["قضاوت کردن", "زود نتیجه گیری کردن"]
+    }
+  },
+  {
+    "word": "jumper",
+    "pronunciation": "'ja^mper",
+    "translates": {
+      "noun": ["پلیور", "بلوز", "جهنده", "آستین کوتاه زنانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "junction",
+    "pronunciation": "'ja^nkshen",
+    "translates": {
+      "noun": ["اتصال", "محل اتصال", "انشعاب", "تقاطع", "نقطه اتصال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "June",
+    "pronunciation": "joon",
+    "translates": {
+      "noun": ["ژوئن", "(= ششمین ماه سال فرنگی)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jungle",
+    "pronunciation": "'ja^ngel",
+    "translates": {
+      "noun": ["جنگل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "junior",
+    "pronunciation": "'jooniyer",
+    "translates": {
+      "adjective": ["کوچک", "کوچک تر", "پایین تر", "تازه تر", "جزء"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "junk",
+    "pronunciation": "ja^nk",
+    "translates": {
+      "noun": ["خرت و پرت", "خنزر پنزر", "آشغال", "مزخرف", "جنس اوراق و شکسته"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Jupiter",
+    "pronunciation": "'joopiter",
+    "translates": {
+      "noun": ["(سیاره) مشتری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jury",
+    "pronunciation": "'juri",
+    "translates": {
+      "noun": ["هیئت منصفه", "هیئت داوران"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "just",
+    "pronunciation": "ja^st",
+    "translates": {
+      "adjective": ["عادل", "بجا"],
+      "adverb": [
+        "درست",
+        "دقیقا",
+        "فقط",
+        "تنها",
+        "همین الان",
+        "تازه",
+        "الان",
+        "کم و بیش",
+        "تقریباً",
+        "یک کمی",
+        "بسیار",
+        "به زحمت",
+        "واقعاً"
+      ]
+    },
+    "subWords": {
+      "It is just as well that": ["چه خوب شد که"],
+      "Just a minute": [
+        "یک دقیقه صبر کن (یا کنید)",
+        "یک کمی تامل کن (یا کنید)"
+      ],
+      "Just a moment": [
+        "یک دقیقه صبر کن (یا کنید)",
+        "یک کمی تامل کن (یا کنید)"
+      ],
+      "Just as": [
+        "درست همان طور که",
+        "درست همان وقت که",
+        "درست همان قدر که",
+        "درست همان اندازه که"
+      ],
+      "just in case": ["در صورتی که", "اگر", "مبادا که"],
+      "just now": ["فعلاً", "حالا", "همین الان"]
+    }
+  },
+  {
+    "word": "justice",
+    "pronunciation": "'ja^stis",
+    "translates": {
+      "noun": ["عدالت", "انصاف", "دادگستری", "عدل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "justification",
+    "pronunciation": "ja^stifi'keyshen",
+    "translates": {
+      "noun": ["توجیه", "عذر موجه", "دلیل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "justify",
+    "pronunciation": "'ja^stifa^y",
+    "translates": {
+      "transitive-verb": [
+        "توجیه کردن",
+        "موجه جلوه دادن",
+        "دلیل موجه (برای چیزی) بودن",
+        "تبرئه کردن",
+        "حق دادن",
+        "ذیحق دانستن",
+        "[چاپ] فاصله بندی کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "jut out",
+    "pronunciation": "'ja^t aot",
+    "translates": {
+      "intransitive-verb": ["بیرون آمدن", "بیرون زدن"]
+    },
+    "subWords": {}
   }
 ]
