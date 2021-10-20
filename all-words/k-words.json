@@ -1,0 +1,374 @@
+[
+  {
+    "word": "K, k",
+    "pronunciation": "key",
+    "translates": {
+      "noun": ["کِی (= یازدهمین حرف الفبای انگلیسی)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kangaroo",
+    "pronunciation": "kanga'roo",
+    "translates": {
+      "noun": ["کانگورو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "karate",
+    "pronunciation": "ka'ra^ti",
+    "translates": {
+      "noun": ["کاراته"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kebab",
+    "pronunciation": "ki'bab",
+    "translates": {
+      "noun": ["کباب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "keen",
+    "pronunciation": "kiin",
+    "translates": {
+      "adjective": ["علاقه مند", "مشتاق", "شدید", "تیز", "[باد] سوزدار"]
+    },
+    "subWords": {
+      "be keen on somebody (or something)": [
+        "عاشق کسی یا چیزی بودن",
+        "علاقه شدیدی داشتن به"
+      ]
+    }
+  },
+  {
+    "word": "keep",
+    "pronunciation": "kiip",
+    "translates": {
+      "transitive-verb": [
+        "نگه داشتن",
+        "حفظ کردن",
+        "باقی ماندن",
+        "ماندن",
+        "داشتن",
+        "نگهداری کردن",
+        "معطل کردن",
+        "ادامه دادن",
+        "(مراسم) برگزار کردن",
+        "اداره کردن",
+        "جلوگیری کردن",
+        "بازداشتن"
+      ],
+      "noun": ["برج قلعه", "برج دفاعی", "نگهداری"]
+    },
+    "subWords": {
+      "keep at something": ["پشت کاری را گرفتن", "کاری را دنبال کردن"],
+      "keep away from somebody (or something)": [
+        "به کسی یا چیزی نزدیک نشدن",
+        "از کسی یا چیزی دوری کردن"
+      ],
+      "keep going": ["ادامه دادن", "دنبال کردن"],
+      "keep in with": ["روابط دوستانه داشتن با", "خوش رفتاری کردن با"],
+      "keep off": ["وارد نشدن به", "دوری کردن از", "نزدیک نشدن به"],
+      "keep on": ["ادامه دادن", "( کاری را ) مرتب تکرار کردن"],
+      "keep out": ["وارد نشدن"],
+      "keep somebody at something": ["به کاری واداشتن"],
+      "keep somebody (or something) from": [
+        "جلوی کسی یا چیزی را گرفتن",
+        "نگذاشتن"
+      ],
+      "keep somebody (or something) off": [
+        "دور نگاه داشتن",
+        "مانع شدن از",
+        "جلوگیری کردن از"
+      ],
+      "keep somebody (or something) out": ["مانع ورود کسی یا چیزی شدن"],
+      "keep something back (from somebody)": [
+        "چیزی را ( از کسی ) مخفی نگاه داشتن یا پنهان کردن"
+      ],
+      "keep something to oneself": [
+        "چیزی را مخفی نگاه داشتن",
+        "چیزی را پیش خود نگه داشتن"
+      ],
+      "keep to": ["منحرف نشدن از", "ادامه دادن", "دنبال کردن"],
+      "keep up with somebody": ["پا به پای کسی رفتن", "به کسی رسیدن"],
+      "for keeps": ["برای همیشه", "به طور دائمی"]
+    }
+  },
+  {
+    "word": "keeper",
+    "pronunciation": "'kiiper",
+    "translates": {
+      "noun": ["محافظ", "نگهبان", "حافظ", "نگهدار", "[در ترکیب] _ بان", "_ دار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "keepsake",
+    "pronunciation": "'kiipseyk",
+    "translates": {
+      "noun": ["یادگاری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kennel",
+    "pronunciation": "'kenel",
+    "translates": {
+      "noun": ["لانه سگ"],
+      "transitive-verb": ["در لانه سگ قرار دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kept",
+    "pronunciation": "kept",
+    "translates": {
+      "past-tens": ["گذشته فعل keep (نگاه داشتن)"],
+      "past-participle": ["اسم مفعول فعل keep"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kerb",
+    "pronunciation": "kerb",
+    "translates": {
+      "noun": ["جدول (کنار خیابان)", "لبه پیاده رو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ketchup",
+    "pronunciation": "'kecha^p",
+    "translates": {
+      "noun": ["سُس گوجه فرنگی", "سُس کچاپ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kettle",
+    "pronunciation": "'ketel",
+    "translates": {
+      "noun": ["کتری", "نقاره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "key",
+    "pronunciation": "kii",
+    "translates": {
+      "noun": ["کلید", "کوک (ساعت)", "سوئیچ (ماشین)", "شستی", "راهنما"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "keyboard",
+    "pronunciation": "'kiibord",
+    "translates": {
+      "noun": ["صفحه کلید"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "keyhole",
+    "pronunciation": "'kiihol",
+    "translates": {
+      "noun": ["سوراخ کلید"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "keyword",
+    "pronunciation": "'kiiwerd",
+    "translates": {
+      "noun": ["کلمه کلیدی", "واژه کلیدی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "khaki",
+    "pronunciation": "'ka^ki",
+    "translates": {
+      "adjective": ["خاکی", "قهوه ای مایل به زرد"],
+      "noun": ["پارچه ارتشی", "لباس نظامی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kick",
+    "pronunciation": "kik",
+    "translates": {
+      "noun": ["لگد", "لذت"],
+      "transitive-verb": [
+        "لگد زدن",
+        "با پا زدن",
+        "زدن",
+        "پا به زمین زدن",
+        "پا کوفتن"
+      ]
+    },
+    "subWords": {
+      "kick off": ["[بازی فوتبال] شروع کردن"],
+      "kick somebody out of somewhere": [
+        "کسی را از جای بیرون انداختن,اخراج کردن"
+      ]
+    }
+  },
+  {
+    "word": "kid",
+    "pronunciation": "kid",
+    "translates": {
+      "noun": ["بچه", "کودک", "بزغاله"],
+      "transitive-verb": ["سر به سر گذاشتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kidnap",
+    "pronunciation": "'kidnap",
+    "translates": {
+      "transitive-verb": ["[ آدم ] دزدیدن", "بچه دزدی کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kidnapper",
+    "pronunciation": "'kidnaper",
+    "translates": {
+      "noun": ["بچه دزد", "آدم ربا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kidney",
+    "pronunciation": "'kidni",
+    "translates": {
+      "noun": ["کلیه", "قلوه (گاو و گوسفند)", "طبیعت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kill",
+    "pronunciation": "kil",
+    "translates": {
+      "transitive-verb": ["کشتن", "تلف کردن", "آدم کشی کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "killer",
+    "pronunciation": "'kiler",
+    "translates": {
+      "noun": ["قاتل", "حیوان درنده"],
+      "adjective": ["کُشنده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kilo",
+    "pronunciation": "'kiilo",
+    "translates": {
+      "noun": ["کیلو", "[در ترکیب] هزار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kilogram(me)",
+    "pronunciation": "'kilogram",
+    "translates": {
+      "noun": ["کیلو گرم", "کیلو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kilometer, kilometre",
+    "pronunciation": "kilo'miiter",
+    "translates": {
+      "noun": ["کیلومتر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kilowatt",
+    "pronunciation": "'kilowa^t",
+    "translates": {
+      "noun": ["کیلو وات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kilt",
+    "pronunciation": "kilt",
+    "translates": {
+      "noun": ["کیلت (= دامن اسکاتلندی)", "دامن مردانه", "دامن چین دار"],
+      "transitive-verb": ["بالا زدن", "به کمر زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kin",
+    "pronunciation": "kin",
+    "translates": {
+      "noun": ["خویشان", "خویشاوندان", "قوم و خویش"]
+    },
+    "subWords": {
+      "next of kin": ["نزدیک ترین خویشاوند یا خویشاوندان", "وارث بلافصل"]
+    }
+  },
+  {
+    "word": "kind",
+    "pronunciation": "ka^ynd",
+    "translates": {
+      "adjective": ["مهربان", "رئوف", "محبت آمیز", "دوستانه"],
+      "noun": ["نوع", "گونه", "جور", "کیفیت", "جنس"]
+    },
+    "subWords": {
+      "kind of": ["یک کمی", "مثل این که"]
+    }
+  },
+  {
+    "word": "kindergarten",
+    "pronunciation": "'kinderga^rten",
+    "translates": {
+      "noun": ["کودکستان", "مهد کودک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kind-hearted",
+    "pronunciation": "ka^ynd 'ha^rtid",
+    "translates": {
+      "adjective": ["خوش قلب", "دل رحم", "مهربان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kindle",
+    "pronunciation": "'kindel",
+    "translates": {
+      "intransitive-verb": ["آتش گرفتن", "شعله ور شدن", "روشن شدن"],
+      "transitive-verb": ["آتش زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kindly",
+    "pronunciation": "'ka^yndli",
+    "translates": {
+      "adverb": ["با مهربانی", "لطفاً", "بی زحمت"],
+      "adjective": ["مهربان", "با محبت", "دوستانه", "محبت آمیز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kindness",
+    "pronunciation": "'ka^yndnis",
+    "translates": {
+      "noun": ["مهربانی", "لطف", "محبت"]
+    },
+    "subWords": {}
+  }
+]
