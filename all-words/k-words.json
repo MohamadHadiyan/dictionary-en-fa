@@ -370,5 +370,354 @@
       "noun": ["مهربانی", "لطف", "محبت"]
     },
     "subWords": {}
+  },
+  {
+    "word": "king",
+    "pronunciation": "king",
+    "translates": {
+      "noun": ["پادشاه", "شاه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kingdom",
+    "pronunciation": "'kingdem",
+    "translates": {
+      "noun": ["پادشاهی", "سلطنت", "قلمرو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kiosk",
+    "pronunciation": "'kiya^sk",
+    "translates": {
+      "noun": ["دکه", "باجه", "کیوسک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kipper",
+    "pronunciation": "'kiper",
+    "translates": {
+      "noun": ["ماهی دودی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kiss",
+    "pronunciation": "kis",
+    "translates": {
+      "noun": ["بوسه", "بوس", "ماچ"],
+      "transitive-verb": ["بوسیدن", "بوسه زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kit",
+    "pronunciation": "kit",
+    "translates": {
+      "noun": ["کیف", "جعبه (وسایل)", "وسایل", "لوازم", "بسته لوازم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kitchen",
+    "pronunciation": "'kichin",
+    "translates": {
+      "noun": ["آشپزخانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kite",
+    "pronunciation": "ka^yt",
+    "translates": {
+      "noun": ["بادبادک", "زغن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kitten",
+    "pronunciation": "'kiten",
+    "translates": {
+      "noun": ["بچه گربه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kiwi fruit",
+    "pronunciation": "'kiiwii froot",
+    "translates": {
+      "noun": ["کیوی (= نوعی میوه)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "knack",
+    "pronunciation": "nak",
+    "translates": {
+      "noun": ["لِم", "قِلِق", "راه و روش", "صدای شلاق", "استعداد", "مهارت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "knapsack",
+    "pronunciation": "'napsak",
+    "translates": {
+      "noun": ["کوله پشتی", "کوله بار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "knave",
+    "pronunciation": "neyv",
+    "translates": {
+      "noun": ["[بازی ورق] سرباز", "آدم نادرست", "پست و حقیر", "آدم رذل", "رند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "knead",
+    "pronunciation": "niid",
+    "translates": {
+      "transitive-verb": [
+        "خمیر کردن",
+        "ورز دادن",
+        "ماساژ دادن",
+        "مخلوط کردن",
+        "خمیر درست کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "knee",
+    "pronunciation": "nii",
+    "translates": {
+      "noun": ["زانو", "[شلوار] سر زانو", "زانویی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "kneel",
+    "pronunciation": "niil",
+    "translates": {
+      "intransitive-verb": ["زانو زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "knelt",
+    "pronunciation": "nelt",
+    "translates": {
+      "past-tens": ["گذشته فعل kneel (زانو زدن)"],
+      "past-participle": ["اسم مفعول فعل kneel"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "knew",
+    "pronunciation": "nyoo",
+    "translates": {
+      "past-tens": ["گذشته فعل know (دانستن)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "knickers",
+    "pronunciation": "'nkkerz",
+    "translates": {
+      "noun": ["شورت زنانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "knife",
+    "pronunciation": "na^yf",
+    "translates": {
+      "noun": ["کارد", "چاقو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "knight",
+    "pronunciation": "na^yt",
+    "translates": {
+      "noun": [
+        "شوالیه",
+        "[ در بریتانیا ] صاحب عنوان رسمی سِر (Sir)",
+        "[شطرنج] اسب"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "knit",
+    "pronunciation": "nit",
+    "translates": {
+      "transitive-verb": ["(با میل) بافتن", "به هم چسباندن", "کشبافی کردن"],
+      "intransitive-verb": ["جوش خوردن"],
+      "past-tens": ["گذشته فعل knit"],
+      "past-participle": ["اسم مفعول فعل knit"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "knives",
+    "pronunciation": "na^yvz",
+    "translates": {
+      "noun": ["صورت جمع فعل knife (چاقو ها)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "knob",
+    "pronunciation": "na^b",
+    "translates": {
+      "noun": [
+        "دستگیره (در)",
+        "پیچ (رادیو و غیره)",
+        "قلمبه",
+        "برآمدگی",
+        "گلوله",
+        "گِرده",
+        "دکمه",
+        "دسته"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "knock",
+    "pronunciation": "na^k",
+    "translates": {
+      "transitive-verb": [
+        "زدن",
+        "کوبیدن",
+        "ضربه زدن",
+        "متعجب کردن",
+        "صدا دادن",
+        "صدا کردن",
+        "بد گویی کردن از"
+      ],
+      "noun": ["ضربه", "صدای ضربه", "صدای تق تق", "در زدن"]
+    },
+    "subWords": {
+      "knock about (or around) somewhere": [
+        "جایی بودن",
+        "در جایی افتادن",
+        "جایی پرسه زدن",
+        "وِل گشتن"
+      ],
+      "knock off": ["دست از کار کشیدن"],
+      "knock somebody down": ["به زمین انداختن", "به زمین زدن"],
+      "knock somebody out": ["کسی را محکم زدن", "نقش زمین کردن"],
+      "knock something down": ["[ساختمان و غیره] خراب کردن", "کوبیدن"],
+      "knock something over": ["چیزی را انداختن", "به زمین انداختن"]
+    }
+  },
+  {
+    "word": "knocker",
+    "pronunciation": "'na^ker",
+    "translates": {
+      "noun": ["چکش در", "کوبه", "( آدم ) عیب جو", "خورده گیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "knot",
+    "pronunciation": "na^t",
+    "translates": {
+      "noun": ["گره", "پیوند", "گره دریایی"],
+      "transitive-verb": ["گره زدن", "بستن", "منگوله دار کردن"],
+      "intransitive-verb": ["گره خوردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "know",
+    "pronunciation": "no",
+    "translates": {
+      "transitive-verb": [
+        "دانستن",
+        "بلد بودن",
+        "شناختن",
+        "خبر داشتن",
+        "تشخیص دادن",
+        "آگاه بودن"
+      ]
+    },
+    "subWords": {
+      "get to know somebody": ["با کسی آشنا شدن", "کسی را شناختن"],
+      "let somebody know": ["به کسی اطلاع یا خبر دادن", "به کسی گفتن"]
+    }
+  },
+  {
+    "word": "know-how",
+    "pronunciation": "'no hao",
+    "translates": {
+      "noun": ["کاردانی", "مهارت", "دانش", "آگاهی", "فوت و فن", "معلومات خاص"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "knowledge",
+    "pronunciation": "'na^lij",
+    "translates": {
+      "noun": [
+        "دانش",
+        "شناخت",
+        "اطلاع",
+        "خبر",
+        "آگاهی",
+        "علم",
+        "معرفت",
+        "دانایی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "knowledgeable",
+    "pronunciation": "'na^lijebel",
+    "translates": {
+      "adjective": ["آگاه", "مطلع", "فاضل", "باهوش", "زیرک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "known",
+    "pronunciation": "non",
+    "translates": {
+      "adjective": ["معلوم", "آشکار", "معروف", "مشهور", "سرشناس"],
+      "past-participle": ["اسم مفعول فعل know (شناخته شده)"]
+    },
+    "subWords": {
+      "be known as": ["معروف بودن به"]
+    }
+  },
+  {
+    "word": "knuckle",
+    "pronunciation": "'na^kle",
+    "translates": {
+      "noun": ["بند انگشت", "برآمدگی یا گره گیاه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "koala",
+    "pronunciation": "ko'a^la^",
+    "translates": {
+      "noun": ["کوآلا (= نوعی پستاندار درخت زی استرالیایی شبیه به خرس)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "koran",
+    "pronunciation": "ko'ra^n",
+    "translates": {
+      "noun": ["قرآن"]
+    },
+    "subWords": {}
   }
 ]
