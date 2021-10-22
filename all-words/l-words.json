@@ -1,0 +1,460 @@
+[
+  {
+    "word": "L, l",
+    "pronunciation": "el",
+    "translates": {
+      "noun": ["اِل (= دوازدهمین حرف الفبای انگلیسی)", "[عدد نویسی رومی] پنجاه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "label",
+    "pronunciation": "'leybel",
+    "translates": {
+      "noun": ["برچسب", "اتیکت"],
+      "transitive-verb": ["برچسب زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "labor, labour",
+    "pronunciation": "'leyber",
+    "translates": {
+      "noun": ["کار", "کارگر", "طبقه کارگر"],
+      "transitive-verb": ["زحمت کشیدن", "سخت کوشیدن", "تقلا کردن", "جان کندن"]
+    },
+    "subWords": {
+      "hard labor (labour)": ["اعمال شاقه"],
+      "the Labour Party": ["[ در بریتانیا ] حزب کارگر"]
+    }
+  },
+  {
+    "word": "laboratory",
+    "pronunciation": "la'ba^ratri",
+    "translates": {
+      "noun": ["آزمایشگاه", "لابراتوار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "laborer, labourer",
+    "pronunciation": "'leyberer",
+    "translates": {
+      "noun": ["کارگر", "عمله"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lace",
+    "pronunciation": "leys",
+    "translates": {
+      "noun": ["بند", "تور", "توری"],
+      "transitive-verb": ["بند ( چیزی را ) بستن یا کشیدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lack",
+    "pronunciation": "lak",
+    "translates": {
+      "transitive-verb": ["نداشتن", "کم داشتن", "فاقد بودن"],
+      "noun": ["نبود", "کمبود", "عدم", "فقدان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lacquer",
+    "pronunciation": "'laker",
+    "translates": {
+      "noun": ["لاک", "لاک الکل"],
+      "transitive-verb": ["لاک الکل زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lad",
+    "pronunciation": "lad",
+    "translates": {
+      "noun": ["پسر", "جوان", "مرد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ladder",
+    "pronunciation": "'lader",
+    "translates": {
+      "noun": ["نردبان", "پلکان", "دررفتگی (جوراب)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "laden",
+    "pronunciation": "'leyden",
+    "translates": {
+      "adjective": ["پر", "مملو"]
+    },
+    "subWords": {
+      "be laden with": ["زیر بار (چیزی) بودن"]
+    }
+  },
+  {
+    "word": "Ladies",
+    "pronunciation": "'leydiz",
+    "translates": {
+      "noun": ["(توالت) بانوان", "خانم ها"]
+    },
+    "subWords": {
+      "ladies and gentleman": ["خانم ها و آقایان"],
+      "ladies first": ["اول خانم ها"]
+    }
+  },
+  {
+    "word": "ladle",
+    "pronunciation": "'leydel",
+    "translates": {
+      "noun": ["ملاقه"],
+      "transitive-verb": ["با ملاقه کشیدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lady",
+    "pronunciation": "'leydi",
+    "translates": {
+      "noun": ["خانم", "بانو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lag",
+    "pronunciation": "lag",
+    "translates": {
+      "intransitive-verb": ["عقب ماندن", "عقب افتادن"],
+      "noun": ["واماندگی", "کندی", "تاخیر", "عقب ماندگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lager",
+    "pronunciation": "'la^ger",
+    "translates": {
+      "noun": ["لاگِر (= نوعی آبجو)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lagoon",
+    "pronunciation": "la'goon",
+    "translates": {
+      "noun": ["مرداب", "تالاب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "laid",
+    "pronunciation": "leyd",
+    "translates": {
+      "past-tens": ["گذشته فعل lay (گذاشتن)"],
+      "past-participle": ["اسم مفعول فعل lay"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lain",
+    "pronunciation": "leyn",
+    "translates": {
+      "past-participle": ["اسم مفعول فعل lie (دروغ گفتن)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lake",
+    "pronunciation": "leyk",
+    "translates": {
+      "noun": ["دریاچه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lamb",
+    "pronunciation": "lam",
+    "translates": {
+      "noun": ["بره", "گوشت بره", "پوست بره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lame",
+    "pronunciation": "leym",
+    "translates": {
+      "adjective": ["لنگ", "شل", "چلاق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lamp",
+    "pronunciation": "lamp",
+    "translates": {
+      "noun": ["چراغ", "لامپ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lamp-post",
+    "pronunciation": "'lamp post",
+    "translates": {
+      "noun": ["تیر چراغ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "land",
+    "pronunciation": "land",
+    "translates": {
+      "noun": ["زمین", "خشکی", "سرزمین", "کشور", "ملک", "دیار"],
+      "transitive-verb": [
+        "فرود آمدن",
+        "(به زمین) نشستن",
+        "به زمین نشاندن",
+        "به خشکی رسیدن",
+        "پیاده شدن"
+      ]
+    },
+    "subWords": {
+      "land up": ["سر و کار کسی به ... افتادن"]
+    }
+  },
+  {
+    "word": "landing",
+    "pronunciation": "'landing",
+    "translates": {
+      "noun": ["[ هواپیما ] فرود", "ورود به خشکی", "پیاده شدن در ساحل", "پاگرد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "landlady",
+    "pronunciation": "'landleydi",
+    "translates": {
+      "noun": [
+        "صاحبخانه (زن)",
+        "زن صاحب بار",
+        "زن مهمانخانه دار",
+        "زن صاحب ملک"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "landlord",
+    "pronunciation": "'landlord",
+    "translates": {
+      "noun": ["صاحبخانه (مرد)", "صاحب مسافرخانه", "موجر", "مالک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "landmark",
+    "pronunciation": "'landma^rk",
+    "translates": {
+      "noun": ["مرزنما", "نشانه", "راهنما", "نقطه عطف", "واقعه برجسته"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "landscape",
+    "pronunciation": "'landskeyp",
+    "translates": {
+      "noun": ["منظره", "چشم انداز", "تابلو (منظره)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "landslide",
+    "pronunciation": "'landsla^yd",
+    "translates": {
+      "noun": ["ریزش (کوه)", "زمین لغزه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lane",
+    "pronunciation": "leyn",
+    "translates": {
+      "noun": [
+        "راه",
+        "کوه راه",
+        "کوچه",
+        "مسیر",
+        "خط سیر",
+        "[جاده] خط عبوری",
+        "راه باریک"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "language",
+    "pronunciation": "'langwij",
+    "translates": {
+      "noun": ["زبان", "قوه نطق", "تکلم", "لسان", "کلام", "سخنگویی"]
+    },
+    "subWords": {
+      "native language": ["زبان مادری"]
+    }
+  },
+  {
+    "word": "lanky",
+    "pronunciation": "'lanki",
+    "translates": {
+      "adjective": ["دراز لق لقو", "دراز و باریک", "لندوک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lantern",
+    "pronunciation": "'lantern",
+    "translates": {
+      "noun": ["فانوس", "برجک نورگیر", "کلاهک نورگیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lap",
+    "pronunciation": "lap",
+    "translates": {
+      "noun": ["دامن", "دامان", "محل نشو و نما", "لیس", "[پیست مسابقه] دور"],
+      "transitive-verb": [
+        "زبان زدن",
+        "لیسیدن",
+        "هورت کشیدن",
+        "[مسابقه",
+        "یک یا چند دور] جلو زدن",
+        "دور یا در (چیزی) پیچیدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lapel",
+    "pronunciation": "la'pel",
+    "translates": {
+      "noun": ["برگردان یقه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lapse",
+    "pronunciation": "laps",
+    "translates": {
+      "noun": ["لغزش", "خطا", "انحراف", "سقوط", "[زمان] گذشت", "مرور"],
+      "transitive-verb": ["مشمول مرور زمان شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lard",
+    "pronunciation": "la^rd",
+    "translates": {
+      "noun": ["روغن خوک", "چربی خوک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "large",
+    "pronunciation": "la^rj",
+    "translates": {
+      "adjective": ["بزرگ", "زیاد", "بلند", "عالی", "وسیع", "گسترده", "درشت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "largely",
+    "pronunciation": "'la^rjli",
+    "translates": {
+      "adverb": [
+        "عمدتاً",
+        "بیشتر",
+        "اکثر",
+        "زیاد",
+        "به مقدار زیاد",
+        "تا حد زیادی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "laser",
+    "pronunciation": "'leyzer",
+    "translates": {
+      "noun": ["لیزر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lash",
+    "pronunciation": "lash",
+    "translates": {
+      "noun": ["شلاق", "تازیانه", "ضربه شلاق"],
+      "transitive-verb": ["شلاق زدن", "زدن", "تکان دادن", "جنباندن"],
+      "intransitive-verb": ["تکان خوردن", "جنبیدن", "شلاق خوردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lass",
+    "pronunciation": "las",
+    "translates": {
+      "noun": ["دختر", "زن جوان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "last",
+    "pronunciation": "last",
+    "translates": {
+      "adjective": ["آخر", "آخرین", "اخیر", "قبلی", "در پایان", "آخر سر"],
+      "intransitive-verb": [
+        "ادامه یافتن",
+        "طول کشیدن",
+        "کافی بودن (برای)",
+        "دوام داشتن"
+      ]
+    },
+    "subWords": {
+      "at last": ["بالاخره", "سرانجام"],
+      "the last": ["آخرین"]
+    }
+  },
+  {
+    "word": "lastly",
+    "pronunciation": "'lastli",
+    "translates": {
+      "adverb": ["در پایان", "سرانجام", "آخر از همه", "در نهایت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "latch",
+    "pronunciation": "lach",
+    "translates": {
+      "noun": ["چِفت", "قفل فلزی", "ضامن"],
+      "transitive-verb": ["محکم نگاه داشتن", "قفل کردن", "چفت کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "late",
+    "pronunciation": "leyt",
+    "translates": {
+      "adjective": ["دیر", "دیر وقت", "اواخر", "اخیر", "جدید", "قبلی", "مرحوم"],
+      "adverb": ["اخیرا", "تا دیر وقت", "تا دیر گاه"]
+    },
+    "subWords": {
+      "be late": ["دیر بودن"],
+      "get late": ["دیر شدن"],
+      "later (on)": ["بعداً"],
+      "sooner or later": ["دیر یا زود", "روزی", "یک وقتی"]
+    }
+  }
+]
