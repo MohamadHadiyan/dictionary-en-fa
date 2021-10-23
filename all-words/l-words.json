@@ -456,5 +456,446 @@
       "later (on)": ["بعداً"],
       "sooner or later": ["دیر یا زود", "روزی", "یک وقتی"]
     }
+  },
+  {
+    "word": "lately",
+    "pronunciation": "'leytli",
+    "translates": {
+      "adverb": ["اخیراً", "تازگی", "اواخر", "این اواخر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "latest",
+    "pronunciation": "'leytist",
+    "translates": {
+      "adjective": ["آخرین", "جدیدترین", "تازه ترین"]
+    },
+    "subWords": {
+      "at the latest": ["حداکثر", "نه دیرتر از"],
+      "the latest": ["آخرین نمونه", "تازه ترین مورد"]
+    }
+  },
+  {
+    "word": "lather",
+    "pronunciation": "'la^dher",
+    "translates": {
+      "noun": ["کف (صابون)"],
+      "transitive-verb": ["کف مالیدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Latin",
+    "pronunciation": "'latin",
+    "translates": {
+      "noun": ["زبان لاتین"],
+      "adjective": ["لاتینی", "لاتین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "latter",
+    "pronunciation": "'later",
+    "translates": {
+      "adjective": ["دوم", "دومی", "آخر", "اخیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "laugh",
+    "pronunciation": "la^f",
+    "translates": {
+      "intransitive-verb": [
+        "خندیدن",
+        "به خنده افتادن",
+        "خندان بودن",
+        "خنده کردن"
+      ],
+      "noun": ["خنده", "صدای خنده"]
+    },
+    "subWords": {
+      "for a laugh": ["برای خنده", "برای تفریح"],
+      "laugh at": ["خندیدن به"]
+    }
+  },
+  {
+    "word": "laughter",
+    "pronunciation": "'la^fter",
+    "translates": {
+      "noun": ["خنده", "صدای خنده بلند"]
+    },
+    "subWords": {
+      "roar with laughter": ["از خنده روده بر شدن", "از خنده ریسه رفتن"]
+    }
+  },
+  {
+    "word": "launch",
+    "pronunciation": "lonch",
+    "translates": {
+      "noun": ["قایق موتوری بزرگ", "لِنج"],
+      "transitive-verb": [
+        "[کشتی] به آب انداختن",
+        "[فضا پیما",
+        "موشک] پرتاب کردن",
+        "انداختن",
+        "آغاز کردن",
+        "روانه کردن"
+      ]
+    },
+    "subWords": {
+      "launch an attack": ["حمله کردن", "دست به حمله زدن"]
+    }
+  },
+  {
+    "word": "launderette",
+    "pronunciation": "lon'dret",
+    "translates": {
+      "noun": ["لباس شویی سکه ای", "لباس شویی خودکار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "laundry",
+    "pronunciation": "'londri",
+    "translates": {
+      "noun": ["(مغازه) لباس شویی", "خشک شویی", "لباس های شستنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lavatory",
+    "pronunciation": "'lavatri",
+    "translates": {
+      "noun": ["دستشویی", "توالت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lavish",
+    "pronunciation": "'lavish",
+    "translates": {
+      "adjective": [
+        "دست و دلباز",
+        "گشاده دست",
+        "ولخرج",
+        "افراط کار",
+        "بی بند و بار",
+        "سخاوتمند"
+      ],
+      "transitive-verb": [
+        "بی دریغ خرج  کردن",
+        "بیش از حد مصرف کردن",
+        "تلف کردن",
+        "ولخرجی کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "law",
+    "pronunciation": "lo",
+    "translates": {
+      "noun": ["قانون", "(علم) حقوق"]
+    },
+    "subWords": {
+      "be against the law": ["برخلاف قانون بودن"],
+      "break the law": [
+        "از قانون تختی کردن",
+        "قانون شکنی کردن",
+        "قانون را زیر پا گذاشتن"
+      ],
+      "law and order": ["حکومت قانون", "نظم و انظباط", "امنیت و آرامش"],
+      "pass a law": ["قانون گذاردن", "قانون وضع کردن"]
+    }
+  },
+  {
+    "word": "lawcourt, law court",
+    "pronunciation": "'lokort",
+    "translates": {
+      "noun": ["دادگاه", "محکمه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lawful",
+    "pronunciation": "'loful",
+    "translates": {
+      "adjective": ["مجاز", "مشروع", "قانونی", "حلال زاده", "حلال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lawfully",
+    "pronunciation": "'lofuli",
+    "translates": {
+      "adverb": ["قانوناً", "به طور قانونی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lawn",
+    "pronunciation": "lon",
+    "translates": {
+      "noun": ["چمن", "زمین چمن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lawyer",
+    "pronunciation": "'loyer",
+    "translates": {
+      "noun": ["وکیل (دعاوی)", "مشاور حقوقی", "حقوقدان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lay",
+    "pronunciation": "ley",
+    "translates": {
+      "transitive-verb": [
+        "قرار دادن",
+        "گذاشتن",
+        "چیدن",
+        "خواباندن",
+        "فرونشاندن",
+        "انداختن",
+        "پهن کردن",
+        "تخم گذاشتن",
+        "شرط بندی کردن",
+        "شرط بستن"
+      ],
+      "past-tens": ["گذشته فعل lie (دروغ گفتن)"]
+    },
+    "subWords": {
+      "lay something out": ["چیدن", "مرتب گذاشتن", "طراحی کردن", "کنار گذاشتن"]
+    }
+  },
+  {
+    "word": "layer",
+    "pronunciation": "'leyer",
+    "translates": {
+      "noun": ["لایه", "لا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lazily",
+    "pronunciation": "'leyzili",
+    "translates": {
+      "adverb": ["از روی تنبلی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "laziness",
+    "pronunciation": "'leyzinis",
+    "translates": {
+      "noun": ["تنبلی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lazy",
+    "pronunciation": "'leyzi",
+    "translates": {
+      "adjective": ["تنبل", "کاهلانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lb",
+    "pronunciation": "paond",
+    "translates": {
+      "noun": ["پوند (= واحد وزن برابر با 453/59 گرم)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lead",
+    "pronunciation": "led, liid",
+    "translates": {
+      "noun": [
+        "سرب",
+        "مغز مداد",
+        "راهنمایی",
+        "هدایت",
+        "رهبری",
+        "سبقت",
+        "پیشگامی",
+        "سرمشق",
+        "قلاده",
+        "سیم رابط"
+      ],
+      "transitive-verb": [
+        "جلو رفتن",
+        "راه نشان دادن",
+        "راهنمایی کردن",
+        "هدایت کردن",
+        "رهبری کردن",
+        "جلو بودن",
+        "رفتن",
+        "بردن",
+        "منجر شدن"
+      ]
+    },
+    "subWords": {
+      "lead somebody astray": ["از راه به در کردن", "منحرف کردن"],
+      "lead somebody on": ["گمراه کردن"],
+      "lead to": ["منجر شدن به"],
+      "lead up to": ["منجر شدن به", "کشیده شدن به"],
+      "be in the lead": ["[مسابقه] جلو بودن"],
+      "take the lead": ["پیشاپیش حرکت کردن", "رهبری را به عهده گرفتن"]
+    }
+  },
+  {
+    "word": "leaden",
+    "pronunciation": "'leden",
+    "translates": {
+      "adjective": ["سربی", "سربی رنگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "leader",
+    "pronunciation": "'liider",
+    "translates": {
+      "noun": ["رهبر", "پیشتاز", "پیشوا", "رهبر ارکستر", "سرمقاله"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "leadership",
+    "pronunciation": "'liidership",
+    "translates": {
+      "noun": ["رهبری", "رهبران"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "leaf",
+    "pronunciation": "liff",
+    "translates": {
+      "noun": ["[گیاه] برگ", "ورق", "ورقه", "برگه", "لنگه در", "لَته"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "leaflet",
+    "pronunciation": "'liiflit",
+    "translates": {
+      "noun": ["برگچه", "اعلامیه", "بروشور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "leafy",
+    "pronunciation": "'liifi",
+    "translates": {
+      "adjective": ["برگ دار", "پُر برگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "league",
+    "pronunciation": "liig",
+    "translates": {
+      "noun": ["پیمان", "اتحاد", "انجمن باشگاه ها (ی ورزشی)", "لیگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "leak",
+    "pronunciation": "liik",
+    "translates": {
+      "transitive-verb": [
+        "نشت کردن",
+        "پس دادن",
+        "تراوش کردن",
+        "آب دادن",
+        "( از چیزی ) آب گرفتن",
+        "فاش کردن یا شدن"
+      ],
+      "noun": [
+        "درز",
+        "ترک",
+        "سوراخ",
+        "نشت",
+        "تراوش",
+        "ترشح",
+        "رخنه",
+        "چکه",
+        "سوراخ"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "leaky",
+    "pronunciation": "'liiki",
+    "translates": {
+      "adjective": ["سوراخ دار", "رخنه دار", "چکه کن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lean",
+    "pronunciation": "liin",
+    "translates": {
+      "adjective": ["لاغر", "کم بار", "بی چربی", "لخم"],
+      "noun": ["گوشت لخم"],
+      "intransitive-verb": ["خم شدن", "تکیه دادن به", "متکی بودن به"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "leant",
+    "pronunciation": "lent",
+    "translates": {
+      "past-tens": ["گذشته فعل lean (خم شدن)"],
+      "past-participle": ["اسم مفعول فعل lean"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "leap",
+    "pronunciation": "liip",
+    "translates": {
+      "intransitive-verb": ["( از روی چیزی ) پریدن", "جهش کردن"],
+      "noun": ["پرش"]
+    },
+    "subWords": {
+      "by leaps and bounds": ["به سرعت"]
+    }
+  },
+  {
+    "word": "leap-frog",
+    "pronunciation": "'liipfra^g",
+    "translates": {
+      "noun": ["جفتک چهارکُش"],
+      "intransitive-verb": [
+        "گره گره حرکت کردن",
+        "از یکدیگر به نوبت جلو زدن",
+        "با جست و خیز حرکت کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "leapt",
+    "pronunciation": "lept",
+    "translates": {
+      "past-tens": ["گذشته فعل leap (پریدن)"],
+      "past-participle": ["اسم مفعول فعل leap"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "leap year",
+    "pronunciation": "'liip yer",
+    "translates": {
+      "noun": ["سال کبیسه"]
+    },
+    "subWords": {}
   }
 ]
