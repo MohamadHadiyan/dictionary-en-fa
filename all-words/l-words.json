@@ -897,5 +897,395 @@
       "noun": ["سال کبیسه"]
     },
     "subWords": {}
+  },
+  {
+    "word": "learn",
+    "pronunciation": "lern",
+    "translates": {
+      "transitive-verb": [
+        "یاد گرفتن",
+        "آموختن",
+        "از بر کردن",
+        "حفظ کردن",
+        "فرا گرفتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "learner",
+    "pronunciation": "'lerner",
+    "translates": {
+      "noun": ["نوآموز", "مبتدی", "کارآموز", "دانش آموز", "یادگیرنده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "learnt",
+    "pronunciation": "lernt",
+    "translates": {
+      "past-tens": ["گذشته فعل learn (یاد گرفتن)"],
+      "past-participle": ["اسم مفعول فعل learn"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "least",
+    "pronunciation": "liist",
+    "translates": {
+      "adjective": ["کمترین", "کوچکترین"],
+      "noun": ["کمترین کار"]
+    },
+    "subWords": {
+      "at least": ["حداقل", "دست کم"],
+      "not in the least": ["اصلاً", "ابداً", "به هیچ وجه"]
+    }
+  },
+  {
+    "word": "leather",
+    "pronunciation": "'ledher",
+    "translates": {
+      "noun": ["چرم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "leave",
+    "pronunciation": "liiv",
+    "translates": {
+      "transitive-verb": [
+        "رفتن",
+        "( از جایی ) رفتن",
+        "ترک کردن",
+        "رها کردن",
+        "ول کردن",
+        "گذاشتن",
+        "جا گذاشتن",
+        "باقی گذاشتن",
+        "به ارث گذاشتن",
+        "باقی ماندن",
+        "ماندن"
+      ],
+      "noun": ["اجازه", "مرخصی", "ترک"]
+    },
+    "subWords": {
+      "leave for": ["عازم (جایی) بودن", "رفتن"],
+      "leave go": ["ول کردن"],
+      "leave off": ["[باران] بند آمدن", "وایستادن", "بس کردن", "متوقف کردن"],
+      "leave out": ["حذف کردن", "کنار گذاشتن", "جا انداختن"],
+      "leave somebody alone": ["کسی را راحت گذاشتن", "دست از سر کسی برداشتن"],
+      "leave somebody (or something) behind": [
+        "با خود نبردن",
+        "همراه نبردن",
+        "جا گذاشتن"
+      ],
+      "leave something alone": ["به چیزی دست نزدن", "چیزی را بر نداشتن"],
+      "leave something to somebody": [
+        "کاری را به عهده کسی گذاشتن",
+        "چیزی را برای کسی به ارث گذاشتن"
+      ],
+      "on leave": ["در مرخصی"],
+      "take one's leave of somebody": [
+        "با کسی خداحافظی کردن",
+        "از کسی اجازه مرخص شدن خواستن"
+      ]
+    }
+  },
+  {
+    "word": "leaves",
+    "pronunciation": "liivz",
+    "translates": {
+      "noun": ["صورت جمع leaf ( برگ ها )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lecture",
+    "pronunciation": "'lekcher",
+    "translates": {
+      "noun": ["درس", "سخنرانی", "کنفرانس", "موعظه"],
+      "transitive-verb": ["سخنرانی کردن", "موعظه کردن"]
+    },
+    "subWords": {
+      "lecture somebody about something": ["کسی را راجع به چیزی موعظه کردن"]
+    }
+  },
+  {
+    "word": "lecturer",
+    "pronunciation": "'lekcherer",
+    "translates": {
+      "noun": ["سخنران", "مدرس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "led",
+    "pronunciation": "led",
+    "translates": {
+      "past-tens": ["گذشته فعل lead (رهبری کردن)"],
+      "past-participle": ["اسم مفعول فعل lead"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ledge",
+    "pronunciation": "lej",
+    "translates": {
+      "noun": ["رف", "طاقچه", "لبه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "leek",
+    "pronunciation": "liik",
+    "translates": {
+      "noun": ["تره فرنگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "left",
+    "pronunciation": "left",
+    "translates": {
+      "adjective": ["چپ"],
+      "noun": ["سمت چپ"],
+      "adverb": ["به طرف چپ"],
+      "past-tens": ["گذشته فعل leave (ترک کردن)"],
+      "past-participle": ["اسم مفعول فعل leave"]
+    },
+    "subWords": {
+      "be left": ["باقی ماندن"]
+    }
+  },
+  {
+    "word": "left-handed",
+    "pronunciation": "left 'handid",
+    "translates": {
+      "adjective": ["چپ دست", "با دست چپ", "چپ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "leg",
+    "pronunciation": "leg",
+    "translates": {
+      "noun": ["پا", "[گوشت] ران", "ساق پا", "پایه"]
+    },
+    "subWords": {
+      "pull somebody's leg": ["سر به سر کسی گذاشتن", "کسی را دست انداختن"]
+    }
+  },
+  {
+    "word": "legacy",
+    "pronunciation": "'legesi",
+    "translates": {
+      "noun": ["ارث", "میراث"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "legal",
+    "pronunciation": "'liiga^l",
+    "translates": {
+      "adjective": ["قانونی", "حقوقی", "مجاز", "مشروع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "legend",
+    "pronunciation": "'lejend",
+    "translates": {
+      "noun": ["افسانه", "اسطوره", "اساطیر", "ادبیات اساطیری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "legislate",
+    "pronunciation": "'lejisleyt",
+    "translates": {
+      "intransitive-verb": [
+        "قانون گذراندن",
+        "قانون وضع کردن",
+        "قانون گذاری کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "leisure",
+    "pronunciation": "'lezher",
+    "translates": {
+      "noun": ["فراعت", "فرصت"]
+    },
+    "subWords": {
+      "at your leisure": ["هنگام فراغت", "موقع بیکاری"]
+    }
+  },
+  {
+    "word": "leisurely",
+    "pronunciation": "'lezherli",
+    "translates": {
+      "adverb": ["با تانی", "بدون عجله", "سر فرصت", "به آهستگی", "تفریحانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lemon",
+    "pronunciation": "'lemon",
+    "translates": {
+      "noun": ["لیمو ترش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lemonade",
+    "pronunciation": "'lemo'neyd",
+    "translates": {
+      "noun": ["لیموناد", "شربت آبلیمو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lend",
+    "pronunciation": "lend",
+    "translates": {
+      "transitive-verb": ["قرض دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "length",
+    "pronunciation": "length",
+    "translates": {
+      "noun": ["درازا", "طول", "قد", "اندازه", "تکه", "[پارچه] قواره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lengthen",
+    "pronunciation": "'lengthen",
+    "translates": {
+      "intransitive-verb": ["دراز شدن", "طولانی شدن", "بلند شدن"],
+      "transitive-verb": ["بلند کردن", "طولانی کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lenient",
+    "pronunciation": "'liiniyent",
+    "translates": {
+      "adjective": ["ملایم", "بامدارا", "باگذشت", "توام با ارفاق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lens",
+    "pronunciation": "lenz",
+    "translates": {
+      "noun": ["عدسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lent",
+    "pronunciation": "lent",
+    "translates": {
+      "past-tens": ["گذشته فعل lend (قرض دادن)"],
+      "past-participle": ["اسم مفعول فعل lend"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "leopard",
+    "pronunciation": "'leperd",
+    "translates": {
+      "noun": ["پلنگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "less",
+    "pronunciation": "les",
+    "translates": {
+      "adjective": ["کمتر", "منهای"]
+    },
+    "subWords": {
+      "less than": ["کمتر از"]
+    }
+  },
+  {
+    "word": "lessen",
+    "pronunciation": "'lesen",
+    "translates": {
+      "transitive-verb": ["کمتر کردن", "کاستن از", "کوچکتر کردن"],
+      "intransitive-verb": ["کمتر شدن", "کوچک تر شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lesson",
+    "pronunciation": "'lesen",
+    "translates": {
+      "noun": ["درس", "جلسه درس", "ساعت درس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lest",
+    "pronunciation": "lest",
+    "translates": {
+      "conjunction": ["مبادا", "مبادا که"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "let",
+    "pronunciation": "let",
+    "translates": {
+      "transitive-verb": ["اجازه دادن", "گذاشتن", "اجاره دادن"],
+      "past-tens": ["گذشته فعل let"],
+      "past-participle": ["اسم مفعول فعل let"]
+    },
+    "subWords": {
+      "let alone": ["به جز", "سوای", "چه رسد به این که"],
+      "let down": ["تنها گذاشتن", "قال گذاشتن"],
+      "let go of": ["وِل کردن", "رها کردن"],
+      "let somebody down": ["به قول خود عمل نکردن", "رفیق نیمه راه بودن"],
+      "let somebody of": ["کسی را بخشیدن", "در مجازات کسی تخفیف قائل شدن"]
+    }
+  },
+  {
+    "word": "let's",
+    "pronunciation": "lets",
+    "translates": {
+      "transitive-verb": [
+        "let us بیا",
+        "بیایید",
+        "بگذار",
+        "بگذارید",
+        "اجازه دهید"
+      ]
+    },
+    "subWords": {
+      "Let's go to see him.": ["بیایید برویم او را ببینیم."],
+      "let's see": ["بگذار ببینم"],
+      "let's say": ["مثلاً", "فرض کنیم", "حالا بگوییم"]
+    }
+  },
+  {
+    "word": "letter",
+    "pronunciation": "'leter",
+    "translates": {
+      "noun": ["نامه", "[ الفبا ] حرف", "لفظ", "نص"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "letter-box",
+    "pronunciation": "'leter ba^ks",
+    "translates": {
+      "noun": ["صندوق پست", "جعبه نامه"]
+    },
+    "subWords": {}
   }
 ]
