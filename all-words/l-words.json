@@ -1287,5 +1287,459 @@
       "noun": ["صندوق پست", "جعبه نامه"]
     },
     "subWords": {}
+  },
+  {
+    "word": "lettuce",
+    "pronunciation": "'letis",
+    "translates": {
+      "noun": ["کاهو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "level",
+    "pronunciation": "level",
+    "translates": {
+      "adjective": ["صاف", "هموار", "مسطح"],
+      "noun": ["سطح", "تراز", "میزان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "level crossing",
+    "pronunciation": "level 'kra^sing",
+    "translates": {
+      "noun": ["[جاده و راه آهن] تقاطع هم سطح"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lever",
+    "pronunciation": "'lever",
+    "translates": {
+      "noun": ["اهرم", "دیلم", "دسته"],
+      "transitive-verb": ["اهرم کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "liability",
+    "pronunciation": "la^ye'biliti",
+    "translates": {
+      "noun": ["مسئولیت", "تعهد", "بدهی", "دِین", "بدهکاری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "liar",
+    "pronunciation": "'la^yer",
+    "translates": {
+      "noun": ["دروغگو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "liberal",
+    "pronunciation": "'libera^l",
+    "translates": {
+      "adjective": [
+        "آزادمنش",
+        "آزاداندیش",
+        "آزادیخواه",
+        "میانه رو",
+        "لیبرال",
+        "آزادیخواهانه",
+        "آسان گیر",
+        "دست و دلباز",
+        "فراوان"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "liberate",
+    "pronunciation": "'libereyt",
+    "translates": {
+      "transitive-verb": ["آزاد کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "liberation",
+    "pronunciation": "libe'reyshen",
+    "translates": {
+      "noun": ["آزادسازی", "آزادی", "رهایی", "نهضت آزادی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "liberator",
+    "pronunciation": "'libereyter",
+    "translates": {
+      "noun": ["رهاننده", "آزادکننده", "ناجی", "منجی", "آزادی بخش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "liberty",
+    "pronunciation": "'liberti",
+    "translates": {
+      "noun": ["آزادی", "اجازه", "اختیار"]
+    },
+    "subWords": {
+      "at liberty": ["آزاد", "مختار", "مجاز"]
+    }
+  },
+  {
+    "word": "librarian",
+    "pronunciation": "la^y'breriyen",
+    "translates": {
+      "noun": ["کتابدار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "library",
+    "pronunciation": "'la^breri",
+    "translates": {
+      "noun": ["کتابخانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lice",
+    "pronunciation": "la^ys",
+    "translates": {
+      "noun": ["صورت جمع louse ( شپش ها )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "licence",
+    "pronunciation": "'la^ysens",
+    "translates": {
+      "noun": ["پروانه", "جواز", "اجازه", "تصدیق", "گواهی نامه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "license",
+    "pronunciation": "'la^ysens",
+    "translates": {
+      "transitive-verb": ["جواز دادن", "پروانه دادن", "اجازه دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lick",
+    "pronunciation": "lik",
+    "translates": {
+      "transitive-verb": ["لیسیدن", "زبان زدن", "زدن"],
+      "noun": ["لیس", "لیسه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lid",
+    "pronunciation": "lid",
+    "translates": {
+      "noun": ["درپوش", "در", "پلک", "کلاهک", "دریچه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lie",
+    "pronunciation": "la^y",
+    "translates": {
+      "intransitive-verb": [
+        "دروغ گفتن",
+        "دروغگو بودن",
+        "دراز کشیدن",
+        "خوابیدن",
+        "بودن",
+        "قرار داشتن",
+        "(جایی) افتادن",
+        "(بی مصرف) ماندن"
+      ],
+      "noun": ["دروغ", "کذب"]
+    },
+    "subWords": {
+      "tell a lie": ["دروغ گفتن"]
+    }
+  },
+  {
+    "word": "lieutenant",
+    "pronunciation": "lef'tenent",
+    "translates": {
+      "noun": ["ستوان", "ناوبان", "قائم مقام", "نایب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "life",
+    "pronunciation": "la^yf",
+    "translates": {
+      "noun": ["حیات", "زندگی", "طول عمر", "عمر", "جان", "شوق", "نشاط"]
+    },
+    "subWords": {
+      "a matter of life and death": ["مسئله مرگ و زندگی", "امری حیاتی"],
+      "lead a life": ["زندگی کردن"],
+      "He leads quiet life.": ["او زندگی آرامی دارد."],
+      "not on your life": ["اصلاً", "حرفش را هم نزن"],
+      "run for one's life": ["به سرعت فرار کردن"],
+      "take one's own life": ["خودکشی کردن", "به زندگی خود خاتمه دادن"]
+    }
+  },
+  {
+    "word": "lifeboat",
+    "pronunciation": "'la^yfbot",
+    "translates": {
+      "noun": ["قایق نجات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lifeguard",
+    "pronunciation": "'la^yfga^rd",
+    "translates": {
+      "noun": ["نجات غریق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "life-jacket",
+    "pronunciation": "'la^yf jakit",
+    "translates": {
+      "noun": ["جلیقه نجات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lifeless",
+    "pronunciation": "'la^yflis",
+    "translates": {
+      "adjective": ["بی جان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lifelike",
+    "pronunciation": "'la^yfla^yk",
+    "translates": {
+      "adjective": ["زنده", "زندگی مانند", "واقعی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lifetime",
+    "pronunciation": "'la^yfta^ym",
+    "translates": {
+      "noun": ["عمر", "زمان", "دوره", "همیشگی", "مادام العمر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lift",
+    "pronunciation": "lift",
+    "translates": {
+      "transitive-verb": ["بلند کردن", "بالا بردن", "برداشتن", "بالا رفتن"],
+      "noun": ["سواری", "آسانسور", "بالابر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "light",
+    "pronunciation": "la^yt",
+    "translates": {
+      "noun": [
+        "نور",
+        "روشنی",
+        "روشنایی",
+        "پرتو",
+        "فروغ",
+        "چراغ",
+        "تابش",
+        "کبریت",
+        "فندک",
+        "آتش",
+        "درخشش",
+        "برق",
+        "روزنه",
+        "دریچه",
+        "نورگیر"
+      ],
+      "transitive-verb": ["روشن کردن"],
+      "intransitive-verb": ["درخشیدن", "برق زدن"],
+      "adjective": ["سبک", "روشن", "ضعیف", "خفیف", "کم رنگ"]
+    },
+    "subWords": {
+      "light up": ["روشن کردن", "[چهره] از هم باز شدن", "[چشم] برق زدن"],
+      "light brown": ["قهوه ای روشن"]
+    }
+  },
+  {
+    "word": "lighten",
+    "pronunciation": "'la^yten",
+    "translates": {
+      "transitive-verb": ["روشن کردن", "سبک کردن"],
+      "intransitive-verb": ["روشن شدن", "سبک شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lighter",
+    "pronunciation": "'la^yter",
+    "translates": {
+      "noun": ["فندک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lighthouse",
+    "pronunciation": "'la^yt-haos",
+    "translates": {
+      "noun": ["فانوس دریایی", "فار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lighting",
+    "pronunciation": "'la^yting",
+    "translates": {
+      "noun": [
+        "(عمل) روشن کردن",
+        "نور رسانی",
+        "نور پردازی",
+        "(وضع) نور",
+        "روشنایی",
+        "نور افکنی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lightly",
+    "pronunciation": "'la^ytli",
+    "translates": {
+      "adverb": ["یواش", "باملایمت", "کم", "مختصر", "سرسری", "سبک"]
+    },
+    "subWords": {
+      "get off lightly": ["قِسر در رفتن", "زیان چندانی ندیدن"]
+    }
+  },
+  {
+    "word": "lightning",
+    "pronunciation": "'la^ytning",
+    "translates": {
+      "noun": ["برق", "صاعقه", "آذرخش", "رعد و برق"],
+      "adjective": ["برقی", "فوری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "likable",
+    "pronunciation": "'la^ykebel",
+    "translates": {
+      "adjective": ["دوست داشتنی", "خوش برخورد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "like",
+    "pronunciation": "la^yk",
+    "translates": {
+      "adjective": ["شبیه", "همانند", "مثل هم", "همچون"],
+      "adverb": ["مثلِ", "مانندِ", "نظیرِ"],
+      "conjunction": ["مثلِ"],
+      "preposition": ["مثلِ"],
+      "transitive-verb": ["دوست داشتن", "خوش آمدن از", "خواستن", "پسندیدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "likely",
+    "pronunciation": "'la^ykli",
+    "translates": {
+      "adjective": ["محتمل", "مناسب", "مستعد", "احتمالی"],
+      "adverb": ["احتمالاً"]
+    },
+    "subWords": {
+      "most likely, very likely": ["به احتمال قوی"]
+    }
+  },
+  {
+    "word": "lily",
+    "pronunciation": "'lili",
+    "translates": {
+      "noun": ["(گل) سوسن", "زنبق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "limb",
+    "pronunciation": "lim",
+    "translates": {
+      "noun": ["دست", "پا", "بال", "اندام", "عضو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lime",
+    "pronunciation": "la^ym",
+    "translates": {
+      "noun": ["لیمو ترش", "آهک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lime-juice",
+    "pronunciation": "'la^ym joos",
+    "translates": {
+      "noun": ["آبلیمو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "limerick",
+    "pronunciation": "'limerik",
+    "translates": {
+      "noun": ["تصنیف پنج مصراعی", "مخمس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "limit",
+    "pronunciation": "'limit",
+    "translates": {
+      "noun": [
+        "حد",
+        "مرز",
+        "حدود",
+        "محدودیت",
+        "محدوده",
+        "نهایت",
+        "حداکثر مجاز"
+      ],
+      "transitive-verb": ["محدود کردن", "حدِ ( چیزی را ) تعیین کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "limitation",
+    "pronunciation": "limi'teyshen",
+    "translates": {
+      "noun": ["محدودیت", "قید", "قید و بند", "تحدید", "محدود سازی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "limp",
+    "pronunciation": "limp",
+    "translates": {
+      "adjective": ["شُل", "نرم", "آهسته رو"],
+      "intransitive-verb": ["لنگیدن", "شلیدن", "به زحمت راه رفتن"],
+      "noun": ["شَلی", "لَنگی"]
+    },
+    "subWords": {}
   }
 ]
