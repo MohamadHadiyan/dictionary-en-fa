@@ -1741,5 +1741,479 @@
       "noun": ["شَلی", "لَنگی"]
     },
     "subWords": {}
+  },
+  {
+    "word": "line",
+    "pronunciation": "la^yn",
+    "translates": {
+      "noun": [
+        "خط",
+        "خط تلفن",
+        "خط آهن",
+        "راه آهن",
+        "بند",
+        "طناب",
+        "سطر",
+        "صف",
+        "ردیف"
+      ],
+      "transitive-verb": [
+        "خط کشیدن",
+        "خط کشی کردن",
+        "چروک انداختن",
+        "آستر کردن"
+      ]
+    },
+    "subWords": {
+      "line up": ["صف بستن", "صف کشیدن", "به صف ایستادن"],
+      "drop somebody a line": ["برای کسی یادداشت گذاشتن"]
+    }
+  },
+  {
+    "word": "linen",
+    "pronunciation": "'linin",
+    "translates": {
+      "noun": ["کتان", "پارچه کتانی", "لباس زیر", "ملافه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "liner",
+    "pronunciation": "'la^yner",
+    "translates": {
+      "noun": ["کشتی مسافربری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "linger",
+    "pronunciation": "'linger",
+    "translates": {
+      "intransitive-verb": [
+        "معطل کردن",
+        "فس فس کردن",
+        "پرسه زدن",
+        "پلکیدن",
+        "معطل شدن",
+        "منتظر ماندن",
+        "دیر رفتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "linguistic",
+    "pronunciation": "lin'gwistik",
+    "translates": {
+      "adjective": ["زبانی", "زبان شناختی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lining",
+    "pronunciation": "'la^yning",
+    "translates": {
+      "noun": ["آستر", "تو دوزی", "آستر دوزی", "لنت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "link",
+    "pronunciation": "link",
+    "translates": {
+      "noun": ["حلقه زنجیر", "حلقه", "اتصال", "بند", "پیوند"],
+      "transitive-verb": ["(به هم) متصل کردن", "پیوند دادن"],
+      "intransitive-verb": ["به هم پیوستن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "links",
+    "pronunciation": "links",
+    "translates": {
+      "noun": ["زمین گلف", "تپه ساحلی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lino, linoleum",
+    "pronunciation": "'la^yno, li'noliyem",
+    "translates": {
+      "noun": ["لینولیوم", "لینولئوم (= نوعی کف پوش)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lion",
+    "pronunciation": "'la^yen",
+    "translates": {
+      "noun": ["شیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lioness",
+    "pronunciation": "'la^yenes",
+    "translates": {
+      "noun": ["ماده شیر", "شیر ماده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lip",
+    "pronunciation": "lip",
+    "translates": {
+      "noun": ["لب", "لبه"]
+    },
+    "subWords": {
+      "lip-service": ["چرب زبانی"]
+    }
+  },
+  {
+    "word": "lipstick",
+    "pronunciation": "'lipstik",
+    "translates": {
+      "noun": ["ماتیک", "رژ لب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "liquid",
+    "pronunciation": "'likwid",
+    "translates": {
+      "noun": ["مایع", "آبکی", "آبگونه", "شُل", "صاف", "روشن", "روان"],
+      "adjective": ["مایع", "روان", "سیال", "شُل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "liquor",
+    "pronunciation": "'liker",
+    "translates": {
+      "noun": ["مشروب الکلی (تقطیر شده)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "list",
+    "pronunciation": "list",
+    "translates": {
+      "noun": ["فهرست", "صورت", "سیاهه", "لیست", "ریز"],
+      "transitive-verb": [
+        "فهرست کردن",
+        "در فهرست وارد کردن",
+        "در فهرست نوشتن",
+        "فهرست تهیه کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "listen",
+    "pronunciation": "'lisen",
+    "translates": {
+      "intransitive-verb": ["گوش دادن", "گوش کردن", "توجه کردن"]
+    },
+    "subWords": {
+      "listen to": ["گوش دادن به", "اعتنا کردن به"]
+    }
+  },
+  {
+    "word": "listener",
+    "pronunciation": "'lisener",
+    "translates": {
+      "noun": ["شنونده", "گوش دهنده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lit",
+    "pronunciation": "lit",
+    "translates": {
+      "past-tens": ["گذشته فعل light (روشن کردن)"],
+      "past-participle": ["اسم مفعول فعل light"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "liter, litre",
+    "pronunciation": "'liiter, 'liiter",
+    "translates": {
+      "noun": ["لیتر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "literally",
+    "pronunciation": "'litra^li",
+    "translates": {
+      "adverb": [
+        "لفظ به لفظ",
+        "تحت اللفظی",
+        "حقیقاً",
+        "بی اغراق",
+        "عیناً",
+        "به معنای واقعی کلمه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "literature",
+    "pronunciation": "'litrecher",
+    "translates": {
+      "noun": ["ادبیات", "آثار ادبی", "آثار نوشته", "ادب و هنر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "litter",
+    "pronunciation": "'liter",
+    "translates": {
+      "noun": ["آشغال", "آت و آشغال", "کاه", "پوشال"],
+      "transitive-verb": ["پخش و پلا کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "little",
+    "pronunciation": "'litel",
+    "translates": {
+      "adjective": ["کوچک", "کوچولو", "کم", "اندک", "کوتاه", "کمی"],
+      "adverb": ["کم", "اندک"]
+    },
+    "subWords": {
+      "a little": ["یک کمی", "کمی"],
+      "for a little": ["یک کمی", "کمی"],
+      "little by little": ["کم کم", "رفته رفته"]
+    }
+  },
+  {
+    "word": "live",
+    "pronunciation": "la^yv",
+    "translates": {
+      "adjective": [
+        "زنده",
+        "مشتعل",
+        "پر حرارت",
+        "پر شور",
+        "سر زنده",
+        "جالب",
+        "داغ",
+        "[سیم] برق دار"
+      ],
+      "intransitive-verb": [
+        "زنده بودن",
+        "زنده ماندن",
+        "زندگی کردن",
+        "سکونت داشتن",
+        "دوام آوردن",
+        "باقی ماندن",
+        "[عمر] گذراندن",
+        "زیستن"
+      ]
+    },
+    "subWords": {
+      "live on": ["زندگی کردن", "به حیات خود ادامه دادن"],
+      "live on something": ["از چیزی تغذیه کردن", "با درآمد محدودی سر کردن"]
+    }
+  },
+  {
+    "word": "lively",
+    "pronunciation": "'la^yvli",
+    "translates": {
+      "adjective": ["زنده", "پر شور", "[رنگ] شاد", "شخص", "آدم"],
+      "adverb": ["از روی نشاط"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "liver",
+    "pronunciation": "'liver",
+    "translates": {
+      "noun": ["کبد", "جگر (سیاه)", "شخص", "آدم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "livestock",
+    "pronunciation": "'la^yvsta^k",
+    "translates": {
+      "noun": ["دام", "حیوانات اهلی", "احشام"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lives",
+    "pronunciation": "la^yvz",
+    "translates": {
+      "noun": ["صورت جمع life (زندگی)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "living",
+    "pronunciation": "'living",
+    "translates": {
+      "adjective": ["زنده", "محکم", "قوی", "تند", "شدید"],
+      "noun": ["زندگی", "معاش", "معیشت", "درآمد", "کار", "شغل"]
+    },
+    "subWords": {
+      "earn one's living, make a living": ["امرار معاش کردن"],
+      "standard of living": ["سطح زندگی"]
+    }
+  },
+  {
+    "word": "living-room",
+    "pronunciation": "'living rum",
+    "translates": {
+      "noun": ["اتاق نشیمن", "هال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lizard",
+    "pronunciation": "'lizerd",
+    "translates": {
+      "noun": ["مارمولک", "بزمجه", "سوسمار", "چرم سوسمار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "load",
+    "pronunciation": "lod",
+    "translates": {
+      "noun": ["بار", "ظرفیت", "زیاد", "یک عالمه"],
+      "transitive-verb": [
+        "بار کردن",
+        "بار زدن",
+        "بارگیری کردن",
+        "[تفنگ] پر کردن",
+        "سنگین کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loaf",
+    "pronunciation": "lof",
+    "translates": {
+      "noun": ["قرص نان", "گرده نان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loan",
+    "pronunciation": "lon",
+    "translates": {
+      "noun": ["قرض", "قرضه", "امانت", "وام"],
+      "transitive-verb": ["قرض دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loathe",
+    "pronunciation": "lodh",
+    "translates": {
+      "transitive-verb": ["متنفر بودن", "نفرت داشتن از"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loathsome",
+    "pronunciation": "'lodhsa^m",
+    "translates": {
+      "adjective": ["نفرت انگیز", "مشمئز کننده", "بد صفت", "نفرت آور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loaves",
+    "pronunciation": "lovz",
+    "translates": {
+      "noun": ["صورت جمع loaf (قرص نان)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lobby",
+    "pronunciation": "'la^bi",
+    "translates": {
+      "noun": ["تالار نشیمن", "سالن انتظار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lobster",
+    "pronunciation": "'la^bster",
+    "translates": {
+      "noun": ["خرچنگ (دراز)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "local",
+    "pronunciation": "'loka^l",
+    "translates": {
+      "adjective": ["محلی", "[پزشکی] موضعی"],
+      "noun": ["[به صورت جمع] اهالی محل", "محلی ها"]
+    },
+    "subWords": {
+      "local time": ["وقت محلی"]
+    }
+  },
+  {
+    "word": "locality",
+    "pronunciation": "lo'kaliti",
+    "translates": {
+      "noun": ["محل", "مکان", "جا", "محل وقوع", "محله"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "locally",
+    "pronunciation": "'loka^li",
+    "translates": {
+      "adverb": ["به طور موضعی", "موضعی", "در محل", "از محل", "به صورت محلی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "locate",
+    "pronunciation": "lo'keyt",
+    "translates": {
+      "transitive-verb": [
+        "محل ( چیزی را ) پیدا کردن",
+        "موقعیت ( جایی را ) تعیین کردن یا نشان دادن",
+        "قرار دادن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "location",
+    "pronunciation": "lo'keyshen",
+    "translates": {
+      "noun": ["موقعیت", "محل", "مکان", "محل فیلم برداری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loch",
+    "pronunciation": "la^k",
+    "translates": {
+      "noun": ["دریاچه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lock",
+    "pronunciation": "la^k",
+    "translates": {
+      "noun": ["قفل", "طره (مو)", "کاکل", "آب بند"],
+      "transitive-verb": ["قفل کردن"],
+      "intransitive-verb": ["قفل شدن"]
+    },
+    "subWords": {}
   }
 ]
