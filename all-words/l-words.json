@@ -2214,6 +2214,332 @@
       "transitive-verb": ["قفل کردن"],
       "intransitive-verb": ["قفل شدن"]
     },
+    "subWords": {
+      "be under lock and key": ["زندانی بودن", "در جای امنی نگهداری شدن"],
+      "lock in": ["زندانی کردن", "محبوس کردن"],
+      "lock somebody out": ["در را به روی کسی بستن"],
+      "lock somebody up": ["کسی را زندانی کردن"],
+      "lock something away": ["در جای امنی نگهداری کردن"],
+      "lock something up": ["در و پنجره جایی را بستن"]
+    }
+  },
+  {
+    "word": "locker",
+    "pronunciation": "'la^ker",
+    "translates": {
+      "noun": ["قفسه", "قفسه قفل دار", "لاکِر", "قفل کننده"]
+    },
     "subWords": {}
+  },
+  {
+    "word": "locomotive",
+    "pronunciation": "loko'motiv",
+    "translates": {
+      "adjective": ["حرکتی", "محرکه", "حرکت دهنده"],
+      "noun": ["لوکوموتیو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lodge",
+    "pronunciation": "la^j",
+    "translates": {
+      "noun": ["اتاق سرایدار"],
+      "intransitive-verb": [
+        "منزل کردن",
+        "ماندن",
+        "اجاره کردن",
+        "منزل دادن",
+        "جا دادن",
+        "گیر کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lodger",
+    "pronunciation": "'la^jer",
+    "translates": {
+      "noun": ["اجاره نشین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loft",
+    "pronunciation": "la^ft",
+    "translates": {
+      "noun": ["اطاق زیر شیروانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "log",
+    "pronunciation": "la^g",
+    "translates": {
+      "noun": ["کُنده (درخت)", "لگاریتم"],
+      "transitive-verb": ["ثبت کردن وقایع"]
+    },
+    "subWords": {
+      "log cabin": ["کلبه چوبی"]
+    }
+  },
+  {
+    "word": "login",
+    "pronunciation": "'la^g.in",
+    "translates": {
+      "noun": ["ورود به سیستم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "logic",
+    "pronunciation": "'la^jik",
+    "translates": {
+      "noun": ["منطق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "logical",
+    "pronunciation": "'la^jika^l",
+    "translates": {
+      "adjective": ["منطقی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loiter",
+    "pronunciation": "'loyter",
+    "translates": {
+      "intransitive-verb": [
+        "سلانه سلانه رفتن",
+        "بازیگوشی کردن",
+        "پرسه زدن",
+        "با تنبلی حرکت کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lollipop",
+    "pronunciation": "'la^lipa^p",
+    "translates": {
+      "noun": ["آب نبات چوبی", "بستی یخی", "آلاسکا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "London",
+    "pronunciation": "'la^nden",
+    "translates": {
+      "noun": ["لندن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Londoner",
+    "pronunciation": "'la^ndener",
+    "translates": {
+      "noun": ["اهل لندن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loneliness",
+    "pronunciation": "'lonlinis",
+    "translates": {
+      "noun": ["تنهایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lonely",
+    "pronunciation": "'lonli",
+    "translates": {
+      "adjective": ["تنها", "یکه و تنها", "تک و تنها", "دور افتاده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "long",
+    "pronunciation": "la^ng",
+    "translates": {
+      "adjective": ["دراز", "بلند", "طولانی", "به مدتِ", "طول", "طویل"],
+      "intransitive-verb": ["آرزو کردن"],
+      "adverb": ["گذشته از وقت"]
+    },
+    "subWords": {
+      "as long as, so long as": ["به شرط این که", "اگر", "مادامی که"],
+      "long after": ["مدت ها بعد از"],
+      "long before": ["مدت ها قبل از"],
+      "no longer, not any longer": ["دیگر", "دیگه", "حالا دیگه"],
+      "She doesn't live here any longer.": ["او دیگر اینجا زندگی نمی کند."],
+      "long for something": ["در آرزوی چیزی بودن"],
+      "long to": ["آرزو  کردن"]
+    }
+  },
+  {
+    "word": "loo",
+    "pronunciation": "loo",
+    "translates": {
+      "noun": ["مستراح"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "look",
+    "pronunciation": "luk",
+    "translates": {
+      "noun": [
+        "نگاه",
+        "حالت",
+        "نما",
+        "ظاهر",
+        "سر و وضع",
+        "قیافه",
+        "چهره",
+        "نظر"
+      ],
+      "intransitive-verb": [
+        "نگاه کردن",
+        "نگریستن",
+        "به نظر آمدن",
+        "توجه کردن",
+        "دیدن",
+        "مراقب بودن"
+      ]
+    },
+    "subWords": {
+      "have (or take) a look at": ["نگاهی انداختن به"],
+      "have a look round somewhere": ["جایی را گشتن", "بازدید کردن"],
+      "look after": ["مواظبت کردن از", "مراقبت کردن از"],
+      "look as if, look as though": ["مثل این که", "ظاهراً"],
+      "look at": ["نگاه کردن به", "معاینه کردن", "مطالعه کردن", "بررسی کردن"],
+      "look for": ["دنبال (چیزی یا کسی) گشتن", "منتظر (چیزی یا کسی) بودن"],
+      "look into something": ["چیزی را بررسی یا مطالعه کردن"],
+      "look like": ["مثل این که", "ظاهراً", "به نظر می رسد که"],
+      "look like somebody or something": ["شبیه به کسی یا چیزی بودن"],
+      "look on (or upon) somebody as": [
+        "به دیده یا به عنوانِ ... به کسی نگاه کردن"
+      ],
+      "Look out!": ["بپا! مواظب باش!"],
+      "look out for": ["مواظب (کسی یا چیزی) بودن"],
+      "look something up": ["معنی ( واژه ای را ) پیدا کردن"],
+      "I looked up the word in the dictionary.": [
+        "من معنی واژه را در فرهنگ لغت نگاه کردم / پیدا کردم"
+      ],
+      "look to somebody for something": [
+        "انتظار چیزی را از کسی داشتن",
+        "از کسی توقع داشتن"
+      ],
+      "look up": ["بالا نگاه کردن", "بهتر شدن"],
+      "look up to somebody": ["کسی را تحسی کردن", "برای کسی احترام قائل شدن"]
+    }
+  },
+  {
+    "word": "looking glass",
+    "pronunciation": "'luking gla^s",
+    "translates": {
+      "noun": ["آیینه", "آینه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lookout",
+    "pronunciation": "'lukaot",
+    "translates": {
+      "noun": [
+        "مراقبت",
+        "گوش به زنگ (بودن)",
+        "(برج) دیده بانی",
+        "نگهبان",
+        "دیده بان"
+      ]
+    },
+    "subWords": {
+      "be on the lookout for": [
+        "مواظب (کسی یا چیزی) بودن",
+        "مترصد یا گوش به زنگ بودن"
+      ]
+    }
+  },
+  {
+    "word": "looks",
+    "pronunciation": "luks",
+    "translates": {
+      "noun": ["قیافه (قشنگ)", "قشنگی", "زیبایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loom",
+    "pronunciation": "loom",
+    "translates": {
+      "noun": [
+        "ماشینِ پارچه بافی",
+        "دستگاه جولایی",
+        "نساجی",
+        "دستگاه بافندگی",
+        "کارگاه بافندگی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loop",
+    "pronunciation": "loop",
+    "translates": {
+      "noun": ["حلقه", "گره"],
+      "transitive-verb": ["حلقه کردن"],
+      "intransitive-verb": ["حلقه شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loose",
+    "pronunciation": "loos",
+    "translates": {
+      "adjective": ["آزاد", "رها", "گشاد", "گَل و گشاد", "شُل", "سُست", "لَق"],
+      "transitive-verb": ["شُل کردن", "آزاد کردن", "باز کردن"],
+      "intransitive-verb": ["شُل شدن", "سُست شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loosely",
+    "pronunciation": "'loosli",
+    "translates": {
+      "adverb": ["با بی دقتی", "با مسامحه", "شُل و ول", "گَل و گشاد", "آزادانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loosen",
+    "pronunciation": "'loosen",
+    "translates": {
+      "transitive-verb": ["شُل کردن", "نرم کردن", "سُست کردن"],
+      "intransitive-verb": ["شُل شدن", "نرم شدن", "سُست شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lord",
+    "pronunciation": "lord",
+    "translates": {
+      "noun": [
+        "فرمانروا",
+        "حاکم",
+        "ارباب",
+        "آقا",
+        "حضرت",
+        "اشراف زاده",
+        "لُرد (= لقبی است در بریتانیا)",
+        "خدا",
+        "عیسی مسیح"
+      ]
+    },
+    "subWords": {
+      "The House of Lords": ["[انگلستان] مجلس اعیان"]
+    }
   }
 ]
