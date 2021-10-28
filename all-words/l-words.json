@@ -2541,5 +2541,497 @@
     "subWords": {
       "The House of Lords": ["[انگلستان] مجلس اعیان"]
     }
+  },
+  {
+    "word": "lorry",
+    "pronunciation": "'la^ri",
+    "translates": {
+      "noun": ["کامیون", "(ماشین) باری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lose",
+    "pronunciation": "looz",
+    "translates": {
+      "transitive-verb": ["گم کردن", "از دست دادن", "باختن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loss",
+    "pronunciation": "la^s",
+    "translates": {
+      "noun": ["زیان", "ضرر", "خسارت", "لطمه", "باخت", "فقدان"]
+    },
+    "subWords": {
+      "be at a loss": ["گیج شدن", "هاج و واج ماندن", "ندانستن"],
+      "He was at a loss for words.": ["نمی دانست چه بگوید."],
+      "sell at a loss": ["به ضرر فروختن"]
+    }
+  },
+  {
+    "word": "lost",
+    "pronunciation": "la^st",
+    "translates": {
+      "adjective": ["گم شده", "از بین رفته", "باخته", "سرگشته", "از دست رفته"],
+      "past-tens": ["گذشته فعل lose (گم کردن)"],
+      "past-participle": ["اسم مفعول فعل lose"]
+    },
+    "subWords": {
+      "be lost": ["گم شدن"],
+      "Get lost!": ["[عامیانه] گم شو!"],
+      "lost property office": ["دفتر اشیاء گم شده"]
+    }
+  },
+  {
+    "word": "lot",
+    "pronunciation": "la^t",
+    "translates": {
+      "noun": [
+        "تمام",
+        "همه",
+        "همه چیزی",
+        "قرعه",
+        "قرعه کشی",
+        "سرنوشت",
+        "بخت",
+        "سهم",
+        "قسمت"
+      ],
+      "adverb": ["زیاد", "خیلی", "خیلی زیاد", "بسیار"]
+    },
+    "subWords": {
+      "a lot": ["خیلی"],
+      "a lot of, lots of": ["مقدار زیادی", "تعداد زیادی", "زیادی"],
+      "the lot, the whole lot": ["همه اش", "تمامش"],
+      "drow (or cast) lots": ["قرعه کشی کردن", "قرعه کشیدن"]
+    }
+  },
+  {
+    "word": "lotion",
+    "pronunciation": "'loshen",
+    "translates": {
+      "noun": ["محلول", "شویه", "لوسیون"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lottery",
+    "pronunciation": "'la^teri",
+    "translates": {
+      "noun": ["بخت آزمایی", "قرعه کشی", "لاطاری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loud",
+    "pronunciation": "laod",
+    "translates": {
+      "adjective": [
+        "[ صدا ] بلند",
+        "رسا",
+        "پر سر و صدا",
+        "واضح",
+        "آشکار",
+        "با صدای بلند"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loudly",
+    "pronunciation": "'laodli",
+    "translates": {
+      "adverb": ["بلند", "با صدای بلند", "محکم", "زننده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loudspeaker",
+    "pronunciation": "laod'spiiker",
+    "translates": {
+      "noun": ["بلندگو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lounge",
+    "pronunciation": "laonj",
+    "translates": {
+      "intransitive-verb": ["لم دادن", "لمیدن", "ول گشتن", "سالن ( استراحت )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "louse",
+    "pronunciation": "laos",
+    "translates": {
+      "noun": ["شپش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lousy",
+    "pronunciation": "'laozi",
+    "translates": {
+      "adjective": ["شپشو", "[عامیانه] بد", "مزخرف", "گند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lovable",
+    "pronunciation": "'la^vebel",
+    "translates": {
+      "adjective": ["دوست داشتنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "love",
+    "pronunciation": "la^v",
+    "translates": {
+      "noun": ["عشق", "محبت", "دلبستگی", "[مسابقه] هیچ", "صفر"],
+      "transitive-verb": ["دوست داشتن", "عاشق (کسی) بودن", "پرستیدن"]
+    },
+    "subWords": {
+      "be in love with": ["عاشق (کسی) بودن"],
+      "fall in love with": ["عاشق (کسی) شدن"]
+    }
+  },
+  {
+    "word": "lovely",
+    "pronunciation": "'la^vli",
+    "translates": {
+      "adjective": ["زیبا", "قشنگ", "جذاب", "خوشایند", "دوست داشتنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lover",
+    "pronunciation": "'la^ver",
+    "translates": {
+      "noun": ["فاسق", "عاشق", "معشوق", "دوستدار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "low",
+    "pronunciation": "lo",
+    "translates": {
+      "adjective": ["کوتاه", "پایین", "کم", "پست", "بَم", "آهسته", "اندک"],
+      "adverb": ["پایین"],
+      "noun": ["پایین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lower",
+    "pronunciation": "'lo-er",
+    "translates": {
+      "adjective": [
+        "زیرین",
+        "پایین",
+        "پایین تر",
+        "پایینی",
+        "کم",
+        "کم تر",
+        "پست تر"
+      ],
+      "transitive-verb": ["پایین آوردن", "فرود آوردن", "کم کردن", "خوار کردن"],
+      "intransitive-verb": ["پایین آمدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loyal",
+    "pronunciation": "'loya^l",
+    "translates": {
+      "adjective": ["وفادار", "باوفا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loyally",
+    "pronunciation": "'loya^li",
+    "translates": {
+      "adverb": ["وفادارانه", "با وفاداری", "صادقانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "loyalty",
+    "pronunciation": "'loya^lti",
+    "translates": {
+      "noun": ["وفاداری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lozenge",
+    "pronunciation": "'la^zinj",
+    "translates": {
+      "noun": ["لوزی", "قرص مکیدنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "LP",
+    "pronunciation": "el 'pii",
+    "translates": {
+      "noun": ["صفحه 33 دور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lubricant",
+    "pronunciation": "'loobrikent",
+    "translates": {
+      "noun": ["روغن", "چرب کننده"],
+      "adjective": ["چرب کننده", "روان کننده", "روان ساز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lubricate",
+    "pronunciation": "'loobrikeyt",
+    "translates": {
+      "transitive-verb": [
+        "روغن زدن",
+        "نرم کردن",
+        "روان کردن",
+        "چرب کردن",
+        "لیز کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "luck",
+    "pronunciation": "la^k",
+    "translates": {
+      "noun": ["شانس", "موفقیت", "بخت", "اقبال"]
+    },
+    "subWords": {
+      "be in luck": ["شانس آوردن"],
+      "be out of luck": ["بدشانسی آوردن"],
+      "hard luck": ["بدشانسی", "بدبیاری"],
+      "Good luck!": ["موفق باشی!"]
+    }
+  },
+  {
+    "word": "luckily",
+    "pronunciation": "'la^kili",
+    "translates": {
+      "adverb": ["خوشبختانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lucky",
+    "pronunciation": "'la^ki",
+    "translates": {
+      "adjective": [
+        "خوشبخت",
+        "خوش شانس",
+        "موفق",
+        "موفقیت آمیز",
+        "شانسی",
+        "ناشی از خوش شانسی",
+        "خوش اقبال"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ludicrous",
+    "pronunciation": "'loodikres",
+    "translates": {
+      "adjective": ["مضحک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "luggage",
+    "pronunciation": "'la^gij",
+    "translates": {
+      "noun": ["چمدان", "بار و بنه", "توشه", "بار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lukewarm",
+    "pronunciation": "look'worm",
+    "translates": {
+      "adjective": ["ولرم", "میانه حال", "بی اشتیاق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lull",
+    "pronunciation": "la^l",
+    "translates": {
+      "noun": ["آرامش", "وقفه", "سکون", "آرامی"],
+      "transitive-verb": ["ساکت شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lullaby",
+    "pronunciation": "'la^leba^y",
+    "translates": {
+      "noun": ["لالایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lumbago",
+    "pronunciation": "la^m'beygo",
+    "translates": {
+      "noun": ["کمردرد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lumber",
+    "pronunciation": "'la^mber",
+    "translates": {
+      "noun": ["الوار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lump",
+    "pronunciation": "la^mp",
+    "translates": {
+      "noun": ["تکه", "قلنبه", "حبه (قند)", "ورم", "برآمدگی", "توده", "غده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lumpy",
+    "pronunciation": "'la^mpi",
+    "translates": {
+      "adjective": ["قلنبه قلنبه", "ناصاف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lunar",
+    "pronunciation": "'looner",
+    "translates": {
+      "adjective": ["قَمَری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lunatic",
+    "pronunciation": "'loonetik",
+    "translates": {
+      "noun": ["بیمار روانی", "دیوانه", "آدم احمق", "مجنون"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lunch",
+    "pronunciation": "la^nck",
+    "translates": {
+      "noun": ["نهار"],
+      "intransitive-verb": ["نهار خوردن"],
+      "transitive-verb": ["نهار دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lurch",
+    "pronunciation": "lerch",
+    "translates": {
+      "noun": ["پیچ", "چرخش", "گردش"],
+      "intransitive-verb": ["تلو تلو خوردن", "چرخش ناگهانی کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lurk",
+    "pronunciation": "lerk",
+    "translates": {
+      "intransitive-verb": ["کمین کردن"],
+      "transitive-verb": ["در خفا انجام دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "luscious",
+    "pronunciation": "'la^shes",
+    "translates": {
+      "adjective": [
+        "لذیذ",
+        "خوشمزه",
+        "زیبا",
+        "خوشگل",
+        "جذاب",
+        "دلپذیر",
+        "شهوت انگیز"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lusty",
+    "pronunciation": "'la^sti",
+    "translates": {
+      "adjective": ["محکم", "قوی", "شهوت انگیز", "خوش بنیه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "luxurious",
+    "pronunciation": "la^g'zyuriyes",
+    "translates": {
+      "adjective": [
+        "مجلل",
+        "لوکس",
+        "شیک",
+        "گران قیمت",
+        "پر هزینه",
+        "تجملی",
+        "تجملاتی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "luxury",
+    "pronunciation": "'la^ksheri",
+    "translates": {
+      "noun": ["تجمل", "تفنن"],
+      "adjective": ["مجلل", "تجملی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lying",
+    "pronunciation": "'la^ying",
+    "translates": {
+      "adjective": ["کاذب", "غیر واقعی", "نادرست", "نیرنگ باز"],
+      "noun": ["دروغ گویی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lynch",
+    "pronunciation": "linch",
+    "translates": {
+      "transitive-verb": ["لینچ کردن", "زجرکش کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "lyric",
+    "pronunciation": "'lirik",
+    "translates": {
+      "adjective": ["غنائی", "تغزلی", "شاد", "غزل"]
+    },
+    "subWords": {}
   }
 ]
