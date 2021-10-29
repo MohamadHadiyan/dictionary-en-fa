@@ -1,0 +1,388 @@
+[
+  {
+    "word": "M, m",
+    "pronunciation": "em",
+    "translates": {
+      "noun": ["اِم (= سیزدهمین حرف الفبای انگلیسی)", "[عدد نویسی رومی] هزار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mac",
+    "pronunciation": "mak",
+    "translates": {
+      "noun": ["بارانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "macaroni",
+    "pronunciation": "maka'roni",
+    "translates": {
+      "noun": ["ماکارونی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "machine",
+    "pronunciation": "me'shiin",
+    "translates": {
+      "noun": ["ماشین", "دستگاه"],
+      "adjective": ["ماشینی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "machine-gun",
+    "pronunciation": "me'shiin ga^n",
+    "translates": {
+      "noun": ["مسلسل", "تیربار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "machine-made",
+    "pronunciation": "meshiin 'meyd",
+    "translates": {
+      "adjective": ["ماشینی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "machinery",
+    "pronunciation": "me'shiineri",
+    "translates": {
+      "noun": ["ماشین آلات", "دستگاه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mackintosh",
+    "pronunciation": "'makinta^sh",
+    "translates": {
+      "noun": ["بارانی", "پالتوی بارانی", "پارچه بارانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mad",
+    "pronunciation": "mad",
+    "translates": {
+      "adjective": ["دیوانه", "احمق", "کشته و مرده", "عصبانی", "از جا در رفته"]
+    },
+    "subWords": {
+      "be mad about somebody": ["کشته و مرده کسی بودن"],
+      "be mad about something": ["خوره چیزی بودن"],
+      "drive somebody mad": [
+        "کسی را به شدت عصبانی کردن",
+        "اعصاب کسی را خرد کردن"
+      ],
+      "go mad": ["دیوانه شدن", "از کوره در رفتن"],
+      "like mad": ["مثل دیوانه ها"]
+    }
+  },
+  {
+    "word": "madam",
+    "pronunciation": "'madem",
+    "translates": {
+      "noun": ["خانم", "سرکارِ خانم", "زن رئیس مآب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "madden",
+    "pronunciation": "'maden",
+    "translates": {
+      "transitive-verb": ["دیوانه کردن", "عصبانی کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "maddening",
+    "pronunciation": "'madening",
+    "translates": {
+      "adjective": ["دیوانه کننده", "زجرآور", "اعصاب خرد کن", "کفری کننده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "made",
+    "pronunciation": "meyd",
+    "translates": {
+      "adjective": ["ساخته", "ساخته شده", "ساختِ", "تشکیل شده"],
+      "past-tens": ["گذشته فعل make (ساختن)"],
+      "past-participle": ["اسم مفعول فعل make"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "madman",
+    "pronunciation": "'madman",
+    "translates": {
+      "noun": ["( آدم ) دیوانه", "مرد دیوانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "madness",
+    "pronunciation": "'madnis",
+    "translates": {
+      "noun": ["دیوانگی", "جنون", "غیظ", "غضب", "هیجان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "magazine",
+    "pronunciation": "maga'ziin",
+    "translates": {
+      "noun": ["مجله"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "maggot",
+    "pronunciation": "'maget",
+    "translates": {
+      "noun": ["کرمِ حشره", "لارو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "magic",
+    "pronunciation": "'majik",
+    "translates": {
+      "adjective": ["سحرآمیز", "جادویی"],
+      "noun": ["سحر", "جادو", "تردستی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "magical",
+    "pronunciation": "'majika^l",
+    "translates": {
+      "adjective": ["سحرآمیز", "جادویی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "magician",
+    "pronunciation": "ma'jishen",
+    "translates": {
+      "noun": ["ساحر", "جادوگر", "شعبده باز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "magistrate",
+    "pronunciation": "'majistreyt",
+    "translates": {
+      "noun": ["قاضی دادگاه بخش", "دادرس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "magnet",
+    "pronunciation": "'magnit",
+    "translates": {
+      "noun": ["آهن ربا", "مغناطیس", "چهره جذاب", "جای دیدنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "magnetic",
+    "pronunciation": "mag'netik",
+    "translates": {
+      "adjective": ["مغناطیسی", "آهن ربایی", "جذاب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "magnetism",
+    "pronunciation": "'magnitizem",
+    "translates": {
+      "noun": ["خاصیت آهن ربایی", "خاصیت مغناطیسی", "جذابیت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "magnificent",
+    "pronunciation": "mag'nifisent",
+    "translates": {
+      "adjective": ["عالی", "شکوهمند", "باشکوه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "magnify",
+    "pronunciation": "'magnifa^y",
+    "translates": {
+      "transitive-verb": ["بزرگ کردن", "مبالغه کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "maid",
+    "pronunciation": "meyd",
+    "translates": {
+      "noun": ["خدمتکار", "کلفت", "دوشیزه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mail",
+    "pronunciation": "meyl",
+    "translates": {
+      "noun": ["پست", "محموله پستی"],
+      "transitive-verb": ["پست کردن"],
+      "adjective": ["پستی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mailbox",
+    "pronunciation": "'meylba^ks",
+    "translates": {
+      "noun": ["صندوق پست", "جعبه نامه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mailman",
+    "pronunciation": "'meylman",
+    "translates": {
+      "noun": ["پستچی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "main",
+    "pronunciation": "meyn",
+    "translates": {
+      "adjective": ["عمده", "اصلی", "مهمترین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mainly",
+    "pronunciation": "'meynli",
+    "translates": {
+      "adverb": ["عمدتاً", "به طور عمده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "maintain",
+    "pronunciation": "meyn'teyn",
+    "translates": {
+      "transitive-verb": [
+        "حفظ کردن",
+        "ادامه دادن",
+        "نگهداری کردن",
+        "اداره کردن",
+        "خرجی دادن",
+        "دفاع کردن از",
+        "برقرار داشتن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "maintenance",
+    "pronunciation": "'meyntenens",
+    "translates": {
+      "noun": ["نگهداری", "حفظ", "حفاظت", "خرجی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "maize",
+    "pronunciation": "meyz",
+    "translates": {
+      "noun": ["ذرت", "بلال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "majesty",
+    "pronunciation": "'majesti",
+    "translates": {
+      "noun": ["عظمت", "اقتدار", "شکوه", "سلطنت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "major",
+    "pronunciation": "'meyjer",
+    "translates": {
+      "adjective": ["بزرگ", "ارشد", "اصلی", "عمده", "بالغ", "کبیر"],
+      "noun": ["سرگرد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "majority",
+    "pronunciation": "ma'ja^riti",
+    "translates": {
+      "noun": ["اکثریت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "make",
+    "pronunciation": "meyk",
+    "translates": {
+      "transitive-verb": [
+        "ساختن",
+        "کردن",
+        "باعث شدن",
+        "مجبور کردن",
+        "واداشتن",
+        "به دست آوردن",
+        "شدن",
+        "رسیدن به",
+        "منصوب کردن",
+        "خواستن",
+        "رفتن"
+      ],
+      "noun": ["نوع", "جور", "[ اتومبیل و غیره ] مدل", "ساخت"]
+    },
+    "subWords": {
+      "be made of something": ["از جنس چیزی بودن"],
+      "This shirt is made of cotton.": ["این پیراهن نخی است"],
+      "make do with something": [
+        "با چیزی ساختن",
+        "با چیزی سر کردن",
+        "از چیزی به جای چیز دیگر استفاده کردن"
+      ],
+      "make for": ["یک راست به سراغ (کسی یا چیزی) رفتن"],
+      "make off": ["فرار کردن", "به چاک زدن"],
+      "make off with somebody": ["به کسی فرار کردن"],
+      "make off with something": ["دزدیدن", "چیز را برداشتن و فرار کردن"],
+      "make out": ["فهمیدن", "سر درآوردن", "تشخیص دادن", "خواندن"],
+      "make up": [
+        "از خود درآوردن",
+        "سرهم کردن",
+        "آشتی کردن",
+        "آرایش کردن",
+        "جبران کردن",
+        "تشکیل دادن"
+      ]
+    }
+  },
+  {
+    "word": "maker",
+    "pronunciation": "'meyker",
+    "translates": {
+      "noun": ["سازنده", "[به صوردت جمع] کارخانه سازنده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "makeshift",
+    "pronunciation": "'meykshift",
+    "translates": {
+      "adjective": ["موقتی", "سردستی"]
+    },
+    "subWords": {}
+  }
+]
