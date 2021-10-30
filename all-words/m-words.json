@@ -384,5 +384,520 @@
       "adjective": ["موقتی", "سردستی"]
     },
     "subWords": {}
+  },
+  {
+    "word": "make-up, makeup",
+    "pronunciation": "'meyk.a^p",
+    "translates": {
+      "noun": ["ساخت", "گریم", "آرایش", "لوازم آرایش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "male",
+    "pronunciation": "meyl",
+    "translates": {
+      "adjective": ["نر", "نرینه", "مردانه", "[مربوط به] مرد یا مردان", "مذکر"],
+      "noun": ["حیوان نر", "مرد", "پسر", "جنس نر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "malice",
+    "pronunciation": "'malis",
+    "translates": {
+      "noun": ["سوءِ نیت", "کینه توزی", "بدجنسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "malicious",
+    "pronunciation": "ma'lishes",
+    "translates": {
+      "adjective": ["مغرضانه", "ناشی از سوء نیت", "مغرض", "خبیث", "بدذات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "malnutrition",
+    "pronunciation": "malnyoo'trishen",
+    "translates": {
+      "noun": ["بدی تغذیه", "سوءِ تغذیه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "malt",
+    "pronunciation": "molt",
+    "translates": {
+      "noun": ["مالت", "جوانه خشک شده جو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "man",
+    "pronunciation": "man",
+    "translates": {
+      "noun": ["مرد", "انسان", "بشر", "فرد", "شخص", "[شطرنج] سرباز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "manage",
+    "pronunciation": "'manij",
+    "translates": {
+      "transitive-verb": [
+        "اداره کردن",
+        "گرداندن",
+        "کنترل کردن",
+        "از عهده برآمدن",
+        "موفق شدن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "management",
+    "pronunciation": "'manijment",
+    "translates": {
+      "noun": ["مدیریت", "اداره", "تدبیر", "کارفرما", "کارفرمایان", "مدیران"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "manager",
+    "pronunciation": "'manijer",
+    "translates": {
+      "noun": ["مدیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "manageress",
+    "pronunciation": "'manije'res",
+    "translates": {
+      "noun": ["مدیره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mane",
+    "pronunciation": "meyn",
+    "translates": {
+      "noun": ["یال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "maniac",
+    "pronunciation": "'meyniyak",
+    "translates": {
+      "noun": ["[روانشناسی] شیدا", "مانیایی"],
+      "adjective": ["دیوانه وار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mankind",
+    "pronunciation": "man'ka^ynd",
+    "translates": {
+      "noun": ["(نوع) بشر", "بشریت", "مرد", "مردان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "manly",
+    "pronunciation": "'manli",
+    "translates": {
+      "adjective": ["مردانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "man-made",
+    "pronunciation": "man 'meyd",
+    "translates": {
+      "adjective": ["مصنوعی", "صناعی", "ساخت بشر", "ساخته دست بشر", "انسانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mannequin",
+    "pronunciation": "'manikin",
+    "translates": {
+      "noun": ["مانکن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "manner",
+    "pronunciation": "'maner",
+    "translates": {
+      "noun": [
+        "طرز",
+        "طریق",
+        "رفتار",
+        "لحن",
+        "[به صورت جمع] ادب",
+        "نزاکت",
+        "[ ادبیات و هنر ] سبک"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "manoeuvre, maneuver",
+    "pronunciation": "man'noover",
+    "translates": {
+      "noun": ["حرکت", "حرکت ماهرانه", "مانور"],
+      "transitive-verb": ["مانور دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mansion",
+    "pronunciation": "'manshen",
+    "translates": {
+      "noun": ["خانه مجلل", "خانه اعیانی", "عمارت", "عمارت بزرگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mantelpiece",
+    "pronunciation": "'mantelpiis",
+    "translates": {
+      "noun": [
+        "پیش بخاری",
+        "سَر بخاری",
+        "گچ بری دور بخاری",
+        "نمای بخاری",
+        "شومینه"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "manual",
+    "pronunciation": "'manyuwa^l",
+    "translates": {
+      "adjective": ["دستی", "یدی"],
+      "noun": ["کتاب مبانی", "کتاب راهنما"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "manufacture",
+    "pronunciation": "manyu'fakcher",
+    "translates": {
+      "transitive-verb": ["تولید کردن", "ساختن", "از خود در آوردن", "بافتن"],
+      "noun": ["تولید", "فراورده", "تولیدات", "ساخت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "manufacturer",
+    "pronunciation": "manyu'fakcherer",
+    "translates": {
+      "noun": ["سازنده", "تولید کننده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "manuscript",
+    "pronunciation": "'manyuskript",
+    "translates": {
+      "noun": ["دست نویس", "نسخه خطی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "many",
+    "pronunciation": "'meni",
+    "translates": {
+      "adjective": ["زیاد", "بسیار", "خیلی", "متعدد"],
+      "noun": ["بسیاری"],
+      "adverb": ["بسیار", "خیلی"]
+    },
+    "subWords": {
+      "a good (of great) many": ["بسیاری از", "عده زیادی از"],
+      "as many as": ["هر چند تا که", "به همان تعداد که"],
+      "many a": ["بسیار", "بسیاری", "زیاد", "متعدد"],
+      "I've heard him say that many a time.": [
+        "از او شنیده ام که بارها این را گفته است."
+      ]
+    }
+  },
+  {
+    "word": "map",
+    "pronunciation": "map",
+    "translates": {
+      "noun": ["نقشه"],
+      "transitive-verb": ["نقشه ( جایی را ) کشیدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mapping",
+    "pronunciation": "'maping",
+    "translates": {
+      "noun": ["نقشه برداری", "نگاشت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "maple",
+    "pronunciation": "'meypel",
+    "translates": {
+      "noun": ["درخت افرا", "چوب افرا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "marathon",
+    "pronunciation": "'marethen",
+    "translates": {
+      "noun": ["مسابقه دوی ماراتون"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "marble",
+    "pronunciation": "'marbel",
+    "translates": {
+      "noun": ["سنگ مرمر", "تیله"],
+      "adjective": ["صاف", "مرمری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "march",
+    "pronunciation": "ma^rch",
+    "translates": {
+      "noun": ["قدم رو", "پیاده روی", "راهپیمایی", "[موسقی] مارش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "March",
+    "pronunciation": "ma^rch",
+    "translates": {
+      "noun": ["مارس (= ماه سوم سال فرنگی)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mare",
+    "pronunciation": "mer",
+    "translates": {
+      "noun": ["مادیان (= اسب ماده)", "تاریکی", "کابوس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "margarine",
+    "pronunciation": "ma^rje'riin",
+    "translates": {
+      "noun": ["کره نباتی", "کره گیاهی", "مارگارین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "margin",
+    "pronunciation": "'ma^rjin",
+    "translates": {
+      "noun": ["حاشیه", "لبه", "کناره", "مرز", "حد", "اختلاف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "marijuana",
+    "pronunciation": "mari'wa^na^",
+    "translates": {
+      "noun": ["ماری جوآنا", "علف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mark",
+    "pronunciation": "ma^rk",
+    "translates": {
+      "noun": ["نشان", "علامت", "مارک", "لکه", "خراش", "خط", "[ امتحان ] نمره"],
+      "transitive-verb": [
+        "علامت زدن",
+        "علامت گذاشتن",
+        "خط انداختن",
+        "اثر گذاشتن",
+        "نمره دادن",
+        "لک شدن",
+        "توجه کردن",
+        "نشان کردن"
+      ]
+    },
+    "subWords": {
+      "get a good mark": ["نمره خوبی گرفتن"]
+    }
+  },
+  {
+    "word": "marker",
+    "pronunciation": "'ma^rker",
+    "translates": {
+      "noun": ["علامت", "نشان", "نشانگر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "market",
+    "pronunciation": "'ma^rkit",
+    "translates": {
+      "noun": ["بازار", "خرید و فروش", "تقاضا"],
+      "transitive-verb": ["خرید کردن", "خرید و فروش کردن", "به بازار عرضه کردن"]
+    },
+    "subWords": {
+      "be on the market": ["در بازار بودن", "در معرض فروش بودن"]
+    }
+  },
+  {
+    "word": "marmalade",
+    "pronunciation": "'ma^rma^leyd",
+    "translates": {
+      "noun": ["مربای پرتقال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "marriage",
+    "pronunciation": "'marij",
+    "translates": {
+      "noun": ["ازدواج"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "marrow",
+    "pronunciation": "'maro",
+    "translates": {
+      "noun": ["کدوی مسمایی", "مغز استخوان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "marry",
+    "pronunciation": "'mari",
+    "translates": {
+      "intransitive-verb": ["ازدواج کردن", "با هم ازدواج کردن"],
+      "transitive-verb": ["با (کسی) ازدواج کردن"]
+    },
+    "subWords": {
+      "be married to somebody": ["همسر کسی بودن", "زن یا شوهر کسی بودن"],
+      "get married": ["ازدواج کردن"]
+    }
+  },
+  {
+    "word": "Mars",
+    "pronunciation": "ma^rz",
+    "translates": {
+      "noun": ["مریخ", "بهرام", "مارس (= خدای جنگ در اساطیر رومی)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "marsh",
+    "pronunciation": "ma^rsh",
+    "translates": {
+      "noun": ["باتلاق", "مرداب", "لجن زار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Martian",
+    "pronunciation": "'ma^rshen",
+    "translates": {
+      "noun": ["موجود مریخی", "مریخی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "martyr",
+    "pronunciation": "'ma^rtir",
+    "translates": {
+      "noun": ["شهید"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "marvel",
+    "pronunciation": "'ma^rvel",
+    "translates": {
+      "noun": ["اعجاز", "شگفتی", "تعجب"],
+      "intransitive-verb": ["تعجب کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "marvellous, marvelous",
+    "pronunciation": "'ma^rvles",
+    "translates": {
+      "adjective": ["شگفت آور", "حیرت انگیز", "عالی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "masculine",
+    "pronunciation": "'maskyulin",
+    "translates": {
+      "adjective": ["مردانه", "[دستور زبان] مذکر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mash",
+    "pronunciation": "mash",
+    "translates": {
+      "transitive-verb": ["[مواد غذایی] کوبیدن", "پوره کردن", "له کردن"],
+      "noun": ["پوره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mask",
+    "pronunciation": "ma^sk",
+    "translates": {
+      "noun": ["ماسک", "نقاب"],
+      "transitive-verb": ["نقاب زدن", "ماسک زدن", "پنهان کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mason",
+    "pronunciation": "'meysen",
+    "translates": {
+      "noun": ["بنا", "فراماسون", "بنای سنگ کار", "خانه ساز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mass",
+    "pronunciation": "mas",
+    "translates": {
+      "noun": [
+        "توده",
+        "کُپه",
+        "جرم",
+        "انبوه",
+        "عده زیادی",
+        "بیشتر",
+        "اکثر",
+        "اغلب"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Mass",
+    "pronunciation": "mas",
+    "translates": {
+      "noun": ["آیین عشاءِ ربانی"]
+    },
+    "subWords": {}
   }
 ]
