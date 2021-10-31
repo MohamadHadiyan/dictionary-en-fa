@@ -899,5 +899,401 @@
       "noun": ["آیین عشاءِ ربانی"]
     },
     "subWords": {}
+  },
+  {
+    "word": "massacre",
+    "pronunciation": "'masaker",
+    "translates": {
+      "noun": ["قتل عام", "کشتار"],
+      "transitive-verb": ["قتل عام کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "massage",
+    "pronunciation": "'masa^zh",
+    "translates": {
+      "noun": ["مشت و مال", "ماساژ"],
+      "transitive-verb": ["ماساژ دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "massive",
+    "pronunciation": "'masiv",
+    "translates": {
+      "adjective": ["بزرگ", "عظیم", "سنگین", "حجیم", "کلان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mast",
+    "pronunciation": "ma^st",
+    "translates": {
+      "noun": ["دکل", "تیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "master",
+    "pronunciation": "'ma^ster",
+    "translates": {
+      "noun": [
+        "آقا",
+        "سرور",
+        "ارباب",
+        "بزرگ",
+        "[سگ و غیره] صاحب",
+        "رئیس",
+        "استادکار",
+        "استاد",
+        "( آقا ) معلم",
+        "چیره دست"
+      ],
+      "transitive-verb": ["مهار کردن", "تسلط پیدا کردن در", "یاد گرفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "masterpiece",
+    "pronunciation": "'ma^sterpiis",
+    "translates": {
+      "noun": ["شاهکار", "کار استادانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mat",
+    "pronunciation": "mat",
+    "translates": {
+      "noun": ["حصیر", "فرش", "زیرانداز", "پادری", "زیر بشقابی", "بوریا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "matador",
+    "pronunciation": "'matedor",
+    "translates": {
+      "noun": ["گاوباز", "ماتادور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "match",
+    "pronunciation": "mach",
+    "translates": {
+      "noun": [
+        "کبریت",
+        "مسابقه",
+        "هماورد",
+        "حریف",
+        "همانند",
+        "نظیر",
+        "تطابق",
+        "تطبیق"
+      ],
+      "transitive-verb": [
+        "مسابقه دادن",
+        "به مسابقه واداشتن",
+        "برابری کردن",
+        "جور بودن",
+        "به هم آمدن"
+      ]
+    },
+    "subWords": {
+      "be a good match": ["خوب به هم آمدن", "با هم جور بودن"],
+      "meet one's match": ["[ورزش] با حریف خود روبرو شدن"]
+    }
+  },
+  {
+    "word": "mate",
+    "pronunciation": "meyt",
+    "translates": {
+      "noun": [
+        "دستیار",
+        "جفت",
+        "همسر",
+        "رفیق",
+        "همدم",
+        "[در ترکیب] هم_",
+        "[شطرنج] مات"
+      ],
+      "transitive-verb": ["[شطرنج] مات کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "material",
+    "pronunciation": "ma'tiriya^l",
+    "translates": {
+      "adjective": ["مادی", "جسمانی", "مهم", "اساسی", "عمده"],
+      "noun": ["ماده", "جنس", "پارچه", "اطلاعات"]
+    },
+    "subWords": {
+      "writing materials": ["نوشت افزار"]
+    }
+  },
+  {
+    "word": "materialize",
+    "pronunciation": "ma'tiriya^la^yz",
+    "translates": {
+      "transitive-verb": ["تحقق یافتن", "جامه عمل پوشاندن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "maternal",
+    "pronunciation": "ma'terna^l",
+    "translates": {
+      "adjective": ["مادری", "مادرانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "maternity",
+    "pronunciation": "ma'terniti",
+    "translates": {
+      "noun": ["مادری", "حاملگی", "آبستنی", "زایمان", "زایشگاه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mathematical",
+    "pronunciation": "mathi'matika^l",
+    "translates": {
+      "adjective": ["ریاضی", "بسیار دقیق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mathematician",
+    "pronunciation": "mathima'tishen",
+    "translates": {
+      "noun": ["ریاضی دان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mathematics",
+    "pronunciation": "mathi'matiks",
+    "translates": {
+      "noun": ["ریاضیات", "علوم ریاضی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "maths, math",
+    "pronunciation": "maths, math",
+    "translates": {
+      "noun": ["ریاضی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "matinee",
+    "pronunciation": "'matiney",
+    "translates": {
+      "noun": ["سئانس یا نمایش بعدازظهر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "matron",
+    "pronunciation": "'meytren",
+    "translates": {
+      "noun": [
+        "مدیره (بیمارستان)",
+        "سرپرستار",
+        "خانم ناظم",
+        "زن خانه دار",
+        "زن شوهر دار"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "matter",
+    "pronunciation": "'mater",
+    "translates": {
+      "noun": ["ماده", "موضوع", "مسئله", "مطلب", "اهمیت", "امر"],
+      "intransitive-verb": ["اهمیت داشتن", "مهم بودن"]
+    },
+    "subWords": {
+      "as a matter of fact": ["در واقع", "راستش را بخواهی"],
+      "for that matter": ["همین طور هم", "هم همین طور", "هم"],
+      "no matter": ["مهم نیست", "قطع نظر از این که", "بدون توجه به این که"],
+      "what's the matter?": ["چی شده؟"],
+      "what's the matter with you?": ["چِته؟"]
+    }
+  },
+  {
+    "word": "mattress",
+    "pronunciation": "'matris",
+    "translates": {
+      "noun": ["تشک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mature",
+    "pronunciation": "ma'chu-er",
+    "translates": {
+      "intransitive-verb": ["بالغ شدن", "رسیدن"],
+      "adjective": ["بالغ", "عاقل", "رسیده", "پخته", "جاافتاده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mauve",
+    "pronunciation": "mov",
+    "translates": {
+      "adjective": ["(رنگ) ارغوانی روشن"],
+      "noun": ["(رنگ) ارغوانی روشن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "maximum",
+    "pronunciation": "'maksimem",
+    "translates": {
+      "noun": ["حداکثر", "منتها درجه", "بیشترین حد", "بیشینه"],
+      "adjective": ["بیشترین", "بالاترین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "may",
+    "pronunciation": "mey",
+    "translates": {
+      "auxiliary-verb": ["ممکن است", "شاید", "آرزو می کنم که", "امید است که"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "May",
+    "pronunciation": "mey",
+    "translates": {
+      "noun": ["مه (= ماه پنجم سال فرنگی)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "maybe",
+    "pronunciation": "'meybi",
+    "translates": {
+      "adverb": ["شاید", "ممکن است"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mayor",
+    "pronunciation": "'meyer",
+    "translates": {
+      "noun": ["شهردار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mayoress",
+    "pronunciation": "'meyeris",
+    "translates": {
+      "noun": ["شهردار زن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "maze",
+    "pronunciation": "meyz",
+    "translates": {
+      "noun": ["مارپیچ", "ماز", "پیچ و خم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "me",
+    "pronunciation": "mii",
+    "translates": {
+      "pronoun": [
+        "[ضمیر مفعولی",
+        "اول شخص مفرد] مرا",
+        "به من",
+        "من (جانشین حالت فاعلی)"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "meadow",
+    "pronunciation": "'medo",
+    "translates": {
+      "noun": ["مرتع", "علف زار", "چمن زار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "meal",
+    "pronunciation": "miil",
+    "translates": {
+      "noun": ["غذا", "وعده غذا", "بلغور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mean",
+    "pronunciation": "miin",
+    "translates": {
+      "noun": ["خسیس", "تنگ نظر", "خبیث", "بدجنس", "شرور"],
+      "adjective": ["میانگین", "معدل", "حد وسط", "متوسط"],
+      "transitive-verb": [
+        "معنی دادن",
+        "معنی داشتن",
+        "یعنی",
+        "به معنی (چیزی) بودن",
+        "خواستن",
+        "قصد داشتن"
+      ]
+    },
+    "subWords": {
+      "be mean to": ["قرار بودن", "بنا بودن", "باید"],
+      "mean something to somebody": ["چیزی برای کسی مهم بودن یا اهمیت داشتن"]
+    }
+  },
+  {
+    "word": "meaning",
+    "pronunciation": "'miining",
+    "translates": {
+      "noun": ["معنی", "منظور", "قصد", "نیت", "مفهوم"],
+      "adjective": ["معنی دار", "با معنی"]
+    },
+    "subWords": {
+      "What is the meaning of this?": [
+        "یعنی چه؟",
+        "معنی این کار چیه؟",
+        "چرا این کار را کردی؟"
+      ]
+    }
+  },
+  {
+    "word": "means",
+    "pronunciation": "miinz",
+    "translates": {
+      "noun": [
+        "وسیله",
+        "راه",
+        "شیوه",
+        "روش",
+        "پول",
+        "ثروت",
+        "دارایی",
+        "استطاعت",
+        "درآمد"
+      ]
+    },
+    "subWords": {
+      "any means of": ["وسیله ای برای", "راهی برای"],
+      "by all means": ["البته", "حتماً"],
+      "by no means": ["به هیچ وجه", "اصلاً", "ابداً"],
+      "a man of means": ["آدم ثروتمند"]
+    }
   }
 ]
