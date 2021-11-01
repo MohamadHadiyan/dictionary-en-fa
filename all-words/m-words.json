@@ -1295,5 +1295,501 @@
       "by no means": ["به هیچ وجه", "اصلاً", "ابداً"],
       "a man of means": ["آدم ثروتمند"]
     }
+  },
+  {
+    "word": "meant",
+    "pronunciation": "ment",
+    "translates": {
+      "past-tens": ["گذشته فعل mean (معنی دادن)"],
+      "past-participle": ["اسم مفعول فعل mean"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "meantime",
+    "pronunciation": "'miinta^ym",
+    "translates": {
+      "adverb": ["در این فاصله", "در این بین", "در ضمن", "ضمناً"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "meanwhile",
+    "pronunciation": "miin'wa^yl",
+    "translates": {
+      "adverb": ["در این فاصله", "در حالی که", "در ضمن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "measles",
+    "pronunciation": "'miizelz",
+    "translates": {
+      "noun": ["سُرخک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "measure",
+    "pronunciation": "'mezher",
+    "translates": {
+      "noun": ["اندازه گیری", "مقیاس", "اندازه", "میزان"],
+      "transitive-verb": [
+        "اندازه گرفتن",
+        "سنجیدن",
+        "به سطح (چیزی) رسیدن",
+        "درخورِ (چیزی) بودن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "measurement",
+    "pronunciation": "'mezherment",
+    "translates": {
+      "noun": ["اندازه گیری", "سنجش", "اندازه", "بُعد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "meat",
+    "pronunciation": "miit",
+    "translates": {
+      "noun": ["گوشت (قرمز)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mechanic",
+    "pronunciation": "mi'kanik",
+    "translates": {
+      "noun": ["مکانیک", "تعمیر کار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mechanical",
+    "pronunciation": "mi'kanika^l",
+    "translates": {
+      "adjective": ["مکانیکی", "ماشینی", "بدون فکر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mechanism",
+    "pronunciation": "'mekanizem",
+    "translates": {
+      "noun": ["مکانیسم", "مکانیزم", "نظام", "ساز و کار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "medal",
+    "pronunciation": "'meda^l",
+    "translates": {
+      "noun": ["نشان", "مدال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "meddle",
+    "pronunciation": "'medel",
+    "translates": {
+      "intransitive-verb": ["دخالت کردن", "فضولی کردن", "سر (چیزی) رفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "media",
+    "pronunciation": "'miidiya^",
+    "translates": {
+      "noun": ["رسانه ها", "صورت جمع medium"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "medical",
+    "pronunciation": "medika^l",
+    "translates": {
+      "adjective": ["پزشکی", "طبی"],
+      "noun": ["معاینه پزشکی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "medicinal",
+    "pronunciation": "mi'disina^l",
+    "translates": {
+      "adjective": ["دارویی", "شفا بخش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "medicine",
+    "pronunciation": "'medsin",
+    "translates": {
+      "noun": ["پزشکی", "طب", "دارو", "دوا", "افسون"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mediocre",
+    "pronunciation": "miidi'yoker",
+    "translates": {
+      "adjective": ["معمولی", "متوسط", "پیش پا افتاده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "meditate",
+    "pronunciation": "'mediteyt",
+    "translates": {
+      "transitive-verb": ["فکر کردن", "تامل کردن", "تعمق کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "meditation",
+    "pronunciation": "medi'teyshen",
+    "translates": {
+      "noun": ["تفکر", "تعمق", "اندیشه", "مکاشفه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Mediterranean",
+    "pronunciation": "mdite'reyniyen",
+    "translates": {
+      "adjective": ["مدیترانه ای"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "medium",
+    "pronunciation": "'miidiyem",
+    "translates": {
+      "noun": ["حد وسط", "تعادل"],
+      "adjective": ["متوسط"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "meet",
+    "pronunciation": "miit",
+    "translates": {
+      "transitive-verb": [
+        "ملاقات کردن",
+        "برخورد کردن",
+        "تلاقی کردن",
+        "(دور هم) جمع شدن",
+        "آشنا شدن",
+        "مواجه شدن"
+      ]
+    },
+    "subWords": {
+      "meet with": ["روبرو شدن با", "مواجه شدن با"]
+    }
+  },
+  {
+    "word": "meeting",
+    "pronunciation": "'miiting",
+    "translates": {
+      "noun": ["جلسه", "اجتماع", "گردهمایی", "ملاقات", "نشست", "مجمع"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "megaphone",
+    "pronunciation": "'megafon",
+    "translates": {
+      "noun": ["بوق", "بلنگوی دستی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mellow",
+    "pronunciation": "'melo",
+    "translates": {
+      "adjective": ["رسیده", "جا افتاده", "صاف", "هموار", "عاقل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "melodious",
+    "pronunciation": "mi'lodiyes",
+    "translates": {
+      "adjective": ["خوش نوا", "خوش آهنگ", "دلپذیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "melody",
+    "pronunciation": "'melodi",
+    "translates": {
+      "noun": ["ملودی", "آهنگ", "ترانه", "نغمه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "melon",
+    "pronunciation": "'melen",
+    "translates": {
+      "noun": ["خربزه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "melt",
+    "pronunciation": "melt",
+    "translates": {
+      "transitive-verb": ["آب کردن", "ذوب کردن", "حل کردن"],
+      "intransitive-verb": ["ذوب شدن", "حل شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "member",
+    "pronunciation": "'member",
+    "translates": {
+      "noun": ["عضو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "membership",
+    "pronunciation": "'membership",
+    "translates": {
+      "noun": ["عضویت", "اعضا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "memorable",
+    "pronunciation": "'memorebel",
+    "translates": {
+      "adjective": ["فراموش نشدنی", "به یاد ماندنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "memorial",
+    "pronunciation": "mi'moriya^l",
+    "translates": {
+      "noun": ["یادبود", "بنای یادبود", "یادمان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "memorize",
+    "pronunciation": "'memora^yz",
+    "translates": {
+      "transitive-verb": [
+        "حفظ کردن",
+        "به یاد سپردن",
+        "از بر کردن",
+        "به خاطر سپردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "memory",
+    "pronunciation": "'memori",
+    "translates": {
+      "noun": ["حافظه", "خاطره", "یاد"]
+    },
+    "subWords": {
+      "childhood memories": ["خاطرات کودکی"],
+      "in memory of somebody, to the memory of somebody": [
+        "به یادِ کسی",
+        "برای زنده نگه داشتنِ خاطره کسی"
+      ]
+    }
+  },
+  {
+    "word": "men",
+    "pronunciation": "men",
+    "translates": {
+      "noun": ["صورت جمع man"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "menace",
+    "pronunciation": "'menis",
+    "translates": {
+      "noun": ["خطر", "تهدید", "مزاحم"],
+      "transitive-verb": ["تهدید کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mend",
+    "pronunciation": "mend",
+    "translates": {
+      "transitive-verb": ["تعمیر کردن", "مرمت کردن", "رفو کردن"],
+      "intransitive-verb": ["بهبود یافتن"],
+      "noun": ["(چیز) تعمیری", "وصله"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "meding",
+    "pronunciation": "'mending",
+    "translates": {
+      "noun": ["تعمیر", "وصله", "رفو", "ترمیم", "لباس های تعمیری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mental",
+    "pronunciation": "'menta^l",
+    "translates": {
+      "adjective": ["ذهنی", "روانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mention",
+    "pronunciation": "'menshen",
+    "translates": {
+      "transitive-verb": ["ذکر کردن", "اشاره کردن", "نام بردن"],
+      "noun": ["ذکر", "اشاره"]
+    },
+    "subWords": {
+      "Don't mention it.": ["[در جواب تشکر] قابلی ندارد."]
+    }
+  },
+  {
+    "word": "menu",
+    "pronunciation": "'menyoo",
+    "translates": {
+      "noun": ["صورت غذا", "فهرست انتخاب", "منو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mercenary",
+    "pronunciation": "'mersineri",
+    "translates": {
+      "noun": ["(سرباز) مزدور", "پول دوست", "پولکی"],
+      "adjective": ["مغرض"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "merchandise",
+    "pronunciation": "'merchenda^yz",
+    "translates": {
+      "noun": ["کالا"],
+      "intransitive-verb": ["تجارت کردن"],
+      "transitive-verb": ["( کالایی را ) تبلیغ کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "merchant",
+    "pronunciation": "'merchent",
+    "translates": {
+      "noun": ["بازرگان", "تاجر"],
+      "adjective": ["بازرگانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "merciful",
+    "pronunciation": "'mersiful",
+    "translates": {
+      "adjective": ["بخشنده", "مهربان", "دلرحم", "رحیم", "بخشایشگر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "merciless",
+    "pronunciation": "'mersilis",
+    "translates": {
+      "adjective": ["بیرحم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mercilessly",
+    "pronunciation": "'mersilisli",
+    "translates": {
+      "adverb": ["بیرحمانه", "با بیرحمی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mercury",
+    "pronunciation": "'merkyuri",
+    "translates": {
+      "noun": ["جیوه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Mercury",
+    "pronunciation": "'merkyuri",
+    "translates": {
+      "noun": ["(سیاره) تیر", "عطارد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mercy",
+    "pronunciation": "'mersi",
+    "translates": {
+      "noun": ["بخشندگی", "عفو", "رحم", "مروت", "رحمت"]
+    },
+    "subWords": {
+      "be at the mercy of": ["در پنجه (کسی یا چیزی) گرفتار بودن"]
+    }
+  },
+  {
+    "word": "mere",
+    "pronunciation": "'miyer",
+    "translates": {
+      "adjective": ["محض", "صِرف", "تنها", "فقط", "کم", "کوچک", "ناچیز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "merely",
+    "pronunciation": "''miyerli",
+    "translates": {
+      "adverb": ["صرفاً", "فقط", "تنها"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "merge",
+    "pronunciation": "merj",
+    "translates": {
+      "intransitive-verb": ["به تدریج تبدیل شدن", "در هم ادغام شدن"],
+      "transitive-verb": ["ادغام کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "merit",
+    "pronunciation": "'merit",
+    "translates": {
+      "transitive-verb": [
+        "ارزش ( چیزی را ) داشتن",
+        "شایسته (چیزی) بودن",
+        "سزاوار (چیزی) بودن"
+      ],
+      "noun": ["ارزش", "شایستگی", "لیاقت", "استحقاق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mermaid",
+    "pronunciation": "'mermeyd",
+    "translates": {
+      "noun": ["پری دریایی"]
+    },
+    "subWords": {}
   }
 ]
