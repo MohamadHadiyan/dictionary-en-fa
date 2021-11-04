@@ -1791,5 +1791,976 @@
       "noun": ["پری دریایی"]
     },
     "subWords": {}
+  },
+  {
+    "word": "merrily",
+    "pronunciation": "'merili",
+    "translates": {
+      "adverb": ["با خوشحالی", "با شور و شادی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "merry",
+    "pronunciation": "'meri",
+    "translates": {
+      "adjective": ["شاد", "خوشحال", "فراخ", "خوش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "merry-go-round",
+    "pronunciation": "'meri go raond",
+    "translates": {
+      "noun": ["چرخ و فلک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mesh",
+    "pronunciation": "mesh",
+    "translates": {
+      "noun": ["توری", "[به صورت جمع] شبکه", "دام"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mess",
+    "pronunciation": "mes",
+    "translates": {
+      "noun": ["به هم ریختگی", "گرفتاری", "هَچَل"],
+      "transitive-verb": ["پخش و پلا کردن"]
+    },
+    "subWords": {
+      "be in a mess": [
+        "ریخته و پاشیده بودن",
+        "آشفته بودن",
+        "در وضع نابسامانی بودن",
+        "وضع نابسامانی داشتن"
+      ],
+      "mess about (or around)": [
+        "یَلَلی تَلَلی کردن",
+        "بازیگوشی کردن",
+        "ور رفتن"
+      ],
+      "mess something up": ["خراب کردن", "به هم زدن", "به هم ریختن"]
+    }
+  },
+  {
+    "word": "message",
+    "pronunciation": "'mesij",
+    "translates": {
+      "noun": ["پیام", "پیغام"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "messenger",
+    "pronunciation": "'mesinjer",
+    "translates": {
+      "noun": ["قاصد", "پیک", "پیام آور", "پیام رسان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "messy",
+    "pronunciation": "'mesi",
+    "translates": {
+      "adjective": ["نامرتب", "به هم ریخته", "ریخته و پاشیده", "کثیف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "met",
+    "pronunciation": "met",
+    "translates": {
+      "past-tens": ["گذشته فعل meet (ملاقات کردن)"],
+      "past-participle": ["اسم مفعول فعل meet"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "metal",
+    "pronunciation": "'meta^l",
+    "translates": {
+      "noun": ["فلز", "خط آهن", "ریل"],
+      "adjective": ["فلزی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "metallic",
+    "pronunciation": "mi'talik",
+    "translates": {
+      "adjective": ["فلزی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "meteor",
+    "pronunciation": "'miitiyor",
+    "translates": {
+      "noun": ["شهاب", "شهاب سنگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "meteorological",
+    "pronunciation": "miitiyoro'la^jica^l",
+    "translates": {
+      "adjective": ["جوی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "meteorology",
+    "pronunciation": "miitiyo'ra^loji",
+    "translates": {
+      "noun": ["هواشناسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "meter",
+    "pronunciation": "'miiter",
+    "translates": {
+      "noun": ["کنتور", "متر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "method",
+    "pronunciation": "'methed",
+    "translates": {
+      "noun": ["روش", "متد", "شیوه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "methodical",
+    "pronunciation": "mi'tha^dika^l",
+    "translates": {
+      "adjective": ["منظم", "باقاعده", "روشمند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "metre",
+    "pronunciation": "'miiter",
+    "translates": {
+      "noun": ["متر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "metric",
+    "pronunciation": "'metrik",
+    "translates": {
+      "adjective": ["متری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "metropolis",
+    "pronunciation": "me'tra^polis",
+    "translates": {
+      "noun": ["کلان شهر", "شهر بزرگ", "مرکز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mew, miaow",
+    "pronunciation": "myoo, mii'ao",
+    "translates": {
+      "noun": ["میو میو", "مئو مئو"],
+      "transitive-verb": ["میو میو کردن", "مئو مئو کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mice",
+    "pronunciation": "ma^ys",
+    "translates": {
+      "noun": ["صورت جمع mouse (موش)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "microbe",
+    "pronunciation": "'ma^ykrob",
+    "translates": {
+      "noun": ["میکروب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "microcomputer",
+    "pronunciation": "'ma^ykroka^m'pyooter",
+    "translates": {
+      "noun": ["ریز کامپیوتر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "microphone",
+    "pronunciation": "'ma^ykrofon",
+    "translates": {
+      "noun": ["میکروفن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "microscope",
+    "pronunciation": "'ma^ykroskop",
+    "translates": {
+      "noun": ["میکروسکوپ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "microscopic",
+    "pronunciation": "ma^ykros'ka^pik",
+    "translates": {
+      "noun": ["میکروسکوپی", "ذره بینی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "microwave",
+    "pronunciation": "'ma^ykroweyv",
+    "translates": {
+      "noun": ["ریز موج", "مایکرووِیو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mid",
+    "pronunciation": "mid",
+    "translates": {
+      "adjective": ["نیمه", "میانه", "میانی", "وسط", "اواسطِ"],
+      "noun": ["نیمه", "وسط"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "midday",
+    "pronunciation": "mid'dey",
+    "translates": {
+      "noun": ["ظهر", "نیمروز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "middle",
+    "pronunciation": "'midel",
+    "translates": {
+      "noun": ["وسط", "میان", "اواسط", "میانه"],
+      "adjective": ["میانی", "میانه", "میان"]
+    },
+    "subWords": {
+      "be in the middle of": ["مشغول (کاری) بودن"],
+      "in the middle of": ["وسطِ", "میانِ", "نصفه های"],
+      "The baby woke up in the middle of the night.": [
+        "بچه نصفه های شب بیدار شد"
+      ]
+    }
+  },
+  {
+    "word": "Middle Ages, the",
+    "pronunciation": "midle 'eyjiz",
+    "translates": {
+      "noun": ["قرون وسطی", "قرون میانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Middle East, the",
+    "pronunciation": "midel 'iist",
+    "translates": {
+      "noun": ["خاورمیانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "midge",
+    "pronunciation": "mij",
+    "translates": {
+      "noun": ["پشه ریزه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "midget",
+    "pronunciation": "'mijit",
+    "translates": {
+      "noun": ["کوتوله"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "midnight",
+    "pronunciation": "'midna^yt",
+    "translates": {
+      "noun": ["نیمه شب", "نصفه شب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "midway",
+    "pronunciation": "mid'wey",
+    "translates": {
+      "adjective": ["نیمه راه", "بین راه", "در وسطِ راه"],
+      "adverb": ["میان راه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "midwife",
+    "pronunciation": "'midwa^yf",
+    "translates": {
+      "noun": ["ماما", "قابله"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "might",
+    "pronunciation": "ma^yt",
+    "translates": {
+      "past-tens": ["گذشته فعل may (ممکن است)"],
+      "noun": ["توان", "زور", "قدرت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mighty",
+    "pronunciation": "'ma^yti",
+    "translates": {
+      "adjective": ["زورمند", "قوی", "قدرتمند", "توانا", "عظیم", "بزرگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "migrant",
+    "pronunciation": "'ma^ygrent",
+    "translates": {
+      "noun": ["مهاجر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "migrate",
+    "pronunciation": "ma^y'greyt",
+    "translates": {
+      "intransitive-verb": ["مهاجرت کردن", "کوچ کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "migration",
+    "pronunciation": "ma^y'greyshen",
+    "translates": {
+      "noun": ["مهاجرت", "کوچ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mike",
+    "pronunciation": "ma^yk",
+    "translates": {
+      "noun": ["میکروفن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mild",
+    "pronunciation": "ma^yld",
+    "translates": {
+      "adjective": ["آرام", "متین", "نرم", "معتدل", "ملایم", "خفیف", "سبک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mile",
+    "pronunciation": "ma^yl",
+    "translates": {
+      "noun": ["میل", "مایل (= نوعی واحد طول برابر با 1609 متر)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mileage",
+    "pronunciation": "'ma^ylij",
+    "translates": {
+      "noun": ["مسافت پیموده (بر حسب مایل)", "میزان سوخت (بر حسب مایل)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "milestone",
+    "pronunciation": "'ma^ylston",
+    "translates": {
+      "noun": ["مسافت نما", "نقطه عطف", "مرحله برجسته"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "military",
+    "pronunciation": "'militeri",
+    "translates": {
+      "adjective": ["نظامی", "ارتشی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "milk",
+    "pronunciation": "milk",
+    "translates": {
+      "noun": ["شیر", "شیره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "milkman",
+    "pronunciation": "'milkman",
+    "translates": {
+      "noun": ["شیر فروش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "milky",
+    "pronunciation": "'milki",
+    "translates": {
+      "adjective": ["شیری", "شیردار", "پر شیر", "کدر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mill",
+    "pronunciation": "mil",
+    "translates": {
+      "noun": ["آسیاب", "کارخانه", "نورد"],
+      "transitive-verb": ["خرد کردن", "آسیاب کردن", "آرد کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "miller",
+    "pronunciation": "'miler",
+    "translates": {
+      "noun": ["آسیابان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "milliard",
+    "pronunciation": "'milya^rd",
+    "translates": {
+      "noun": ["میلیارد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "million",
+    "pronunciation": "'milyen",
+    "translates": {
+      "noun": ["میلیون"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "millionaire",
+    "pronunciation": "milye'ner",
+    "translates": {
+      "noun": ["میلیونر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "millionth",
+    "pronunciation": "'milyenth",
+    "translates": {
+      "noun": ["یک میلیونیم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mime",
+    "pronunciation": "ma^ym",
+    "translates": {
+      "noun": ["لال بازی"],
+      "intransitive-verb": ["لال بازی درآوردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mimic",
+    "pronunciation": "'mimik",
+    "translates": {
+      "adjective": ["تقلیدی"],
+      "transitive-verb": ["ادا ( ی کسی یا چیزی را ) درآوردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "minaret",
+    "pronunciation": "mine'ret",
+    "translates": {
+      "noun": ["مناره", "منار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mince",
+    "pronunciation": "mins",
+    "translates": {
+      "transitive-verb": ["ریز ریز کردن", "[گوشت] چرخ کردن", "قیمه کردن"],
+      "noun": ["گوشت چرخ کرده", "قیمه", "گوشت قیمه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mind",
+    "pronunciation": "ma^ynd",
+    "translates": {
+      "noun": ["ذهن", "یاد", "خاطر", "فکر", "عقیده", "قصد", "عقل", "حواس"],
+      "transitive-verb": [
+        "مواظب بودن",
+        "توجه کردن",
+        "نگهداری کردن",
+        "حرفی داشتن",
+        "ناراحت شدن",
+        "اعتراض داشتن"
+      ]
+    },
+    "subWords": {
+      "be out of one's mind": ["دیوانه بودن", "عقل خود را از دست دادن"],
+      "change one's mind": ["تصمیم خود را عوض کردن"],
+      "give someone a place of one's mind": [
+        "حق کسی را کف دستش گذاشتن",
+        "آنچه نباید گفت را به کسی گفتن"
+      ],
+      "I'll give him a piece of my mind if the dares come here again!.": [
+        "اگر جرات کند باز هم اینجا بیاید آنچه نباید بگوییم را به او می گویم!."
+      ],
+      "make up  one's mind": ["تصمیم گرفتن", "تصمیم خود را گرفتن"],
+      "take someone's mind off something": ["فکر کسی را از چیزی منحرف کردن"],
+      "do you mind, would you mind": ["ممکن است خواهش کنم"],
+      "mind! mind out!": ["بپا! مواظب باش!"]
+    }
+  },
+  {
+    "word": "mine",
+    "pronunciation": "ma^yn",
+    "translates": {
+      "pronoun": ["[ضمیر ملکی", "اول شخص مفرد] مالِ من", "ـِـ من", "ـَـ م"],
+      "noun": ["معدن", "نقب", "مین"],
+      "transitive-verb": ["[معدن] حفر کردن", "مین گذاری کردن"]
+    },
+    "subWords": {
+      "mining town": ["شهر معدنی"]
+    }
+  },
+  {
+    "word": "miner",
+    "pronunciation": "'ma^yner",
+    "translates": {
+      "noun": ["کارگر معدن", "معدنچی", "معدن کار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mineral",
+    "pronunciation": "'minera^l",
+    "translates": {
+      "noun": ["کانی", "ماده معدنی"],
+      "adjective": ["معدنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mingle",
+    "pronunciation": "'mingel",
+    "translates": {
+      "transitive-verb": ["مخلوط کردن"],
+      "intransitive-verb": ["مخلوط شدن", "(با دیگران) گرم گرفتن", "آمیختن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "miniature",
+    "pronunciation": "'minicher",
+    "translates": {
+      "noun": ["مینیاتور", "تصویر مینیاتوری"],
+      "adjective": ["کوچک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "minimum",
+    "pronunciation": "'minimem",
+    "translates": {
+      "noun": ["حداقل", "کمترین حد"],
+      "adjective": ["کمترین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "minister",
+    "pronunciation": "'minister",
+    "translates": {
+      "noun": ["وزیر", "کاردار", "کشیش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ministry",
+    "pronunciation": "'ministri",
+    "translates": {
+      "noun": [
+        "وزارت",
+        "وزارتخانه",
+        "هیئت دولت",
+        "وزرا",
+        "پیشه کشیشی",
+        "روحانیت"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mink",
+    "pronunciation": "mink",
+    "translates": {
+      "noun": ["مینک (= جانوری شبیه به خز)", "پوست مینک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "minor",
+    "pronunciation": "'ma^yner",
+    "translates": {
+      "adjective": ["جزئی", "فرعی", "کوچک", "کوچکتر", "صغیر", "خردسال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "minority",
+    "pronunciation": "ma^y'na^riti",
+    "translates": {
+      "noun": ["اقلیت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mint",
+    "pronunciation": "mint",
+    "translates": {
+      "noun": ["نعنا", "آب نبات نعنایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "minus",
+    "pronunciation": "'ma^ynes",
+    "translates": {
+      "preposition": ["[ دما ] زیر صفر", "منهای", "بدون"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "minute",
+    "pronunciation": "'minit",
+    "translates": {
+      "noun": ["دقیقه", "لحظه", "آن", "پیش نویس"]
+    },
+    "subWords": {
+      "in a minute": ["فوراً", "خیلی زود"],
+      "the minute": ["به محض این که", "همان لحظه که"]
+    }
+  },
+  {
+    "word": "minute",
+    "pronunciation": "ma^y'nyoot",
+    "translates": {
+      "adjective": ["ریز", "خرد", "کوچک", "جزئی", "دقیق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "miracle",
+    "pronunciation": "'mirakel",
+    "translates": {
+      "noun": ["معجزه", "اعجاز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "miraculous",
+    "pronunciation": "mi'rakyules",
+    "translates": {
+      "adjective": ["معجزه آسا", "اعجاب آور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mirage",
+    "pronunciation": "mi'razh",
+    "translates": {
+      "noun": ["سراب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mirror",
+    "pronunciation": "'mirer",
+    "translates": {
+      "noun": ["آیینه", "آینه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mirth",
+    "pronunciation": "merth",
+    "translates": {
+      "noun": ["خوشی", "شادمانی", "نشاط", "عیش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "misbehave",
+    "pronunciation": "misbi'heyv",
+    "translates": {
+      "transitive-verb": ["بی ادبی کردن", "بدرفتاری کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "misbehaviour, misbehavior",
+    "pronunciation": "misbi'heyviyer",
+    "translates": {
+      "noun": ["بی ادبی", "بی نزاکتی", "بدرفتاری", "سوء رفتار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "miscarriage",
+    "pronunciation": "mis'karij",
+    "translates": {
+      "noun": ["سقط", "سقط جنین", "عدم تحقق", "ناکامی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "miscellaneous",
+    "pronunciation": "mise'leyniyes",
+    "translates": {
+      "adjective": ["جورواجور", "متنوع", "گوناگون", "متفرقه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mischief",
+    "pronunciation": "'mischif",
+    "translates": {
+      "noun": ["شیطنت", "اذیت", "آزار", "شرارت", "بچه شیطان"]
+    },
+    "subWords": {
+      "be up to (or get into) mischief": ["شیطنت کردن"]
+    }
+  },
+  {
+    "word": "mischievous",
+    "pronunciation": "'mischives",
+    "translates": {
+      "adjective": ["شیطان", "تُخس", "زیان آور", "شیطنت آمیز", "موذیانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "misdeed",
+    "pronunciation": "mis'did",
+    "translates": {
+      "noun": ["خلاف", "جُرم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "miser",
+    "pronunciation": "'ma^yzer",
+    "translates": {
+      "noun": ["خسیس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "miserable",
+    "pronunciation": "'mizerbel",
+    "translates": {
+      "adjective": [
+        "بدبخت",
+        "غم انگیز",
+        "دلگیر",
+        "ناچیز",
+        "بد",
+        "ضعیف",
+        "سیاه بخت"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "misery",
+    "pronunciation": "'mizeri",
+    "translates": {
+      "noun": ["بدبختی", "بیچارگی", "رنج", "درد", "غصه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "misfire",
+    "pronunciation": "mis'fa^yer",
+    "translates": {
+      "intransitive-verb": ["[ اتومبیل ] روشن نشدن", "استارت نزدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "misfortune",
+    "pronunciation": "mis'forchoon",
+    "translates": {
+      "noun": ["بدبختی", "بداقبالی", "بدبیاری", "بدشانسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "misgiving",
+    "pronunciation": "mis'giving",
+    "translates": {
+      "noun": ["شک", "تردید", "بی اعتمادی", "سوءِظن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mishap",
+    "pronunciation": "'mis-hap",
+    "translates": {
+      "noun": ["بدبیاری", "بدبختی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mislaid",
+    "pronunciation": "mis'leyd",
+    "translates": {
+      "past-tens": ["گذشته فعل mislay (جایی گذاشتن و فراموش کردن)"],
+      "past-participle": ["اسم مفعول فعل mislay"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mislay",
+    "pronunciation": "mis'ley",
+    "translates": {
+      "transitive-verb": ["جایی گذاشتن و فراموش کردن", "جا گذاشتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mislead",
+    "pronunciation": "mis'liid",
+    "translates": {
+      "transitive-verb": ["گمراه کردن", "گول زدن", "منحرف کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "misled",
+    "pronunciation": "mis'led",
+    "translates": {
+      "past-tens": ["گذشته فعل mislead (گمراه کردن)"],
+      "past-participle": ["اسم مفعول فعل mislead"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "misprint",
+    "pronunciation": "mis'print",
+    "translates": {
+      "transitive-verb": ["غلط چاپ کردن"],
+      "noun": ["غلط چاپی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "miss",
+    "pronunciation": "mis",
+    "translates": {
+      "transitive-verb": [
+        "از دست دادن",
+        "نگرفتن",
+        "نرسیدن به",
+        "نخوردن به",
+        "برخورد نکردن",
+        "توجه نکردن به",
+        "ندیدن",
+        "گم کردن",
+        "دلتنگ شدن برای",
+        "متاسف شدن"
+      ],
+      "noun": ["خانم", "سرکار خانم", "دوشیزه"]
+    },
+    "subWords": {
+      "miss something out": ["از قلم انداختن", "ننوشتن"]
+    }
+  },
+  {
+    "word": "misshapen",
+    "pronunciation": "mis'sheypen",
+    "translates": {
+      "adjective": ["[بدن] ناقص", "معیوب", "از شکل افتاده", "بدشکل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "missile",
+    "pronunciation": "'misa^yl",
+    "translates": {
+      "noun": ["موشک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "missing",
+    "pronunciation": "'mising",
+    "translates": {
+      "adjective": ["گم", "گمشده", "مفقود", "کم", "مفقودالاثر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mission",
+    "pronunciation": "'mishen",
+    "translates": {
+      "noun": ["ماموریت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "missionary",
+    "pronunciation": "'misheneri",
+    "translates": {
+      "noun": ["[مسیحیت] مُبلغ مذهبی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mist",
+    "pronunciation": "mist",
+    "translates": {
+      "noun": ["مه", "بخار"],
+      "transitive-verb": ["مه گرفتن", "بخار گرفتن"]
+    },
+    "subWords": {}
   }
 ]
