@@ -2762,5 +2762,993 @@
       "transitive-verb": ["مه گرفتن", "بخار گرفتن"]
     },
     "subWords": {}
+  },
+  {
+    "word": "mistake",
+    "pronunciation": "mis'teyk",
+    "translates": {
+      "noun": ["اشتباه", "غلط", "خطا"],
+      "transitive-verb": ["اشتباه کردن", "اشتباه گرفتن", "عوضی گرفتن"]
+    },
+    "subWords": {
+      "by mistake": ["اشتباهاً"],
+      "make a mistake": ["اشتباه کردن"]
+    }
+  },
+  {
+    "word": "mistaken",
+    "pronunciation": "mis'teyken",
+    "translates": {
+      "adjective": ["اشتباه", "اشتباهی", "نادرست", "غلط"],
+      "past-participle": ["اسم مفعول فعل mistake (اشتباه کردن)"]
+    },
+    "subWords": {
+      "be mistaken": ["اشتباه کردن", "در اشتباه بودن"]
+    }
+  },
+  {
+    "word": "mistook",
+    "pronunciation": "mis'tuk",
+    "translates": {
+      "past-tens": ["گذشته فعل mistake ( اشتباه کردن )"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mistress",
+    "pronunciation": "'mistris",
+    "translates": {
+      "noun": ["بانو", "خانم معلم", "معشوق", "معشوقه", "محبوب", "دلبر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mistrust",
+    "pronunciation": "mis'tra^st",
+    "translates": {
+      "transitive-verb": ["بی اعتماد بودن به", "اطمینان نکردن به"],
+      "noun": ["بی اعتمادی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "misunderstand",
+    "pronunciation": "misa^nder'stan",
+    "translates": {
+      "transitive-verb": ["غلط فهمیدن", "غلط تعبیر کردن", "درست نفهمیدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "misunderstanding",
+    "pronunciation": "misa^nder'standing",
+    "translates": {
+      "noun": ["سوء تفاهم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "misunderstood",
+    "pronunciation": "misa^nder'stud",
+    "translates": {
+      "past-tens": ["گذشته فعل misunderstand (غلط فهمیدن)"],
+      "past-participle": ["اسم مفعول فعل misunderstand"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mitten",
+    "pronunciation": "'miten",
+    "translates": {
+      "noun": ["دستکش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mix",
+    "pronunciation": "miks",
+    "translates": {
+      "transitive-verb": ["مخلوط کردن"],
+      "intransitive-verb": ["مخلوط شدن", "(با هم) جوشیدن"],
+      "noun": ["مخلوط", "آمیزه"]
+    },
+    "subWords": {
+      "mix up": [
+        "قاطی کردن",
+        "به هم ریختن",
+        "یکی را به جای دیگری گرفتن",
+        "یکی را با دیگری اشتباه گرفتن"
+      ]
+    }
+  },
+  {
+    "word": "mixer",
+    "pronunciation": "'mikser",
+    "translates": {
+      "noun": ["مخلوط کن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mixture",
+    "pronunciation": "'mikscher",
+    "translates": {
+      "noun": ["آمیزش", "اختلاط", "مخلوط", "آمیزه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "moan",
+    "pronunciation": "mon",
+    "translates": {
+      "noun": ["ناله", "زاری"],
+      "transitive-verb": ["ناله کردن", "شکوه کردن", "زاری کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "moat",
+    "pronunciation": "mot",
+    "translates": {
+      "noun": ["خندق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mob",
+    "pronunciation": "ma^b",
+    "translates": {
+      "noun": [
+        "گروه ارازل و اوباش",
+        "لات و لوت ها",
+        "جمعیت",
+        "ازدحام",
+        "عوام",
+        "دار و دسته"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mobile",
+    "pronunciation": "'moba^yl",
+    "translates": {
+      "adjective": ["متحرک", "سیار", "روان", "سیال", "متغیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mobility",
+    "pronunciation": "mo'biliti",
+    "translates": {
+      "noun": ["تحرک", "جنبش", "سیلان", "تغییر پذیری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mobilize",
+    "pronunciation": "'mobila^yz",
+    "translates": {
+      "transitive-verb": ["بسیج کردن", "تجهیز کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mock",
+    "pronunciation": "ma^k",
+    "translates": {
+      "transitive-verb": ["ادای ( کسی را ) درآوردن", "مسخره کردن"],
+      "adjective": ["کاذب", "ساختگی", "دروغی", "آزمایشی", "تمرینی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mockery",
+    "pronunciation": "'ma^keri",
+    "translates": {
+      "noun": ["استهزا", "مسخره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mode",
+    "pronunciation": "mod",
+    "translates": {
+      "noun": ["شیوه", "مُد", "سبک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "model",
+    "pronunciation": "'ma^del",
+    "translates": {
+      "noun": ["مدل", "مدل زنده", "ماکت", "مانکن", "نمونه"],
+      "transitive-verb": ["شکل دادن"],
+      "intransitive-verb": ["مدل قرار گرفتن", "مانکن بودن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "moderate",
+    "pronunciation": "'ma^derit",
+    "translates": {
+      "adjective": ["معتدل", "متوسط", "میانه رو"],
+      "transitive-verb": ["تعدیل کردن"],
+      "intransitive-verb": ["معتدل شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "moderately",
+    "pronunciation": "'ma^deritli",
+    "translates": {
+      "adverb": ["نه چندان", "تقریباً", "نسبتاً"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "modern",
+    "pronunciation": "'ma^dern",
+    "translates": {
+      "adjective": ["جدید", "نو", "نوین", "امروزی", "معاصر", "مدرن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "modernize",
+    "pronunciation": "'ma^drena^yz",
+    "translates": {
+      "transitive-verb": [
+        "نو کردن",
+        "نوسازی کردن",
+        "امروزی کردن",
+        "نوین کردن",
+        "مدرن کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "modesty",
+    "pronunciation": "'ma^disti",
+    "translates": {
+      "noun": ["فروتنی", "تواضع", "حجب", "حیا", "عفت", "شکسته نفسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "modify",
+    "pronunciation": "'ma^difa^y",
+    "translates": {
+      "transitive-verb": ["تغییر دادن", "اصلاح کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Mohammedan",
+    "pronunciation": "mo'hamiden",
+    "translates": {
+      "noun": ["مسلمان"],
+      "adjective": ["محمدی", "اسلامی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "moist",
+    "pronunciation": "moyst",
+    "translates": {
+      "adjective": ["مرطوب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "moisten",
+    "pronunciation": "'moysen",
+    "translates": {
+      "transitive-verb": ["مرطوب کردن", "تر کردن"],
+      "intransitive-verb": ["مرطوب شدن", "تر شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "moisture",
+    "pronunciation": "'moyscher",
+    "translates": {
+      "noun": ["رطوبت", "نم", "بخار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mold",
+    "pronunciation": "mold",
+    "translates": {
+      "noun": ["قالب", "الگو", "کپک"],
+      "transitive-verb": ["قالب ریزی کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mole",
+    "pronunciation": "mol",
+    "translates": {
+      "noun": ["خال", "خال سیاه", "موش کور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "molten",
+    "pronunciation": "'molten",
+    "translates": {
+      "adjective": ["مذاب", "گداخته"],
+      "past-participle": ["اسم مفعول فعل melt (ذوب شده)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "moment",
+    "pronunciation": "'moment",
+    "translates": {
+      "noun": ["لحظه", "آن", "وقت", "موقع", "زمان"]
+    },
+    "subWords": {
+      "at the moment": ["فعلاً", "در حال حاظر"],
+      "in a moment": ["فوراً", "خیلی زود"],
+      "the moment": ["به محض اینکه", "همان لحظه ای که"]
+    }
+  },
+  {
+    "word": "momentary",
+    "pronunciation": "'momentri",
+    "translates": {
+      "adjective": ["گذرا", "زودگذر", "موقتی", "لحظه ای"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Mon",
+    "pronunciation": "'ma^ndi",
+    "translates": {
+      "noun": ["دوشنبه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "monarch",
+    "pronunciation": "'ma^na^rk",
+    "translates": {
+      "noun": ["پادشاه", "سلطان", "فرمانروای مطلق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "monarchy",
+    "pronunciation": "'ma^na^rki",
+    "translates": {
+      "noun": ["سلطنت", "پادشاهی", "کشور سلطنتی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "monastery",
+    "pronunciation": "'ma^nestri",
+    "translates": {
+      "noun": ["دیر", "صومعه", "خانقاه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Monday",
+    "pronunciation": "'ma^ndi",
+    "translates": {
+      "noun": ["دوشنبه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "money",
+    "pronunciation": "'ma^ni",
+    "translates": {
+      "noun": ["پول", "ثروت"]
+    },
+    "subWords": {
+      "make money": ["پول درآوردن", "پول دار شدن"]
+    }
+  },
+  {
+    "word": "money-box",
+    "pronunciation": "'ma^ni ba^ks",
+    "translates": {
+      "noun": ["قلک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mongrel",
+    "pronunciation": "'ma^ngrel",
+    "translates": {
+      "noun": ["سگ بی اصل و نسب", "حیوان دو رگه"],
+      "adjective": ["دو رگه", "التقاطی", "دو تخمه ای"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "monitoer",
+    "pronunciation": "'ma^niter",
+    "translates": {
+      "noun": ["مبصر", "دستگاه کنترل", "[کامپیوتر] نمایشگر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "monk",
+    "pronunciation": "ma^nk",
+    "translates": {
+      "noun": ["راهب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "monkey",
+    "pronunciation": "'ma^nki",
+    "translates": {
+      "noun": ["میمون"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "monotonous",
+    "pronunciation": "mo'na^tenes",
+    "translates": {
+      "adjective": ["یکنواخت", "خسته کننده", "ملال آور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "monster",
+    "pronunciation": "'ma^nster",
+    "translates": {
+      "noun": ["هیولا", "غول", "دیو", "شیطان", "اعجوبه"],
+      "adjective": ["غول پیکر", "غول آسا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "monstrous",
+    "pronunciation": "'ma^nstres",
+    "translates": {
+      "adjective": ["غول پیکر", "مخوف", "وحشت انگیز", "هولناک", "مزخرف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "month",
+    "pronunciation": "ma^nth",
+    "translates": {
+      "noun": ["ماه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "monthly",
+    "pronunciation": "'ma^ntli",
+    "translates": {
+      "adjective": ["ماهانه", "ماهیانه"],
+      "noun": ["ماه نامه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "monument",
+    "pronunciation": "'ma^nyument",
+    "translates": {
+      "noun": ["بنای یادبود", "یادمان", "بنای تاریخی", "اثر تاریخی", "بقعه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "moo",
+    "pronunciation": "moo",
+    "translates": {
+      "noun": ["[صدای گاو] ما", "ماغ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mood",
+    "pronunciation": "mood",
+    "translates": {
+      "noun": ["حال", "حال و حوصله", "[دستور زبان] وجه"]
+    },
+    "subWords": {
+      "not be in the mood for": ["حال یا حوصله ( چیزی یا کاری را ) نداشتن"]
+    }
+  },
+  {
+    "word": "moody",
+    "pronunciation": "'moodi",
+    "translates": {
+      "adjective": ["دمدمی", "عبوس", "بدخلق", "عنق", "گرفته", "اخمو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "moon",
+    "pronunciation": "moon",
+    "translates": {
+      "noun": ["ماه", "قمر"]
+    },
+    "subWords": {
+      "be over the moon": ["خوشحال شدن", "از خوشحالی بال درآوردن"],
+      "once in a blue moon": ["گه گاه", "خیلی کم", "به ندرت"]
+    }
+  },
+  {
+    "word": "moonlight",
+    "pronunciation": "'moonla^yt",
+    "translates": {
+      "noun": ["مهتاب", "نور مهتاب"],
+      "adjective": ["مهتابی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "moonlit",
+    "pronunciation": "'moonlit",
+    "translates": {
+      "adjective": ["مهتابی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "moor",
+    "pronunciation": "mor",
+    "translates": {
+      "noun": ["زمین بایر", "بوته زار", "عرب مغربی"],
+      "transitive-verb": ["بستن", "مهار کردن", "به اسکله بستن", "لنگر انداختن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "moorings",
+    "pronunciation": "'moringz",
+    "translates": {
+      "noun": ["جایگاه مهار کشی", "پهلوگیری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mop",
+    "pronunciation": "ma^p",
+    "translates": {
+      "noun": ["(وسیله) زمین شور"],
+      "transitive-verb": ["پاک کردن", "تمیز کردن"]
+    },
+    "subWords": {
+      "mop up": ["[ آب و غیره ] با کهنه پاک کردن"]
+    }
+  },
+  {
+    "word": "moped",
+    "pronunciation": "'moped",
+    "translates": {
+      "noun": ["موتور گازی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "moral",
+    "pronunciation": "'ma^rel",
+    "translates": {
+      "adjective": ["اخلاقی", "وجدانی", "معنوی"],
+      "noun": ["درس", "درس اخلاقی", "نتیجه اخلاقی", "اخلاق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "morally",
+    "pronunciation": "'ma^reli",
+    "translates": {
+      "adverb": [
+        "اخلاقاً",
+        "از لحاظ اخلاقی",
+        "از نظر اخلاقی",
+        "احتمالاً",
+        "عملاً"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "morals",
+    "pronunciation": "'ma^relz",
+    "translates": {
+      "noun": ["اصول اخلاقی", "اخلاقیات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "more",
+    "pronunciation": "mor",
+    "translates": {
+      "adjective": ["بیشتر", "دیگر", "[در صفت تفضیلی] _ تر"],
+      "adverb": ["بیشتر", "بیش"]
+    },
+    "subWords": {
+      "more or less": ["تقریباً", "کم و بیش"],
+      "not any more": ["دیگر", "دیگه", "حالا دیگه"],
+      "once more": ["یک بار دیگر", "دوباره"]
+    }
+  },
+  {
+    "word": "morning",
+    "pronunciation": "'morning",
+    "translates": {
+      "noun": ["صبح", "صبحگاه", "بامداد", "طلوع آفتاب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Morse",
+    "pronunciation": "mors",
+    "translates": {
+      "noun": ["الفبای مورس", "رمز مورس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Morse code",
+    "pronunciation": "mors 'kod",
+    "translates": {
+      "noun": ["الفبای مورس", "رمز مورس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mortal",
+    "pronunciation": "'morta^l",
+    "translates": {
+      "adjective": ["فانی", "فناپذیر", "میرنده", "کُشنده", "مرگ آور", "مرگبار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mortgage",
+    "pronunciation": "'morgij",
+    "translates": {
+      "transitive-verb": ["رهن گذشتن"],
+      "noun": ["وام مسکن", "رهن", "مبلغ رهن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Moslem",
+    "pronunciation": "'ma^zlim",
+    "translates": {
+      "noun": ["مسلم", "مسلمان"],
+      "adjective": ["اسلامی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mosque",
+    "pronunciation": "ma^sk",
+    "translates": {
+      "noun": ["مسجد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mosquito",
+    "pronunciation": "ma^s'kiito",
+    "translates": {
+      "noun": ["پشه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "moss",
+    "pronunciation": "ma^s",
+    "translates": {
+      "noun": ["خزه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mossy",
+    "pronunciation": "'ma^si",
+    "translates": {
+      "adjective": ["خزه دار", "خزه گرفته", "باتلاقی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "most",
+    "pronunciation": "most",
+    "translates": {
+      "adjective": [
+        "بیشترین",
+        "زیادترین",
+        "[در صفت عالی] _ترین",
+        "اکثرِ",
+        "بیشترِ",
+        "قسمت اعظمِ",
+        "بسیار"
+      ],
+      "noun": ["بیشتر آن ها", "حداکثر"]
+    },
+    "subWords": {
+      "at (the) most": ["حداکثر", "فوقش"],
+      "make the most of something": ["حداکثر استفاده را از چیزی کردن"]
+    }
+  },
+  {
+    "word": "mostly",
+    "pronunciation": "'mostli",
+    "translates": {
+      "adverb": ["عمدتاً", "بیشتر", "در اکثر موارد", "معمولاً", "غالباً"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "motel",
+    "pronunciation": "mo'tel",
+    "translates": {
+      "noun": ["مُتل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "moth",
+    "pronunciation": "ma^th",
+    "translates": {
+      "noun": ["شب پره", "بید"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "moth eaten",
+    "pronunciation": "'ma^th iiten",
+    "translates": {
+      "adjective": ["بیدزده", "بیدخورده", "زهوار در رفته", "فکستنی", "کهنه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mother",
+    "pronunciation": "'ma^dher",
+    "translates": {
+      "noun": ["مادر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "motherly",
+    "pronunciation": "'ma^dherli",
+    "translates": {
+      "adjective": ["مادری", "مادرانه", "مادروار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "motion",
+    "pronunciation": "'moshen",
+    "translates": {
+      "noun": ["حرکت", "اشاره"],
+      "transitive-verb": ["اشاره کردن"]
+    },
+    "subWords": {
+      "in motion": ["در حال حرکت"],
+      "put (or set) something in motion": ["چیزی را به حرکت درآوردن"]
+    }
+  },
+  {
+    "word": "motionless",
+    "pronunciation": "'moshenlis",
+    "translates": {
+      "adjective": ["بی حرکت", "ساکن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "motivation",
+    "pronunciation": "moti'veyshen",
+    "translates": {
+      "noun": ["انگیزه", "انگیزش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "motive",
+    "pronunciation": "'motiv",
+    "translates": {
+      "noun": ["انگیزه", "درون مایه", "مضمون", "محرک"],
+      "adjective": ["محرکه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "motor",
+    "pronunciation": "'moter",
+    "translates": {
+      "noun": ["موتور"],
+      "adjective": ["موتوری", "[مربوط به] وسایل نقلیه موتوری", "حرکتی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "motorbike",
+    "pronunciation": "'moterba^yk",
+    "translates": {
+      "noun": ["موتورسیکلت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "motor-boat",
+    "pronunciation": "'moter bot",
+    "translates": {
+      "noun": ["قایق موتوری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "motor car",
+    "pronunciation": "'moter ka^r",
+    "translates": {
+      "noun": ["اتومبیل", "خودرو سواری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "motorcycle",
+    "pronunciation": "'motersa^ykel",
+    "translates": {
+      "noun": ["موتورسیکلت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "motorist",
+    "pronunciation": "'moterist",
+    "translates": {
+      "noun": ["راننده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "motorway",
+    "pronunciation": "'moterwey",
+    "translates": {
+      "noun": ["آزادراه", "اتوبان", "بزرگراه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "motto",
+    "pronunciation": "'ma^to",
+    "translates": {
+      "noun": ["شعار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mould, mold",
+    "pronunciation": "mold",
+    "translates": {
+      "noun": ["قالب", "الگو", "کپک", "کپک قارچی"],
+      "transitive-verb": ["قالب ریزی کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mouldy,moldy",
+    "pronunciation": "'moldi",
+    "translates": {
+      "adjective": ["کپک زده", "کهنه و فاسد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mound",
+    "pronunciation": "maond",
+    "translates": {
+      "noun": ["تل", "پشته", "کپه", "تپه", "ماهور"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mount",
+    "pronunciation": "maont",
+    "translates": {
+      "noun": ["کوه"],
+      "transitive-verb": ["بالا رفتن", "سوار شدن", "سوار کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mountain",
+    "pronunciation": "'maontin",
+    "translates": {
+      "noun": ["کوه", "کوهستان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mountaineer",
+    "pronunciation": "maonti'niyer",
+    "translates": {
+      "noun": ["کوهنورد", "کوه نشین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mountaineering",
+    "pronunciation": "maonti'niyering",
+    "translates": {
+      "noun": ["کوهنوردی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mourn",
+    "pronunciation": "morn",
+    "translates": {
+      "intransitive-verb": [
+        "سوگواری کردن",
+        "مویه کردن",
+        "ماتم گرفتن",
+        "عزاداری کردن"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mourner",
+    "pronunciation": "'morner",
+    "translates": {
+      "noun": ["عزادار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mournful",
+    "pronunciation": "'mornful",
+    "translates": {
+      "adjective": ["غصه دار", "اندوهگین", "غم انگیز", "سوگوار", "ماتم زده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mouse",
+    "pronunciation": "maos",
+    "translates": {
+      "noun": ["موش", "[کامپیوتر] ماوس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mousetrap",
+    "pronunciation": "'maostrap",
+    "translates": {
+      "noun": ["تله موش"],
+      "adjective": ["[پنیر] نامرغوب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "moustache",
+    "pronunciation": "mos'ta^sh",
+    "translates": {
+      "noun": ["سبیل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mouth",
+    "pronunciation": "maoth",
+    "translates": {
+      "noun": ["دهان", "دهانه", "مدخل", "[رودخانه] مصب"]
+    },
+    "subWords": {}
   }
 ]
