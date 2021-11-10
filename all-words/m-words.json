@@ -3750,5 +3750,552 @@
       "noun": ["دهان", "دهانه", "مدخل", "[رودخانه] مصب"]
     },
     "subWords": {}
+  },
+  {
+    "word": "mouthful",
+    "pronunciation": "'maothful",
+    "translates": {
+      "noun": ["لقمه", "جرعه", "قُلُپ", "(به اندازه) یک دهان پُر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mouth-organ",
+    "pronunciation": "'maoth orga^n",
+    "translates": {
+      "noun": ["سازدهنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mouthpiece",
+    "pronunciation": "'moathpiis",
+    "translates": {
+      "noun": [
+        "سر",
+        "دهنی (= قسمت از سازهای بادی که در دهان یا نزدیک دهان قرار می گیرد.)"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "move",
+    "pronunciation": "moov",
+    "translates": {
+      "transitive-verb": [
+        "جنباندن",
+        "تکان دادن",
+        "جنبیدن",
+        "منتقل کردن",
+        "حرکت کردن",
+        "احساسات ( کسی را ) برانگیختن اقدام کردن",
+        "واداشتن"
+      ],
+      "noun": ["حرکت", "[در بازی] نوبت", "اقدام", "نقل مکان"]
+    },
+    "subWords": {
+      "move about (or around)": ["جا به جا کردن", "جا به جا شدن", "حرکت کردن"],
+      "move in": ["به خانه جدید رفتن", "اسباب کشی کردن"],
+      "move out": ["خانه را خالی کردن", "اسباب کشی کردن"],
+      "get a move on": ["عجله کردن"]
+    }
+  },
+  {
+    "word": "movement",
+    "pronunciation": "'moovment",
+    "translates": {
+      "noun": ["حرکت", "جنبش", "تحرک", "نهضت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "movie",
+    "pronunciation": "'moovi",
+    "translates": {
+      "noun": ["فیلم (سینمایی)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "movies",
+    "pronunciation": "'mooviz",
+    "translates": {
+      "noun": ["سینما"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mow",
+    "pronunciation": "mo",
+    "translates": {
+      "transitive-verb": ["چیدن", "زدن", "علف چیدن", "چمن را زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mower",
+    "pronunciation": "'mo-er",
+    "translates": {
+      "noun": ["چمن زن", "ماشین چمن زنی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mown",
+    "pronunciation": "mon",
+    "translates": {
+      "past-participle": ["اسم مفعول فعل mow (چیدن)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Mr",
+    "pronunciation": "'mister",
+    "translates": {
+      "noun": ["آقای"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Mrs",
+    "pronunciation": "'misiz",
+    "translates": {
+      "noun": ["خانمِ (قبل از اسم زن شوهردار به کار می رود.)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Ms",
+    "pronunciation": "miz",
+    "translates": {
+      "noun": ["خانمِ (پیش از اسم زن شوهر دار یا بی شوهر به کار می رود.)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "much",
+    "pronunciation": "ma^ch",
+    "translates": {
+      "adjective": ["زیاد", "خیلی زیاد", "خیلی از", "مقدار زیادی از"],
+      "adverb": ["خیلی", "بسیار", "خیلی اش", "مقدار زیادی از آن"],
+      "noun": ["قدر", "اندازه"]
+    },
+    "subWords": {
+      "as much as": ["همان قدر که", "همان اندازه که"],
+      "be too much for somebody": ["از تحمل کسی خارج بودن"],
+      "this (or that) much": ["این قدر", "این اندازه"]
+    }
+  },
+  {
+    "word": "mud",
+    "pronunciation": "ma^d",
+    "translates": {
+      "noun": ["گِل", "گِل و لای"],
+      "transitive-verb": ["گِلی کردن", "گل آلود کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "muddle",
+    "pronunciation": "'ma^del",
+    "translates": {
+      "transitive-verb": [
+        "به هم ریختن",
+        "افتضاح کردن",
+        "گیج کردن",
+        "آشفته کردن",
+        "اشتباه گرفتن",
+        "عوضی گرفتن"
+      ]
+    },
+    "subWords": {
+      "muddle through": ["یک جوری رفع و رجوع کردن", "یک جوری سر کردن"]
+    }
+  },
+  {
+    "word": "muddy",
+    "pronunciation": "'ma^di",
+    "translates": {
+      "adjective": ["گِلی", "گل آلود", "کدر", "غلیظ", "بی روح", "آشفته"],
+      "transitive-verb": ["گِلی کردن", "گل آلود کردن", "پیچیده تر کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mudguard",
+    "pronunciation": "'ma^dga^rd",
+    "translates": {
+      "noun": ["گِل گیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "muffle",
+    "pronunciation": "'ma^fel",
+    "translates": {
+      "transitive-verb": ["[صدا] خفه کردن", "پیچیدن (در)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "muffler",
+    "pronunciation": "'ma^fler",
+    "translates": {
+      "noun": ["[ اسلحه ] صدا خفه کن", "منبع اگزوز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mug",
+    "pronunciation": "ma^g",
+    "translates": {
+      "noun": ["لیوان دسته دار", "پَک و پوز", "سر و صورت", "هالو"],
+      "transitive-verb": ["لخت کردن", "زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mugger",
+    "pronunciation": "'ma^ger",
+    "translates": {
+      "noun": ["دزد", "غارتگر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "muggy",
+    "pronunciation": "'ma^gi",
+    "translates": {
+      "adjective": ["شرجی", "دَم دار", "گرم", "خفه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mule",
+    "pronunciation": "myool",
+    "translates": {
+      "noun": ["قاطر", "استر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "multiple",
+    "pronunciation": "'ma^ltipel",
+    "translates": {
+      "adjective": ["چندگانه", "متعدد"],
+      "noun": ["[ریاضیات] مضرب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "multiplication",
+    "pronunciation": "ma^ltipli'keysehn",
+    "translates": {
+      "noun": ["[حساب] ضرب", "تکثیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "multiply",
+    "pronunciation": "'ma^ltipla^y",
+    "translates": {
+      "transitive-verb": ["ضرب کردن", "تکثیر کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "multi-storey, multi-story",
+    "pronunciation": "ma^lti 'stori",
+    "translates": {
+      "adjective": ["چند طبقه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "multitude",
+    "pronunciation": "'ma^ltitiyood",
+    "translates": {
+      "noun": ["تعدد", "فراوانی", "کثرت", "عوام", "بسیاری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mum",
+    "pronunciation": "ma^m",
+    "translates": {
+      "noun": ["مامان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mumble",
+    "pronunciation": "'ma^mbel",
+    "translates": {
+      "intransitive-verb": ["مِن مِن کردن", "غر غر کردن", "زیر لب حرف زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mummy",
+    "pronunciation": "'ma^mi",
+    "translates": {
+      "noun": ["مامان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mumps",
+    "pronunciation": "ma^mps",
+    "translates": {
+      "noun": ["[بیماری] اوریون"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "murder",
+    "pronunciation": "'merder",
+    "translates": {
+      "noun": ["قتل"],
+      "transitive-verb": ["به قتل رساندن", "کشتار کردن", "کشتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "murderer",
+    "pronunciation": "'merderer",
+    "translates": {
+      "noun": ["قاتل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "murderously",
+    "pronunciation": "'merderesli",
+    "translates": {
+      "adverb": ["به طور کُشنده ای", "بسیار سخت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "murmur",
+    "pronunciation": "'mermer",
+    "translates": {
+      "noun": ["زمزمه"],
+      "intransitive-verb": ["زمزمه کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "muscle",
+    "pronunciation": "'ma^sel",
+    "translates": {
+      "noun": ["ماهیچه", "عضله"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "muscular",
+    "pronunciation": "'ma^skyula^r",
+    "translates": {
+      "adjective": ["عضلانی", "عضله دار", "قوی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "museum",
+    "pronunciation": "myoo'ziyem",
+    "translates": {
+      "noun": ["موزه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mushroom",
+    "pronunciation": "'ma^shrum",
+    "translates": {
+      "noun": ["قارچ (خوراکی)"],
+      "adjective": ["قارچ گونه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "music",
+    "pronunciation": "'myoozik",
+    "translates": {
+      "noun": ["موسیقی", "آهنگ", "نغمه", "نت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "musical",
+    "pronunciation": "'myoozika^l",
+    "translates": {
+      "adjective": ["موسیقیایی", "موسیقی دوست", "موزیکال"],
+      "noun": ["نمایش یا فیلم موزیکال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "musician",
+    "pronunciation": "myoo'zishen",
+    "translates": {
+      "noun": ["موسیقی دان", "موسیقی شناس", "نوازنده", "اجرا کننده", "آهنگ ساز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Muslim",
+    "pronunciation": "'muzlim",
+    "translates": {
+      "noun": ["مسلمان"],
+      "adjective": ["اسلامی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mussel",
+    "pronunciation": "'ma^sel",
+    "translates": {
+      "noun": ["صدف خوراکی (پوسته سیاه)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "must",
+    "pronunciation": "ma^st",
+    "translates": {
+      "auxiliary-verb": ["باید", "بایست", "مجبور بودن"],
+      "noun": ["امر ضروری"]
+    },
+    "subWords": {
+      "must have done somethnig": ["باید کاری انجام شده باشد"],
+      "You must have seen him.": ["باید او را دیده باشی"]
+    }
+  },
+  {
+    "word": "mustache",
+    "pronunciation": "mos'ta^sh",
+    "translates": {
+      "noun": ["سبیل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mustard",
+    "pronunciation": "'ma^sterd",
+    "translates": {
+      "noun": ["گیاه خردل", "سس خردل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mustn't, must not",
+    "pronunciation": "'ma^sent, ma^st na^t",
+    "translates": {
+      "auxiliary-verb": ["نباید"]
+    },
+    "subWords": {
+      "You mustn't be late.": ["تو نباید دیر کنی."]
+    }
+  },
+  {
+    "word": "musty",
+    "pronunciation": "'ma^sti",
+    "translates": {
+      "adjective": ["کپک زده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mute",
+    "pronunciation": "myoot",
+    "translates": {
+      "adjective": ["ساکت", "خاموش", "بدون صدا", "بی صدا", "لال", "گنگ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mutter",
+    "pronunciation": "'ma^ter",
+    "translates": {
+      "transitive-verb": ["زیر لب گفتن"],
+      "noun": ["پچ پچ"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mutton",
+    "pronunciation": "'ma^ten",
+    "translates": {
+      "noun": ["گوشت گوسفند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mutual",
+    "pronunciation": "'myoochu-a^l",
+    "translates": {
+      "adjective": ["متقابل", "دو طرفه", "دو جانبه", "مشترک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "muzzle",
+    "pronunciation": "'ma^zel",
+    "translates": {
+      "noun": ["پوزه", "پوز", "پوزبند"],
+      "transitive-verb": ["پوزبند زدن به"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "my",
+    "pronunciation": "ma^y",
+    "translates": {
+      "adjective": ["[صفت ملکی", "اول شخص مفرد] ــَ م", "__ِ من"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "myself",
+    "pronunciation": "ma^y'self",
+    "translates": {
+      "pronoun": [
+        "[ضمیر انعکاسی",
+        "اول شخص مفرد] خودم را",
+        "به خودم",
+        "از خودم",
+        "خودم",
+        "[ضمیر تاکیدی] خودم"
+      ]
+    },
+    "subWords": {
+      "by myself": ["تنها", "به تنهایی"],
+      "I live by myself.": ["من تنها زندگی میکنم."]
+    }
+  },
+  {
+    "word": "mysterious",
+    "pronunciation": "mis'tiriyes",
+    "translates": {
+      "adjective": ["مرموز", "اسرارآمیز", "مخفی", "پنهانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "mystery",
+    "pronunciation": "'mistri",
+    "translates": {
+      "noun": ["راز", "سِر", "معما", "ابهام", "کشف و شهود"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "myth",
+    "pronunciation": "mith",
+    "translates": {
+      "noun": ["اسطوره", "افسانه"]
+    },
+    "subWords": {}
   }
 ]
