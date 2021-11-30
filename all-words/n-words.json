@@ -1,0 +1,1734 @@
+[
+  {
+    "word": "N, n",
+    "pronunciation": "en",
+    "translates": {
+      "noun": ["اِن (= چهادهمین حرف الفبای انگلیسی)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nail",
+    "pronunciation": "neyl",
+    "translates": {
+      "noun": ["ناخن", "میخ"],
+      "transitive-verb": ["میخ زدن", "میخ کوبیدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nail varnish",
+    "pronunciation": "'neyl va^rnish",
+    "translates": {
+      "noun": ["لاک (ناخن)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "naked",
+    "pronunciation": "'neykid",
+    "translates": {
+      "noun": ["لخت", "برهنه", "عریان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "name",
+    "pronunciation": "neym",
+    "translates": {
+      "noun": ["اسم", "نام", "شهرت"],
+      "transitive-verb": ["اسم گذاشتن", "نامیدن"]
+    },
+    "subWords": {
+      "by name": ["به اسم"],
+      "call somebody names": ["به کسی بد و بیراه گفتن", "فهش دادن"],
+      "in the name of": [
+        "به نامِ",
+        "به خاطرِ",
+        "از طرفِ",
+        "از جانبِ",
+        "به نامِ",
+        "به حکمِ"
+      ],
+      "make a name for oneself": ["مشهور شدن", "صاحب نام شدن"]
+    }
+  },
+  {
+    "word": "namely",
+    "pronunciation": "'neymli",
+    "translates": {
+      "adverb": ["یعنی", "بدین معنی که", "برای مثال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nanny",
+    "pronunciation": "'nani",
+    "translates": {
+      "noun": ["دایه", "ننه", "پرستار بچه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nap",
+    "pronunciation": "nap",
+    "translates": {
+      "noun": ["چُرت"],
+      "intransitive-verb": ["چُرت زدن", "یک چرت خوابیدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "napkin",
+    "pronunciation": "'napkin",
+    "translates": {
+      "noun": ["دستمال سفره", "پوشک", "کهنه بچه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nappy",
+    "pronunciation": "'napi",
+    "translates": {
+      "noun": ["پوشک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "narrate",
+    "pronunciation": "na'reyt",
+    "translates": {
+      "transitive-verb": ["نقل کردن", "روایت کردن", "شرح دادن", "تعریف کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "narration",
+    "pronunciation": "na'reyshen",
+    "translates": {
+      "noun": ["نقل", "شرح", "روایت", "داستان", "قصه نویسی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "narrator",
+    "pronunciation": "na'reyter",
+    "translates": {
+      "noun": ["قصه گو", "داستان سرا", "راوی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "narrow",
+    "pronunciation": "'naro",
+    "translates": {
+      "adjective": ["باریک", "کم عرض", "تنگ", "محدود"],
+      "transitive-verb": ["محدود کردن"]
+    },
+    "subWords": {
+      "have a narrow escape": [
+        "از خطر جستن",
+        "خطر از بیخ گوش کسی گذشتن",
+        "جان سالم به در بردن"
+      ],
+      "have a narrow squeak": [
+        "قسر در رفتن",
+        "از خطر جستن",
+        "خطر از بیخ گوش کسی گذشتن"
+      ]
+    }
+  },
+  {
+    "word": "nasty",
+    "pronunciation": "'na^sti",
+    "translates": {
+      "adjective": ["بد", "زننده", "کثیف", "پر دردسر", "بد اخلاق"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nation",
+    "pronunciation": "'neyshen",
+    "translates": {
+      "noun": ["ملت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "national",
+    "pronunciation": "'nashna^l",
+    "translates": {
+      "adjective": ["ملی", "عمومی", "سرتاسری"],
+      "noun": ["تبعه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nationalism",
+    "pronunciation": "'nashnalizem",
+    "translates": {
+      "noun": ["ملی گرایی", "وطن پرستی", "ناسونالیزم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nationalist",
+    "pronunciation": "'nashnalist",
+    "translates": {
+      "adjective": ["ملی گرا", "وطن پرست", "ملی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nationality",
+    "pronunciation": "nash'naliti",
+    "translates": {
+      "noun": ["ملیت", "هویت ملی", "تابعیت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nationalization",
+    "pronunciation": "nashna^la^y'zayshen",
+    "translates": {
+      "noun": ["ملی سازی", "ملی کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nationalize",
+    "pronunciation": "'nashnala^yz",
+    "translates": {
+      "transitive-verb": ["ملی کردن", "تابعیت دادن"],
+      "intransitive-verb": ["ملی شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "native",
+    "pronunciation": "'neytive",
+    "translates": {
+      "noun": ["بومی", "اهلِ", "آبا و اجدادی", "مادری"],
+      "adjective": ["بومی", "اهلِ", "آبا و اجدادی", "مادری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "natural",
+    "pronunciation": "'nachra^l",
+    "translates": {
+      "adjective": ["طبیعی", "ذاتی", "فطری", "عادی", "معمول"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "naturally",
+    "pronunciation": "'nachra^li",
+    "translates": {
+      "adverb": [
+        "به طور طبیعی",
+        "طبیعی",
+        "طبعاً",
+        "طبیعتاً",
+        "ذاتاً",
+        "البته",
+        "مسلماً"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nature",
+    "pronunciation": "'neycher",
+    "translates": {
+      "noun": ["طبیعت", "طبع", "ماهیت", "خصلت", "ویژگی", "سرشت", "ذات", "فطرت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "naughtiness",
+    "pronunciation": "'na^tinis",
+    "translates": {
+      "noun": ["تُخسی", "شیطنت", "شرارت", "خودسری"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "naughty",
+    "pronunciation": "'na^ti",
+    "translates": {
+      "adjective": ["تُخس", "شیطان", "شر", "حرف نشنو", "بدجنس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nautical",
+    "pronunciation": "'notika^l",
+    "translates": {
+      "adjective": ["[مربوط به] دریانوردی", "دریایی", "ملوانی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "navigate",
+    "pronunciation": "'navigeyt",
+    "translates": {
+      "transitive-verb": [
+        "جهت یابی کردن",
+        "[ کشتی یا هواپیما ] هدایت کردن",
+        "عبور کردن از"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "navigator",
+    "pronunciation": "'navigeyter",
+    "translates": {
+      "noun": ["ناوبر", "افسر ناوبر", "دریانورد", "هدایت گر", "کشتیران"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "navy",
+    "pronunciation": "'neyvi",
+    "translates": {
+      "noun": ["نیروی دریایی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "navy blue",
+    "pronunciation": "neyvi 'bloo",
+    "translates": {
+      "adjective": ["سرمه ای", "آبی سیر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "near",
+    "pronunciation": "'niyer",
+    "translates": {
+      "adjective": ["نزدیک", "صمیمی", "پهلویِ"],
+      "preposition": ["نزدیک"],
+      "adverb": ["تقریبا", "نزدیک"],
+      "transitive-verb": ["نزدیک شدن به"],
+      "intransitive-verb": ["نزدیک شدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nearby",
+    "pronunciation": "'niyerba^",
+    "translates": {
+      "adjective": ["نزدیک"],
+      "adverb": ["در همین نزدیکی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Near East",
+    "pronunciation": "niyer 'iist",
+    "translates": {
+      "noun": ["خاورمیانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nearest",
+    "pronunciation": "niyerest",
+    "translates": {
+      "adjective": ["نزدیک ترین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nearly",
+    "pronunciation": "'niyerli",
+    "translates": {
+      "adverb": ["تقریباً"]
+    },
+    "subWords": {
+      "not nearly": ["به هیچ وجه", "اصلاً", "ابداً"]
+    }
+  },
+  {
+    "word": "neat",
+    "pronunciation": "niit",
+    "translates": {
+      "adjective": [
+        "منظم",
+        "مرتب",
+        "آراسته",
+        "پاکیزه",
+        "تمیز",
+        "تر و تمیز",
+        "شسته و رفته",
+        "قشنگ",
+        "ترگل ورگل",
+        "[مشروب] خالص"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "neatness",
+    "pronunciation": "'niitnis",
+    "translates": {
+      "noun": ["آراستگی", "نظم", "نظم و ترتیب", "سامان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "necessarily",
+    "pronunciation": "nese'serili",
+    "translates": {
+      "adverb": ["ناچار", "ناگریز", "لزوماً", "الزاماً"]
+    },
+    "subWords": {
+      "not necessarily": ["نه الزاماً", "نه همیشه"]
+    }
+  },
+  {
+    "word": "necessary",
+    "pronunciation": "'nesesri",
+    "translates": {
+      "adjective": ["لازم", "ضروری", "واجب", "محتوم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "necessity",
+    "pronunciation": "ni'sesiti",
+    "translates": {
+      "noun": ["ضرورت", "الزام", "لزوم", "نیاز", "احتیاج"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "neck",
+    "pronunciation": "nek",
+    "translates": {
+      "noun": ["گردن", "یقه", "گردنه", "تنگه", "دماغه"]
+    },
+    "subWords": {
+      "neck and neck": ["پا به پای هم", "دوش به دوش هم", "شانه به شانه"]
+    }
+  },
+  {
+    "word": "necklace",
+    "pronunciation": "'neklis",
+    "translates": {
+      "noun": ["گردنبند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nectar",
+    "pronunciation": "'nekta^r",
+    "translates": {
+      "noun": ["شهد", "نوش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "need",
+    "pronunciation": "niid",
+    "translates": {
+      "noun": ["نیاز", "احتیاج", "ضرورت", "لزوم", "فقر", "تنگدستی"],
+      "transitive-verb": ["احتیاج داشتن", "نیاز داشتن", "خواستن", "لازم بودن"],
+      "auxiliary-verb": ["مجبور بودن", "لازم بودن", "باید"]
+    },
+    "subWords": {
+      "be in need of": ["احتیاج داشتن به"]
+    }
+  },
+  {
+    "word": "needle",
+    "pronunciation": "'niidel",
+    "translates": {
+      "noun": ["سوزن", "میل (بافتنی)", "سوزن گرامافون", "عقربه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "needless",
+    "pronunciation": "'niidlis",
+    "translates": {
+      "adjective": ["عبث", "غیر ضروری", "بی اساس", "بیخود", "بی نیاز"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "needn't",
+    "pronunciation": "'niident",
+    "translates": {
+      "noun": ["need not ( لازم نیست)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "needy",
+    "pronunciation": "niidi",
+    "translates": {
+      "adjective": ["فقیر", "محتاج", "نیازمند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "negative",
+    "pronunciation": "'negetiv",
+    "translates": {
+      "adjective": ["منفی"],
+      "noun": ["نگاتیو", "عبارت منفی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "neglect",
+    "pronunciation": "nig'lekt",
+    "translates": {
+      "transitive-verb": [
+        "غفلت کردن",
+        "کوتاهی کردن",
+        "فراموشی کردن",
+        "مسامحه کردن"
+      ],
+      "noun": ["غفلت", "کوتاهی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "negligence",
+    "pronunciation": "'neglijens",
+    "translates": {
+      "noun": ["غفلت", "مسامحه", "اهمال", "قصور", "بی توجهی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "negligent",
+    "pronunciation": "'neglijent",
+    "translates": {
+      "adjective": ["مسامحه کار", "غافل", "فراموش کار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Negress",
+    "pronunciation": "'niigris",
+    "translates": {
+      "noun": ["زن سیاه", "زن سیاه پوست"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "Negro",
+    "pronunciation": "'niigro",
+    "translates": {
+      "noun": ["سیاه", "سیاه پوست"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "neigh",
+    "pronunciation": "ney",
+    "translates": {
+      "noun": ["شیهه"],
+      "intransitive-verb": ["شیهه کشیدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "neighbour, neighbor",
+    "pronunciation": "'neyber",
+    "translates": {
+      "noun": ["همسایه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "neighbourhood",
+    "pronunciation": "'neyberhud",
+    "translates": {
+      "noun": ["همسایگی", "مجاورت", "محله"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "neighbouring",
+    "pronunciation": "'neybering",
+    "translates": {
+      "adjective": ["همسایه", "مجاور", "نزدیک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "neighbourly",
+    "pronunciation": "'neyberli",
+    "translates": {
+      "adjective": ["دوستانه", "گرم", "همسایگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "neither",
+    "pronunciation": "'na^ydher",
+    "translates": {
+      "pronoun": [
+        "هیچ کدام",
+        "هیچ یک از",
+        "هیچ",
+        "نه",
+        "هم نه (به دنبال عبارت منفی)"
+      ]
+    },
+    "subWords": {
+      "neither ... nor": ["نه ... و نه"],
+      "He neither wrote nor phoned.": ["نه نامه نوشت و نه تلفن کرد."]
+    }
+  },
+  {
+    "word": "neon",
+    "pronunciation": "'niya^n",
+    "translates": {
+      "noun": ["(گاز) نئون"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nephew",
+    "pronunciation": "'nefyoo",
+    "translates": {
+      "noun": ["پسر خواهر", "پسر برادر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nerve",
+    "pronunciation": "nerv",
+    "translates": {
+      "noun": ["عصب", "پی", "جرئت", "شهامت", "جسارت"]
+    },
+    "subWords": {
+      "have the nerve to do something": [
+        "جرئت کاری را داشتن",
+        "شهامت انجام دادن کاری را داشتن"
+      ],
+      "lose one's nerve": ["ترسیدن", "خود را باختن", "جرئت خود را از دست دادن"]
+    }
+  },
+  {
+    "word": "nerves",
+    "pronunciation": "nervz",
+    "translates": {
+      "noun": ["اعصاب", "حالت عصبی"]
+    },
+    "subWords": {
+      "get on somebody's nerves": ["اعصاب کسی را خرد کردن"]
+    }
+  },
+  {
+    "word": "nervous",
+    "pronunciation": "'nerves",
+    "translates": {
+      "adjective": ["[مربوط به] اعصاب", "عصبی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nervousness",
+    "pronunciation": "'nervesnis",
+    "translates": {
+      "noun": ["نگرانی", "ناآرامی", "حالت عصبی", "عصبانیت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nest",
+    "pronunciation": "nest",
+    "translates": {
+      "noun": ["لانه", "آشیانه", "خانه"],
+      "intransitive-verb": ["آشیانه ساختن", "لانه ساختن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nestle",
+    "pronunciation": "'nesel",
+    "translates": {
+      "intransitive-verb": ["لمیدن", "آرامیدن", "در آغوش (کسی) رفتن"],
+      "transitive-verb": ["بغل کردن", "در آغوش گرفتن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nestling",
+    "pronunciation": "'nestling",
+    "translates": {
+      "noun": ["جوجه", "بچه پرندگان"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "net",
+    "pronunciation": "net",
+    "translates": {
+      "noun": ["تور", "توری", "شبکه", "دام", "تله"],
+      "transitive-verb": ["به تور انداختن", "با تور گرفتن یا صید کردن"],
+      "adjective": ["خالص", "ویژه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "netting",
+    "pronunciation": "'neting",
+    "translates": {
+      "noun": ["تور", "توری", "تورسازی", "صید (با تور)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nettle",
+    "pronunciation": "'netel",
+    "translates": {
+      "noun": ["گزنه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "network",
+    "pronunciation": "'netwerk",
+    "translates": {
+      "noun": ["شبکه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "neuter",
+    "pronunciation": "'nyooter",
+    "translates": {
+      "adjective": ["خنثی", "نازا", "عقیم", "بی طرف"],
+      "noun": ["خنثی", "حیوان اخته"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "neutral",
+    "pronunciation": "'nyootra^l",
+    "translates": {
+      "adjective": [
+        "بی طرف",
+        "خنثی",
+        "بی اثر",
+        "بی تفاوت",
+        "عادی",
+        "[دنده اتومبیل] خلاص",
+        "دنده خلاص"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "neutron",
+    "pronunciation": "'nyootra^n",
+    "translates": {
+      "noun": ["نوترون"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "never",
+    "pronunciation": "'never",
+    "translates": {
+      "adverb": ["هرگز", "هیچگاه", "هیچ", "هیچ وقت"]
+    },
+    "subWords": {
+      "never mind": ["مهم نیست", "عیبی ندارد", "ناراحت نباش", "بیخیال"],
+      "well, I never!": [
+        "خیلی عجیب است!",
+        "باور کردنی نیست!",
+        "به حق چیز های نشنیده!"
+      ]
+    }
+  },
+  {
+    "word": "nevertheless",
+    "pronunciation": "neverdhe'les",
+    "translates": {
+      "adverb": ["با این همه", "با وجود این", "با این حال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "new",
+    "pronunciation": "nyoo",
+    "translates": {
+      "adjective": [
+        "جدید",
+        "تازه",
+        "نو",
+        "کارنکرده",
+        "تازه وارد",
+        "ناآشنا",
+        "نوبرانه",
+        "نوین"
+      ]
+    },
+    "subWords": {
+      "be new to somebody": ["برای کسی تازگی داشتن"],
+      "be new to something": [
+        "تازه وارد جایی شدن",
+        "تازه کاری را شروع کردن",
+        "به کاری وارد نبودن"
+      ],
+      "new year": ["سال نو"],
+      "Happy New Year!": ["سال نو مبارک!"]
+    }
+  },
+  {
+    "word": "newly",
+    "pronunciation": "'nyooli",
+    "translates": {
+      "adverb": [
+        "به تازگی",
+        "تازه",
+        "جدیداً",
+        "اخیراً",
+        "به صورت",
+        "جدید",
+        "به نحو جدیدی"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "news",
+    "pronunciation": "nyooz",
+    "translates": {
+      "noun": ["خبر", "اخبار"]
+    },
+    "subWords": {
+      "break the news to somebody": [
+        "خبری را به گوش کسی رساندن",
+        "خبری را به کسی دادن"
+      ],
+      "on the news": ["در اخبار"]
+    }
+  },
+  {
+    "word": "newsagent",
+    "pronunciation": "'nyoozeyjent",
+    "translates": {
+      "noun": ["روزنامه فروش", "روزنامه فروشی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "newspaper",
+    "pronunciation": "'nyoozpeyper",
+    "translates": {
+      "noun": ["روزنامه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "newsstand",
+    "pronunciation": "'nyoozstand",
+    "translates": {
+      "noun": ["پیشخوان روزنامه فروشی", "دکه روزنامه فروشی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "New Zealand",
+    "pronunciation": "nyoo 'ziiland",
+    "translates": {
+      "noun": ["زلاندنو", "نیوزلند"],
+      "adjective": ["[مربوط به] زلاندنو", "نیوزلند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "New Zealander",
+    "pronunciation": "nyoo 'ziilander",
+    "translates": {
+      "noun": ["اهل زلاندنو", "اهل نیوزلند"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "next",
+    "pronunciation": "nekst",
+    "translates": {
+      "noun": ["بعد", "بعدی", "نفر بعد(ی)"],
+      "adjective": [
+        "بعد",
+        "بعدی",
+        "آینده",
+        "بعداً",
+        "کنارِ",
+        "پهلویِ",
+        "نزدیک ترین"
+      ],
+      "adverb": ["سپس"]
+    },
+    "subWords": {
+      "come next": ["بعد از (کسی یا چیزی) آمدن"],
+      "next to nothing": ["تقریباً هیچ", "بسیار کم"],
+      "the next": ["بعدی"],
+      "next time": ["دفعه بعد"]
+    }
+  },
+  {
+    "word": "next to",
+    "pronunciation": "'nekst tu",
+    "translates": {
+      "preposition": ["پهلوی", "کنارِ", "نزدیکِ", "چسبیده به", "جنب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nib",
+    "pronunciation": "nib",
+    "translates": {
+      "noun": ["نوک قلم", "سر قلم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nibble",
+    "pronunciation": "'nibel",
+    "translates": {
+      "transitive-verb": ["دندان زدن", "جویدن"],
+      "noun": ["گاز", "لقمه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nice",
+    "pronunciation": "na^ys",
+    "translates": {
+      "adjective": ["خوب", "عالی", "خوشایند", "مهربان", "دوستانه"]
+    },
+    "subWords": {
+      "nice and ...": ["... و خوب"],
+      "Here is nice and warm.": ["اینجا گرم و خوب است."]
+    }
+  },
+  {
+    "word": "nicely",
+    "pronunciation": "'na^ysli",
+    "translates": {
+      "adverb": ["زیبا", "خوب", "به خوبی", "مثل ماه", "با دقت", "ظریفانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nickel",
+    "pronunciation": "'nikel",
+    "translates": {
+      "noun": ["نیکل", "[ در آمریکا و کانادا ] سکه پنج سِنتی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nickname",
+    "pronunciation": "'nikneym",
+    "translates": {
+      "noun": ["اسم خودمانی", "لقب", "نام مستعار", "کنیه"],
+      "transitive-verb": ["اسم (روی کسی) گذاشتن", "(به کسی) لقب دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nicotine",
+    "pronunciation": "'nikotiin",
+    "translates": {
+      "noun": ["نیکوتین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "niece",
+    "pronunciation": "niis",
+    "translates": {
+      "noun": ["دختر خواهر", "خواهر زاده", "دختر برادر", "برادر زاده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "night",
+    "pronunciation": "na^yt",
+    "translates": {
+      "noun": ["شب", "تاریکی"]
+    },
+    "subWords": {
+      "all night (long)": ["تمام شب", "در طول شب"],
+      "first night": ["[فیلم و نمایش] شب اول"],
+      "Good night!": ["شب بخیر!"],
+      "night after night": ["شب های متمادی"],
+      "night and day": ["شب و روز", "بی وقفه"]
+    }
+  },
+  {
+    "word": "nightclub",
+    "pronunciation": "'na^ytkla^b",
+    "translates": {
+      "noun": ["کلوب شبانه", "باشگاه شبانه", "کاباره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nightdress",
+    "pronunciation": "'na^ytdres",
+    "translates": {
+      "noun": ["لباس خواب زنانه", "پیراهن خواب", "لباس شب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nightfall",
+    "pronunciation": "'na^ytfol",
+    "translates": {
+      "noun": ["غروب", "شب هنگام", "شبانگاه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nightingale",
+    "pronunciation": "'na^ytingeyl",
+    "translates": {
+      "noun": ["بلبل"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nightly",
+    "pronunciation": "'na^ytli",
+    "translates": {
+      "adjective": ["شبانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nightmare",
+    "pronunciation": "'na^ytmer",
+    "translates": {
+      "noun": ["کابوس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "night-watchman",
+    "pronunciation": "na^yt 'wa^chman",
+    "translates": {
+      "noun": ["نگهبان شب"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nil",
+    "pronunciation": "nil",
+    "translates": {
+      "noun": ["هیچ", "صفر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nine",
+    "pronunciation": "na^yn",
+    "translates": {
+      "adjective": ["نه ( تا )"],
+      "noun": ["عدد نه (9)", "شماره نه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nineteen",
+    "pronunciation": "na^yn'tiin",
+    "translates": {
+      "adjective": ["نوزده ( تا )"],
+      "noun": ["عدد نوزده ( 19 )", "شماره نوزده"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nineteenth",
+    "pronunciation": "na^yn'tiinth",
+    "translates": {
+      "noun": ["یک نوزدهم", "نوزدهمی"],
+      "adjective": ["نوزدهمین", "نوزدهم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ninetieth",
+    "pronunciation": "'na^yntiyeth",
+    "translates": {
+      "noun": ["یک نودم", "نودمی"],
+      "adjective": ["نودمین"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "ninety",
+    "pronunciation": "'na^ynti",
+    "translates": {
+      "adjective": ["نود ( تا )"],
+      "noun": ["عدد نود (90)", "شماره نود", "[به صورت جمع] دهه نود"]
+    },
+    "subWords": {
+      "be in one's nineties": ["بالای نود سال داشتن"],
+      "in the nineties": ["در دهه 90"]
+    }
+  },
+  {
+    "word": "ninth",
+    "pronunciation": "na^ynth",
+    "translates": {
+      "noun": ["یک نهم", "نهمی"],
+      "adjective": ["نهمین", "نهم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nip",
+    "pronunciation": "nip",
+    "translates": {
+      "transitive-verb": ["گاز گرفتن", "( لای چیزی ) گیر انداختن", "زدن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nitrogen",
+    "pronunciation": "'na^ytrojen",
+    "translates": {
+      "noun": ["نیتروژن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "no",
+    "pronunciation": "no",
+    "translates": {
+      "adjective": ["نه", "نه!", "نه بابا!"],
+      "adverb": ["نـَـ (= پیشوند نفی فعل)"],
+      "noun": ["جواب رد", "پاسخ منفی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "noble",
+    "pronunciation": "'nobel",
+    "translates": {
+      "adjective": [
+        "اشرافی",
+        "اشراف",
+        "شریف",
+        "اصیل",
+        "بزرگ منش",
+        "نجیب",
+        "اصیل"
+      ]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nobody",
+    "pronunciation": "'noba^di",
+    "translates": {
+      "pronoun": ["هیچ کس"],
+      "noun": ["آدم بی سر و پا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nocturnal",
+    "pronunciation": "na^k'terna^l",
+    "translates": {
+      "adjective": ["شبانه", "شب پرواز", "شب گرد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nod",
+    "pronunciation": "na^d",
+    "translates": {
+      "intransitive-verb": ["سر تکان دادن", "چرت زدن"],
+      "noun": ["تکان دادن سر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "noise",
+    "pronunciation": "noyz",
+    "translates": {
+      "noun": ["سر و صدا", "پارازیت"],
+      "transitive-verb": ["شایع کردن"]
+    },
+    "subWords": {
+      "make a noise": ["سر و صدا کردن"]
+    }
+  },
+  {
+    "word": "noiseless",
+    "pronunciation": "'noyzlis",
+    "translates": {
+      "adjective": ["بی سر و صدا", "آهسته"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "noisily",
+    "pronunciation": "'noyzili",
+    "translates": {
+      "adverb": ["با سر و صدا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "noisy",
+    "pronunciation": "'noyzi",
+    "translates": {
+      "adjective": ["شلوغ", "پر سر و صدا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nomad",
+    "pronunciation": "'nomad",
+    "translates": {
+      "noun": ["چادر نشین", "خانه به دوش", "آواره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "none",
+    "pronunciation": "na^n",
+    "translates": {
+      "pronoun": ["هیچی", "هیچ کدام", "هیچ یک", "هیچ کس"]
+    },
+    "subWords": {
+      "none of": ["هیچ کدام از"]
+    }
+  },
+  {
+    "word": "nonsense",
+    "pronunciation": "'na^nsens",
+    "translates": {
+      "noun": ["چرند", "مزخرف", "رفتار", "نامعقول", "مُهمل", "یاوه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "non-stop",
+    "pronunciation": "na^n 'sta^p",
+    "translates": {
+      "adjective": ["یکسره", "بدون توقف", "بی وقفه"],
+      "adverb": ["یکسره"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "noodle",
+    "pronunciation": "'noodel",
+    "translates": {
+      "noun": ["رشته فرنگی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "noon",
+    "pronunciation": "noon",
+    "translates": {
+      "noun": ["ظهر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "no one",
+    "pronunciation": "'no wa^n",
+    "translates": {
+      "pronoun": ["هیچ کس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nor",
+    "pronunciation": "nor",
+    "translates": {
+      "conjunction": ["و نه", "هم نه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "normal",
+    "pronunciation": "'norma^l",
+    "translates": {
+      "adjective": ["طبیعی", "عادی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "normally",
+    "pronunciation": "'norma^li",
+    "translates": {
+      "adverb": ["به طور عادی", "به طور معمول", "عادی", "معمولاً"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "north",
+    "pronunciation": "north",
+    "translates": {
+      "noun": ["شمال"],
+      "adjective": ["شمالی"],
+      "adverb": ["به طرف شمال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "northerly",
+    "pronunciation": "'nordherli",
+    "translates": {
+      "adjective": ["شمالی", "به طرف شمال"],
+      "adverb": ["به طرف شمال", "رو به شمال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "northern",
+    "pronunciation": "",
+    "translates": {
+      "adjective": ["شمالی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "North Pole",
+    "pronunciation": "'north pol",
+    "translates": {
+      "noun": ["قطب شمال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "northward",
+    "pronunciation": "'northword",
+    "translates": {
+      "adjective": ["شمالی"],
+      "adverb": ["به طرف شمال"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nose",
+    "pronunciation": "noz",
+    "translates": {
+      "noun": ["بینی", "دماغ", "پوزه", "نوک", "دماغه", "جلو", "سر"]
+    },
+    "subWords": {
+      "blow one's nose": ["فین کردن", "دماغ خود را کردن"],
+      "under somebody's nose": ["درست جلوی چشم کسی"]
+    }
+  },
+  {
+    "word": "nostril",
+    "pronunciation": "'na^stril",
+    "translates": {
+      "noun": ["سوراخ بینی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nosy",
+    "pronunciation": "'nozi",
+    "translates": {
+      "adjective": ["فضول", "کنجکاو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "not",
+    "pronunciation": "na^t",
+    "translates": {
+      "adverb": ["نَــ (= پیشوند نفی فعل)", "نه", "نه این که"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "notable",
+    "pronunciation": "'notebel",
+    "translates": {
+      "adjective": ["درخور توجه", "چشمگیر", "برجسته", "مهم", "قابل توجه"],
+      "noun": ["آدم مهم", "چهره سر شناس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "note",
+    "pronunciation": "not",
+    "translates": {
+      "noun": [
+        "یادداشت",
+        "نامه کوتاه",
+        "اسکناس",
+        "[به صورت جمع] توضیحات",
+        "[موسقی] نت"
+      ],
+      "transitive-verb": ["توجه کردن", "دقت کردن", "یادداشت کردن"]
+    },
+    "subWords": {
+      "take note of": ["توجه کردن به"],
+      "take notes": ["یادداشت کردن"],
+      "note down": ["یادداشت کردن"]
+    }
+  },
+  {
+    "word": "notebook",
+    "pronunciation": "'notbuk",
+    "translates": {
+      "noun": ["دفتر یادداشت"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "notepaper",
+    "pronunciation": "'notpeyper",
+    "translates": {
+      "noun": ["کاغذ نامه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nothing",
+    "pronunciation": "'na^thing",
+    "translates": {
+      "noun": ["هیچ چیز", "هیچی", "هیچ", "هیچ کاری"]
+    },
+    "subWords": {
+      "be nothing like": ["هیچ شباهتی نداشتن به"],
+      "for nothing": ["مجانی", "رایگان", "بی فایده", "بیهوده", "بی حاصل"],
+      "have nothing on": ["لخت بودن", "لباس تن (کسی) نبودن"],
+      "have nothing to do with somebody": [
+        "به کسی مربوط نشدن",
+        "هیچ ربطی به کسی نداشتن",
+        "از کسی دوری کردن",
+        "با کسی معاشرت نکردن"
+      ],
+      "mean nothing to somebody": ["برای کسی اهمیت نداشتن"],
+      "nothing but": ["هیچ چیز جز"]
+    }
+  },
+  {
+    "word": "notice",
+    "pronunciation": "'notis",
+    "translates": {
+      "noun": ["آگهی", "اعلان", "اطلاع", "توجه"],
+      "transitive-verb": ["توجه کردن", "دیدن", "ملاحظه کردن"]
+    },
+    "subWords": {
+      "at short notice": ["با عجله", "بدون آمادگی لازم"],
+      "come to somebody's notice": ["خبردار شدن", "پی بردن", "مطلع شدن"],
+      "give in (or hand in) one's notice": [
+        "کارفرما را از ترک کار باخبر کردن",
+        "استعفای خود را به کارفرما اطلاع دادن"
+      ],
+      "take no notice of": [
+        "اعتنا نکردن به",
+        "اهمیت ندادن به",
+        "محل نگذاشتن به"
+      ],
+      "take notice of": ["ترتیب اثر دادن به"]
+    }
+  },
+  {
+    "word": "notice-board",
+    "pronunciation": "'notis bord",
+    "translates": {
+      "noun": ["تابلوی اعلانات"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "notification",
+    "pronunciation": "notifi'keyshen",
+    "translates": {
+      "noun": ["اطلاع", "خبر", "آگاه سازی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "notify",
+    "pronunciation": "'notifa^y",
+    "translates": {
+      "transitive-verb": ["خبر دادن", "اطلاع دادن", "اعلام کردن", "آگاه ساختن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "notion",
+    "pronunciation": "'noshen",
+    "translates": {
+      "noun": ["تصور", "عقیده", "نظر", "قصد", "نیت", "خیال", "مفهوم", "اندیشه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "notorious",
+    "pronunciation": "no'toriyes",
+    "translates": {
+      "adjective": ["بدنام", "انگشت نما", "معروف"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nought, naught",
+    "pronunciation": "not",
+    "translates": {
+      "noun": ["صفر", "هیچ", "نابودی", "نیستی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "noun",
+    "pronunciation": "naon",
+    "translates": {
+      "noun": ["[دستور زبان] اسم"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nourish",
+    "pronunciation": "'na^rish",
+    "translates": {
+      "transitive-verb": ["تغذیه کردن", "پروراندن", "کود دادن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nourishment",
+    "pronunciation": "'na^rishment",
+    "translates": {
+      "noun": ["خوراک", "غذا", "تغذیه", "پرورش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "novel",
+    "pronunciation": "'na^vel",
+    "translates": {
+      "noun": ["داستان بلند", "رمان"],
+      "adjective": ["جدید", "بدیع", "نو"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "novelist",
+    "pronunciation": "'na^velist",
+    "translates": {
+      "noun": ["داستان نویس", "نویسنده", "رمان نویس"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "November",
+    "pronunciation": "no'vember",
+    "translates": {
+      "noun": ["نوامبر (= یازدهمین ماه سال فرنگی)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "now",
+    "pronunciation": "nao",
+    "translates": {
+      "adverb": [
+        "حالا",
+        "اکنون",
+        "الآن",
+        "همین حالا",
+        "همین الآن",
+        "در این وقت",
+        "خوب",
+        "خوب حالا",
+        "اینک",
+        "در این لحظه"
+      ]
+    },
+    "subWords": {
+      "form now on": ["از حالا به بعد"],
+      "now and again, now and then": ["گاهی", "گاه گاهی", "هر از گاهی"]
+    }
+  },
+  {
+    "word": "nowadays",
+    "pronunciation": "'nao-edeyz",
+    "translates": {
+      "adverb": ["امروزه", "این روزها"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nowhere",
+    "pronunciation": "nower",
+    "translates": {
+      "adverb": ["هیچ جا", "هیچ کجا"]
+    },
+    "subWords": {
+      "nowhere near": ["به هیچ وجه", "اصلاً"]
+    }
+  },
+  {
+    "word": "nuclear",
+    "pronunciation": "'nyookliyer",
+    "translates": {
+      "adjective": ["هسته ای", "اتمی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nuisance",
+    "pronunciation": "'nyoosens",
+    "translates": {
+      "noun": ["مزاحم", "مزاحمت", "دردسر", "گرفتاری", "آزار", "مایه رنجش"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "numb",
+    "pronunciation": "na^m",
+    "translates": {
+      "adjective": ["کرخ", "بی حس", "بهت زده"],
+      "transitive-verb": ["کرخ کردن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "number",
+    "pronunciation": "'na^mber",
+    "translates": {
+      "noun": ["عدد", "رقم", "تعداد", "شماره", "تعدادی", "نمره"],
+      "transitive-verb": ["شماره گذاشتن"]
+    },
+    "subWords": {
+      "a number of": ["تعدادی", "چند تا", "تعداد زیادی"],
+      "any number of": ["تعداد زیادی"],
+      "telephone number": ["شماره تلفن"]
+    }
+  },
+  {
+    "word": "numberless",
+    "pronunciation": "'na^mberlis",
+    "translates": {
+      "adjective": ["بی شمار", "بی حد و حصر"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "numeral",
+    "pronunciation": "'nyoomera^l",
+    "translates": {
+      "adjective": ["عددی"],
+      "noun": ["عدد"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "numerous",
+    "pronunciation": "'nyoomeres",
+    "translates": {
+      "adjective": ["زیاد", "بسیار زیاد", "متعدد", "بی شمار"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nun",
+    "pronunciation": "na^n",
+    "translates": {
+      "noun": ["راهبه", "زن تارک دنیا"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nurse",
+    "pronunciation": "ners",
+    "translates": {
+      "noun": ["پرستار", "پرستار بچه"],
+      "transitive-verb": ["پرستاری کردن", "پرستار بودن", "مواظبت کردن از"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nursery",
+    "pronunciation": "'nerseri",
+    "translates": {
+      "noun": ["مهد کودک", "خزانه", "قلمستان", "اتاق بازی"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nursery rhyme",
+    "pronunciation": "'nerseri ra^ym",
+    "translates": {
+      "noun": ["اشعار کودکانه"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nursery school",
+    "pronunciation": "'nerseri skool",
+    "translates": {
+      "noun": ["کودکستان", "مهد کودک"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nursing home",
+    "pronunciation": "'nersing hom",
+    "translates": {
+      "noun": ["آسایشگاه (سالمندان)"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nut",
+    "pronunciation": "na^t",
+    "translates": {
+      "noun": ["میوه مغز دار (مانند گردو - بادام - پسته و غیره)", "مُهره"]
+    },
+    "subWords": {
+      "a nut": [
+        "[عامیانه] دیوانه",
+        "احمق",
+        "طرفدار دو آتشه",
+        "طرفدار پر و پا قرص"
+      ]
+    }
+  },
+  {
+    "word": "nutcrackers",
+    "pronunciation": "'na^tkrakerz",
+    "translates": {
+      "noun": ["فندق شکن"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nylon",
+    "pronunciation": "'na^yla^n",
+    "translates": {
+      "noun": ["نایلون"]
+    },
+    "subWords": {}
+  },
+  {
+    "word": "nylons",
+    "pronunciation": "'na^yla^nz",
+    "translates": {
+      "noun": ["جوراب نایلون (زنانه)", "جوراب شلواری نایلون"]
+    },
+    "subWords": {}
+  }
+]

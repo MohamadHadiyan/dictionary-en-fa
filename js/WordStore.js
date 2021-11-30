@@ -6,7 +6,7 @@ const wordStore = {
 };
 
 export const setWordStore = async () => {
-  const data = await loadData("../all-words/m-words.json");
+  const data = await loadData("../all-words/n-words.json");
   if (data) {
     wordStore.words.push(...data);
   }
